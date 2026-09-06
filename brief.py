@@ -41,6 +41,12 @@ OUT_DIR = os.path.join(ROOT, "docs")
 MODEL = os.environ.get("BRIEF_MODEL", "claude-sonnet-4-6")
 API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 
+# Institutional identifiers come from the environment, not from the config
+# file, so a public repo never names your library's ProQuest account. Both
+# fall back to config/sources.json if you would rather keep them local.
+PROQUEST_ACCOUNT = os.environ.get("PROQUEST_ACCOUNT", "")
+PROQUEST_PREFIX = os.environ.get("PROQUEST_PREFIX", "")
+
 IMAGE_TIMEOUT = 6          # seconds per og:image lookup
 IMAGE_WORKERS = 8         # concurrent lookups
 IMAGE_CACHE_DAYS = 60     # forget entries not seen for this long
@@ -1163,9 +1169,12 @@ def tier(n):
 def read_link(c, link_out):
     lead = c["lead"]
     if lead["access"] == "proquest" and lead.get("proquest_id"):
-        url = (f"https://www.proquest.com/results/{quote_plus(lead['title'])}"
-               f"?accountid={link_out.get('proquest_account', '')}")
-        return (link_out.get("proquest_prefix") or "") + url, "via ProQuest"
+        account = PROQUEST_ACCOUNT or link_out.get("proquest_account") or ""
+        prefix = PROQUEST_PREFIX or link_out.get("proquest_prefix") or ""
+        url = f"https://www.proquest.com/results/{quote_plus(lead['title'])}"
+        if account:
+            url += f"?accountid={account}"
+        return prefix + url, "via ProQuest"
     return lead["link"], None
 
 

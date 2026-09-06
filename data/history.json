@@ -1,0 +1,4470 @@
+[
+ {
+  "tokens": [
+   "'substantive'",
+   "arrive",
+   "encouraging",
+   "envoys",
+   "hold",
+   "kiyv",
+   "kushner",
+   "kyiv",
+   "land",
+   "meeting",
+   "moscow",
+   "putin",
+   "talks",
+   "trump's",
+   "ukraine",
+   "witkoff",
+   "zelensky"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US envoys hold talks with Zelensky in Kyiv after meeting Putin"
+ },
+ {
+  "tokens": [
+   "afd",
+   "big",
+   "crucial",
+   "eastern",
+   "election",
+   "exit",
+   "far",
+   "german",
+   "historic",
+   "lead",
+   "party",
+   "polls",
+   "posts",
+   "predicted",
+   "regional",
+   "reuters",
+   "right",
+   "set",
+   "show",
+   "state",
+   "suggest",
+   "win"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "German far-right set for big win in eastern state - exit polls"
+ },
+ {
+  "tokens": [
+   "alive",
+   "began",
+   "days",
+   "destroyed",
+   "family",
+   "flood",
+   "found",
+   "home",
+   "mourning",
+   "nepal",
+   "nepali",
+   "reuters",
+   "rites",
+   "woman"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Nepali woman found alive days after family began mourning rites - Reuters"
+ },
+ {
+  "tokens": [
+   "alleged",
+   "drone",
+   "four",
+   "hezbollah",
+   "israeli",
+   "kill",
+   "launch",
+   "lebanon",
+   "reuters",
+   "seven",
+   "southern",
+   "strikes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Israeli strikes kill 4 in southern Lebanon"
+ },
+ {
+  "tokens": [
+   "envoys",
+   "first",
+   "hold",
+   "kushner",
+   "kyiv",
+   "make",
+   "peace",
+   "push",
+   "reuters",
+   "substantive",
+   "talks",
+   "ukraine",
+   "visit",
+   "war",
+   "witkoff",
+   "zelenskyy"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters"
+ },
+ {
+  "tokens": [
+   "keeps",
+   "october",
+   "oil",
+   "opec",
+   "output",
+   "policy",
+   "reuters",
+   "unchanged"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "OPEC+ keeps oil output policy unchanged for October - Reuters"
+ },
+ {
+  "tokens": [
+   "administration",
+   "ahead",
+   "allow",
+   "another",
+   "appeal",
+   "asks",
+   "ballot",
+   "changes",
+   "court",
+   "loom",
+   "mail",
+   "makes",
+   "midterms",
+   "restrict",
+   "restrictions",
+   "supreme",
+   "trump",
+   "voting"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions"
+ },
+ {
+  "tokens": [
+   "beach",
+   "behind",
+   "channel",
+   "crossing",
+   "dozens",
+   "failed",
+   "french",
+   "left",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Dozens left behind on French beach after failed Channel crossing - Reuters"
+ },
+ {
+  "tokens": [
+   "brazilian",
+   "court",
+   "licenses",
+   "lithium",
+   "mine",
+   "reuters",
+   "sigma",
+   "suspends"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Brazilian court suspends licenses for Sigma Lithium mine - Reuters"
+ },
+ {
+  "tokens": [
+   "antonelli",
+   "back",
+   "grid",
+   "home",
+   "italian",
+   "reuters",
+   "sensational",
+   "takes",
+   "win"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Antonelli takes sensational home Italian GP win from back of grid - Reuters"
+ },
+ {
+  "tokens": [
+   "chang",
+   "comeback",
+   "dong",
+   "korea's",
+   "labour",
+   "lee",
+   "reuters",
+   "south",
+   "tackles",
+   "trauma",
+   "venice"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "South Korea's Lee Chang-dong tackles labour trauma in Venice comeback - Reuters"
+ },
+ {
+  "tokens": [
+   "crashes",
+   "grand",
+   "italian",
+   "leclerc",
+   "prix",
+   "reuters",
+   "started"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Italian Grand Prix re-started after Leclerc crashes out - Reuters"
+ },
+ {
+  "tokens": [
+   "'more",
+   "attacks",
+   "economic",
+   "further",
+   "iran",
+   "issues",
+   "painful'",
+   "reuters",
+   "tackle"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters"
+ },
+ {
+  "tokens": [
+   "aehg",
+   "aehr",
+   "daily",
+   "etf",
+   "leverage",
+   "long",
+   "reuters",
+   "shares"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "About Leverage Shares 2X Long AEHR Daily ETF (AEHG.N) - Reuters"
+ },
+ {
+  "tokens": [
+   "butter",
+   "french",
+   "huckabee",
+   "reuters",
+   "space",
+   "talks",
+   "ukraine",
+   "wars"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ukraine talks, Huckabee, space wars and French butter - Reuters - Reuters"
+ },
+ {
+  "tokens": [
+   "002519",
+   "002572",
+   "1388",
+   "600097",
+   "603917",
+   "cmcsa",
+   "gbug",
+   "latest",
+   "mspo",
+   "price",
+   "reuters",
+   "stock"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "MSPO.BO - | Stock Price & Latest News - Reuters"
+ },
+ {
+  "tokens": [
+   "agency",
+   "bus",
+   "cape",
+   "crash",
+   "fogo",
+   "island",
+   "killed",
+   "least",
+   "reuters",
+   "verde's"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "At least 25 killed in bus crash on Cape Verde's Fogo island, agency says - Reuters"
+ },
+ {
+  "tokens": [
+   "cuts",
+   "elections",
+   "greek",
+   "hikes",
+   "reuters",
+   "rules",
+   "snap",
+   "tax",
+   "unveiling",
+   "wage"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Greek PM rules out snap elections after unveiling tax cuts, wage hikes - Reuters"
+ },
+ {
+  "tokens": [
+   "activism",
+   "gloria",
+   "life",
+   "reuters",
+   "steinem",
+   "words"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Gloria Steinem: a life of activism in her own words - Reuters"
+ },
+ {
+  "tokens": [
+   "anak",
+   "eruption",
+   "fishing",
+   "flights",
+   "halts",
+   "indonesia's",
+   "krakatau",
+   "reuters",
+   "schools"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing - Reuters"
+ },
+ {
+  "tokens": [
+   "announce",
+   "banks",
+   "bln",
+   "capital",
+   "chinese",
+   "major",
+   "plans",
+   "raising",
+   "reuters",
+   "state",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Two major Chinese state banks announce $39 bln capital-raising plans - Reuters"
+ },
+ {
+  "tokens": [
+   "alberta",
+   "diplomacy",
+   "elbows",
+   "first",
+   "trade",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Elbows up or down? Why Alberta is diplomacy-first in the trade war"
+ },
+ {
+  "tokens": [
+   "among",
+   "case",
+   "crime",
+   "death",
+   "drug",
+   "drugs",
+   "egypt",
+   "egyptian",
+   "khalifa",
+   "presenter",
+   "sarah",
+   "sentenced"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Egyptian TV presenter among 12 sentenced to death for drug crime"
+ },
+ {
+  "tokens": [
+   "pbam",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "PBAM.O - Reuters"
+ },
+ {
+  "tokens": [
+   "'bruh'",
+   "complaint",
+   "etsy",
+   "it's",
+   "removed",
+   "seller's",
+   "shirts",
+   "squatting",
+   "trademark"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Etsy seller's 'bruh' T-shirts were removed over a trademark complaint. He says it's trademark squatting"
+ },
+ {
+  "tokens": [
+   "confirms",
+   "cup",
+   "despite",
+   "election",
+   "embattled",
+   "failed",
+   "fifa",
+   "gianni",
+   "infantino",
+   "off",
+   "plan",
+   "president",
+   "sell",
+   "stand",
+   "standing",
+   "world"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Embattled FIFA President Gianni Infantino to stand for re-election"
+ },
+ {
+  "tokens": [
+   "attacks",
+   "claims",
+   "denies",
+   "escalates",
+   "fighting",
+   "hormuz",
+   "iran",
+   "ship",
+   "strait",
+   "strike"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Iran claims a strike on a U.S. ship in the Strait of Hormuz, which the U.S. denies"
+ },
+ {
+  "tokens": [
+   "afd",
+   "anhalt",
+   "breakthrough",
+   "chases",
+   "election",
+   "eyes",
+   "far",
+   "germany's",
+   "historic",
+   "reuters",
+   "right",
+   "saxony",
+   "state",
+   "victory",
+   "votes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany's AfD chases historic breakthrough as Saxony-Anhalt votes - Reuters"
+ },
+ {
+  "tokens": [
+   "battling",
+   "boardroom",
+   "chic",
+   "last",
+   "open",
+   "osaka",
+   "reaches",
+   "reuters",
+   "win"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "From boardroom chic to battling win, Osaka reaches US Open last 16 - Reuters"
+ },
+ {
+  "tokens": [
+   "exyn",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "EXYN.O - Reuters"
+ },
+ {
+  "tokens": [
+   "neqt",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "NEQT.TO - Reuters"
+ },
+ {
+  "tokens": [
+   "ahead",
+   "alpine's",
+   "career",
+   "first",
+   "gasly",
+   "monza",
+   "pole",
+   "reuters",
+   "russell",
+   "seizes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Alpine's Gasly seizes first career F1 pole ahead of Russell at Monza - Reuters"
+ },
+ {
+  "tokens": [
+   "ashe",
+   "grandstand",
+   "happy",
+   "intimate",
+   "noisy",
+   "reuters",
+   "spotlight",
+   "swap",
+   "swiatek"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Swiatek happy to swap noisy Ashe spotlight for intimate Grandstand - Reuters"
+ },
+ {
+  "tokens": [
+   "book",
+   "grinds",
+   "meeting",
+   "reuters",
+   "round",
+   "swiatek",
+   "third",
+   "win",
+   "zheng"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Swiatek grinds out third-round win to book meeting with Zheng - Reuters"
+ },
+ {
+  "tokens": [
+   "attacks",
+   "conflict",
+   "fighting",
+   "flares",
+   "iran",
+   "retaliatory",
+   "ships",
+   "trade"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US and Iran trade retaliatory attacks on ships as conflict flares"
+ },
+ {
+  "tokens": [
+   "china's",
+   "competitive",
+   "open",
+   "rediscovers",
+   "reuters",
+   "spark",
+   "zheng"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "China's Zheng rediscovers competitive spark at US Open - Reuters"
+ },
+ {
+  "tokens": [
+   "central",
+   "command",
+   "hit",
+   "iranian",
+   "oil",
+   "reuters",
+   "tankers",
+   "three"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US Central Command says it hit three Iranian oil tankers - Reuters"
+ },
+ {
+  "tokens": [
+   "canines",
+   "comfort",
+   "companionship",
+   "find",
+   "players",
+   "reuters",
+   "tour"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Players find comfort and companionship with canines on tour - Reuters"
+ },
+ {
+  "tokens": [
+   "bednarek",
+   "bol",
+   "broeders",
+   "diamond",
+   "final",
+   "holds",
+   "league",
+   "off",
+   "reuters",
+   "shines",
+   "werro"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Werro holds off Broeders-Bol, Bednarek shines at Diamond League Final - Reuters"
+ },
+ {
+  "tokens": [
+   "eventer",
+   "evnt",
+   "ltd",
+   "reuters",
+   "technologies"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "About Eventer Technologies Ltd (EVNT.V) - Reuters"
+ },
+ {
+  "tokens": [
+   "airlifted",
+   "attack",
+   "backcountry",
+   "bear",
+   "hospital",
+   "injured",
+   "near",
+   "whistler",
+   "woman"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Woman injured in bear attack in Whistler backcountry"
+ },
+ {
+  "tokens": [
+   "eases",
+   "gauff",
+   "home",
+   "hopes",
+   "last",
+   "open",
+   "reuters",
+   "sour",
+   "through",
+   "turns",
+   "zverev"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Zverev eases into last 16, Gauff through but US Open turns sour for home hopes - Reuters"
+ },
+ {
+  "tokens": [
+   "against",
+   "falkland",
+   "finds",
+   "islands",
+   "milei",
+   "oil",
+   "project",
+   "pushback",
+   "reuters",
+   "unity"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Milei finds unity in pushback against Falkland Islands oil project - Reuters"
+ },
+ {
+  "tokens": [
+   "building",
+   "collapse",
+   "collapsed",
+   "dead",
+   "delhi",
+   "dozens",
+   "feared",
+   "leaves",
+   "others",
+   "trapped"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Dozens feared trapped in collapsed building in Delhi"
+ },
+ {
+  "tokens": [
+   "blitz",
+   "first",
+   "major",
+   "midterm",
+   "million",
+   "money",
+   "move",
+   "senate",
+   "texas",
+   "trump",
+   "trump's"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump\u2019s first major midterm money move: A $10 million Texas Senate ad blitz"
+ },
+ {
+  "tokens": [
+   "day",
+   "eight",
+   "open",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US Open day eight - Reuters"
+ },
+ {
+  "tokens": [
+   "000",
+   "170",
+   "eruption",
+   "indonesia",
+   "leaves",
+   "passengers",
+   "stranded",
+   "volcano"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Volcano eruption leaves 170,000 passengers stranded in Indonesia"
+ },
+ {
+  "tokens": [
+   "batters",
+   "breton",
+   "bridges",
+   "cape",
+   "numerous",
+   "rain",
+   "roads",
+   "torrential",
+   "washing"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Torrential rain batters Cape Breton, washing out numerous roads and bridges"
+ },
+ {
+  "tokens": [
+   "airport",
+   "anak",
+   "cancelled",
+   "cancelling",
+   "erupts",
+   "flights",
+   "indonesia",
+   "indonesia's",
+   "jakarta",
+   "krakatau",
+   "others",
+   "strands",
+   "thousands",
+   "volcano"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Indonesia's Anak Krakatau volcano erupts, cancelling flights at Jakarta airport and others"
+ },
+ {
+  "tokens": [
+   "bank",
+   "israel's",
+   "netanyahu",
+   "orders",
+   "outposts",
+   "removed",
+   "reuters",
+   "settler",
+   "sources",
+   "west"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Israel's Netanyahu orders West Bank settler outposts to be removed, sources say - Reuters"
+ },
+ {
+  "tokens": [
+   "cap",
+   "cardinals",
+   "reuters",
+   "rockies",
+   "series",
+   "strive",
+   "wild",
+   "win"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Cardinals strive to cap wild series vs. Rockies with a win - Reuters"
+ },
+ {
+  "tokens": [
+   "airports",
+   "ash",
+   "cloud",
+   "eruption",
+   "flights",
+   "halts",
+   "hundreds",
+   "indonesian",
+   "jakarta",
+   "reuters",
+   "seven",
+   "strands",
+   "volcanic"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ash cloud from Indonesian volcanic halts flights, strands hundreds - Reuters"
+ },
+ {
+  "tokens": [
+   "banks",
+   "billion",
+   "boosting",
+   "capital",
+   "china",
+   "insurers",
+   "pump",
+   "push",
+   "reuters",
+   "state"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "China to pump $54 billion into state banks, insurers in capital-boosting push - Reuters"
+ },
+ {
+  "tokens": [
+   "against",
+   "aim",
+   "hometown",
+   "jones",
+   "padres",
+   "reuters",
+   "series",
+   "spencer",
+   "win",
+   "yankees"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Spencer Jones, Yankees aim for series win against his hometown Padres - Reuters"
+ },
+ {
+  "tokens": [
+   "bites",
+   "economic",
+   "hormuz",
+   "iran's",
+   "leverage",
+   "reuters",
+   "squeeze",
+   "wanes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Iran's Hormuz leverage wanes as US economic squeeze bites - Reuters"
+ },
+ {
+  "tokens": [
+   "reuters",
+   "stes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "STES.BO - Reuters"
+ },
+ {
+  "tokens": [
+   "border",
+   "busy",
+   "china",
+   "destroyed",
+   "flood",
+   "once",
+   "port",
+   "reuters",
+   "ruins",
+   "scour",
+   "teams"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "At flood-destroyed border, China teams scour ruins of once-busy port - Reuters"
+ },
+ {
+  "tokens": [
+   "finale",
+   "hope",
+   "hunt",
+   "playoff",
+   "rangers",
+   "rays",
+   "reuters",
+   "series",
+   "stay"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Rangers hope to stay in playoff hunt in series finale vs. Rays - Reuters"
+ },
+ {
+  "tokens": [
+   "different",
+   "get",
+   "maps",
+   "right",
+   "they",
+   "world",
+   "wrong"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "What different world maps get right - and what they get wrong"
+ },
+ {
+  "tokens": [
+   "airport",
+   "anti",
+   "attack",
+   "drone",
+   "germany",
+   "plans",
+   "reuters",
+   "sabotage",
+   "shield"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany plans anti-sabotage shield after airport drone attack - Reuters"
+ },
+ {
+  "tokens": [
+   "afd",
+   "election",
+   "fail",
+   "far",
+   "german",
+   "key",
+   "majority",
+   "right",
+   "secure",
+   "state",
+   "wins"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Far-right AfD wins key German state election but may fail to secure majority"
+ },
+ {
+  "tokens": [
+   "braves",
+   "look",
+   "mahle",
+   "phillies",
+   "reuters",
+   "slow",
+   "tyler"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Tyler Mahle, Braves look to slow down Phillies - Reuters"
+ },
+ {
+  "tokens": [
+   "'start",
+   "accusations",
+   "calls",
+   "drone",
+   "incident",
+   "involvement",
+   "lavrov",
+   "leipzig",
+   "moscow's",
+   "real",
+   "reuters",
+   "russia's",
+   "tass",
+   "war'"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Russia's Lavrov calls accusations of Moscow's involvement in Leipzig drone incident 'start of real war', TASS reports - Reuters"
+ },
+ {
+  "tokens": [
+   "double",
+   "england",
+   "likely",
+   "one",
+   "plans",
+   "pupils",
+   "rush",
+   "send",
+   "support"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Pupils with Send plans in England likely to double to one in 10 in rush for support"
+ },
+ {
+  "tokens": [
+   "behind",
+   "brewers",
+   "chase",
+   "harrison",
+   "kyle",
+   "reds",
+   "reuters",
+   "series",
+   "win"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Behind Kyle Harrison, Brewers chase series win vs. Reds - Reuters"
+ },
+ {
+  "tokens": [
+   "40bn",
+   "china",
+   "fears",
+   "financial",
+   "growth",
+   "prepares",
+   "sector",
+   "sluggish",
+   "stimulus"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "China prepares \u00a340bn stimulus for financial sector amid fears over sluggish growth"
+ },
+ {
+  "tokens": [
+   "comments",
+   "criticises",
+   "deadly",
+   "frankcom",
+   "idf",
+   "labor",
+   "officer",
+   "reprehensible",
+   "response",
+   "shoebridge",
+   "strike",
+   "zomi"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Shoebridge criticises Labor response after IDF officer\u2019s \u2018reprehensible\u2019 comments on deadly Zomi Frankcom strike"
+ },
+ {
+  "tokens": [
+   "act",
+   "black",
+   "campaigners",
+   "clad",
+   "dover",
+   "police",
+   "return",
+   "vigilantes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Black-clad Dover vigilantes will return if police do not act, say campaigners"
+ },
+ {
+  "tokens": [
+   "alive",
+   "days",
+   "debris",
+   "devastating",
+   "floods",
+   "nepal",
+   "people",
+   "pull",
+   "rescuers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods"
+ },
+ {
+  "tokens": [
+   "blue",
+   "card",
+   "jays",
+   "push",
+   "reuters",
+   "royals",
+   "seek",
+   "spot",
+   "sweep",
+   "way",
+   "wild"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Blue Jays push their way into wild-card spot, seek to sweep Royals - Reuters"
+ },
+ {
+  "tokens": [
+   "bailouts",
+   "cuts",
+   "jaguar",
+   "job",
+   "land",
+   "minister",
+   "rover",
+   "thousands"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister"
+ },
+ {
+  "tokens": [
+   "becomes",
+   "commercial",
+   "company",
+   "europe",
+   "europe's",
+   "first",
+   "fully",
+   "german",
+   "launch",
+   "orbit",
+   "orbital",
+   "reaches",
+   "reuters",
+   "rocket",
+   "sends",
+   "space",
+   "startup"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "German startup sends first commercial rocket into space from Europe"
+ },
+ {
+  "tokens": [
+   "arrive",
+   "charles",
+   "delegates",
+   "hand",
+   "jamaican",
+   "king",
+   "petition",
+   "reparations",
+   "slavery"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles"
+ },
+ {
+  "tokens": [
+   "crisis",
+   "homes",
+   "many",
+   "one",
+   "opened",
+   "residents",
+   "sept",
+   "times"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Sept. 11 was one of many times N.L. residents have opened their homes in a crisis"
+ },
+ {
+  "tokens": [
+   "admits",
+   "bad",
+   "donations",
+   "farage",
+   "happened",
+   "looks",
+   "nigel",
+   "reform",
+   "undercover"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Undercover report on donations \u2018looks bad\u2019 for Reform, admits Nigel Farage \u2013 as it happened"
+ },
+ {
+  "tokens": [
+   "'shockwaves'",
+   "britain",
+   "harry",
+   "meghan's",
+   "off",
+   "prince",
+   "return",
+   "setting"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How Prince Harry and Meghan's return to Britain is setting off 'shockwaves'"
+ },
+ {
+  "tokens": [
+   "almost",
+   "bottom",
+   "cancer",
+   "colon",
+   "scope",
+   "screening",
+   "skipped",
+   "survived"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "I almost skipped my colon cancer screening, but my bottom and I survived the scope"
+ },
+ {
+  "tokens": [
+   "drought",
+   "drying",
+   "forces",
+   "rescue",
+   "salmon",
+   "streams",
+   "volunteers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "B.C. drought forces volunteers to rescue salmon from drying streams"
+ },
+ {
+  "tokens": [
+   "'it",
+   "actors",
+   "cannot",
+   "fans",
+   "fought",
+   "happen'",
+   "quebec",
+   "save",
+   "simpsons",
+   "version"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "'It cannot happen': Why Quebec fans and actors fought to save their own version of The Simpsons"
+ },
+ {
+  "tokens": [
+   "camden",
+   "council",
+   "leader",
+   "minister",
+   "post",
+   "racism",
+   "straightforward",
+   "yusuf",
+   "zia"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Zia Yusuf\u2019s post about Camden council leader is \u2018straightforward racism\u2019, says minister"
+ },
+ {
+  "tokens": [
+   "attempt",
+   "canadian",
+   "during",
+   "goes",
+   "matterhorn",
+   "missing",
+   "record",
+   "session",
+   "skyrunner",
+   "training"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Canadian skyrunner goes missing during training session for Matterhorn record attempt"
+ },
+ {
+  "tokens": [
+   "2028",
+   "ambitions",
+   "california",
+   "drag",
+   "famous",
+   "gavin",
+   "made",
+   "newsom",
+   "presidential"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "California made Gavin Newsom famous. Will it drag down his 2028 presidential ambitions?"
+ },
+ {
+  "tokens": [
+   "atoms",
+   "business",
+   "getting",
+   "kalanick",
+   "robotaxi",
+   "travis"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business"
+ },
+ {
+  "tokens": [
+   "claim",
+   "hormuz",
+   "iran",
+   "lie",
+   "ship",
+   "strait",
+   "struck",
+   "total",
+   "unmanned"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S. says claim Iran struck unmanned ship in Strait of Hormuz \u2018total lie\u2019"
+ },
+ {
+  "tokens": [
+   "deal",
+   "energy",
+   "happen",
+   "iran",
+   "never",
+   "nuclear",
+   "secretary",
+   "wright"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen"
+ },
+ {
+  "tokens": [
+   "blockade",
+   "hits",
+   "iran",
+   "maintains",
+   "military",
+   "response",
+   "tankers",
+   "touts"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Iran touts military response as US maintains blockade, hits tankers"
+ },
+ {
+  "tokens": [
+   "cybercab",
+   "hits",
+   "mobility",
+   "road",
+   "snag",
+   "techcrunch",
+   "tesla"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag"
+ },
+ {
+  "tokens": [
+   "afd",
+   "anhalt",
+   "early",
+   "exit",
+   "far",
+   "germany",
+   "key",
+   "landslide",
+   "polls",
+   "results",
+   "right",
+   "saxony",
+   "state",
+   "suggest",
+   "vote",
+   "winner",
+   "wins"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Far-right AFD wins vote in Germany\u2019s Saxony-Anhalt state: Exit polls"
+ },
+ {
+  "tokens": [
+   "claim",
+   "ditch",
+   "everton",
+   "last",
+   "maitland",
+   "manchester",
+   "niles",
+   "point",
+   "stuns",
+   "united"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point"
+ },
+ {
+  "tokens": [
+   "abraham",
+   "carrier",
+   "departs",
+   "lincoln",
+   "respite",
+   "reuters",
+   "thailand",
+   "visit"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US carrier Abraham Lincoln departs Thailand after respite visit - Reuters"
+ },
+ {
+  "tokens": [
+   "died",
+   "flooding",
+   "mourning",
+   "nova",
+   "premier",
+   "province",
+   "scotia",
+   "severe",
+   "woman"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Nova Scotia mourning woman who died in province\u2019s severe flooding: premier"
+ },
+ {
+  "tokens": [
+   "accuses",
+   "failed",
+   "france",
+   "know",
+   "military",
+   "mutiny",
+   "niger",
+   "orchestrating"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Niger military accuses France of orchestrating failed mutiny: What to know"
+ },
+ {
+  "tokens": [
+   "dead",
+   "drought",
+   "fill",
+   "fish",
+   "grips",
+   "indonesia",
+   "river",
+   "vanishing"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Dead fish fill vanishing river as drought grips Indonesia"
+ },
+ {
+  "tokens": [
+   "administration",
+   "advisers",
+   "iss",
+   "proxy",
+   "ramps",
+   "scrutiny",
+   "sec",
+   "sues",
+   "trump"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers"
+ },
+ {
+  "tokens": [
+   "aagg",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AAGG.D - Reuters"
+ },
+ {
+  "tokens": [
+   "cancellation",
+   "erupts",
+   "flights",
+   "forcing",
+   "hundreds",
+   "indonesia",
+   "island",
+   "volcanic"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Volcanic island in Indonesia erupts, forcing the cancellation of hundreds of flights"
+ },
+ {
+  "tokens": [
+   "famous",
+   "forced",
+   "montreal",
+   "sandwich",
+   "shop",
+   "soda",
+   "swap"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why a famous Montreal sandwich shop has been forced to swap its soda"
+ },
+ {
+  "tokens": [
+   "abdalla",
+   "important",
+   "justice",
+   "khalid",
+   "service"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Khalid Abdalla: \u2018It\u2019s important for me to be in service of justice\u2019"
+ },
+ {
+  "tokens": [
+   "american",
+   "barbecue",
+   "giving",
+   "halal",
+   "makeover",
+   "muslims",
+   "texas"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "American Muslims are giving Texas barbecue a halal makeover"
+ },
+ {
+  "tokens": [
+   "behind",
+   "diplomacy",
+   "ending",
+   "envoys",
+   "kremlin",
+   "kushner",
+   "latest",
+   "meet",
+   "meets",
+   "putin",
+   "renewed",
+   "russia",
+   "talks",
+   "ukraine",
+   "war",
+   "witkoff"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US envoys meet Putin: What\u2019s behind latest diplomacy on Russia-Ukraine war?"
+ },
+ {
+  "tokens": [
+   "cambodian",
+   "curry",
+   "recipe",
+   "saraman"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Recipe: Cambodian saraman curry"
+ },
+ {
+  "tokens": [
+   "bosnian",
+   "israel",
+   "serbs",
+   "strengthen",
+   "tensions",
+   "ties"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Bosnian Serbs strengthen ties with Israel amid tensions"
+ },
+ {
+  "tokens": [
+   "hydropower",
+   "nepal",
+   "rescuers",
+   "search",
+   "survivors",
+   "tunnels"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Nepal rescuers search hydropower tunnels for survivors"
+ },
+ {
+  "tokens": [
+   "america",
+   "big",
+   "comeback",
+   "making",
+   "parties",
+   "potluck"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why potluck parties are making a big comeback in America"
+ },
+ {
+  "tokens": [
+   "china",
+   "days",
+   "find",
+   "floods",
+   "missing",
+   "nepal",
+   "race",
+   "still",
+   "thousands"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "China, Nepal race to find thousands still missing 12 days after floods"
+ },
+ {
+  "tokens": [
+   "authorities",
+   "cannabis",
+   "fentanyl",
+   "investigating"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "N.S. authorities investigating after report of fentanyl in cannabis"
+ },
+ {
+  "tokens": [
+   "america",
+   "latin",
+   "like",
+   "look",
+   "militarisation"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "What the US militarisation of Latin America could look like"
+ },
+ {
+  "tokens": [
+   "allegedly",
+   "attacking",
+   "axe",
+   "brother",
+   "hunt",
+   "man",
+   "parents",
+   "police",
+   "run",
+   "victoria"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Victoria police hunt for man on run after allegedly attacking brother and parents with axe"
+ },
+ {
+  "tokens": [
+   "another",
+   "birmingham",
+   "britain",
+   "broken",
+   "reform",
+   "story",
+   "tells"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Reform UK says Britain is broken. Birmingham tells another story"
+ },
+ {
+  "tokens": [
+   "i'll",
+   "know",
+   "later",
+   "much",
+   "procrastination",
+   "quiz",
+   "ugh",
+   "you"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?"
+ },
+ {
+  "tokens": [
+   "american",
+   "apocalypse",
+   "copyright",
+   "judge",
+   "music",
+   "saved"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Music was just saved from a copyright apocalypse by a American judge"
+ },
+ {
+  "tokens": [
+   "air",
+   "breathe",
+   "curator",
+   "essentials",
+   "fresh",
+   "hiking"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Curator: Breathe in fresh air with these hiking essentials"
+ },
+ {
+  "tokens": [
+   "'everyone",
+   "anonymous",
+   "artist",
+   "collecting",
+   "confessions",
+   "hundreds",
+   "secret'",
+   "sharing",
+   "spent",
+   "year"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions"
+ },
+ {
+  "tokens": [
+   "alert",
+   "alive",
+   "happened",
+   "it's",
+   "kindness",
+   "prove",
+   "readers",
+   "spoiler",
+   "well",
+   "whatever"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well"
+ },
+ {
+  "tokens": [
+   "against",
+   "gains",
+   "government",
+   "houthis",
+   "military",
+   "significant",
+   "yemeni"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How significant are the Yemeni government\u2019s military gains against Houthis?"
+ },
+ {
+  "tokens": [
+   "become",
+   "emotionally",
+   "good",
+   "handling",
+   "intelligent",
+   "kids",
+   "parents",
+   "psychologist",
+   "really",
+   "tantrums",
+   "things"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Parents who are really good at handling tantrums do 5 things\u2014their kids become more emotionally intelligent, says psychologist"
+ },
+ {
+  "tokens": [
+   "driving",
+   "here's",
+   "market",
+   "outperforming",
+   "stock",
+   "sugar",
+   "what's",
+   "year"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here"
+ },
+ {
+  "tokens": [
+   "crisis",
+   "family",
+   "feeding",
+   "food",
+   "gaza",
+   "meal",
+   "mouths",
+   "one",
+   "seven",
+   "through"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Seven mouths, one meal: Feeding a family through Gaza\u2019s food crisis"
+ },
+ {
+  "tokens": [
+   "anger",
+   "created",
+   "freedom",
+   "promise",
+   "west",
+   "world"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How the West\u2019s promise of freedom created a world of anger"
+ },
+ {
+  "tokens": [
+   "city",
+   "funeral",
+   "gaza",
+   "loved",
+   "mass",
+   "mourn",
+   "ones",
+   "palestinians"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Palestinians mourn loved ones in mass funeral in Gaza City"
+ },
+ {
+  "tokens": [
+   "algeria",
+   "body",
+   "boy",
+   "civil",
+   "defence",
+   "old",
+   "recovers",
+   "well",
+   "year"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Algeria civil defence recovers body of 10-year-old boy from well"
+ },
+ {
+  "tokens": [
+   "action",
+   "bangladesh",
+   "costs",
+   "demand",
+   "protesters",
+   "rising"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Bangladesh protesters demand action over rising costs"
+ },
+ {
+  "tokens": [
+   "arsenal",
+   "chelsea",
+   "league",
+   "live",
+   "premier"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "LIVE: Arsenal vs Chelsea \u2013 Premier League"
+ },
+ {
+  "tokens": [
+   "engine",
+   "fire",
+   "flames",
+   "flight",
+   "passengers",
+   "qantas",
+   "queenstown",
+   "reroutes",
+   "seen",
+   "sydney"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "\u2018The engine\u2019s on fire\u2019: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers"
+ },
+ {
+  "tokens": [
+   "fatigue",
+   "frenetic",
+   "labs",
+   "model",
+   "pace",
+   "race",
+   "roll",
+   "sets",
+   "versions"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "\u2018Model fatigue\u2019 sets in as AI labs race to roll out new versions at frenetic pace"
+ },
+ {
+  "tokens": [
+   "america",
+   "booms",
+   "business",
+   "centers",
+   "data",
+   "don't",
+   "feel",
+   "like",
+   "many",
+   "rest",
+   "truckers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Many truckers don't feel like the rest of America about AI data centers as business booms"
+ },
+ {
+  "tokens": [
+   "ccgpy",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "CCGPY.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "backlash",
+   "centers",
+   "data",
+   "fueling",
+   "land",
+   "markets",
+   "rural",
+   "transforming"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AI data centers are transforming rural land markets \u2014 and fueling a backlash"
+ },
+ {
+  "tokens": [
+   "brisbane",
+   "coast",
+   "day",
+   "east",
+   "faces",
+   "hottest",
+   "september",
+   "swelters",
+   "unseasonably",
+   "warm",
+   "weather",
+   "years"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather"
+ },
+ {
+  "tokens": [
+   "beating",
+   "eala",
+   "epic",
+   "friend",
+   "incredible",
+   "jovic",
+   "moved",
+   "open",
+   "tears"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Jovic moved to tears after beating \u2018incredible\u2019 friend Eala in US Open epic"
+ },
+ {
+  "tokens": [
+   "country",
+   "each",
+   "guess",
+   "map",
+   "real",
+   "size",
+   "world",
+   "you"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Can you guess the real size of each country on the new world map?"
+ },
+ {
+  "tokens": [
+   "100",
+   "funeral",
+   "gaza",
+   "holds",
+   "palestinians",
+   "photos",
+   "recovered",
+   "rubble"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble"
+ },
+ {
+  "tokens": [
+   "reuters",
+   "treo"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "TREO.OQ - Reuters"
+ },
+ {
+  "tokens": [
+   "affect",
+   "canadians",
+   "cost",
+   "counter",
+   "goods",
+   "hit",
+   "moving",
+   "tariffs",
+   "them",
+   "they'll",
+   "trailers",
+   "won't"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Counter-tariffs won't just affect the cost of goods for Canadians. They'll hit the trailers moving them too"
+ },
+ {
+  "tokens": [
+   "abandon",
+   "bet",
+   "career",
+   "dreams",
+   "forcing",
+   "ontario",
+   "reality'",
+   "teen",
+   "want"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AI is forcing this Ontario teen to abandon his career dreams: 'I want to bet on reality'"
+ },
+ {
+  "tokens": [
+   "angels'",
+   "biker",
+   "built",
+   "digital",
+   "empire",
+   "era",
+   "hells",
+   "old",
+   "school",
+   "toronto",
+   "watching"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "He built the Hells Angels' Toronto empire. Now this old-school biker is watching a new era go digital"
+ },
+ {
+  "tokens": [
+   "another",
+   "beloved",
+   "cne",
+   "crowd",
+   "crowds",
+   "decades",
+   "drawn",
+   "keep",
+   "ride",
+   "swinging",
+   "takes"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "This beloved CNE ride has drawn crowds for decades. It takes another crowd to keep it swinging"
+ },
+ {
+  "tokens": [
+   "'ultimate",
+   "became",
+   "canada's",
+   "disrupter'",
+   "donald",
+   "howard",
+   "lutnick",
+   "trade",
+   "trump's",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How Howard Lutnick became Donald Trump's 'ultimate disrupter' in Canada's trade war"
+ },
+ {
+  "tokens": [
+   "border",
+   "canada",
+   "facing",
+   "gap",
+   "major",
+   "offices",
+   "security"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How Canada\u2019s border offices are facing a major security gap"
+ },
+ {
+  "tokens": [
+   "concerns",
+   "condo",
+   "developer",
+   "doug",
+   "ford's",
+   "government",
+   "oakville",
+   "pause",
+   "project",
+   "residents",
+   "tower",
+   "vetting",
+   "want"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Oakville residents want Doug Ford's government to pause an 11-tower condo project over developer vetting concerns"
+ },
+ {
+  "tokens": [
+   "chair",
+   "commit",
+   "committee",
+   "defence",
+   "falklands",
+   "labour",
+   "need",
+   "row",
+   "shows",
+   "target",
+   "urgent"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair"
+ },
+ {
+  "tokens": [
+   "broken",
+   "death",
+   "fate",
+   "feet",
+   "hair",
+   "iran",
+   "jailed",
+   "protests",
+   "ripped",
+   "sentence",
+   "sisters",
+   "twin"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Broken feet, ripped-out hair and now a death sentence: the fate of twin sisters jailed over Iran protests"
+ },
+ {
+  "tokens": [
+   "boox",
+   "land",
+   "november",
+   "picco",
+   "reader",
+   "tiny"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Boox\u2019s tiny Picco e-reader should land in November"
+ },
+ {
+  "tokens": [
+   "deal",
+   "envoys",
+   "kyiv",
+   "meet",
+   "meeting",
+   "peace",
+   "pushes",
+   "putin",
+   "russia",
+   "set",
+   "talks",
+   "trump",
+   "ukraine",
+   "zelensky",
+   "zelenskyy"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump envoys meet Zelenskyy in Kyiv as U.S. pushes for Ukraine-Russia peace deal"
+ },
+ {
+  "tokens": [
+   "afd",
+   "dark",
+   "days",
+   "far",
+   "first",
+   "government",
+   "lead",
+   "nazism",
+   "right",
+   "since",
+   "state"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AfD could lead \"the first far-right state government since the dark days of Nazism\""
+ },
+ {
+  "tokens": [
+   "alive",
+   "buried",
+   "found",
+   "home",
+   "moment",
+   "mud",
+   "nepali",
+   "old",
+   "watch",
+   "woman",
+   "year"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home"
+ },
+ {
+  "tokens": [
+   "'we",
+   "bernie",
+   "democrats",
+   "elections",
+   "progressive",
+   "sanders",
+   "wing",
+   "winning"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "'We are winning elections\u2019: Bernie Sanders on Democrats\u2019 progressive wing"
+ },
+ {
+  "tokens": [
+   "airstrikes",
+   "caribbean",
+   "fearing",
+   "fishermen",
+   "inside",
+   "left",
+   "lives",
+   "local",
+   "villages"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Inside the Caribbean villages where U.S. airstrikes have left local fishermen fearing for their lives"
+ },
+ {
+  "tokens": [
+   "american",
+   "deauville",
+   "favourite",
+   "festival",
+   "film"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Deauville Film Festival: What\u2019s your favourite American film?"
+ },
+ {
+  "tokens": [
+   "case",
+   "decades",
+   "failures",
+   "police",
+   "solving",
+   "spotlights",
+   "trial",
+   "tupac"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Tupac trial spotlights decades of US police failures in solving the case"
+ },
+ {
+  "tokens": [
+   "afd",
+   "anhalt",
+   "change",
+   "germany",
+   "popular",
+   "saxony",
+   "wins"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany: What could change in Saxony-Anhalt if the AfD wins?"
+ },
+ {
+  "tokens": [
+   "busy",
+   "city",
+   "danger",
+   "here's",
+   "intersection",
+   "loose",
+   "paving",
+   "pedestrians",
+   "stones",
+   "toronto"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Loose paving stones at this busy Toronto intersection are a danger to pedestrians. Here's what the city says it will do"
+ },
+ {
+  "tokens": [
+   "000",
+   "free",
+   "get",
+   "happened",
+   "labor",
+   "qualifications",
+   "scheme",
+   "tradies"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Up to 6,000 tradies to get free qualifications under Labor scheme \u2013 as it happened"
+ },
+ {
+  "tokens": [
+   "iran",
+   "oil",
+   "painful",
+   "response",
+   "strikes",
+   "tanker",
+   "warns"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Iran warns U.S. of \u2018more painful response\u2019 after oil tanker strikes"
+ },
+ {
+  "tokens": [
+   "games",
+   "kyiv",
+   "nepal",
+   "nomad",
+   "operations",
+   "pictures",
+   "rescue",
+   "russian",
+   "strikes",
+   "week",
+   "world"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The week in pictures: Nepal rescue operations, World Nomad Games and Russian strikes on Kyiv"
+ },
+ {
+  "tokens": [
+   "afd's",
+   "eyes",
+   "germany",
+   "majority",
+   "outright",
+   "siegmund",
+   "ulrich"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany: AfD's Ulrich Siegmund eyes outright majority"
+ },
+ {
+  "tokens": [
+   "objectives",
+   "russia",
+   "talks",
+   "ukraine"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ukraine-Russia talks: What are the US objectives?"
+ },
+ {
+  "tokens": [
+   "debate",
+   "funded",
+   "harry",
+   "prince",
+   "renews",
+   "return",
+   "security",
+   "taxpayer"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Prince Harry\u2019s U.K. return renews debate over taxpayer-funded security"
+ },
+ {
+  "tokens": [
+   "future",
+   "households",
+   "smart"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AI: The future of smart households?"
+ },
+ {
+  "tokens": [
+   "'he",
+   "caregivers",
+   "families",
+   "haitian",
+   "let",
+   "lifeline'",
+   "loss"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US"
+ },
+ {
+  "tokens": [
+   "arts",
+   "ban",
+   "city",
+   "considers",
+   "language",
+   "majority",
+   "russian",
+   "speaking",
+   "ukraine"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Majority Russian-speaking city in Ukraine considers language ban in the arts"
+ },
+ {
+  "tokens": [
+   "canada",
+   "clear",
+   "founded",
+   "goal",
+   "states",
+   "united"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Canada was founded with the clear goal of not being the United States"
+ },
+ {
+  "tokens": [
+   "desperately",
+   "fairphone",
+   "midrange",
+   "needed",
+   "phone",
+   "plus"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Fairphone 6 Plus is the midrange phone we desperately needed"
+ },
+ {
+  "tokens": [
+   "become",
+   "champion",
+   "competitive",
+   "mon",
+   "need",
+   "phones",
+   "pok",
+   "still",
+   "switch",
+   "you"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Competitive Pok\u00e9mon is on phones now, but you still need a Switch to become a champion"
+ },
+ {
+  "tokens": [
+   "bosnian",
+   "commemoration",
+   "criminal",
+   "held",
+   "late",
+   "mladic",
+   "ratko",
+   "serb",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Commemoration held for late Bosnian Serb war criminal Ratko Mladic"
+ },
+ {
+  "tokens": [
+   "accept",
+   "aviation",
+   "disruption",
+   "faces",
+   "hotter",
+   "passengers",
+   "skies",
+   "stormier"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption"
+ },
+ {
+  "tokens": [
+   "diy",
+   "gains",
+   "momentum",
+   "plug",
+   "solar"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "DIY plug-in solar gains momentum in the US"
+ },
+ {
+  "tokens": [
+   "afd",
+   "clear",
+   "eastern",
+   "far",
+   "frontrunner",
+   "germany's",
+   "right",
+   "state",
+   "vote"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany's far-right AfD clear frontrunner in eastern state vote"
+ },
+ {
+  "tokens": [
+   "award",
+   "deauville",
+   "ethan",
+   "hawke",
+   "receives",
+   "talent"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ethan Hawke receives the Deauville Talent Award"
+ },
+ {
+  "tokens": [
+   "almost",
+   "army",
+   "clash",
+   "dan",
+   "driscoll",
+   "factional",
+   "quits",
+   "secretary",
+   "seen",
+   "we've"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US Army Secretary Dan Driscoll quits: \"What we've seen is almost a factional clash\""
+ },
+ {
+  "tokens": [
+   "ambassador",
+   "bank",
+   "palestinian",
+   "reuters",
+   "rise",
+   "settler",
+   "town",
+   "violence",
+   "visits",
+   "west"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US ambassador visits Palestinian town amid rise in West Bank settler violence - Reuters"
+ },
+ {
+  "tokens": [
+   "abrupt",
+   "byelection",
+   "comes",
+   "halt",
+   "liberal",
+   "losses",
+   "ontario",
+   "resurgence",
+   "scott",
+   "stinson"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Scott Stinson: Ontario Liberal resurgence comes to abrupt halt with byelection losses"
+ },
+ {
+  "tokens": [
+   "ambassadors",
+   "canada",
+   "differently",
+   "heyman",
+   "hoekstra",
+   "see",
+   "tale",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "A tale of two U.S. ambassadors: Hoekstra and Heyman see Canada very differently"
+ },
+ {
+  "tokens": [
+   "billionaire",
+   "deal",
+   "investigated",
+   "laundering",
+   "money",
+   "oil",
+   "pentagon",
+   "reuters",
+   "venezuelan"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters"
+ },
+ {
+  "tokens": [
+   "against",
+   "carrying",
+   "deadly",
+   "germany",
+   "kosovo",
+   "ticks",
+   "unite",
+   "virus"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Germany, Kosovo unite against ticks carrying deadly virus"
+ },
+ {
+  "tokens": [
+   "farmed",
+   "nutritious",
+   "once",
+   "research",
+   "salmon",
+   "suggests"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Farmed salmon may not be as nutritious as it once was, new research suggests"
+ },
+ {
+  "tokens": [
+   "bufton",
+   "matt",
+   "nfl",
+   "save",
+   "society"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Matt Bufton: Can the NFL save society?"
+ },
+ {
+  "tokens": [
+   "authority",
+   "lake",
+   "ontario",
+   "rename",
+   "shouldn",
+   "trump",
+   "tuccille"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "J.D. Tuccille: Trump shouldn\u2019t have the authority to rename Lake Ontario"
+ },
+ {
+  "tokens": [
+   "adam",
+   "albertans",
+   "better",
+   "deal",
+   "fight",
+   "legge",
+   "separation",
+   "way"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Adam Legge: Albertans should fight for a better deal, but separation is not the way"
+ },
+ {
+  "tokens": [
+   "lost",
+   "man",
+   "mountains",
+   "near",
+   "nights",
+   "shares",
+   "squamish",
+   "story",
+   "survival"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "B.C. man lost for 5 nights in mountains near Squamish shares survival story"
+ },
+ {
+  "tokens": [
+   "ggdcf",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "GGDCF.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "pevm",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "PEVM.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "hy9hy",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "HY9Hy.SG - Reuters"
+ },
+ {
+  "tokens": [
+   "debt",
+   "don't",
+   "handle",
+   "national",
+   "panic",
+   "wealth"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Don't\u00a0panic about the national debt \u2014 the US has the wealth to handle it"
+ },
+ {
+  "tokens": [
+   "faces",
+   "house",
+   "mifepristone",
+   "test",
+   "white"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "White House faces mifepristone test"
+ },
+ {
+  "tokens": [
+   "12th",
+   "day",
+   "enter",
+   "floods",
+   "nepal",
+   "operations",
+   "search"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Nepal floods: Search operations enter 12th day"
+ },
+ {
+  "tokens": [
+   "attend",
+   "funeral",
+   "harald's",
+   "king",
+   "norway",
+   "prince",
+   "william"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Prince William to attend King Harald's funeral in Norway"
+ },
+ {
+  "tokens": [
+   "'advice'",
+   "'couldn't",
+   "administration",
+   "air",
+   "force",
+   "former",
+   "iran",
+   "questions",
+   "received",
+   "secretary",
+   "serve'",
+   "starting",
+   "trump",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Former Air Force secretary questions 'advice' Trump received before starting Iran war"
+ },
+ {
+  "tokens": [
+   "don't",
+   "downplays",
+   "energy",
+   "gas",
+   "iran",
+   "live",
+   "opinion'",
+   "prices",
+   "rising",
+   "secretary",
+   "strikes",
+   "trade",
+   "updates",
+   "want"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Live updates: Energy secretary downplays rising gas prices as US, Iran trade strikes"
+ },
+ {
+  "tokens": [
+   "act",
+   "better",
+   "contracts",
+   "fair",
+   "faster",
+   "give",
+   "labor",
+   "life",
+   "shot",
+   "workers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Faster Labor Contracts Act would give workers a fair shot at a better life"
+ },
+ {
+  "tokens": [
+   "ceiling",
+   "center",
+   "debate",
+   "debris",
+   "falling",
+   "kennedy",
+   "mire",
+   "renovations"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Falling ceiling debris at Kennedy Center may mire debate over renovations"
+ },
+ {
+  "tokens": [
+   "change",
+   "climate",
+   "conflicts",
+   "food",
+   "fuel",
+   "future",
+   "insecurity"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "How climate change and food insecurity could fuel future conflicts"
+ },
+ {
+  "tokens": [
+   "'may",
+   "agreement",
+   "iran",
+   "not'",
+   "nuclear",
+   "reach",
+   "wright"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Wright: US 'may not' reach nuclear agreement with Iran"
+ },
+ {
+  "tokens": [
+   "centers",
+   "data",
+   "isaacman's",
+   "jared",
+   "musk's",
+   "occur",
+   "space",
+   "support",
+   "vacuum"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Jared Isaacman's support for Musk's space data centers did not occur in a vacuum"
+ },
+ {
+  "tokens": [
+   "infi",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "INFI.V - Reuters"
+ },
+ {
+  "tokens": [
+   "aera",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "AERA.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "airports",
+   "eight",
+   "eruption",
+   "indonesia",
+   "operations",
+   "suspend",
+   "volcanic"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Eight airports in Indonesia suspend operations after volcanic eruption"
+ },
+ {
+  "tokens": [
+   "acolyte",
+   "falklands",
+   "favor",
+   "lead",
+   "milei",
+   "pique",
+   "trump"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump\u2019s pique with UK could lead to favor to acolyte Milei over Falklands"
+ },
+ {
+  "tokens": [
+   "attack",
+   "blamed",
+   "colombia",
+   "drone",
+   "guerrillas",
+   "kills",
+   "least",
+   "soldiers",
+   "three"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia"
+ },
+ {
+  "tokens": [
+   "ldit",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "LDIT.L - Reuters"
+ },
+ {
+  "tokens": [
+   "002104",
+   "300243",
+   "603659",
+   "lac",
+   "latest",
+   "pevm",
+   "price",
+   "reuters",
+   "stock"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "002104.SZ - | Stock Price & Latest News - Reuters"
+ },
+ {
+  "tokens": [
+   "bad",
+   "envoys",
+   "head",
+   "hour",
+   "kyiv",
+   "putin",
+   "sign'",
+   "talks",
+   "three"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin"
+ },
+ {
+  "tokens": [
+   "children",
+   "crises",
+   "ebola",
+   "last",
+   "medical",
+   "treated"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ebola: Why children are last to be treated in medical crises"
+ },
+ {
+  "tokens": [
+   "begin",
+   "beneficial",
+   "contacts",
+   "kushner",
+   "putin",
+   "reuters",
+   "russia",
+   "talks",
+   "witkoff"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner - Reuters"
+ },
+ {
+  "tokens": [
+   "calling",
+   "democrats",
+   "identifying",
+   "republican",
+   "themselves",
+   "voters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "More voters identifying as Democrats and not calling themselves Republican"
+ },
+ {
+  "tokens": [
+   "begins",
+   "billions",
+   "corrupt",
+   "hungary",
+   "hunt",
+   "regime's"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Hungary begins hunt for corrupt regime's billions"
+ },
+ {
+  "tokens": [
+   "america's",
+   "children",
+   "he's",
+   "trump",
+   "waging",
+   "war",
+   "winning"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump is waging a war on America's children \u2014 and\u00a0he's\u00a0winning"
+ },
+ {
+  "tokens": [
+   "'wiki",
+   "acknowledges",
+   "around",
+   "behavior",
+   "incident'",
+   "need",
+   "openai",
+   "reuters",
+   "transparency",
+   "unintended"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters"
+ },
+ {
+  "tokens": [
+   "2026",
+   "backpacks",
+   "best",
+   "between",
+   "everything",
+   "laptop",
+   "travel",
+   "work"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Best Laptop Backpacks for Work, Travel, and Everything Between (2026)"
+ },
+ {
+  "tokens": [
+   "become",
+   "coltrane's",
+   "cultural",
+   "heritage",
+   "house",
+   "jazz",
+   "john",
+   "legend",
+   "philadelphia",
+   "site"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site"
+ },
+ {
+  "tokens": [
+   "2028",
+   "biden",
+   "hunter",
+   "president",
+   "run",
+   "to'"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Hunter Biden: 'I may have to' run for president in 2028"
+ },
+ {
+  "tokens": [
+   "anything",
+   "create",
+   "custom",
+   "notifications",
+   "remind",
+   "windows",
+   "yourself"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Create Custom Windows 11 Notifications to Remind Yourself of Anything"
+ },
+ {
+  "tokens": [
+   "prfx",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "PRFX.OQ - Reuters"
+ },
+ {
+  "tokens": [
+   "brock",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "BROCK.BK - Reuters"
+ },
+ {
+  "tokens": [
+   "func",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "FUNC.O - Reuters"
+ },
+ {
+  "tokens": [
+   "cockroaches",
+   "cyborg",
+   "life",
+   "save"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "These Cyborg Cockroaches Could Save Your Life"
+ },
+ {
+  "tokens": [
+   "brief",
+   "fling",
+   "siri",
+   "summer"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "My Brief Summer Fling With Siri AI"
+ },
+ {
+  "tokens": [
+   "americans",
+   "day",
+   "gasoline",
+   "high",
+   "hit",
+   "labor",
+   "prices",
+   "record",
+   "reuters",
+   "weekend"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Americans hit with record-high Labor Day Weekend gasoline prices - Reuters"
+ },
+ {
+  "tokens": [
+   "budget",
+   "get",
+   "hostels",
+   "mystery",
+   "prices",
+   "rise",
+   "thrifty",
+   "travelers",
+   "vacations"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "From \u2018mystery vacations\u2019 to hostels, budget travelers get thrifty as prices rise"
+ },
+ {
+  "tokens": [
+   "2026",
+   "best",
+   "detectors",
+   "leak",
+   "link",
+   "moen",
+   "phyn",
+   "water"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link"
+ },
+ {
+  "tokens": [
+   "around",
+   "business",
+   "controversy",
+   "partner",
+   "swirls",
+   "trump's",
+   "venezuela"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Controversy swirls around Trump's Venezuela business partner"
+ },
+ {
+  "tokens": [
+   "bogeyman",
+   "can't",
+   "center",
+   "china",
+   "data",
+   "enthusiasts",
+   "quit"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit"
+ },
+ {
+  "tokens": [
+   "byno",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "BYNO.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "cifr",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "CIFR.O - Reuters"
+ },
+ {
+  "tokens": [
+   "2026",
+   "best",
+   "chairs",
+   "gaming",
+   "they",
+   "worth"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The Best Gaming Chairs (2026): Are They Worth It?"
+ },
+ {
+  "tokens": [
+   "dhrpy",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "DHRPY.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "latest",
+   "microsoft",
+   "newsday",
+   "openai",
+   "publications",
+   "seattle",
+   "sue",
+   "times"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+ },
+ {
+  "tokens": [
+   "'reach'",
+   "democrats",
+   "election",
+   "here's",
+   "hope",
+   "house",
+   "look",
+   "off",
+   "pull",
+   "races",
+   "upsets"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Here's a look at 'reach' election races where Democrats hope to pull off House upsets"
+ },
+ {
+  "tokens": [
+   "convention",
+   "midterms",
+   "republican",
+   "revealed",
+   "scoop",
+   "speakers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Scoop: Republican midterms convention speakers revealed"
+ },
+ {
+  "tokens": [
+   "athletics",
+   "attempting",
+   "canada",
+   "goes",
+   "matterhorn",
+   "missing",
+   "mountaineer",
+   "record"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Athletics Canada says mountaineer goes missing attempting Matterhorn record"
+ },
+ {
+  "tokens": [
+   "reuters",
+   "usopy"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "USOPY.PK - Reuters"
+ },
+ {
+  "tokens": [
+   "bombs",
+   "car",
+   "cartels",
+   "explosives",
+   "increasingly",
+   "mexican",
+   "using"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why Mexican cartels are increasingly using car bombs and other explosives"
+ },
+ {
+  "tokens": [
+   "dtg1y",
+   "reuters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "DTG1y.F - Reuters"
+ },
+ {
+  "tokens": [
+   "aged",
+   "became",
+   "child",
+   "dies",
+   "editor",
+   "feminist",
+   "morgan",
+   "poet",
+   "robin",
+   "star"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Robin Morgan, child star who became feminist, poet and editor, dies aged 85"
+ },
+ {
+  "tokens": [
+   "balk",
+   "become",
+   "cameras",
+   "campaign",
+   "companies'",
+   "flock",
+   "midterm",
+   "power",
+   "target",
+   "tech",
+   "voters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Flock cameras become midterm campaign target as voters balk at tech companies' power"
+ },
+ {
+  "tokens": [
+   "barracks",
+   "blast",
+   "bolivia",
+   "dead",
+   "least",
+   "military",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "At least two dead in blast at Bolivia military barracks"
+ },
+ {
+  "tokens": [
+   "james",
+   "lebron",
+   "partnership",
+   "polymarket",
+   "teases"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "LeBron James teases partnership with Polymarket"
+ },
+ {
+  "tokens": [
+   "gemini",
+   "google",
+   "hikers",
+   "planning",
+   "rescued",
+   "using"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Hikers rescued after using Google Gemini for planning"
+ },
+ {
+  "tokens": [
+   "bet",
+   "everything",
+   "floods",
+   "hydropower",
+   "nearly",
+   "nepal",
+   "problem",
+   "show",
+   "that's"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Nepal bet nearly everything on hydropower - the floods show why that's a problem"
+ },
+ {
+  "tokens": [
+   "fed",
+   "heat",
+   "hike",
+   "looms",
+   "rate",
+   "trump",
+   "turns",
+   "warsh"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump turns up the heat on Warsh as Fed rate hike looms"
+ },
+ {
+  "tokens": [
+   "american",
+   "attack",
+   "came",
+   "iranian",
+   "military",
+   "missile",
+   "struck",
+   "tankers",
+   "three",
+   "warships"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "US military says it struck three Iranian tankers after American warships came under missile attack"
+ },
+ {
+  "tokens": [
+   "battle",
+   "ceasefire",
+   "hezbollah",
+   "hill",
+   "israel",
+   "lebanon",
+   "months",
+   "strategic"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon"
+ },
+ {
+  "tokens": [
+   "confirms",
+   "disclosure",
+   "framework",
+   "incident",
+   "openai",
+   "wiki",
+   "working"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure"
+ },
+ {
+  "tokens": [
+   "explore",
+   "field",
+   "globe",
+   "recordings"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Explore the globe in field recordings"
+ },
+ {
+  "tokens": [
+   "2030s",
+   "lake",
+   "last",
+   "ontario",
+   "shows",
+   "snowbirds",
+   "toronto",
+   "until",
+   "whoosh"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Last Snowbirds shows in Toronto until 2030s whoosh over Lake Ontario"
+ },
+ {
+  "tokens": [
+   "backed",
+   "call",
+   "ceiling",
+   "center",
+   "collapses",
+   "kennedy",
+   "part",
+   "renews",
+   "shutdown",
+   "trump"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Kennedy Center renews call for Trump-backed shutdown after part of a ceiling collapses"
+ },
+ {
+  "tokens": [
+   "between",
+   "handoff",
+   "iphone",
+   "number",
+   "one",
+   "phones",
+   "seamlessly",
+   "share",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "iPhone Handoff will seamlessly share one number between two phones"
+ },
+ {
+  "tokens": [
+   "candidate",
+   "mayoral",
+   "ottawa",
+   "paid",
+   "parking",
+   "remove",
+   "street",
+   "vows"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ottawa mayoral candidate vows to remove paid on-street parking"
+ },
+ {
+  "tokens": [
+   "anytime",
+   "deal",
+   "domestic",
+   "experts",
+   "gasoline",
+   "oil",
+   "prices",
+   "reduce",
+   "soon",
+   "venezuela",
+   "won't"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S.-Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say"
+ },
+ {
+  "tokens": [
+   "allies",
+   "dies",
+   "feminist",
+   "fonda",
+   "gloria",
+   "included",
+   "jane",
+   "morgan",
+   "poet",
+   "robin",
+   "steinem",
+   "whose"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Robin Morgan, poet and feminist whose allies included Jane Fonda and Gloria Steinem, dies at 85"
+ },
+ {
+  "tokens": [
+   "alarm",
+   "app",
+   "clucky",
+   "crowing",
+   "rooster",
+   "wakes",
+   "you"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Clucky\u2019s new alarm app wakes you up with a crowing rooster"
+ },
+ {
+  "tokens": [
+   "apart",
+   "days",
+   "deaths",
+   "deliver",
+   "dose",
+   "double",
+   "feminists",
+   "grief",
+   "parton",
+   "steinem"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "For feminists, the deaths of Parton and Steinem days apart deliver a double dose of grief"
+ },
+ {
+  "tokens": [
+   "familiar",
+   "features",
+   "fine",
+   "gop",
+   "hampshire's",
+   "names",
+   "past",
+   "primary",
+   "two",
+   "voters"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "New Hampshire's GOP primary features two familiar names from the past, and voters are fine with that"
+ },
+ {
+  "tokens": [
+   "among",
+   "civilians",
+   "escalates",
+   "fighting",
+   "ground",
+   "killed",
+   "least",
+   "yemen"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Civilians among at least 60 killed in Yemen as ground fighting escalates"
+ },
+ {
+  "tokens": [
+   "ballistic",
+   "iranian",
+   "missiles",
+   "oil",
+   "saying",
+   "strikes",
+   "tankers",
+   "targeted",
+   "warships"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles"
+ },
+ {
+  "tokens": [
+   "assad",
+   "death",
+   "enough",
+   "feel",
+   "isn't",
+   "many",
+   "sentence",
+   "syrians"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why many Syrians feel Assad death sentence isn't enough"
+ },
+ {
+  "tokens": [
+   "'essential'",
+   "anti",
+   "foods",
+   "i'm",
+   "inflammatory",
+   "japan",
+   "nutritionist",
+   "swear"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "I'm a nutritionist from Japan: 7 'essential' anti-inflammatory foods that I swear by"
+ },
+ {
+  "tokens": [
+   "capitalism",
+   "comes",
+   "deal",
+   "industry",
+   "oil",
+   "state",
+   "trump",
+   "unprecedented",
+   "venezuela"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump\u2019s state capitalism comes to the oil industry with his unprecedented Venezuela deal"
+ },
+ {
+  "tokens": [
+   "coming",
+   "companies",
+   "crown",
+   "going",
+   "oura",
+   "public",
+   "ring",
+   "smart"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Oura is going public, but these smart ring companies are coming for its crown"
+ },
+ {
+  "tokens": [
+   "action",
+   "coffee",
+   "delivery",
+   "donuts",
+   "doordash",
+   "eats",
+   "moving",
+   "sandwiches",
+   "starting",
+   "uber",
+   "walmart"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why Walmart is moving in on DoorDash, Uber Eats\u00a0delivery action, starting with donuts, coffee and sandwiches"
+ },
+ {
+  "tokens": [
+   "attacks",
+   "iranian",
+   "response",
+   "tankers",
+   "tat",
+   "tit"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S. attacks 3 Iranian tankers in tit-for-tat response"
+ },
+ {
+  "tokens": [
+   "motion",
+   "opinion",
+   "perpetual",
+   "removed",
+   "sculpture"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Opinion: A sculpture in perpetual motion, removed"
+ },
+ {
+  "tokens": [
+   "administration",
+   "approvals",
+   "arch",
+   "despite",
+   "dig",
+   "federal",
+   "final",
+   "site",
+   "triumphal",
+   "trump"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Trump administration to dig at triumphal arch site despite no final federal approvals"
+ },
+ {
+  "tokens": [
+   "bind",
+   "deal",
+   "oil",
+   "opposition",
+   "political",
+   "puts",
+   "venezuela"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "U.S.-Venezuela oil deal puts opposition in a political bind"
+ },
+ {
+  "tokens": [
+   "booming",
+   "continues",
+   "media",
+   "physical",
+   "resurgence",
+   "sales"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "CD sales are booming as physical media continues its resurgence"
+ },
+ {
+  "tokens": [
+   "alive",
+   "disaster",
+   "find",
+   "flash",
+   "flood",
+   "nepal",
+   "people",
+   "rescuers",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Rescuers in Nepal find two more people alive after flash flood disaster"
+ },
+ {
+  "tokens": [
+   "aid",
+   "airstrike",
+   "association",
+   "guilt",
+   "international",
+   "israeli",
+   "killed",
+   "seven",
+   "workers"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "\u2018Guilt by association\u2019: why seven international aid workers were killed in Israeli airstrike"
+ },
+ {
+  "tokens": [
+   "accepts",
+   "all",
+   "gop",
+   "midterms",
+   "stuck",
+   "trump's",
+   "we're"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "\"We're stuck:\" GOP accepts Trump's all-about-me midterms"
+ },
+ {
+  "tokens": [
+   "blitz",
+   "charges",
+   "days",
+   "enforcement",
+   "nets",
+   "ottawa",
+   "police",
+   "traffic",
+   "two"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ottawa police traffic-enforcement blitz nets 92 charges in two days"
+ },
+ {
+  "tokens": [
+   "changan",
+   "deliver",
+   "driving",
+   "free",
+   "intelligent",
+   "launches",
+   "officially",
+   "pilot",
+   "safer",
+   "sda",
+   "smoother",
+   "stress"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Changan Officially Launches SDA Pilot to Deliver Safer, Smoother and Stress-Free Intelligent Driving"
+ },
+ {
+  "tokens": [
+   "choice",
+   "dolly",
+   "gloria",
+   "icons",
+   "never",
+   "officially",
+   "others",
+   "parton",
+   "requirement",
+   "retired",
+   "steinem",
+   "that's"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Icons Dolly Parton and Gloria Steinem never officially retired\u2014why that's a choice for some and requirement for others"
+ },
+ {
+  "tokens": [
+   "abel",
+   "berkshire",
+   "cash",
+   "hopes",
+   "two",
+   "ways"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Abel: Two ways Berkshire hopes to cash in on AI"
+ },
+ {
+  "tokens": [
+   "already",
+   "cybercab",
+   "deployed",
+   "investigation",
+   "tesla"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Tesla\u2019s Cybercab has been deployed, and it\u2019s already under investigation"
+ },
+ {
+  "tokens": [
+   "aims",
+   "boom",
+   "center",
+   "data",
+   "enhanced",
+   "fuel",
+   "geothermal",
+   "gigawatts",
+   "power",
+   "project",
+   "unlock"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom"
+ },
+ {
+  "tokens": [
+   "401",
+   "employers",
+   "hsas",
+   "playbook",
+   "turning"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "With HSAs, employers are turning to the 401(k) playbook"
+ },
+ {
+  "tokens": [
+   "andy",
+   "dedicated",
+   "fantasy",
+   "footballers",
+   "guy",
+   "holloway",
+   "inbox",
+   "kinda",
+   "zero"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Fantasy Footballers\u2019 Andy Holloway is a dedicated zero-inbox kinda guy"
+ },
+ {
+  "tokens": [
+   "buy",
+   "dip",
+   "five",
+   "goldman",
+   "it's",
+   "late",
+   "sachs",
+   "stocks"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Goldman Sachs says buy the dip in these five stocks before it's too late"
+ },
+ {
+  "tokens": [
+   "changing",
+   "companies",
+   "model",
+   "multi",
+   "platforms",
+   "think"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Multi-model platforms are changing how companies think about AI"
+ },
+ {
+  "tokens": [
+   "ciso",
+   "cybersecurity",
+   "front",
+   "line",
+   "meet",
+   "star",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Meet the CISO: A new front line star in the AI cybersecurity war"
+ },
+ {
+  "tokens": [
+   "add",
+   "automakers'",
+   "century",
+   "defense",
+   "energy",
+   "ford",
+   "old",
+   "rivalry",
+   "sectors"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry"
+ },
+ {
+  "tokens": [
+   "fall",
+   "jet",
+   "ottawa",
+   "rapids",
+   "rescued",
+   "resident",
+   "ski"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ottawa resident rescued from rapids after fall from jet ski"
+ },
+ {
+  "tokens": [
+   "economy",
+   "republicans",
+   "sour"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Republicans sour on the economy"
+ },
+ {
+  "tokens": [
+   "accessibility",
+   "get",
+   "glebe",
+   "ramps",
+   "roll",
+   "upgrades",
+   "users",
+   "wheelchair"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Roll out the ramps: Wheelchair users get accessibility upgrades in the Glebe"
+ },
+ {
+  "tokens": [
+   "ball",
+   "content",
+   "creators",
+   "drop"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Content creators drop the ball"
+ },
+ {
+  "tokens": [
+   "aerospace",
+   "german",
+   "isar",
+   "launch",
+   "milestone",
+   "orbit",
+   "reaches",
+   "rocket",
+   "second",
+   "spacetech"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "German spacetech Isar Aerospace\u2019s second rocket launch reaches orbit in milestone"
+ },
+ {
+  "tokens": [
+   "canadian",
+   "crackageddon",
+   "explains",
+   "raking",
+   "refineries",
+   "upon",
+   "video"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Crackageddon is upon us and Canadian refineries are raking it in: FP Video explains"
+ },
+ {
+  "tokens": [
+   "call",
+   "come",
+   "downed",
+   "sign",
+   "storm",
+   "toronto",
+   "trees",
+   "wake"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Why trees downed in Toronto\u2019s storm might be a sign of what\u2019s to come: \u2018It\u2019s a wake-up call\u2019"
+ },
+ {
+  "tokens": [
+   "abandoning",
+   "admits",
+   "buying",
+   "disabled",
+   "dogs",
+   "left",
+   "man",
+   "mutilating",
+   "ontario",
+   "permanently",
+   "puppies"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Ontario man admits to buying, mutilating, abandoning puppies. 3 dogs left permanently disabled"
+ },
+ {
+  "tokens": [
+   "alarm",
+   "area",
+   "autistic",
+   "bells",
+   "boards",
+   "cities",
+   "dad",
+   "help",
+   "home",
+   "like",
+   "moved",
+   "moves",
+   "ontario",
+   "public",
+   "raising",
+   "school",
+   "sold",
+   "son",
+   "toronto"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "A Toronto-area dad sold his home and moved cities to help his autistic son. Why moves like his are raising alarm bells at Ontario public school boards"
+ },
+ {
+  "tokens": [
+   "'absolutely",
+   "'caged'",
+   "completely",
+   "horrified'",
+   "hospital",
+   "isolation",
+   "left",
+   "life",
+   "ontario",
+   "son",
+   "video",
+   "years"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "Her son was 'caged' for 5 years. Video of his life in isolation at this Ontario hospital has left her 'absolutely, completely horrified'"
+ },
+ {
+  "tokens": [
+   "back",
+   "carney",
+   "donald",
+   "european",
+   "it's",
+   "looking",
+   "looks",
+   "mark",
+   "rages",
+   "trade",
+   "trump's",
+   "union",
+   "war"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "As Donald Trump's trade war rages, Mark Carney looks to the European Union \u2014 and it's looking back"
+ },
+ {
+  "tokens": [
+   "2026",
+   "canjam",
+   "headphones",
+   "weird",
+   "wonderful"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "The weird and wonderful headphones of CanJam 2026"
+ },
+ {
+  "tokens": [
+   "2026",
+   "alexa",
+   "best",
+   "speakers",
+   "tested"
+  ],
+  "first_seen": "2026-09-06T16:58:41.108928+00:00",
+  "last_seen": "2026-09-06T16:58:41.108928+00:00",
+  "headline": "4 Best Alexa Speakers I\u2019ve Tested (2026)"
+ }
+]

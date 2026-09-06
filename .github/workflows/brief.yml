@@ -27,6 +27,8 @@ jobs:
       - name: Build brief
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PROQUEST_ACCOUNT: ${{ secrets.PROQUEST_ACCOUNT }}
+          PROQUEST_PREFIX: ${{ secrets.PROQUEST_PREFIX }}
         run: python brief.py
 
       - name: Commit

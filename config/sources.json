@@ -44,7 +44,7 @@
   ],
 
   "link_out": {
-    "_comment": "Fill proquest_prefix after you test one link from off-campus. It is either the EZproxy service at login.library.utoronto.ca or the OpenAthens proxy. Leave empty to link straight to proquest.com.",
+    "_comment": "Both of these are read from the PROQUEST_PREFIX and PROQUEST_ACCOUNT environment variables first, so they can stay out of a public repo. Set them as GitHub Actions secrets. Filling them in here works too if you would rather keep the repo private. Empty prefix links straight to proquest.com, which works on campus.",
     "proquest_prefix": "",
     "proquest_account": ""
   }

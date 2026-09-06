@@ -82,9 +82,13 @@ section will have nothing to draw from.
 
 ## The ProQuest link
 
-`link_out.proquest_prefix` in `sources.json` is empty by default, which links
-straight to proquest.com. That works on campus. From off campus you probably
-need a proxy prefix.
+Your account id and proxy prefix are read from the `PROQUEST_ACCOUNT` and
+`PROQUEST_PREFIX` environment variables, falling back to `link_out` in
+`sources.json`. Keep them in the environment so a public repo never names your
+library account. Set them as Actions secrets alongside `ANTHROPIC_API_KEY`.
+
+With neither set the link goes to a plain proquest.com search, which works on
+campus. From off campus you probably need the proxy prefix.
 
 Test one link from your phone on cell data. If the bare link asks you to log
 in, find the prefix your library uses and paste it in. UofT runs EZproxy at
