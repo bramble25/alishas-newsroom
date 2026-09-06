@@ -45,6 +45,8 @@ IMAGE_TIMEOUT = 6          # seconds per og:image lookup
 IMAGE_WORKERS = 8         # concurrent lookups
 IMAGE_CACHE_DAYS = 60     # forget entries not seen for this long
 
+WIKI_API = "https://en.wikipedia.org/w/api.php"
+
 REPEAT_WINDOW_DAYS = 30   # how far back to look for a headline already shown
 REPEAT_THRESHOLD = 0.45   # tuned: unrelated headlines peak at 0.30, rewordings
                           # of one story bottom out at 0.56, so 0.45 sits in the gap
@@ -314,6 +316,84 @@ def fetch_og_image(link):
         return None
 
 
+# Capitalised but tells you nothing about the subject. A headline ending "for
+# October" should not return a photograph of autumn leaves.
+GENERIC_CAPS = set("""
+january february march april may june july august september october november
+december monday tuesday wednesday thursday friday saturday sunday
+us u.s. uk u.k. eu un nato ap afp reuters bloomberg exclusive update analysis
+new north south east west first second world war city state government report
+""".split())
+
+
+def topic_terms(title):
+    """Candidate search terms for a headline, most specific first.
+
+    "At least 25 killed in bus crash on Cape Verde's Fogo island"
+      -> ["Cape Verde's Fogo"]
+    Multi-word proper nouns beat single ones, and single ones are tried in the
+    order they appear. Generic capitalised words are ignored entirely.
+    """
+    words = re.findall(r"[A-Za-z][A-Za-z'\u2019.-]*", title or "")
+    runs, current = [], []
+    for word in words:
+        bare = word.strip(".'\u2019").lower()
+        if word[:1].isupper() and bare not in STOPWORDS and bare not in GENERIC_CAPS:
+            current.append(word)
+        else:
+            if current:
+                runs.append(current)
+            current = []
+    if current:
+        runs.append(current)
+
+    multi = [r for r in runs if len(r) >= 2]
+    multi.sort(key=lambda r: -len(r))
+    single = [r for r in runs if len(r) == 1 and len(r[0].strip(".'")) >= 4]
+    terms = [" ".join(r)[:120] for r in multi + single]
+
+    if not terms:
+        tokens = [w for w in re.findall(r"[a-z0-9']+", (title or "").lower())
+                  if len(w) > 3 and w not in STOPWORDS]
+        if len(tokens) >= 2:
+            terms = [" ".join(tokens[:3])[:120]]
+    return terms[:3]
+
+
+def wiki_topic_image(title):
+    """Last resort: a freely licensed photo of what the story is about.
+
+    This is a picture of the subject, not a picture from the article, so it is
+    only reached when the feed and the article page have both come up empty.
+    Wikimedia URLs are stable and the images are free to embed. Diagrams and
+    flags are skipped: an SVG crops badly into a photo slot and tells you
+    nothing you did not already know from the headline.
+    """
+    for term in topic_terms(title):
+        try:
+            resp = requests.get(
+                WIKI_API, timeout=IMAGE_TIMEOUT,
+                headers={"User-Agent":
+                         "personal-news-brief/1.0 (private daily brief)"},
+                params={"action": "query", "generator": "search",
+                        "gsrsearch": term, "gsrlimit": 1, "gsrnamespace": 0,
+                        "prop": "pageimages", "piprop": "original",
+                        "format": "json"})
+            if resp.status_code != 200:
+                continue
+            pages = ((resp.json() or {}).get("query") or {}).get("pages") or {}
+            for page in pages.values():
+                src = (page.get("original") or {}).get("source") or ""
+                if src.lower().split("?")[0].endswith((".svg", ".gif")):
+                    continue
+                found = usable_image(src)
+                if found:
+                    return found
+        except Exception:
+            continue
+    return None
+
+
 def load_image_cache():
     path = os.path.join(DATA_DIR, "images.json")
     if not os.path.exists(path):
@@ -369,6 +449,18 @@ def resolve_images(articles):
             a["image"] = src or ""
             cache[a["link"]] = {"src": src, "seen": today}
         print(f"  {sum(1 for s in found if s)} of {len(pending)} resolved")
+
+    # Third pass: still nothing, so fall back to a photo of the subject.
+    stranded = [a for a in articles
+                if not a.get("image") and not cache.get(a["link"], {}).get("wiki")]
+    if stranded:
+        print(f"Topic images for {len(stranded)} articles with no photo of their own")
+        with ThreadPoolExecutor(max_workers=IMAGE_WORKERS) as pool:
+            found = list(pool.map(lambda a: wiki_topic_image(a["title"]), stranded))
+        for a, src in zip(stranded, found):
+            a["image"] = src or ""
+            cache[a["link"]] = {"src": src, "seen": today, "wiki": True}
+        print(f"  {sum(1 for s in found if s)} of {len(stranded)} resolved")
 
     save_image_cache(cache)
 
