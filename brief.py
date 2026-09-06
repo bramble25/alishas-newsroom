@@ -678,7 +678,12 @@ def drop_repeats(clusters, history):
 
 
 def record_shown(assigned, columns, today, history):
-    """Remember tonight what must not come back tomorrow."""
+    """Remember tonight what must not come back tomorrow.
+
+    Today's rows are rewritten rather than appended, so repeated runs on one
+    day leave one clean record instead of a growing pile.
+    """
+    history = [r for r in history if r.get("date") != today]
     for items in assigned.values():
         for c in items:
             history.append({"link": c["lead"]["link"], "title": c["lead"]["title"],
@@ -1405,6 +1410,9 @@ def main():
         print("No articles fetched. Run check_feeds.py.")
         return 1
 
+    when = datetime.now(TIMEZONE)
+    today = when.date().isoformat()
+
     held, articles = split_periodic(articles, sections)
 
     clusters = score_clusters(cluster(articles))
@@ -1413,7 +1421,10 @@ def main():
     clusters = apply_history(clusters, load_history())
 
     shown_history = load_shown()
-    clusters = drop_repeats(clusters, shown_history)
+    # Today's own entries are excluded: rebuilding today's page must not treat
+    # this morning's cards as yesterday's news and blank the whole brief.
+    clusters = drop_repeats(
+        clusters, [r for r in shown_history if r.get("date") != today])
 
     assigned = route(clusters, sections)
 
@@ -1428,9 +1439,6 @@ def main():
     resolve_images(displayed_leads(assigned, sections))
 
     summaries = summarize(assigned, columns, sections)
-
-    when = datetime.now(TIMEZONE)
-    today = when.date().isoformat()
 
     os.makedirs(DATA_DIR, exist_ok=True)
     index_path = os.path.join(DATA_DIR, "index.json")

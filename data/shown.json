@@ -14,23 +14,6 @@
   "date": "2026-09-06"
  },
  {
-  "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-  "title": "German far-right set for big win in eastern state - exit polls",
-  "tokens": [
-   "big",
-   "eastern",
-   "exit",
-   "far",
-   "german",
-   "polls",
-   "right",
-   "set",
-   "state",
-   "win"
-  ],
-  "date": "2026-09-06"
- },
- {
   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGJhTEdnY3M5SW14Zl9NREdqbGZZNzZnRVVfcFZ3UUVHQXBJZXFRMVBJd1NHQXZfR3RxYWxPSmtXdmJMSmJ4QnNmSFA2eU9Wd0s2TVhWZXB5bVc3aHgzVFRaUWVmQWkzWlRubjNHODRLdmhwZXFIZFd4N09vWTExVlRyLXprd1BULTJuT3J2UjB0OG94eGk5b3RYTkgzT3l4blkwemxkcW9PVVRYbFBzYQ?oc=5",
   "title": "Nepali woman found alive days after family began mourning rites - Reuters",
   "tokens": [
@@ -44,6 +27,26 @@
    "reuters",
    "rites",
    "woman"
+  ],
+  "date": "2026-09-06"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWkVzWDM5cENTaHhZNmdPZHRJUXd3NzRfQUs3RE1qUEU4UXlrTUJTaHR3VWEtbmVvS21PU0o3bTRuZ1ZiS1c1RU1NTm9EN2lKN1NCVklFRE5XMm9vZXVWWUotLWd5NjNCaUpEbVUtU2p4QkFjZDRNbW9LSmtKUEhyYmtxY3FaV0V6LXBOUDZYOTRpVTNNRC1qTXhaZzdIQ0x1ZXZKYXNBT1Y1U1J3ZlJ6QnJFSi1zVFhKOGRB?oc=5",
+  "title": "Far-right AfD posts historic German state election win, exit polls show - Reuters",
+  "tokens": [
+   "afd",
+   "election",
+   "exit",
+   "far",
+   "german",
+   "historic",
+   "polls",
+   "posts",
+   "reuters",
+   "right",
+   "show",
+   "state",
+   "win"
   ],
   "date": "2026-09-06"
  },
@@ -372,6 +375,22 @@
   "date": "2026-09-06"
  },
  {
+  "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+  "title": "German far-right set for big win in eastern state - projections",
+  "tokens": [
+   "big",
+   "eastern",
+   "far",
+   "german",
+   "projections",
+   "right",
+   "set",
+   "state",
+   "win"
+  ],
+  "date": "2026-09-06"
+ },
+ {
   "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
   "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
   "tokens": [
@@ -438,20 +457,6 @@
    "norway",
    "prince",
    "william"
-  ],
-  "date": "2026-09-06"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-  "title": "At least two dead in blast at Bolivia military barracks",
-  "tokens": [
-   "barracks",
-   "blast",
-   "bolivia",
-   "dead",
-   "least",
-   "military",
-   "two"
   ],
   "date": "2026-09-06"
  },
