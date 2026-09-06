@@ -1,0 +1,51 @@
+{
+  "_comment": "weight = how much this outlet's coverage counts toward consensus. 1.0 is a wire or paper of record. access: free = body extractable, proquest = link out to UofT ProQuest, manual = no clean link. region: world | us | ca",
+
+  "sources": [
+    { "name": "Reuters World",        "feed": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&hl=en-CA&gl=CA&ceid=CA:en", "weight": 1.0, "region": "world", "access": "free" },
+    { "name": "Associated Press",     "feed": "https://feeds.apnews.com/rss/apf-topnews",                  "weight": 1.0, "region": "world", "access": "free" },
+    { "name": "BBC News",             "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",               "weight": 1.0, "region": "world", "access": "free" },
+    { "name": "Al Jazeera",           "feed": "https://www.aljazeera.com/xml/rss/all.xml",                 "weight": 0.8, "region": "world", "access": "free" },
+    { "name": "The Guardian",         "feed": "https://www.theguardian.com/world/rss",                     "weight": 0.9, "region": "world", "access": "free" },
+    { "name": "France 24",            "feed": "https://www.france24.com/en/rss",                           "weight": 0.7, "region": "world", "access": "free" },
+    { "name": "Deutsche Welle",       "feed": "https://rss.dw.com/rdf/rss-en-world",                       "weight": 0.7, "region": "world", "access": "free" },
+
+    { "name": "NPR",                  "feed": "https://feeds.npr.org/1001/rss.xml",                        "weight": 0.9, "region": "us", "access": "free" },
+    { "name": "PBS NewsHour",         "feed": "https://www.pbs.org/newshour/feeds/rss/headlines",          "weight": 0.8, "region": "us", "access": "free" },
+    { "name": "Politico",             "feed": "https://rss.politico.com/politics-news.xml",                "weight": 0.8, "region": "us", "access": "free" },
+    { "name": "Axios",                "feed": "https://api.axios.com/feed/",                               "weight": 0.8, "region": "us", "access": "free" },
+    { "name": "The Hill",             "feed": "https://thehill.com/news/feed/",                            "weight": 0.6, "region": "us", "access": "free" },
+    { "name": "CNBC",                 "feed": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "weight": 0.8, "region": "us", "access": "free" },
+
+    { "name": "CBC News",             "feed": "https://www.cbc.ca/webfeed/rss/rss-topstories",             "weight": 1.0, "region": "ca", "access": "free" },
+    { "name": "CBC Politics",         "feed": "https://www.cbc.ca/webfeed/rss/rss-politics",               "weight": 0.9, "region": "ca", "access": "free" },
+    { "name": "CBC Business",         "feed": "https://www.cbc.ca/webfeed/rss/rss-business",               "weight": 0.8, "region": "ca", "access": "free" },
+    { "name": "CTV News",             "feed": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009", "weight": 0.9, "region": "ca", "access": "free" },
+    { "name": "Global News",          "feed": "https://globalnews.ca/feed/",                               "weight": 0.8, "region": "ca", "access": "free" },
+    { "name": "Financial Post",       "feed": "https://financialpost.com/feed",                            "weight": 0.8, "region": "ca", "access": "free" },
+    { "name": "National Post",        "feed": "https://nationalpost.com/feed",                             "weight": 0.7, "region": "ca", "access": "proquest", "proquest_id": "45458" },
+    { "name": "Toronto Star",         "feed": "https://www.thestar.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc", "weight": 0.8, "region": "ca", "access": "proquest", "proquest_id": "44892" },
+    { "name": "BetaKit",              "feed": "https://betakit.com/feed/",                                 "weight": 0.6, "region": "ca", "access": "free" },
+
+    { "name": "TechCrunch",           "feed": "https://techcrunch.com/feed/",                              "weight": 0.8, "region": "world", "access": "free" },
+    { "name": "The Verge",            "feed": "https://www.theverge.com/rss/index.xml",                    "weight": 0.7, "region": "world", "access": "free" },
+    { "name": "Ars Technica",         "feed": "https://feeds.arstechnica.com/arstechnica/index",           "weight": 0.7, "region": "world", "access": "free" },
+    { "name": "Wired",                "feed": "https://www.wired.com/feed/rss",                            "weight": 0.6, "region": "world", "access": "free" },
+    { "name": "VentureBeat",          "feed": "https://venturebeat.com/feed/",                             "weight": 0.5, "region": "world", "access": "free" },
+    { "name": "Crunchbase News",      "feed": "https://news.crunchbase.com/feed/",                         "weight": 0.6, "region": "world", "access": "free" },
+    { "name": "Sifted",               "feed": "https://sifted.eu/feed",                                    "weight": 0.5, "region": "world", "access": "free" },
+    { "name": "Reuters Technology",   "feed": "https://news.google.com/rss/search?q=when:24h+site:reuters.com+technology&hl=en-CA&gl=CA&ceid=CA:en", "weight": 0.9, "region": "world", "access": "free" },
+
+    { "name": "Defense News",         "feed": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "weight": 0.8, "region": "world", "access": "free" },
+    { "name": "Breaking Defense",     "feed": "https://breakingdefense.com/feed/",                          "weight": 0.8, "region": "world", "access": "free" },
+    { "name": "Defense One",          "feed": "https://www.defenseone.com/rss/all/",                        "weight": 0.7, "region": "world", "access": "free" },
+    { "name": "War on the Rocks",     "feed": "https://warontherocks.com/feed/",                            "weight": 0.5, "region": "world", "access": "free" },
+    { "name": "Ottawa Citizen",       "feed": "https://ottawacitizen.com/feed",                             "weight": 0.5, "region": "ca", "access": "free" }
+  ],
+
+  "link_out": {
+    "_comment": "Fill proquest_prefix after you test one link from off-campus. It is either the EZproxy service at login.library.utoronto.ca or the OpenAthens proxy. Leave empty to link straight to proquest.com.",
+    "proquest_prefix": "",
+    "proquest_account": ""
+  }
+}

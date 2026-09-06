@@ -1,0 +1,38 @@
+name: Daily brief
+
+on:
+  schedule:
+    # 10:00 UTC. That is 6am in Toronto during daylight time and 5am in winter.
+    # GitHub cron has no timezone support, so change to '0 11 * * *' in November
+    # if you want it to stay at 6am year round.
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install feedparser requests
+
+      - name: Build brief
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python brief.py
+
+      - name: Commit
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add docs data
+          git diff --staged --quiet || git commit -m "brief $(date -u +%Y-%m-%d)"
+          git push

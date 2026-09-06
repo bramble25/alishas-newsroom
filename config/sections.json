@@ -1,0 +1,105 @@
+{
+  "_comment": "Two different orderings, and they are deliberately different. match_order decides which section gets first claim on a story: verticals must claim before Top stories, or Top stories eats everything. order decides where the section appears on the page. To rearrange the page, change 'order'. Only touch 'match_order' if you want a section to win or lose a fight over a story.",
+
+  "sections": [
+    {
+      "id": "top",
+      "title": "Top stories",
+      "match_order": 40,
+      "order": 1,
+      "slots": 6,
+      "match": "consensus",
+      "note": "Whatever the most outlets are covering, regardless of subject. Politics, conflict, disasters and major incidents all surface here on their own."
+    },
+    {
+      "id": "canada",
+      "title": "Canada",
+      "match_order": 50,
+      "order": 2,
+      "slots": 4,
+      "match": "region",
+      "region": "ca",
+      "min_share": 0.5,
+      "note": "You did not name this one in the reorder. Set order to 6 to push it below Defense, or delete the block if you do not want it."
+    },
+    {
+      "id": "startups",
+      "title": "Startups and venture",
+      "match_order": 30,
+      "order": 3,
+      "slots": 5,
+      "match": "keyword",
+      "keywords": [
+        "raises", "raised", "funding round", "seed round", "pre-seed", "series a", "series b",
+        "series c", "series d", "venture capital", "vc firm", "valuation", "unicorn",
+        "led the round", "term sheet", "y combinator", "accelerator", "incubator",
+        "founders", "startup", "emerges from stealth", "out of stealth", "launches",
+        "new fund", "closes fund", "limited partners", "down round", "bridge round",
+        "acqui-hire", "shuts down", "winds down"
+      ]
+    },
+    {
+      "id": "bigtech",
+      "title": "Big tech",
+      "match_order": 20,
+      "order": 4,
+      "slots": 5,
+      "match": "entity_and_keyword",
+      "entities": [
+        "nvidia", "openai", "anthropic", "microsoft", "google", "alphabet", "apple", "amazon",
+        "meta", "tesla", "tsmc", "amd", "broadcom", "oracle", "salesforce", "intel", "samsung",
+        "bytedance", "tiktok", "xai", "spacex", "palantir", "uber", "airbnb", "shopify", "netflix"
+      ],
+      "keywords": [
+        "acquisition", "acquires", "acquired", "merger", "buyout", "takeover", "stake",
+        "antitrust", "lawsuit", "regulator", "fine", "probe", "investigation", "settlement",
+        "earnings", "revenue", "guidance", "layoffs", "job cuts", "restructuring",
+        "chief executive", "steps down", "resigns", "hires", "poaches",
+        "data centre", "data center", "capex", "chip export", "export controls",
+        "ipo", "share price", "market cap", "partnership", "deal", "contract", "outage", "breach"
+      ],
+      "exclude_keywords": [
+        "benchmark", "research paper", "arxiv", "model card", "fine-tuning tutorial",
+        "prompt engineering", "how to use", "review:", "hands-on", "best apps"
+      ]
+    },
+    {
+      "id": "defense",
+      "title": "Defense",
+      "match_order": 10,
+      "order": 5,
+      "slots": 4,
+      "match": "entity",
+      "entities": [
+        "palantir", "anduril", "lockheed", "raytheon", "rtx", "northrop", "general dynamics",
+        "bae systems", "rheinmetall", "saab", "thales", "leonardo", "kongsberg", "hanwha",
+        "shield ai", "epirus", "saronic", "helsing", "skydio", "quantum systems", "castelion",
+        "cae inc", "mda space", "calian", "kraken robotics", "irving shipbuilding", "seaspan",
+        "bombardier defense", "dominion dynamics"
+      ],
+      "keywords": [
+        "defence procurement", "defense procurement", "defence spending", "defense spending",
+        "nato", "norad", "pentagon", "department of national defence", "arms deal",
+        "munitions", "fighter jet", "missile defence", "missile defense", "drone warfare",
+        "military contract", "defence budget", "defense budget", "shipbuilding contract"
+      ]
+    },
+    {
+      "id": "by_outlet",
+      "title": "By outlet",
+      "match_order": 99,
+      "order": 6,
+      "match": "by_outlet",
+      "per_column": 6,
+      "note": "One column per newsroom. Anything already shown above is filtered out, so each column is genuinely what else that outlet is running today. An outlet name here must match a name in sources.json exactly.",
+      "columns": [
+        { "label": "Reuters",    "outlets": ["Reuters World", "Reuters Technology"] },
+        { "label": "BBC",        "outlets": ["BBC News"] },
+        { "label": "CBC",        "outlets": ["CBC News", "CBC Politics", "CBC Business"] },
+        { "label": "TechCrunch", "outlets": ["TechCrunch", "The Verge", "Ars Technica"] },
+        { "label": "Venture",    "outlets": ["Crunchbase News", "BetaKit", "Sifted", "VentureBeat"] },
+        { "label": "Defense",    "outlets": ["Defense News", "Breaking Defense", "Defense One"] }
+      ]
+    }
+  ]
+}
