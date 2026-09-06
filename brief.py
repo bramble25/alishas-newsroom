@@ -44,6 +44,10 @@ API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 IMAGE_TIMEOUT = 6          # seconds per og:image lookup
 IMAGE_WORKERS = 8         # concurrent lookups
 IMAGE_CACHE_DAYS = 60     # forget entries not seen for this long
+
+REPEAT_WINDOW_DAYS = 30   # how far back to look for a headline already shown
+REPEAT_THRESHOLD = 0.45   # tuned: unrelated headlines peak at 0.30, rewordings
+                          # of one story bottom out at 0.56, so 0.45 sits in the gap
 IMAGE_HEAD_BYTES = 1000000  # hard ceiling; reading stops at </head> long before
                            # this on every normal page
 
@@ -498,6 +502,98 @@ def apply_history(clusters, history):
     return clusters
 
 
+
+# ----------------------------------------------------------------------------
+# day-to-day repeats
+# ----------------------------------------------------------------------------
+
+# A brief that leads with yesterday's headline is not worth opening. A story
+# may well still be running, and the day N marker still says so, but it has to
+# earn its place with a headline you have not already read. When a cluster has
+# nothing new to say, it is dropped and a lower-ranked story takes the slot.
+#
+# This filters what is shown. It does not touch how anything is scored: cluster
+# order is untouched, and a new lead is only ever chosen from inside the
+# cluster's own articles, by the same weight and recency rule as before.
+
+
+def load_shown():
+    path = os.path.join(DATA_DIR, "shown.json")
+    if not os.path.exists(path):
+        return []
+    try:
+        with open(path) as f:
+            raw = json.load(f)
+    except Exception:
+        return []
+    cutoff = (datetime.now(timezone.utc).date()
+              - timedelta(days=REPEAT_WINDOW_DAYS)).isoformat()
+    return [r for r in raw
+            if isinstance(r, dict) and r.get("date", "") >= cutoff]
+
+
+def save_shown(shown):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(os.path.join(DATA_DIR, "shown.json"), "w") as f:
+        json.dump(shown, f, indent=1)
+
+
+def seen_before(title, link, history):
+    """True if this headline, or one close enough to it, already ran."""
+    if any(r.get("link") == link for r in history):
+        return True
+    tokens = tokenize(title)
+    if not tokens:
+        return False
+    for record in history:
+        if similarity(tokens, set(record.get("tokens", []))) >= REPEAT_THRESHOLD:
+            return True
+    return False
+
+
+def drop_repeats(clusters, history):
+    """Re-lead or drop any cluster whose headline already ran."""
+    if not history:
+        return clusters
+
+    kept, reled, dropped = [], 0, 0
+    for c in clusters:
+        if not seen_before(c["lead"]["title"], c["lead"]["link"], history):
+            kept.append(c)
+            continue
+
+        # same story, but is any other outlet saying something new about it
+        alternates = sorted(
+            (a for a in c["articles"] if a is not c["lead"]),
+            key=lambda a: (-a["weight"], -a["published"].timestamp()))
+        fresh = next((a for a in alternates
+                      if not seen_before(a["title"], a["link"], history)), None)
+        if fresh:
+            c["lead"] = fresh
+            kept.append(c)
+            reled += 1
+        else:
+            dropped += 1
+
+    print(f"  {reled} re-led on a newer headline, {dropped} dropped as already run")
+    return kept
+
+
+def record_shown(assigned, columns, today, history):
+    """Remember tonight what must not come back tomorrow."""
+    for items in assigned.values():
+        for c in items:
+            history.append({"link": c["lead"]["link"], "title": c["lead"]["title"],
+                            "tokens": sorted(tokenize(c["lead"]["title"]))[:40],
+                            "date": today})
+    for col in columns:
+        for a in col["articles"]:
+            history.append({"link": a["link"], "title": a["title"],
+                            "tokens": sorted(tokenize(a["title"]))[:40],
+                            "date": today})
+    return history
+
+
 # ----------------------------------------------------------------------------
 # routing
 # ----------------------------------------------------------------------------
@@ -566,13 +662,16 @@ def route(clusters, sections):
     return assigned
 
 
-def build_columns(articles, assigned, section):
+def build_columns(articles, assigned, section, history=()):
     """Group leftover articles by outlet for the bottom grid.
 
     Anything already shown in a story section is filtered out by link and by
     title, so a column is genuinely what else that newsroom is running.
     """
     shown_links, shown_titles = set(), set()
+    for record in history:                      # anything already run, any day
+        shown_links.add(record.get("link"))
+        shown_titles.add((record.get("title") or "").lower()[:70])
     for items in assigned.values():
         for c in items:
             for a in c["articles"]:
@@ -1195,6 +1294,9 @@ def main():
         c["uid"] = f"s{i}"
     clusters = apply_history(clusters, load_history())
 
+    shown_history = load_shown()
+    clusters = drop_repeats(clusters, shown_history)
+
     assigned = route(clusters, sections)
 
     seen_periodic = load_seen_periodic()
@@ -1202,7 +1304,7 @@ def main():
         assigned[sid] = items
 
     col_section = next(s for s in sections if s["match"] == "by_outlet")
-    columns = build_columns(articles, assigned, col_section)
+    columns = build_columns(articles, assigned, col_section, shown_history)
 
     # after routing on purpose: only the cards that will be shown cost a request
     resolve_images(displayed_leads(assigned, sections))
@@ -1262,6 +1364,7 @@ def main():
         for c in assigned.get(section["id"], []):
             seen_periodic[c["lead"]["link"]] = today
     save_seen_periodic(seen_periodic)
+    save_shown(record_shown(assigned, columns, today, shown_history))
 
     print(f"\nWrote docs/{today}.html, docs/index.html, docs/archive.html")
     return 0
