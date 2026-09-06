@@ -27,7 +27,7 @@ import sys
 import calendar as cal
 from datetime import datetime, timezone, timedelta, date
 from concurrent.futures import ThreadPoolExecutor
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urljoin, urlparse
 
 import feedparser
 import requests
@@ -39,6 +39,11 @@ OUT_DIR = os.path.join(ROOT, "docs")
 
 MODEL = os.environ.get("BRIEF_MODEL", "claude-sonnet-4-6")
 API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+
+IMAGE_TIMEOUT = 6          # seconds per og:image lookup
+IMAGE_WORKERS = 8         # concurrent lookups
+IMAGE_CACHE_DAYS = 60     # forget entries not seen for this long
+IMAGE_HEAD_BYTES = 200000  # og:image lives in <head>, so stop reading early
 
 MAX_AGE_HOURS = 30
 CLUSTER_THRESHOLD = 0.42
@@ -102,6 +107,7 @@ def fetch_one(source):
             "region": source.get("region", "world"),
             "access": source.get("access", "free"),
             "proquest_id": source.get("proquest_id"),
+            "image": image_from_entry(entry, source["feed"]) or "",
         })
 
     print(f"  {source['name']}: {len(articles)}")
@@ -113,6 +119,179 @@ def fetch_all(sources):
     with ThreadPoolExecutor(max_workers=12) as pool:
         batches = pool.map(fetch_one, sources)
     return [a for batch in batches for a in batch]
+
+
+# ----------------------------------------------------------------------------
+# images
+# ----------------------------------------------------------------------------
+
+# Images are hotlinked, never downloaded. A year of downloaded art would add a
+# few hundred megabytes to a repo whose pages are read once and then archived.
+
+IMG_ATTR = re.compile(r"<img[^>]+src=[\"\']([^\"\']+)[\"\']", re.I)
+OG_TAG = re.compile(
+    r"<meta[^>]+(?:property|name)=[\"\']"
+    r"(og:image(?::secure_url|:url)?|twitter:image(?::src)?)[\"\']"
+    r"[^>]*?content=[\"\']([^\"\']+)[\"\']", re.I)
+OG_TAG_REV = re.compile(
+    r"<meta[^>]+content=[\"\']([^\"\']+)[\"\'][^>]*?"
+    r"(?:property|name)=[\"\'](og:image(?::secure_url|:url)?|twitter:image(?::src)?)[\"\']",
+    re.I)
+
+
+def usable_image(url, base=None):
+    """Absolute http(s) URL, or None. Rejects data URIs and tracking pixels."""
+    if not url:
+        return None
+    url = html.unescape(url.strip())
+    if not url or url.startswith("data:"):
+        return None
+    if base:
+        url = urljoin(base, url)
+    parsed = urlparse(url)
+    if parsed.scheme not in ("http", "https") or not parsed.netloc:
+        return None
+    if re.search(r"\b1x1\b|/pixel\.|spacer\.gif|blank\.gif", url, re.I):
+        return None
+    return url
+
+
+def image_from_entry(entry, base=None):
+    """Cheapest path: an image the feed already handed us. No extra request."""
+    for media in entry.get("media_content") or []:
+        if isinstance(media, dict):
+            kind = (media.get("medium") or media.get("type") or "")
+            if kind and not kind.startswith("image"):
+                continue
+            found = usable_image(media.get("url"), base)
+            if found:
+                return found
+
+    for thumb in entry.get("media_thumbnail") or []:
+        if isinstance(thumb, dict):
+            found = usable_image(thumb.get("url"), base)
+            if found:
+                return found
+
+    for link in entry.get("links") or []:
+        if isinstance(link, dict) and (link.get("type") or "").startswith("image/"):
+            found = usable_image(link.get("href"), base)
+            if found:
+                return found
+
+    blocks = [entry.get("summary") or ""]
+    for content in entry.get("content") or []:
+        if isinstance(content, dict):
+            blocks.append(content.get("value") or "")
+    for block in blocks:
+        for candidate in IMG_ATTR.findall(block):
+            found = usable_image(candidate, base)
+            if found:
+                return found
+    return None
+
+
+def fetch_og_image(link):
+    """Second path: read the article head for og:image. Never raises."""
+    try:
+        resp = requests.get(
+            link, timeout=IMAGE_TIMEOUT, stream=True, allow_redirects=True,
+            headers={"User-Agent": "personal-news-brief/1.0",
+                     "Accept": "text/html,application/xhtml+xml"})
+        if resp.status_code != 200:
+            return None
+        if "html" not in (resp.headers.get("content-type") or "").lower():
+            return None
+
+        head = b""
+        for chunk in resp.iter_content(16384):
+            head += chunk
+            if b"</head>" in head.lower() or len(head) >= IMAGE_HEAD_BYTES:
+                break
+        resp.close()
+
+        text = head.decode("utf-8", "ignore")
+        for pattern in (OG_TAG, OG_TAG_REV):
+            for groups in pattern.findall(text):
+                candidate = groups[1] if pattern is OG_TAG else groups[0]
+                found = usable_image(candidate, resp.url)
+                if found:
+                    return found
+    except Exception:
+        return None
+    return None
+
+
+def load_image_cache():
+    path = os.path.join(DATA_DIR, "images.json")
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path) as f:
+            raw = json.load(f)
+    except Exception:
+        return {}
+    cutoff = (datetime.now(timezone.utc).date()
+              - timedelta(days=IMAGE_CACHE_DAYS)).isoformat()
+    return {k: v for k, v in raw.items()
+            if isinstance(v, dict) and v.get("seen", "") >= cutoff}
+
+
+def save_image_cache(cache):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(os.path.join(DATA_DIR, "images.json"), "w") as f:
+        json.dump(cache, f, indent=1, sort_keys=True)
+
+
+def resolve_images(articles):
+    """Fill in .image for the articles that will actually be shown.
+
+    Anything the feed already gave us is free and already set. Only the
+    remainder costs a request, which is why this runs after routing: it is
+    roughly 25 lookups a day, not one per article fetched.
+    """
+    cache = load_image_cache()
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    for a in articles:
+        if a.get("image"):
+            cache[a["link"]] = {"src": a["image"], "seen": today}
+
+    pending = []
+    for a in articles:
+        if a.get("image"):
+            continue
+        hit = cache.get(a["link"])
+        if hit is not None:
+            # a null src is a remembered failure, so we do not retry it daily
+            a["image"] = hit.get("src") or ""
+            hit["seen"] = today
+        else:
+            pending.append(a)
+
+    if pending:
+        print(f"Resolving images for {len(pending)} articles")
+        with ThreadPoolExecutor(max_workers=IMAGE_WORKERS) as pool:
+            found = list(pool.map(lambda a: fetch_og_image(a["link"]), pending))
+        for a, src in zip(pending, found):
+            a["image"] = src or ""
+            cache[a["link"]] = {"src": src, "seen": today}
+        print(f"  {sum(1 for s in found if s)} of {len(pending)} resolved")
+
+    save_image_cache(cache)
+    return articles
+
+
+def displayed_leads(assigned, sections):
+    """The lead article of every card that will be rendered with an image."""
+    by_id = {s["id"]: s for s in sections}
+    leads = []
+    for sid, items in assigned.items():
+        if by_id.get(sid, {}).get("match") == "by_outlet":
+            continue
+        for c in items:
+            leads.append(c["lead"])
+    return leads
 
 
 # ----------------------------------------------------------------------------
@@ -765,6 +944,10 @@ def main():
     assigned = route(clusters, sections)
     col_section = next(s for s in sections if s["match"] == "by_outlet")
     columns = build_columns(articles, assigned, col_section)
+
+    # after routing on purpose: only the cards that will be shown cost a request
+    resolve_images(displayed_leads(assigned, sections))
+
     summaries = summarize(assigned, columns, sections)
 
     when = datetime.now(TIMEZONE)
