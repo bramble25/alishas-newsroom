@@ -28,6 +28,7 @@ import calendar as cal
 from datetime import datetime, timezone, timedelta, date
 from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import quote_plus, urljoin, urlparse
+from html.parser import HTMLParser
 
 import feedparser
 import requests
@@ -43,7 +44,8 @@ API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 IMAGE_TIMEOUT = 6          # seconds per og:image lookup
 IMAGE_WORKERS = 8         # concurrent lookups
 IMAGE_CACHE_DAYS = 60     # forget entries not seen for this long
-IMAGE_HEAD_BYTES = 200000  # og:image lives in <head>, so stop reading early
+IMAGE_HEAD_BYTES = 1000000  # hard ceiling; reading stops at </head> long before
+                           # this on every normal page
 
 MAX_AGE_HOURS = 30
 CLUSTER_THRESHOLD = 0.42
@@ -128,15 +130,13 @@ def fetch_all(sources):
 # Images are hotlinked, never downloaded. A year of downloaded art would add a
 # few hundred megabytes to a repo whose pages are read once and then archived.
 
-IMG_ATTR = re.compile(r"<img[^>]+src=[\"\']([^\"\']+)[\"\']", re.I)
-OG_TAG = re.compile(
-    r"<meta[^>]+(?:property|name)=[\"\']"
-    r"(og:image(?::secure_url|:url)?|twitter:image(?::src)?)[\"\']"
-    r"[^>]*?content=[\"\']([^\"\']+)[\"\']", re.I)
-OG_TAG_REV = re.compile(
-    r"<meta[^>]+content=[\"\']([^\"\']+)[\"\'][^>]*?"
-    r"(?:property|name)=[\"\'](og:image(?::secure_url|:url)?|twitter:image(?::src)?)[\"\']",
-    re.I)
+IMG_ATTR = re.compile(r"<img[^>]+src=[\"\']?([^\"\'\s>]+)", re.I)
+
+# Meta keys worth reading, best first. Postmedia writes these unquoted
+# (content=https://... property=og:image), which is legal HTML and which a
+# regex over quoted attributes silently misses, so the head is parsed properly.
+META_KEYS = ("og:image", "og:image:secure_url", "og:image:url",
+             "twitter:image", "twitter:image:src", "image")
 
 
 def usable_image(url, base=None):
@@ -191,8 +191,102 @@ def image_from_entry(entry, base=None):
     return None
 
 
+class HeadImages(HTMLParser):
+    """Collects every image candidate in a document head, however it is quoted."""
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.meta = {}
+        self.link_image = None
+        self.ld_blocks = []
+        self._in_ld = False
+
+    def handle_starttag(self, tag, attrs):
+        a = {k.lower(): (v or "") for k, v in attrs}
+        if tag == "meta":
+            key = (a.get("property") or a.get("name") or a.get("itemprop") or "").lower()
+            if key in META_KEYS and a.get("content") and key not in self.meta:
+                self.meta[key] = a["content"]
+        elif tag == "link":
+            rel = (a.get("rel") or "").lower()
+            if "image_src" in rel and a.get("href") and not self.link_image:
+                self.link_image = a["href"]
+        elif tag == "script":
+            if "ld+json" in (a.get("type") or "").lower():
+                self._in_ld = True
+
+    def handle_endtag(self, tag):
+        if tag == "script":
+            self._in_ld = False
+
+    def handle_data(self, data):
+        if self._in_ld and data.strip():
+            self.ld_blocks.append(data)
+
+
+def ld_images(blocks):
+    """Pull image URLs out of schema.org JSON-LD, whatever shape it takes."""
+    found = []
+
+    def walk(node):
+        if isinstance(node, dict):
+            for key, value in node.items():
+                if key.lower() == "image":
+                    if isinstance(value, str):
+                        found.append(value)
+                    elif isinstance(value, dict):
+                        if isinstance(value.get("url"), str):
+                            found.append(value["url"])
+                    elif isinstance(value, list):
+                        for item in value:
+                            if isinstance(item, str):
+                                found.append(item)
+                            elif isinstance(item, dict) and isinstance(item.get("url"), str):
+                                found.append(item["url"])
+                else:
+                    walk(value)
+        elif isinstance(node, list):
+            for item in node:
+                walk(item)
+
+    for block in blocks:
+        try:
+            walk(json.loads(block))
+        except Exception:
+            continue
+    return found
+
+
+def image_from_html(text, base):
+    """Best image the article page declares about itself. Never raises."""
+    try:
+        parser = HeadImages()
+        parser.feed(text)
+    except Exception:
+        return None
+
+    for key in META_KEYS:
+        found = usable_image(parser.meta.get(key), base)
+        if found:
+            return found
+
+    found = usable_image(parser.link_image, base)
+    if found:
+        return found
+
+    for candidate in ld_images(parser.ld_blocks):
+        found = usable_image(candidate, base)
+        if found:
+            return found
+    return None
+
+
 def fetch_og_image(link):
-    """Second path: read the article head for og:image. Never raises."""
+    """Second path: read what the article page declares about itself.
+
+    Reads only as far as </head> on a normal page. Returns None on every
+    failure path, so one bad article can never take down a morning's build.
+    """
     try:
         resp = requests.get(
             link, timeout=IMAGE_TIMEOUT, stream=True, allow_redirects=True,
@@ -202,24 +296,18 @@ def fetch_og_image(link):
             return None
         if "html" not in (resp.headers.get("content-type") or "").lower():
             return None
+        if "news.google.com" in urlparse(resp.url).netloc:
+            return None  # its og:image is the Google News logo, not the article
 
         head = b""
-        for chunk in resp.iter_content(16384):
+        for chunk in resp.iter_content(32768):
             head += chunk
-            if b"</head>" in head.lower() or len(head) >= IMAGE_HEAD_BYTES:
+            if b"</head" in head.lower() or len(head) >= IMAGE_HEAD_BYTES:
                 break
         resp.close()
-
-        text = head.decode("utf-8", "ignore")
-        for pattern in (OG_TAG, OG_TAG_REV):
-            for groups in pattern.findall(text):
-                candidate = groups[1] if pattern is OG_TAG else groups[0]
-                found = usable_image(candidate, resp.url)
-                if found:
-                    return found
+        return image_from_html(head.decode("utf-8", "ignore"), resp.url)
     except Exception:
         return None
-    return None
 
 
 def load_image_cache():
@@ -279,6 +367,20 @@ def resolve_images(articles):
         print(f"  {sum(1 for s in found if s)} of {len(pending)} resolved")
 
     save_image_cache(cache)
+
+    # A URL shared by two unrelated cards is a site default, not an article
+    # photo. Better an honest tinted block than the same picture three times.
+    counts = {}
+    for a in articles:
+        if a.get("image"):
+            counts[a["image"]] = counts.get(a["image"], 0) + 1
+    generic = {u for u, n in counts.items() if n > 1}
+    if generic:
+        for a in articles:
+            if a.get("image") in generic:
+                a["image"] = ""
+        print(f"  dropped {len(generic)} generic image(s) reused across cards")
+
     return articles
 
 
