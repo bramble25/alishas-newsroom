@@ -414,61 +414,120 @@ def summarize(assigned, columns, sections):
 
 CSS = """
 :root{
-  --paper:#EEEFF1; --ink:#17191C; --soft:#5A5F66; --rule:#D5D8DC;
-  --signal:#24409E; --quiet:#9AA1AE; --flag:#8A3324;
+  --paper:#F2F3F4; --ink:#101112; --ink-mid:#5B5F63; --ink-quiet:#8D9296;
+  --rule:#D6D8DA; --placeholder:#E2E4E6; --accent:#C8102E;
+  --col:3;
 }
 *{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
 body{margin:0; background:var(--paper); color:var(--ink);
-  font-family:Newsreader,Georgia,serif; font-size:17px; line-height:1.5;
-  -webkit-font-smoothing:antialiased}
-.wrap{max-width:760px; margin:0 auto; padding:40px 24px 96px}
-nav{display:flex; gap:16px; align-items:baseline; font-size:13px;
-  color:var(--quiet); margin-bottom:36px}
-nav a{color:var(--soft); text-decoration:none; border-bottom:1px solid var(--rule)}
-nav a:hover,nav a:focus{color:var(--signal); border-bottom-color:var(--signal)}
-nav .sp{flex:1}
-header{margin-bottom:52px}
-h1{font-size:15px; font-weight:400; color:var(--soft); margin:0 0 6px}
-.count{font-size:34px; font-weight:500; line-height:1.15; margin:0; max-width:22ch}
-.count b{font-weight:600; color:var(--signal); font-variant-numeric:tabular-nums}
+  font-family:Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased}
+img{max-width:100%}
+a{color:inherit; text-decoration:none}
+.wrap{max-width:1280px; margin:0 auto; padding:36px 28px 96px}
 
-section{margin-bottom:52px}
-h2{font-size:13px; font-weight:600; margin:0 0 4px; padding-bottom:8px;
-  border-bottom:1px solid var(--rule)}
-.gist{font-size:15px; color:var(--soft); margin:12px 0 24px; max-width:64ch}
+/* masthead ---------------------------------------------------------------- */
+.mast{display:flex; align-items:flex-start; justify-content:space-between;
+  gap:24px; margin-bottom:44px}
+.mark{font-size:44px; font-weight:800; letter-spacing:-.03em; line-height:.95;
+  margin:0; color:var(--ink)}
+.mast-right{text-align:right; padding-top:6px}
+.mast-date{font-size:11px; font-weight:500; letter-spacing:.06em;
+  color:var(--ink-quiet); margin:0 0 2px}
+.mast-tally{font-size:11px; font-weight:400; color:var(--ink-quiet); margin:0 0 8px}
+nav{display:flex; justify-content:flex-end; align-items:baseline; gap:14px;
+  font-size:11px; font-weight:500; letter-spacing:.06em}
+nav a{color:var(--ink-mid); border-bottom:1px solid var(--rule); padding-bottom:1px}
+nav a:hover{color:var(--ink); border-bottom-color:var(--ink)}
+nav .sp{width:2px}
 
-.story{display:flex; gap:18px; margin-bottom:22px; align-items:baseline}
-.n{flex:0 0 42px; text-align:right; font-variant-numeric:tabular-nums;
-  font-size:19px; font-weight:500; color:var(--quiet); padding-top:1px}
-.n.mid{color:var(--signal); opacity:.62}
-.n.hot{color:var(--signal); font-weight:600}
-.bd{flex:1; min-width:0}
-.hl{font-size:18px; font-weight:500; line-height:1.35; margin:0 0 3px}
-.hl a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--rule)}
-.hl a:hover,.hl a:focus{border-bottom-color:var(--signal); color:var(--signal)}
-.sum{font-size:15px; color:var(--soft); margin:0 0 5px; max-width:60ch}
-.meta{font-size:13px; color:var(--quiet); margin:0}
-.meta .run{color:var(--flag)}
-.meta .gate{color:var(--soft)}
+/* section header ---------------------------------------------------------- */
+.sec{margin-bottom:52px}
+.sec-head{display:flex; align-items:center; gap:12px; margin:0 0 14px}
+.sec-badge{flex:0 0 auto; width:28px; height:28px; border-radius:50%;
+  background:var(--ink); color:var(--paper); display:flex; align-items:center;
+  justify-content:center; font-size:12px; font-weight:700; text-transform:uppercase}
+.sec-title{font-size:34px; font-weight:700; letter-spacing:-.02em; line-height:1;
+  margin:0; text-transform:uppercase}
+.sec-rule{height:1px; background:var(--rule); margin:0 0 0}
+.sec-gist{font-size:12px; color:var(--ink-mid); margin:12px 0 0; max-width:62ch}
 
-.cols{display:grid; grid-template-columns:repeat(3,1fr); gap:30px 26px; margin-top:24px}
-.col h3{font-size:13px; font-weight:600; margin:0 0 2px;
-  padding-bottom:6px; border-bottom:1px solid var(--rule)}
-.col .lede{font-size:12px; color:var(--quiet); margin:7px 0 10px; line-height:1.35}
+/* card grid --------------------------------------------------------------- */
+.grid{display:grid; grid-template-columns:repeat(var(--col),1fr); margin-top:0}
+.card{display:flex; flex-direction:column; padding:22px 20px 24px;
+  border-right:1px solid var(--rule); border-bottom:1px solid var(--rule);
+  min-width:0}
+.card:nth-child(3n){border-right:none}
+.card-hl{font-size:14px; font-weight:600; line-height:1.25; letter-spacing:-.005em;
+  margin:0 0 8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden; border-bottom:1px solid transparent}
+.card-hl:hover{border-bottom-color:var(--ink)}
+.card-sum{font-size:12px; font-weight:400; line-height:1.4; color:var(--ink-mid);
+  margin:0 0 18px; display:-webkit-box; -webkit-line-clamp:2;
+  -webkit-box-orient:vertical; overflow:hidden}
+.card-meta{display:flex; align-items:flex-end; justify-content:space-between;
+  gap:10px; margin-top:auto; margin-bottom:12px}
+.tags{display:flex; align-items:center; gap:6px; flex-wrap:wrap; min-width:0;
+  font-size:10px; font-weight:500; letter-spacing:.05em; color:var(--ink-quiet);
+  padding-bottom:5px}
+.dot{flex:0 0 auto; width:14px; height:14px; border-radius:50%; background:var(--ink);
+  color:var(--paper); display:flex; align-items:center; justify-content:center;
+  font-size:8px; font-weight:700; text-transform:uppercase}
+.tags .run{color:var(--ink-mid)}
+.tags .gate{color:var(--ink-mid)}
+.card-n{flex:0 0 auto; font-size:32px; font-weight:500; line-height:1;
+  letter-spacing:-.02em; font-variant-numeric:tabular-nums; color:var(--ink-quiet)}
+.card-n.mid{color:var(--ink)}
+.card-n.hot{color:var(--accent)}
+.card-media{position:relative; width:100%; aspect-ratio:4/3;
+  background:var(--placeholder); overflow:hidden}
+.card-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+
+/* by outlet --------------------------------------------------------------- */
+.cols{display:grid; grid-template-columns:repeat(var(--col),1fr)}
+.col{padding:22px 20px 24px; border-right:1px solid var(--rule);
+  border-bottom:1px solid var(--rule); min-width:0}
+.col:nth-child(3n){border-right:none}
+.col h3{font-size:12px; font-weight:700; letter-spacing:.06em; margin:0 0 4px;
+  text-transform:uppercase}
+.col .lede{font-size:11px; color:var(--ink-quiet); margin:0 0 12px; line-height:1.35}
 .col ul{list-style:none; margin:0; padding:0}
-.col li{margin-bottom:9px; font-size:14px; line-height:1.35}
-.col a{color:var(--ink); text-decoration:none; border-bottom:1px solid transparent}
-.col a:hover,.col a:focus{border-bottom-color:var(--signal); color:var(--signal)}
+.col li{margin-bottom:10px; font-size:13px; font-weight:500; line-height:1.3}
+.col li a{border-bottom:1px solid transparent}
+.col li a:hover{border-bottom-color:var(--ink)}
 
-footer{margin-top:64px; padding-top:16px; border-top:1px solid var(--rule);
-  font-size:13px; color:var(--quiet)}
-a:focus-visible{outline:2px solid var(--signal); outline-offset:3px}
-@media (max-width:720px){ .cols{grid-template-columns:repeat(2,1fr)} }
-@media (max-width:560px){
-  .wrap{padding:28px 18px 72px}
-  .count{font-size:27px}
-  .story{gap:12px} .n{flex-basis:32px; font-size:17px}
-  .cols{grid-template-columns:1fr; gap:26px}
+footer{margin-top:56px; padding-top:16px; border-top:1px solid var(--rule);
+  font-size:11px; color:var(--ink-quiet); max-width:72ch; line-height:1.5}
+
+a:focus-visible,.card-hl:focus-visible{outline:2px solid var(--accent);
+  outline-offset:2px; border-bottom-color:transparent}
+
+@media (max-width:1023px){
+  :root{--col:2}
+  .card:nth-child(3n),.col:nth-child(3n){border-right:1px solid var(--rule)}
+  .card:nth-child(2n),.col:nth-child(2n){border-right:none}
+  .mark{font-size:36px}
+  .sec-title{font-size:28px}
+}
+@media (max-width:767px){
+  :root{--col:1}
+  .wrap{padding:24px 16px 72px}
+  .mast{flex-direction:column; gap:14px}
+  .mast-right{text-align:left; padding-top:0}
+  nav{justify-content:flex-start}
+  .mark{font-size:34px}
+  .sec-title{font-size:24px}
+  .sec-badge{width:24px; height:24px; font-size:11px}
+  .card,.col{padding:20px 0 22px; border-right:none}
+  .card:nth-child(3n),.card:nth-child(2n),
+  .col:nth-child(3n),.col:nth-child(2n){border-right:none}
+  .card-n{font-size:28px}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{transition:none!important; animation:none!important;
+    scroll-behavior:auto!important}
 }
 """
 
@@ -476,8 +535,14 @@ HEAD = ("<!doctype html><html lang='en'><head><meta charset='utf-8'>"
         "<meta name='viewport' content='width=device-width,initial-scale=1'>"
         "<link rel='preconnect' href='https://fonts.googleapis.com'>"
         "<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>"
-        "<link href='https://fonts.googleapis.com/css2?family=Newsreader:opsz,"
-        "wght@6..72,400;6..72,500;6..72,600&display=swap' rel='stylesheet'>")
+        "<link href='https://fonts.googleapis.com/css2?family=Archivo:wght@"
+        "400;500;600;700;800&display=swap' rel='stylesheet'>")
+
+WORDMARK = "Alicia's newsroom"
+
+# An image that fails at view time collapses so the tinted block behind it
+# shows through. A never-resolved image and a dead one look identical.
+IMG_ONERROR = "this.style.display='none'"
 
 
 def tier(n):
@@ -491,6 +556,30 @@ def read_link(c, link_out):
                f"?accountid={link_out.get('proquest_account', '')}")
         return (link_out.get("proquest_prefix") or "") + url, "via ProQuest"
     return lead["link"], None
+
+
+def card_media(c):
+    """The image slot. Always present, so a missing image is a tonal block
+    rather than a hole in the grid."""
+    url = (c.get("lead") or {}).get("image") or ""
+    if not url:
+        return "<div class='card-media'></div>"
+    alt = html.escape(c["lead"]["title"], quote=True)
+    return ("<div class='card-media'>"
+            f"<img src='{html.escape(url, quote=True)}' alt='{alt}' "
+            f"loading='lazy' referrerpolicy='no-referrer' "
+            f"onerror=\"{IMG_ONERROR}\"></div>")
+
+
+def section_head(title, gist=None):
+    initial = html.escape(title.strip()[:1])
+    out = ["<div class='sec-head'>",
+           f"<span class='sec-badge' aria-hidden='true'>{initial}</span>",
+           f"<h2 class='sec-title'>{html.escape(title)}</h2>",
+           "</div>", "<div class='sec-rule'></div>"]
+    if gist:
+        out.append(f"<p class='sec-gist'>{html.escape(gist)}</p>")
+    return "".join(out)
 
 
 def render(assigned, columns, sections, summaries, link_out, total, when,
@@ -510,18 +599,23 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
 
     out = [HEAD, f"<title>Brief, {when:%-d %B %Y}</title>",
            f"<style>{CSS}</style></head><body><div class='wrap'>",
-           "<nav>" + "".join(nav) + "</nav>", "<header>",
-           f"<h1>{when:%A, %-d %B %Y}</h1>",
-           f"<p class='count'>{total} stories came in. "
-           f"<b>{shown}</b> are worth your time.</p>", "</header>"]
+           "<header class='mast'>",
+           f"<h1 class='mark'>{html.escape(WORDMARK)}</h1>",
+           "<div class='mast-right'>",
+           f"<p class='mast-date'>{when:%A, %-d %B %Y}</p>",
+           f"<p class='mast-tally'>{total} stories in, {shown} shown</p>",
+           "<nav>" + "".join(nav) + "</nav>",
+           "</div></header>"]
 
     for section in sorted(sections, key=lambda s: s["order"]):
         if section["match"] == "by_outlet":
             if not columns:
                 continue
-            out.append(f"<section><h2>{html.escape(section['title'])}</h2>")
-            out.append("<p class='gist'>What each newsroom is running that did "
-                       "not make a block above.</p><div class='cols'>")
+            out.append("<section class='sec'>")
+            out.append(section_head(section["title"],
+                                    "What each newsroom is running that did not "
+                                    "make a block above."))
+            out.append("<div class='cols'>")
             for col in columns:
                 out.append(f"<div class='col'><h3>{html.escape(col['label'])}</h3>")
                 lede = col_gists.get(col["label"])
@@ -529,7 +623,7 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
                     out.append(f"<p class='lede'>{html.escape(lede)}</p>")
                 out.append("<ul>")
                 for a in col["articles"]:
-                    out.append(f"<li><a href='{html.escape(a['link'])}'>"
+                    out.append(f"<li><a href='{html.escape(a['link'], quote=True)}'>"
                                f"{html.escape(a['title'])}</a></li>")
                 out.append("</ul></div>")
             out.append("</div></section>")
@@ -539,52 +633,68 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
         if not items:
             continue
 
-        out.append(f"<section><h2>{html.escape(section['title'])}</h2>")
-        if gists.get(section["id"]):
-            out.append(f"<p class='gist'>{html.escape(gists[section['id']])}</p>")
+        out.append("<section class='sec'>")
+        out.append(section_head(section["title"], gists.get(section["id"])))
+        out.append("<div class='grid'>")
 
         for c in items:
             url, gate = read_link(c, link_out)
-            bits = html.escape(", ".join(c["outlets"][:3]))
-            if c["outlet_count"] > 3:
-                bits += f" and {c['outlet_count'] - 3} more"
+            lead_outlet = c["lead"]["outlet"]
+            full = ", ".join(c["outlets"])
+
+            tags = [f"<span class='dot' aria-hidden='true'>"
+                    f"{html.escape(lead_outlet[:1])}</span>",
+                    f"<span>{html.escape(lead_outlet)}</span>"]
             if c["days_running"] > 1:
-                bits += f" &middot; <span class='run'>day {c['days_running']}</span>"
+                tags.append(f"<span class='run'>day {c['days_running']}</span>")
             if gate:
-                bits += f" &middot; <span class='gate'>{gate}</span>"
+                tags.append(f"<span class='gate'>{html.escape(gate)}</span>")
 
-            out.append("<article class='story'>")
-            out.append(f"<div class='n {tier(c['outlet_count'])}'>{c['outlet_count']}</div>")
-            out.append("<div class='bd'>")
-            out.append(f"<p class='hl'><a href='{html.escape(url)}'>"
-                       f"{html.escape(c['lead']['title'])}</a></p>")
+            n = c["outlet_count"]
+            label = f"{n} outlets covering this: {html.escape(full, quote=True)}"
+
+            out.append("<article class='card'>")
+            out.append(f"<a class='card-hl' href='{html.escape(url, quote=True)}'>"
+                       f"{html.escape(c['lead']['title'])}</a>")
             if stories.get(c["uid"]):
-                out.append(f"<p class='sum'>{html.escape(stories[c['uid']])}</p>")
-            out.append(f"<p class='meta'>{bits}</p></div></article>")
-        out.append("</section>")
+                out.append(f"<p class='card-sum'>{html.escape(stories[c['uid']])}</p>")
+            out.append("<div class='card-meta'>")
+            out.append("<span class='tags'>" + "".join(tags) + "</span>")
+            out.append(f"<span class='card-n {tier(n)}' title='{label}'>{n}</span>")
+            out.append("</div>")
+            out.append(card_media(c))
+            out.append("</article>")
 
-    out.append("<footer>The number beside each story is how many independent "
-               "outlets are covering it. Nothing is ranked by clicks, because "
-               "no one publishes those.</footer></div></body></html>")
+        out.append("</div></section>")
+
+    out.append("<footer>The number on each card is how many independent outlets "
+               "are covering that story. Nothing is ranked by clicks, because no "
+               "one publishes those.</footer></div></body></html>")
     return "\n".join(out)
 
 
 ARCHIVE_CSS = CSS + """
-.months{margin-top:8px}
-.mo{margin-bottom:40px}
-.mo h3{font-size:13px; font-weight:600; margin:0 0 12px; padding-bottom:8px;
-  border-bottom:1px solid var(--rule)}
-.grid{display:grid; grid-template-columns:repeat(7,1fr); gap:5px; max-width:400px}
-.dow{font-size:11px; color:var(--quiet); text-align:center; padding-bottom:4px}
+.months{display:grid; grid-template-columns:repeat(var(--col),1fr)}
+.mo{padding:22px 20px 26px; border-right:1px solid var(--rule);
+  border-bottom:1px solid var(--rule); min-width:0}
+.mo:nth-child(3n){border-right:none}
+.mo h3{font-size:12px; font-weight:700; letter-spacing:.06em; margin:0 0 14px;
+  text-transform:uppercase}
+.cal{display:grid; grid-template-columns:repeat(7,1fr); gap:3px; max-width:280px}
+.dow{font-size:9px; font-weight:500; letter-spacing:.04em; color:var(--ink-quiet);
+  text-align:center; padding-bottom:4px}
 .day{aspect-ratio:1; display:flex; align-items:center; justify-content:center;
-  font-size:14px; font-variant-numeric:tabular-nums; border-radius:3px}
+  font-size:12px; font-weight:500; font-variant-numeric:tabular-nums}
 .day.off{color:transparent}
-.day.none{color:var(--quiet)}
+.day.none{color:var(--ink-quiet)}
 .day a{display:flex; align-items:center; justify-content:center; width:100%;
-  height:100%; color:#fff; background:var(--signal); text-decoration:none;
-  border-radius:3px; font-weight:500}
-.day a:hover,.day a:focus{background:var(--ink)}
-.lead{font-size:14px; color:var(--soft); margin:14px 0 0; max-width:56ch}
+  height:100%; color:var(--paper); background:var(--ink); font-weight:600}
+.day a:hover{background:var(--accent)}
+.lead{font-size:11px; color:var(--ink-mid); margin:14px 0 0; line-height:1.4}
+@media (max-width:1023px){ .mo:nth-child(3n){border-right:1px solid var(--rule)}
+  .mo:nth-child(2n){border-right:none} }
+@media (max-width:767px){ .mo{padding:20px 0 22px; border-right:none}
+  .mo:nth-child(3n),.mo:nth-child(2n){border-right:none} }
 """
 
 
@@ -597,16 +707,23 @@ def build_archive(index):
 
     out = [HEAD, "<title>Brief archive</title>",
            f"<style>{ARCHIVE_CSS}</style></head><body><div class='wrap'>",
-           "<nav><a href='index.html'>today</a><span class='sp'></span></nav>",
-           "<header><h1>Archive</h1>",
-           f"<p class='count'><b>{len(index)}</b> briefs on file.</p>"
-           "</header><div class='months'>"]
+           "<header class='mast'>",
+           f"<h1 class='mark'>{html.escape(WORDMARK)}</h1>",
+           "<div class='mast-right'>",
+           "<p class='mast-date'>Archive</p>",
+           f"<p class='mast-tally'>{len(index)} briefs on file</p>",
+           "<nav><a href='index.html'>today</a>"
+           "<span class='sp'></span></nav>",
+           "</div></header>",
+           "<section class='sec'>",
+           section_head("Archive"),
+           "<div class='months'>"]
 
     for (year, month) in sorted(by_month, reverse=True):
         days = by_month[(year, month)]
         out.append(f"<div class='mo'><h3>{cal.month_name[month]} {year}</h3>")
-        out.append("<div class='grid'>")
-        for label in ("M", "T", "W", "T", "F", "S", "S"):
+        out.append("<div class='cal'>")
+        for i, label in enumerate(("M", "T", "W", "T", "F", "S", "S")):
             out.append(f"<div class='dow'>{label}</div>")
         for week in cal.Calendar(firstweekday=0).monthdayscalendar(year, month):
             for day in week:
@@ -624,7 +741,7 @@ def build_archive(index):
             out.append(f"<p class='lead'>Latest: {html.escape(newest['lead'])}</p>")
         out.append("</div>")
 
-    out.append("</div></div></body></html>")
+    out.append("</div></section></div></body></html>")
     return "\n".join(out)
 
 
