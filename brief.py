@@ -1050,6 +1050,20 @@ WORDMARK = "Alisha's newsroom"
 IMG_ONERROR = "this.style.display='none'"
 
 
+# Headlines arrive as the outlet wrote them, and outlets use em dashes and
+# exclamation marks. Neither belongs on this page, so both are normalised on
+# the way out. The source link is untouched.
+DASHES = re.compile(r"\s*[\u2012\u2013\u2014\u2015\u2E3A\u2E3B]+\s*")
+
+
+def copy_safe(text):
+    text = DASHES.sub(", ", text or "")
+    text = text.replace("!", ".")
+    text = re.sub(r"\.{2,}", ".", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text.lstrip(", ").strip()
+
+
 def tier(n):
     return "hot" if n >= 12 else ("mid" if n >= 5 else "")
 
@@ -1069,7 +1083,7 @@ def card_media(c, cls="card-media"):
     url = (c.get("lead") or {}).get("image") or ""
     if not url:
         return f"<div class='{cls}'></div>"
-    alt = html.escape(c["lead"]["title"], quote=True)
+    alt = html.escape(copy_safe(c["lead"]["title"]), quote=True)
     return (f"<div class='{cls}'>"
             f"<img src='{html.escape(url, quote=True)}' alt='{alt}' "
             f"loading='lazy' referrerpolicy='no-referrer' "
@@ -1083,7 +1097,7 @@ def section_head(title, gist=None):
            f"<h2 class='sec-title'>{html.escape(title)}</h2>",
            "</div>", "<div class='sec-rule'></div>"]
     if gist:
-        out.append(f"<p class='sec-gist'>{html.escape(gist)}</p>")
+        out.append(f"<p class='sec-gist'>{html.escape(copy_safe(gist))}</p>")
     return "".join(out)
 
 
@@ -1125,11 +1139,11 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
                 out.append(f"<div class='col'><h3>{html.escape(col['label'])}</h3>")
                 lede = col_gists.get(col["label"])
                 if lede:
-                    out.append(f"<p class='lede'>{html.escape(lede)}</p>")
+                    out.append(f"<p class='lede'>{html.escape(copy_safe(lede))}</p>")
                 out.append("<ul>")
                 for a in col["articles"]:
                     out.append(f"<li><a href='{html.escape(a['link'], quote=True)}'>"
-                               f"{html.escape(a['title'])}</a></li>")
+                               f"{html.escape(copy_safe(a['title']))}</a></li>")
                 out.append("</ul></div>")
             out.append("</div></section>")
             continue
@@ -1150,9 +1164,10 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
                 out.append(card_media(c, cls="occ-media"))
                 out.append("<div class='occ-body'>")
                 out.append(f"<a class='occ-hl' href='{html.escape(url, quote=True)}'>"
-                           f"{html.escape(lead['title'])}</a>")
+                           f"{html.escape(copy_safe(lead['title']))}</a>")
                 if stories.get(c["uid"]):
-                    out.append(f"<p class='occ-sum'>{html.escape(stories[c['uid']])}</p>")
+                    out.append(f"<p class='occ-sum'>"
+                               f"{html.escape(copy_safe(stories[c['uid']]))}</p>")
                 bits = [html.escape(lead["outlet"]),
                         f"{lead['published'].astimezone(TIMEZONE):%-d %B %Y}"]
                 if gate:
@@ -1185,9 +1200,10 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
 
             out.append("<article class='card'>")
             out.append(f"<a class='card-hl' href='{html.escape(url, quote=True)}'>"
-                       f"{html.escape(c['lead']['title'])}</a>")
+                       f"{html.escape(copy_safe(c['lead']['title']))}</a>")
             if stories.get(c["uid"]):
-                out.append(f"<p class='card-sum'>{html.escape(stories[c['uid']])}</p>")
+                out.append(f"<p class='card-sum'>"
+                           f"{html.escape(copy_safe(stories[c['uid']]))}</p>")
             out.append("<div class='card-meta'>")
             out.append("<span class='tags'>" + "".join(tags) + "</span>")
             out.append(f"<span class='card-n {tier(n)}' title='{label}'>{n}</span>")
@@ -1268,7 +1284,8 @@ def build_archive(index):
 
         newest = days[max(days)]
         if newest.get("lead"):
-            out.append(f"<p class='lead'>Latest: {html.escape(newest['lead'])}</p>")
+            out.append("<p class='lead'>Latest: "
+                       f"{html.escape(copy_safe(newest['lead']))}</p>")
         out.append("</div>")
 
     out.append("</div></section></div></body></html>")
