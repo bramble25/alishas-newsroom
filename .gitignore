@@ -3,5 +3,7 @@ __pycache__/
 .DS_Store
 .venv/
 .claude/
-docs/
-data/
+
+# docs/ and data/ are deliberately NOT ignored: brief.yml commits them, and
+# the repo is the archive. Only local fixture art is excluded.
+docs/_fixture/
