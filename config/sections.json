@@ -39,10 +39,20 @@
       ]
     },
     {
+      "id": "research",
+      "title": "Research",
+      "match_order": 35,
+      "order": 4,
+      "slots": 6,
+      "match": "periodic",
+      "sources": [],
+      "note": "Low-frequency research publishers: Dealroom, CVCA quarterly, RBCx, PitchBook-NVCA, Carta Data Desk. Add their names here and to sources.json and they appear in this block. Items are not clustered and not ranked by outlet count, because a single research post has no consensus to measure. Only items never shown before appear, tracked in data/seen_periodic.json. With nothing new the section does not render at all, which is the point of it: no empty heading on the mornings nobody published. match_order is inert for this type, it is only here because routing sorts on it."
+    },
+    {
       "id": "bigtech",
       "title": "Big tech",
       "match_order": 20,
-      "order": 4,
+      "order": 5,
       "slots": 5,
       "match": "entity_and_keyword",
       "entities": [
@@ -67,7 +77,7 @@
       "id": "defense",
       "title": "Defense",
       "match_order": 10,
-      "order": 5,
+      "order": 6,
       "slots": 4,
       "match": "entity",
       "entities": [
@@ -88,7 +98,7 @@
       "id": "by_outlet",
       "title": "By outlet",
       "match_order": 99,
-      "order": 6,
+      "order": 7,
       "match": "by_outlet",
       "per_column": 6,
       "note": "One column per newsroom. Anything already shown above is filtered out, so each column is genuinely what else that outlet is running today. An outlet name here must match a name in sources.json exactly.",

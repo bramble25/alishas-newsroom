@@ -438,7 +438,7 @@ def route(clusters, sections):
     ordered = sorted(sections, key=lambda s: s["match_order"])
 
     for section in ordered:
-        if section["match"] in ("consensus", "by_outlet"):
+        if section["match"] in ("consensus", "by_outlet", "periodic"):
             continue
         for i, c in enumerate(clusters):
             if i in used or len(assigned[section["id"]]) >= section["slots"]:
@@ -499,6 +499,98 @@ def build_columns(articles, assigned, section):
         if picked:
             columns.append({"label": spec["label"], "articles": picked})
     return columns
+
+
+# ----------------------------------------------------------------------------
+# periodic sections
+# ----------------------------------------------------------------------------
+
+# A periodic section carries research publishers that post every few weeks
+# rather than every day: Dealroom, CVCA, RBCx, PitchBook-NVCA, Carta. It shows
+# only what it has not shown before, and when there is nothing new it does not
+# render at all. That absence is the design, not an empty state.
+#
+# These items are never clustered and never ranked by outlet count. A single
+# research post has no consensus signal to measure, so the loud number that
+# carries the daily sections would be meaningless here.
+
+SEEN_PERIODIC_DAYS = 730
+
+
+def periodic_sources(sections):
+    """Every source name claimed by any periodic section, as {name: section id}."""
+    owners = {}
+    for section in sections:
+        if section.get("match") != "periodic":
+            continue
+        for name in section.get("sources", []):
+            owners[name] = section["id"]
+    return owners
+
+
+def split_periodic(articles, sections):
+    """Hold periodic articles out of the cluster pool.
+
+    They carry no consensus signal, so letting them cluster would either add a
+    phantom outlet to somebody else's count or let a research post get claimed
+    by a keyword section and appear twice. With no periodic sources configured
+    this is a no-op and the article list is returned unchanged.
+    """
+    owners = periodic_sources(sections)
+    if not owners:
+        return [], articles
+    held = [a for a in articles if a["outlet"] in owners]
+    rest = [a for a in articles if a["outlet"] not in owners]
+    if held:
+        print(f"  holding {len(held)} periodic items out of clustering")
+    return held, rest
+
+
+def load_seen_periodic():
+    path = os.path.join(DATA_DIR, "seen_periodic.json")
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path) as f:
+            raw = json.load(f)
+    except Exception:
+        return {}
+    cutoff = (datetime.now(timezone.utc).date()
+              - timedelta(days=SEEN_PERIODIC_DAYS)).isoformat()
+    return {k: v for k, v in raw.items() if isinstance(v, str) and v >= cutoff}
+
+
+def save_seen_periodic(seen):
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(os.path.join(DATA_DIR, "seen_periodic.json"), "w") as f:
+        json.dump(seen, f, indent=1, sort_keys=True)
+
+
+def collect_periodic(held, sections, seen):
+    """New items only, wrapped so they travel the same path as a story card."""
+    owners = periodic_sources(sections)
+    by_section = {}
+
+    for article in sorted(held, key=lambda a: -a["published"].timestamp()):
+        sid = owners.get(article["outlet"])
+        if sid is None or article["link"] in seen:
+            continue
+        by_section.setdefault(sid, []).append(article)
+
+    out = {}
+    for section in sections:
+        if section.get("match") != "periodic":
+            continue
+        items = by_section.get(section["id"], [])[:section.get("slots", 6)]
+        if not items:
+            continue
+        out[section["id"]] = [{
+            "uid": f"p{section['id']}{i}", "lead": a, "articles": [a],
+            "outlet_count": 1, "outlets": [a["outlet"]], "days_running": 1,
+            "ca_share": 0.0, "score": 0.0, "tokens": set(),
+        } for i, a in enumerate(items)]
+        print(f"  {section['id']}: {len(items)} new")
+    return out
 
 
 # ----------------------------------------------------------------------------
@@ -677,6 +769,35 @@ nav .sp{width:2px}
 .col li a{border-bottom:1px solid transparent}
 .col li a:hover{border-bottom-color:var(--ink)}
 
+/* occasional section ------------------------------------------------------ */
+/* Inverted on purpose. It appears only when a research publisher posts, so it
+   should be impossible to miss and impossible to confuse with a daily block. */
+.sec.occ{background:var(--ink); color:var(--paper); padding:26px 24px 10px;
+  margin-left:-24px; margin-right:-24px}
+.sec.occ .sec-badge{background:var(--paper); color:var(--ink)}
+.sec.occ .sec-title{color:var(--paper)}
+.sec.occ .sec-rule{background:#3A3D40}
+.sec.occ .sec-gist{color:#A8ACB0}
+.occ-list{margin-top:18px}
+.occ-item{display:flex; gap:18px; padding:18px 0; border-bottom:1px solid #3A3D40}
+.occ-item:last-child{border-bottom:none}
+.occ-media{flex:0 0 172px; aspect-ratio:3/2; background:#2A2D30;
+  position:relative; overflow:hidden}
+.occ-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+.occ-body{flex:1; min-width:0}
+.occ-hl{display:block; font-size:17px; font-weight:600; line-height:1.25;
+  letter-spacing:-.01em; margin:0 0 6px; color:var(--paper);
+  border-bottom:1px solid transparent}
+.occ-hl:hover{border-bottom-color:var(--paper)}
+.occ-sum{font-size:13px; line-height:1.45; color:#A8ACB0; margin:0 0 8px;
+  max-width:64ch}
+.occ-meta{font-size:10px; font-weight:500; letter-spacing:.05em; color:#8A8E92;
+  margin:0; display:flex; align-items:center; flex-wrap:wrap}
+.occ-meta .sep{display:inline-block; width:3px; height:3px; border-radius:50%;
+  background:#5A5E62; margin:0 8px}
+.sec.occ a:focus-visible{outline-color:var(--paper)}
+
 footer{margin-top:56px; padding-top:16px; border-top:1px solid var(--rule);
   font-size:11px; color:var(--ink-quiet); max-width:72ch; line-height:1.5}
 
@@ -699,6 +820,10 @@ a:focus-visible,.card-hl:focus-visible{outline:2px solid var(--accent);
   .mark{font-size:34px}
   .sec-title{font-size:24px}
   .sec-badge{width:24px; height:24px; font-size:11px}
+  .sec.occ{margin-left:-16px; margin-right:-16px; padding:22px 16px 8px}
+  .occ-item{flex-direction:column; gap:12px}
+  .occ-media{flex:0 0 auto; width:100%; aspect-ratio:16/9}
+  .occ-hl{font-size:16px}
   .card,.col{padding:20px 0 22px; border-right:none}
   .card:nth-child(3n),.card:nth-child(2n),
   .col:nth-child(3n),.col:nth-child(2n){border-right:none}
@@ -737,14 +862,14 @@ def read_link(c, link_out):
     return lead["link"], None
 
 
-def card_media(c):
+def card_media(c, cls="card-media"):
     """The image slot. Always present, so a missing image is a tonal block
     rather than a hole in the grid."""
     url = (c.get("lead") or {}).get("image") or ""
     if not url:
-        return "<div class='card-media'></div>"
+        return f"<div class='{cls}'></div>"
     alt = html.escape(c["lead"]["title"], quote=True)
-    return ("<div class='card-media'>"
+    return (f"<div class='{cls}'>"
             f"<img src='{html.escape(url, quote=True)}' alt='{alt}' "
             f"loading='lazy' referrerpolicy='no-referrer' "
             f"onerror=\"{IMG_ONERROR}\"></div>")
@@ -810,6 +935,31 @@ def render(assigned, columns, sections, summaries, link_out, total, when,
 
         items = assigned.get(section["id"], [])
         if not items:
+            # a periodic section with nothing new leaves no trace at all
+            continue
+
+        if section["match"] == "periodic":
+            out.append("<section class='sec occ'>")
+            out.append(section_head(section["title"], gists.get(section["id"])))
+            out.append("<div class='occ-list'>")
+            for c in items:
+                lead = c["lead"]
+                url, gate = read_link(c, link_out)
+                out.append("<article class='occ-item'>")
+                out.append(card_media(c, cls="occ-media"))
+                out.append("<div class='occ-body'>")
+                out.append(f"<a class='occ-hl' href='{html.escape(url, quote=True)}'>"
+                           f"{html.escape(lead['title'])}</a>")
+                if stories.get(c["uid"]):
+                    out.append(f"<p class='occ-sum'>{html.escape(stories[c['uid']])}</p>")
+                bits = [html.escape(lead["outlet"]),
+                        f"{lead['published'].astimezone(TIMEZONE):%-d %B %Y}"]
+                if gate:
+                    bits.append(html.escape(gate))
+                out.append("<p class='occ-meta'>" +
+                           "<span class='sep'></span>".join(bits) + "</p>")
+                out.append("</div></article>")
+            out.append("</div></section>")
             continue
 
         out.append("<section class='sec'>")
@@ -936,12 +1086,19 @@ def main():
         print("No articles fetched. Run check_feeds.py.")
         return 1
 
+    held, articles = split_periodic(articles, sections)
+
     clusters = score_clusters(cluster(articles))
     for i, c in enumerate(clusters):
         c["uid"] = f"s{i}"
     clusters = apply_history(clusters, load_history())
 
     assigned = route(clusters, sections)
+
+    seen_periodic = load_seen_periodic()
+    for sid, items in collect_periodic(held, sections, seen_periodic).items():
+        assigned[sid] = items
+
     col_section = next(s for s in sections if s["match"] == "by_outlet")
     columns = build_columns(articles, assigned, col_section)
 
@@ -995,6 +1152,14 @@ def main():
 
     with open(os.path.join(OUT_DIR, "archive.html"), "w") as f:
         f.write(build_archive(index))
+
+    # only after the page exists, so a crashed run does not burn an item
+    for section in sections:
+        if section.get("match") != "periodic":
+            continue
+        for c in assigned.get(section["id"], []):
+            seen_periodic[c["lead"]["link"]] = today
+    save_seen_periodic(seen_periodic)
 
     print(f"\nWrote docs/{today}.html, docs/index.html, docs/archive.html")
     return 0
