@@ -653,5 +653,843 @@
    "spacetech"
   ],
   "date": "2026-09-06"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/lebanon-israeli-strike-town-9.7334675?cmp=rss",
+  "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says",
+  "tokens": [
+   "agency",
+   "israeli",
+   "kill",
+   "lebanese",
+   "southern",
+   "state",
+   "strikes",
+   "town"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/amazon-cargo-plan-overrun-runway-in-miami-9.7334414?cmp=rss",
+  "title": "At least 5 dead after Amazon cargo plane barrels off Miami runway and smashes into cars: authorities",
+  "tokens": [
+   "amazon",
+   "authorities",
+   "barrels",
+   "cargo",
+   "cars",
+   "dead",
+   "least",
+   "miami",
+   "off",
+   "plane",
+   "runway",
+   "smashes"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+  "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+  "tokens": [
+   "airport",
+   "amazon",
+   "cargo",
+   "crashes",
+   "five",
+   "killed",
+   "miami",
+   "plane"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFVkdTNYM3p4bmY3d01KaElQRFk5aWowZXFRdHUyTDJQZHdlWlYyRmgzNDB3dElPVTNtVUhDTXhoYjNPTHVmSF9PLTJFang2cG02UzlXa1lyNHZob3pCMWN2dEtqRDRNLWd3VHREX24ydmNuS3RhakV3Ty15SHdfX0xWQmRQaEptR3N1SWJqR0RPSnRRNjA4N3h1Z0xaaFVxOW5rZXMzcmxhMTlES09zUQ?oc=5",
+  "title": "Funeral of convicted war criminal Mladic draws thousands, opens old wounds - Reuters",
+  "tokens": [
+   "convicted",
+   "criminal",
+   "draws",
+   "funeral",
+   "mladic",
+   "old",
+   "opens",
+   "reuters",
+   "thousands",
+   "war",
+   "wounds"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5",
+  "title": "AI could pose 'existential' risk to humanity, UN rights chief warns - Reuters",
+  "tokens": [
+   "'existential'",
+   "chief",
+   "humanity",
+   "pose",
+   "reuters",
+   "rights",
+   "risk",
+   "warns"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5",
+  "title": "Tech explores Argentina's Patagonia for mega data centers - Reuters",
+  "tokens": [
+   "argentina's",
+   "centers",
+   "data",
+   "explores",
+   "mega",
+   "patagonia",
+   "reuters",
+   "tech"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/player/play/9.7334585?cmp=rss",
+  "title": "Canada's counter-tariffs against U.S. set to go into effect after midnight",
+  "tokens": [
+   "against",
+   "canada's",
+   "counter",
+   "effect",
+   "midnight",
+   "set",
+   "tariffs"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://globalnews.ca/news/12050054/germany-afd-state-election-victory-merz-reaction/",
+  "title": "Germany\u2019s Merz \u2018shocked\u2019 by far-right AfD state election victory",
+  "tokens": [
+   "afd",
+   "election",
+   "far",
+   "germany",
+   "merz",
+   "right",
+   "shocked",
+   "state",
+   "victory"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/uk-migrant-crossing-protests-9.7334741?cmp=rss",
+  "title": "U.K. government slams 'thuggish' anti-migrant protesters, after demonstrators block port",
+  "tokens": [
+   "'thuggish'",
+   "anti",
+   "block",
+   "demonstrators",
+   "government",
+   "migrant",
+   "port",
+   "protesters",
+   "slams"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/entertainment/nathan-fielder-documentary-elizabeth-holmes-you-can-see-everything-9.7334715?cmp=rss",
+  "title": "Nathan Fielder teases Elizabeth Holmes documentary with eyebrow-raising trailer",
+  "tokens": [
+   "documentary",
+   "elizabeth",
+   "eyebrow",
+   "fielder",
+   "holmes",
+   "nathan",
+   "raising",
+   "teases",
+   "trailer"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+  "title": "Trump administration attacks UK plans to boost traditional media on social platforms",
+  "tokens": [
+   "administration",
+   "attacks",
+   "boost",
+   "media",
+   "plans",
+   "platforms",
+   "social",
+   "traditional",
+   "trump"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
+  "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+  "tokens": [
+   "air",
+   "alerts",
+   "clock",
+   "high",
+   "kyiv",
+   "launches",
+   "raid",
+   "record",
+   "round",
+   "russia",
+   "strikes"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia",
+  "title": "Elon Musk thanked by German far-right leader after landmark election win praised by Russia | First Thing",
+  "tokens": [
+   "election",
+   "elon",
+   "far",
+   "first",
+   "german",
+   "landmark",
+   "leader",
+   "musk",
+   "praised",
+   "right",
+   "russia",
+   "thanked",
+   "thing",
+   "win"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theguardian.com/world/2026/sep/07/ratko-mladic-butcher-of-bosnia-funeral-belgrade-serbia",
+  "title": "Ratko Mladi\u0107, the \u2018Butcher of Bosnia\u2019, given hero\u2019s funeral in Serbia",
+  "tokens": [
+   "bosnia",
+   "butcher",
+   "funeral",
+   "given",
+   "hero",
+   "mladi",
+   "ratko",
+   "serbia"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.aljazeera.com/news/2026/9/7/why-do-the-falkland-islands-matter-to-the-uk-and-argentina-so-much?traffic_source=rss",
+  "title": "Why do the Falkland Islands matter to the UK and Argentina so much?",
+  "tokens": [
+   "argentina",
+   "falkland",
+   "islands",
+   "matter",
+   "much"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+  "title": "Probe begins into why cargo plane overran Miami runway",
+  "tokens": [
+   "begins",
+   "cargo",
+   "miami",
+   "overran",
+   "plane",
+   "probe",
+   "runway"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/07/federal-investigators-probe-amazon-cargo-jets-fiery-runway-crash-that-killed-5-in-miami.html",
+  "title": "Federal investigators probe Amazon cargo jet's fiery runway crash that killed 5 in Miami",
+  "tokens": [
+   "amazon",
+   "cargo",
+   "crash",
+   "federal",
+   "fiery",
+   "investigators",
+   "jet's",
+   "killed",
+   "miami",
+   "probe",
+   "runway"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+  "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+  "tokens": [
+   "agents",
+   "anthropic",
+   "authors",
+   "back",
+   "claims",
+   "make",
+   "publishers",
+   "push",
+   "settlement"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+  "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+  "tokens": [
+   "infringement",
+   "microsoft",
+   "newsday",
+   "openai",
+   "seattle",
+   "sue",
+   "times"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkUwazJZZE4xSlNLRHJ5ZFMyOW9RM1NQUkdrOGxHZFNxN25DaGRMRjhlcmV6MmpQYmVBUURwME5vLVhGQUdRTjJDTk43YUEwcGRnSElubmR5RFZyakVpdjUyWE5DU2N5LVM2ckhRTy1mNFp2eHJiakZLSjY4Zk13b1ZtOUJoaUg5aTZlbU1BSnEzWWJVckJjamVNZENDWmdyQVBOMTR5bGsweVFkbWlHLWVvdXV1QTBGaXZFa2pQaU5UVnp2WExYSWoxSmJPaGs?oc=5",
+  "title": "Sweden to buy Lockheed Martin's Himars artillery rocket system in $729 mln deal - Reuters",
+  "tokens": [
+   "729",
+   "artillery",
+   "buy",
+   "deal",
+   "himars",
+   "lockheed",
+   "martin's",
+   "mln",
+   "reuters",
+   "rocket",
+   "sweden",
+   "system"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/stephen-fuhr-canada-defence-procurement-rcaf-f35-9.7333073?cmp=rss",
+  "title": "Stephen Fuhr was mocked for opposing the purchase of F-35s. Now he's in charge of Canada's defence procurement",
+  "tokens": [
+   "35s",
+   "canada's",
+   "charge",
+   "defence",
+   "fuhr",
+   "he's",
+   "mocked",
+   "opposing",
+   "procurement",
+   "purchase",
+   "stephen"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://ottawacitizen.com/ottawa-senators/drake-batherson-ottawa-senators-contract-2",
+  "title": "Drake Batherson puts Senators' new 'Hill We Choose' motto to the test",
+  "tokens": [
+   "'hill",
+   "batherson",
+   "choose'",
+   "drake",
+   "motto",
+   "puts",
+   "senators'",
+   "test"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUVhRVhEYXF3MTFzVmxLR2FzM3BrWkJjVktYdEJ1azR2RnVuaURRX1Y4Q1UtUEp5Qjg5ekhPQ1pNOFpEWkM5TDAzMVJFd1k4LXBfVW5FdVB1aDNkRE1UeVlDSDM3MGZnWlVTeWtTVGU4SVlodWUzWUtmdmxrOFdsX0s5RVFWMHluSkRhcVpHSEFqS0JHN05Qc04yLWx0dUpuUjRBTEpiay1CSllUTllZdk9IY28tVHVGRkJwODBrM3d6OWhhTXdnNTJQY0U?oc=5",
+  "title": "Cathay Pacific, Google expand AI trials to cut climate-warming aircraft contrails - Reuters",
+  "tokens": [
+   "aircraft",
+   "cathay",
+   "climate",
+   "contrails",
+   "cut",
+   "expand",
+   "google",
+   "pacific",
+   "reuters",
+   "trials",
+   "warming"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
+  "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters",
+  "tokens": [
+   "afd",
+   "far",
+   "germany's",
+   "leaves",
+   "merz",
+   "path",
+   "plots",
+   "power",
+   "reuters",
+   "right",
+   "shaken",
+   "win"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",
+  "title": "Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters",
+  "tokens": [
+   "'exposed'",
+   "companies'",
+   "energy",
+   "facilities",
+   "iran",
+   "respond",
+   "reuters",
+   "strikes",
+   "vows"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjJsRnYxdWplZmMxWnZxd2JBRjdaR2YtV0VrMEJCNmFTUjF1U1oyaVhiZk5XZ2Rvc1lXVEdhQjd0bWxxZ1R6Sl9Eckl0S3NXSXpjbGZ5QjJ6dnVkbG9tc2RtRl8tNy1heW1RVHh1VlZ2ZUVtQnJTREdYRlJsRFo5VjRoNUhRTEV2c0dwd01fNWphVkg4LW9oeExqdm1jQW9nRFdGYm16WTRkUjkxUmpaN2NPdDZpUVl2Tk1KQ0xZZWY?oc=5",
+  "title": "Ship fuel shortage looms as refiners strained by war favour other products - Reuters",
+  "tokens": [
+   "favour",
+   "fuel",
+   "looms",
+   "products",
+   "refiners",
+   "reuters",
+   "ship",
+   "shortage",
+   "strained",
+   "war"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JLc3pSdzFRemdkQjZYMFBtVDNCLVlLSi1qWmEzQ3ZWMldHdEZBOVpLUjJhcXBJZ3pjNWFTY0xpOFNHVVpZVjI3S1dIVHRNRk93bEtPRjc0NTdFTWlpTUJXTngxQ3lCMkxGbW5JTDhMSnhjaVQ1ckZGTm1DbnFYRDh4ck8xOEJPZGJNU0NiZi01Sk1mYnBta2M1ZmlnMV9mRGpJVnlDdkV4c3VuM2J4U0xITGthT3hzNjN0a05hQURpUV90Q1JhMVFsTQ?oc=5",
+  "title": "Novartis cholesterol setback tests hopes for emerging heart disease drugs - Reuters",
+  "tokens": [
+   "cholesterol",
+   "disease",
+   "drugs",
+   "emerging",
+   "heart",
+   "hopes",
+   "novartis",
+   "reuters",
+   "setback",
+   "tests"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0pobHhGSWlxLVNZa2htLURrNldPaHUyOGVyQXVBeGtJOWJDUXpqMXFSTDBCaHNkeFI5Q0Y2NUdFNlJoWUZlVGQwR2pGZk5oc1R5TzFLbUdFMU1aY3NGTXVhOGFTeFZOenRpbUlNc0ZiTjQtMnNaRVUtTVNrWEpLeGprbw?oc=5",
+  "title": "Stocks dented by inflation risk from rising oil, dicey geopolitics - Reuters",
+  "tokens": [
+   "dented",
+   "dicey",
+   "geopolitics",
+   "inflation",
+   "oil",
+   "reuters",
+   "rising",
+   "risk",
+   "stocks"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+  "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+  "tokens": [
+   "'democracy",
+   "afd",
+   "demands'",
+   "election",
+   "far",
+   "germany's",
+   "parties",
+   "right",
+   "state",
+   "them",
+   "win",
+   "work"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+  "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+  "tokens": [
+   "extremist",
+   "lawsuit",
+   "links",
+   "man",
+   "reveal",
+   "videos"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+  "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+  "tokens": [
+   "day",
+   "disaster",
+   "flash",
+   "flood",
+   "mourning",
+   "national",
+   "nepal",
+   "observes",
+   "victims"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+  "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+  "tokens": [
+   "14s",
+   "austria's",
+   "back",
+   "ban",
+   "force",
+   "headscarf",
+   "islamic",
+   "school"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+  "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+  "tokens": [
+   "ahead",
+   "burundians",
+   "crackdown",
+   "kenya",
+   "leave",
+   "rush",
+   "traders",
+   "unregistered"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+  "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+  "tokens": [
+   "000",
+   "270",
+   "airports",
+   "closure",
+   "eruption",
+   "extend",
+   "indonesia",
+   "leaves",
+   "stranded",
+   "volcano"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/far-right-afd-germany-world-reaction-9.7334688?cmp=rss",
+  "title": "Far-right victory in German state expected to send shockwaves throughout the world",
+  "tokens": [
+   "expected",
+   "far",
+   "german",
+   "right",
+   "send",
+   "shockwaves",
+   "state",
+   "throughout",
+   "victory",
+   "world"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/edmonton/georgina-lightning-death-9.7334442?cmp=rss",
+  "title": "Trailblazing Indigenous actor and director Georgina Lightning dead at 63",
+  "tokens": [
+   "actor",
+   "dead",
+   "director",
+   "georgina",
+   "indigenous",
+   "lightning",
+   "trailblazing"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/nova-scotia/more-rainfall-expected-for-parts-of-cape-breton-following-intense-weekend-storm-9.7334718?cmp=rss",
+  "title": "More rainfall warnings in place for parts of Cape Breton following intense weekend storm",
+  "tokens": [
+   "breton",
+   "cape",
+   "following",
+   "intense",
+   "parts",
+   "place",
+   "rainfall",
+   "storm",
+   "warnings",
+   "weekend"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/climate/school-streets-canada-9.7320074?cmp=rss",
+  "title": "It's back to school season. Here's why there's a push to get rid of cars at dropoff and pickup",
+  "tokens": [
+   "back",
+   "cars",
+   "dropoff",
+   "get",
+   "here's",
+   "it's",
+   "pickup",
+   "push",
+   "rid",
+   "school",
+   "season",
+   "there's"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/manitoba/virginia-blatz-death-manitoba-dental-association-9.7333939?cmp=rss",
+  "title": "Manitoba family searches for answers nearly 2 years after daughter died following dental procedure",
+  "tokens": [
+   "answers",
+   "daughter",
+   "dental",
+   "died",
+   "family",
+   "following",
+   "manitoba",
+   "nearly",
+   "procedure",
+   "searches",
+   "years"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-port-union-9.7331363?cmp=rss",
+  "title": "The story of Canada\u2019s 'only union-built town'",
+  "tokens": [
+   "'only",
+   "built",
+   "canada",
+   "story",
+   "town'",
+   "union"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
+  "title": "EcoFlow makes the miniature power station even smaller",
+  "tokens": [
+   "ecoflow",
+   "even",
+   "makes",
+   "miniature",
+   "power",
+   "smaller",
+   "station"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+  "title": "The complex corporate web behind a $3.2 billion AI data center",
+  "tokens": [
+   "behind",
+   "billion",
+   "center",
+   "complex",
+   "corporate",
+   "data",
+   "web"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+  "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
+  "tokens": [
+   "app",
+   "driven",
+   "exit",
+   "future",
+   "phil",
+   "plans",
+   "reportedly",
+   "schiller",
+   "store",
+   "wariness"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+  "title": "The real reason your phone is getting more expensive",
+  "tokens": [
+   "expensive",
+   "getting",
+   "phone",
+   "real",
+   "reason"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+  "title": "Bentley\u2019s Torcal EV tries to balance authenticity with fake V8 sounds",
+  "tokens": [
+   "authenticity",
+   "balance",
+   "bentley",
+   "fake",
+   "sounds",
+   "torcal",
+   "tries"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+  "title": "Huawei copies Samsung\u2019s privacy display in its latest trifold",
+  "tokens": [
+   "copies",
+   "display",
+   "huawei",
+   "latest",
+   "privacy",
+   "samsung",
+   "trifold"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/matt-clifford-quits-aria/",
+  "title": "Matt Clifford quits ARIA after Anthropic conflict of interest concerns",
+  "tokens": [
+   "anthropic",
+   "aria",
+   "clifford",
+   "concerns",
+   "conflict",
+   "interest",
+   "matt",
+   "quits"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/exclusive-jack-jill-30m/",
+  "title": "Exclusive: Jack & Jill raises \u00a330m led by Air Street",
+  "tokens": [
+   "30m",
+   "air",
+   "exclusive",
+   "jack",
+   "jill",
+   "led",
+   "raises",
+   "street"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/uk-launches-150m-north-of-england-scaleup-fund/",
+  "title": "UK government seeks fund manager for \u00a3150m northern scaleup fund",
+  "tokens": [
+   "150m",
+   "fund",
+   "government",
+   "manager",
+   "northern",
+   "scaleup",
+   "seeks"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/investors-have-poured-billions-into-the-deepmind-mafia/",
+  "title": "The DeepMind mafia building startups in Europe",
+  "tokens": [
+   "building",
+   "deepmind",
+   "europe",
+   "mafia",
+   "startups"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/sifted-view-hugging-face/",
+  "title": "Hugging Face\u2019s $12.9bn sale is both inspiring and dispiriting for Europe",
+  "tokens": [
+   "9bn",
+   "both",
+   "dispiriting",
+   "europe",
+   "face",
+   "hugging",
+   "inspiring",
+   "sale"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://sifted.eu/articles/thore-graepel-deepmind-reason/",
+  "title": "Exclusive: DeepMind veteran Thore Graepel quits to pursue AI reasoning venture",
+  "tokens": [
+   "deepmind",
+   "exclusive",
+   "graepel",
+   "pursue",
+   "quits",
+   "reasoning",
+   "thore",
+   "venture",
+   "veteran"
+  ],
+  "date": "2026-09-07"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/09/07/croatia-buys-south-korean-rocket-artillery-after-himars-purchase-from-the-us/",
+  "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
+  "tokens": [
+   "artillery",
+   "buys",
+   "croatia",
+   "himars",
+   "korean",
+   "purchase",
+   "rocket",
+   "south"
+  ],
+  "date": "2026-09-07"
  }
 ]
