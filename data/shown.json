@@ -3315,5 +3315,955 @@
    "warn"
   ],
   "date": "2026-09-09"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5",
+  "title": "Algeria cuts diplomatic ties with the UAE - Reuters",
+  "tokens": [
+   "algeria",
+   "cuts",
+   "diplomatic",
+   "reuters",
+   "ties",
+   "uae"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1VBYmFiQnhuQWRpWDFRNjQ3ZzBFUTEzUmxneFZQTmtfOHducTVIZlU3LXFwRjVSbS1EYTNjMVY1dGlzODdfblBPSzFqWm90bWhfeFBUVVlDdjN2YUFoS1VNekY4U1VHcW1WTXQzS1ZTYjI2YzZ1OFFaZzJMZm9DTEpWY25jMlJsOHNUYklSbkR3Z2pNc1ZUcUNhN3VnWHdIV2U5RklKVldodktsWE5rczRlMVFfZzJZV3VJSzlhdEpRV1VzLXc2Sw?oc=5",
+  "title": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows - Reuters",
+  "tokens": [
+   "energy",
+   "flows",
+   "global",
+   "houthis",
+   "key",
+   "port",
+   "red",
+   "reuters",
+   "sea",
+   "seize",
+   "sources",
+   "threatening",
+   "yemeni"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+  "tokens": [
+   "000",
+   "adult",
+   "american",
+   "every",
+   "get",
+   "midterms",
+   "republicans",
+   "trump",
+   "win"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTBDWU8wZ01YSnowWGVWbUFZQ0ozZlZaSzRYWFhuaUdxajB6T05JS29iX180anZIUWdKUUE4SjZGdzN1cmc3Tmx2bjMtT0Z4TE55bGQ1NjYxUThlU21OTnZvbVJxeTNXVjZZcXJrdG1pQzRMTnVqeGUzcVY5aGluV1V0YTh0UlN1eVBScUZTajd4S0tCaFNEWGltbE9jRHk5eS1rTFVkRHg?oc=5",
+  "title": "Trump touts $5,000 payout if Republicans win as Vance waits in wings - Reuters",
+  "tokens": [
+   "000",
+   "payout",
+   "republicans",
+   "reuters",
+   "touts",
+   "trump",
+   "vance",
+   "waits",
+   "win",
+   "wings"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+  "title": "Twenty-five dead after fire on cargo ship in eastern China",
+  "tokens": [
+   "cargo",
+   "china",
+   "dead",
+   "eastern",
+   "fire",
+   "five",
+   "ship",
+   "twenty"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+  "title": "Wall St set for lower open after hotter-than-expected producer inflation data - Reuters",
+  "tokens": [
+   "data",
+   "expected",
+   "hotter",
+   "inflation",
+   "lower",
+   "open",
+   "producer",
+   "reuters",
+   "set",
+   "wall"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/ukraine-president-volodymyr-zelenskky-canada-visit-2026-9.7338072?cmp=rss",
+  "title": "Ukrainian President Volodymyr Zelenskyy arrives in Canada",
+  "tokens": [
+   "arrives",
+   "canada",
+   "president",
+   "ukrainian",
+   "volodymyr",
+   "zelenskyy"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/apple-iphone-duo-canadian-price-9.7337823?cmp=rss",
+  "title": "Apple's new iPhone Duo costs more in Canada, but not because of tariffs",
+  "tokens": [
+   "apple's",
+   "because",
+   "canada",
+   "costs",
+   "duo",
+   "iphone",
+   "tariffs"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/us-retaliatory-tariffs-bans-economic-impact-9.7337788?cmp=rss",
+  "title": "What will Trump's retaliatory tariffs do to Canada\u2019s economy big picture? Not that much, economists predict",
+  "tokens": [
+   "big",
+   "canada",
+   "economists",
+   "economy",
+   "much",
+   "picture",
+   "predict",
+   "retaliatory",
+   "tariffs",
+   "trump's"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/canada-banks-ai-9.7337625?cmp=rss",
+  "title": "Canadian bank CEOs can't stop bragging about AI. Are job cuts next?",
+  "tokens": [
+   "bank",
+   "bragging",
+   "can't",
+   "canadian",
+   "ceos",
+   "cuts",
+   "job",
+   "next",
+   "stop"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzlkZDJjakNKZnV2VEtEYUU4b3VmQWtHWnI3eFp4WlFDRzdTM3dfTENUMWtiY2FrcUFnYVZMeGR6ZEczWDBzZDZHWVhvd0FRUnRibnlBOXk5Q2h2aTRUWnAzZVMzcEtscnZxcjVxSEI5ZmRBYmVXVHd6TmQ0ekhNVUZTYzgzbHM3VExhbEZhZENzN1dWaUZwR3Bjcw?oc=5",
+  "title": "China's DeepSeek launches V4.1-Flash model - Reuters",
+  "tokens": [
+   "china's",
+   "deepseek",
+   "flash",
+   "launches",
+   "model",
+   "reuters"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/2026/sep/10/first-thing-trump-5000-dollars-promise-republicans-win-midterms",
+  "title": "Trump makes highly unusual promise of $5,000 for all if Republicans win midterms | First Thing",
+  "tokens": [
+   "000",
+   "all",
+   "first",
+   "highly",
+   "makes",
+   "midterms",
+   "promise",
+   "republicans",
+   "thing",
+   "trump",
+   "unusual",
+   "win"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+  "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+  "tokens": [
+   "air",
+   "daily",
+   "defences",
+   "drones",
+   "jet",
+   "launches",
+   "outpacing",
+   "powered",
+   "russia's",
+   "ukraine's"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
+  "title": "Kalshi launches \u2018perps\u2019 for gold and silver following CFTC approval, expanding futures offerings",
+  "tokens": [
+   "approval",
+   "cftc",
+   "expanding",
+   "following",
+   "futures",
+   "gold",
+   "kalshi",
+   "launches",
+   "offerings",
+   "perps",
+   "silver"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
+  "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+  "tokens": [
+   "begins",
+   "guidance",
+   "hold",
+   "macy's",
+   "posts",
+   "raises",
+   "results",
+   "strong",
+   "take",
+   "turnaround"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates",
+  "title": "Visitor levy powers should be in place by March 2028 in England, ministers say \u2013 UK politics live",
+  "tokens": [
+   "2028",
+   "england",
+   "levy",
+   "live",
+   "march",
+   "ministers",
+   "place",
+   "politics",
+   "powers",
+   "visitor"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+  "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+  "tokens": [
+   "biggest",
+   "carbon",
+   "credit",
+   "deal",
+   "google",
+   "indian",
+   "labs",
+   "methane",
+   "mitti",
+   "rice",
+   "signs",
+   "startup"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+  "title": "Oracle options are doing something curious heading into earnings",
+  "tokens": [
+   "curious",
+   "doing",
+   "earnings",
+   "heading",
+   "options",
+   "oracle",
+   "something"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
+  "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+  "tokens": [
+   "amazon",
+   "ariane",
+   "backs",
+   "battles",
+   "close",
+   "europe",
+   "gap",
+   "launch",
+   "orders",
+   "rocket",
+   "space"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+  "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+  "tokens": [
+   "breach",
+   "face",
+   "faces",
+   "gop",
+   "hugging",
+   "investigation",
+   "led",
+   "openai",
+   "scoop",
+   "senate"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3Q2VEQ1enJFNFBHbkNBMXh5dDdIZng0MGdmb1NKY0FFWVN3Q2RqWnA1UWtjMjRXcEZ5UjRfRXZZRVpnOWNqamRtM0hUalFUZHppRHlqQlZ6b19pTHRNTjJ6NVlMeHdmbExSS2pjZUVRV1E1TWpBT19weWtYN3p1dzNTVjZzUjk2eEtNazFYd0xXS19VTnZIbkN1V2NNYlFva2c?oc=5",
+  "title": "EXCLUSIVE: NATO allies foil Russian subsea cable sabotage plot - Reuters",
+  "tokens": [
+   "allies",
+   "cable",
+   "exclusive",
+   "foil",
+   "nato",
+   "plot",
+   "reuters",
+   "russian",
+   "sabotage",
+   "subsea"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates",
+  "title": "Russia\u2019s actions have strengthened European case for boosting defence spending, says Nato chief \u2013 Europe live",
+  "tokens": [
+   "actions",
+   "boosting",
+   "case",
+   "chief",
+   "defence",
+   "europe",
+   "european",
+   "live",
+   "nato",
+   "russia",
+   "spending",
+   "strengthened"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/",
+  "title": "Netherlands to purchase its own GlobalEye aircraft, on top of NATO\u2019s order",
+  "tokens": [
+   "aircraft",
+   "globaleye",
+   "nato",
+   "netherlands",
+   "order",
+   "purchase",
+   "top"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theguardian.com/australia-news/2026/sep/10/jacqui-lambie-says-pauline-hanson-a-bloody-coward-after-one-nation-cartoon-calling-andrew-hastie-a-traitor-ntwnfb",
+  "title": "Jacqui Lambie calls Pauline Hanson an \u2018angry little woman\u2019 after One Nation cartoon calling Andrew Hastie a traitor",
+  "tokens": [
+   "andrew",
+   "angry",
+   "calling",
+   "calls",
+   "cartoon",
+   "hanson",
+   "hastie",
+   "jacqui",
+   "lambie",
+   "little",
+   "nation",
+   "one",
+   "pauline",
+   "traitor",
+   "woman"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObm5ucHMzVUtKTnZxMjJsdGlpNTNtZHhFUWVGRG9XcEhsRHJJWEhlcVItM3d0OHNKdnN3cDQ0X0FFOU5xYzRvUlExUFd3LUl1OTR3TzlIcUF1QWRERU9IRFp1STd2ZlpHVUVySjFrenJOVmVVMy1JNllvU29BZFEwNmFHYlZnTjBvdEFyMWFlZzZ4UW54djNFWlh1bS1pR1VGNmZYNlhlUlFpOWZVWWk2U1JoZ1g3RmthTnhiaTgxajJIcjA?oc=5",
+  "title": "EXCLUSIVE: China's AI chipmakers raise prices as high-bandwidth memory shortage bites - Reuters",
+  "tokens": [
+   "bandwidth",
+   "bites",
+   "china's",
+   "chipmakers",
+   "exclusive",
+   "high",
+   "memory",
+   "prices",
+   "raise",
+   "reuters",
+   "shortage"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNURGbmRQdjJaanFqS0VBQUVyTjZCNkZyeTBrV2NVcWtGLVRQdk5jaG9pYU5FejR3REpqdHJSQWM0NlRUSVdnclJOR0RiWEpUNlV1ZXRUU1RPSTFlNF90elZIZWFxbFhDYm1nUlFjQ3l0UjRMbGstTmItU3BiOVZDYi0tRUxPelM0V1J6TmhVTnJJQkdxdUFBemtkdWxTdUNScndiZlNiQm1rQXRsMlh6ZFhxNnRmemFLN2ZfMnk2UQ?oc=5",
+  "title": "White House copper tariff plan stalls amid affordability concerns, sources say - Reuters",
+  "tokens": [
+   "affordability",
+   "concerns",
+   "copper",
+   "house",
+   "plan",
+   "reuters",
+   "sources",
+   "stalls",
+   "tariff",
+   "white"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdBWlltZS1pUU8wZnFqc21wUDExNGZub0prbEtxYTNwS2J3UU91eTQ4aXZTUGNwWjdGZGxVZUNiY2dHbXVNbl9tNE4zSlVqVDJaZFlmMkZ6Slo3RndJczlqMTlsYlVGOEEteGNreDFjR0JabWhJaTNCTHNtUUozWDFVSm56QldwaXFjbnBQZWlxdGtsVFdmcDFDTHNjMzBaN2NkNlNzUGV0MXhZR3hBdmFUMV9LLU9ZYWxBTW5n?oc=5",
+  "title": "EXCLUSIVE: How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran - Reuters",
+  "tokens": [
+   "billion",
+   "chinese",
+   "dodge",
+   "dollar",
+   "exclusive",
+   "flowing",
+   "goods",
+   "iran",
+   "kept",
+   "reuters",
+   "sanctions"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONjFMLWdlN2p4R0h2Q0hDU2ktaWNJLW1HME5HbnBoWGxPcnJDMHYyQjluN2VhclJYNENmd3BuOGh4TElfTTJhdWYxWXBUTG1ua3VhNl9kYUx4ZGJkM2dLYUhxYVFzQjN0alY2SXNKM2lORHVqaDh4bmJHbm9ITmE3OUpNMDYwUFlSTlNSUFBCQzJPTXBfY1N4ejNzRzRxQVdMMGFheHhWQnF6OEc1RnlJdTEzVF80QXJoYW5uQWF4dkcyaG4wWWc?oc=5",
+  "title": "Payment firms Visa, Mastercard and Ant International team up on AI agent trust framework - Reuters",
+  "tokens": [
+   "agent",
+   "ant",
+   "firms",
+   "framework",
+   "international",
+   "mastercard",
+   "payment",
+   "reuters",
+   "team",
+   "trust",
+   "visa"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
+  "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
+  "tokens": [
+   "business",
+   "china",
+   "criticize",
+   "ford",
+   "lawmakers",
+   "republican",
+   "reuters",
+   "ties"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZG5kaGY0aEhEcFVBNWZ0cFRrSFV0UXRBbGo1VWExaVdkMzZQeUpXM1BjMWxsRUZCNGotVGU4U1lxTmRiZ2w1RVNkN1J5TzctZlpQcUdvQ1o4c3NrRzR1VUdkRDZrQW5HdDJxaGdYaXd1WkhHRnVBYXFzVF8zWlAzdE9BYndyS2NKYzFVaWdZbDFzM0FkcklFZlh6cG9aR1lCRTBJU3VYWUF6YV9rMmJN?oc=5",
+  "title": "Sweden's election could bring far right a place at the heart of government - Reuters",
+  "tokens": [
+   "bring",
+   "election",
+   "far",
+   "government",
+   "heart",
+   "place",
+   "reuters",
+   "right",
+   "sweden's"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+  "title": "Watch: Is Trump's $5,000 election pledge legal?",
+  "tokens": [
+   "000",
+   "election",
+   "legal",
+   "pledge",
+   "trump's",
+   "watch"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+  "title": "Iran war won't end until after crucial November elections, says Trump",
+  "tokens": [
+   "crucial",
+   "elections",
+   "end",
+   "iran",
+   "november",
+   "trump",
+   "until",
+   "war",
+   "won't"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+  "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+  "tokens": [
+   "'heartbreaking'",
+   "breaks",
+   "dead",
+   "ferry",
+   "fire",
+   "five",
+   "missing",
+   "philippines"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+  "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+  "tokens": [
+   "chosen",
+   "family",
+   "king",
+   "popular",
+   "presenter",
+   "rift",
+   "royal",
+   "succeed",
+   "ugandan"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+  "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
+  "tokens": [
+   "999",
+   "apple's",
+   "big",
+   "boss",
+   "first",
+   "folding",
+   "gamble",
+   "iphone",
+   "starts"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+  "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+  "tokens": [
+   "ceuta",
+   "crossing",
+   "intelligence",
+   "mass",
+   "plans",
+   "spanish",
+   "surge",
+   "warned"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-banff-cabinet-planning-forum-9.7338041?cmp=rss",
+  "title": "Trade war, Alberta referendum loom large as Carney charts cabinet's year forward",
+  "tokens": [
+   "alberta",
+   "cabinet's",
+   "carney",
+   "charts",
+   "forward",
+   "large",
+   "loom",
+   "referendum",
+   "trade",
+   "war",
+   "year"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/billc-3-citizenship-by-descent-9.7337738?cmp=rss",
+  "title": "Canadian citizenship certificate applications now facing nearly 3-year delays",
+  "tokens": [
+   "applications",
+   "canadian",
+   "certificate",
+   "citizenship",
+   "delays",
+   "facing",
+   "nearly",
+   "year"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/anthropic-researcher-resigned-9.7337789?cmp=rss",
+  "title": "AI researchers 'earnestly believe' it could kill all humans within the next decade, Anthropic employee says",
+  "tokens": [
+   "'earnestly",
+   "all",
+   "anthropic",
+   "believe'",
+   "decade",
+   "employee",
+   "humans",
+   "kill",
+   "next",
+   "researchers",
+   "within"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/british-columbia/police-voyeur-victims-9.7330228?cmp=rss",
+  "title": "Police did not intervene as Canada's most prolific voyeur was 'looking for more victims,' court records show",
+  "tokens": [
+   "'looking",
+   "canada's",
+   "court",
+   "intervene",
+   "police",
+   "prolific",
+   "records",
+   "show",
+   "victims",
+   "voyeur"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/government-regulation-review-process-9.7337783?cmp=rss",
+  "title": "Liberals remove layer of review process for energy projects, backing off bypassing at-risk species protections",
+  "tokens": [
+   "backing",
+   "bypassing",
+   "energy",
+   "layer",
+   "liberals",
+   "off",
+   "process",
+   "projects",
+   "protections",
+   "remove",
+   "review",
+   "risk",
+   "species"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/trump-911-nyc-claims-9.7336949?cmp=rss",
+  "title": "Trump's 9/11 statements come under scrutiny again",
+  "tokens": [
+   "come",
+   "scrutiny",
+   "statements",
+   "trump's"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison",
+  "title": "How the iPhone Duo compares to other folding phones",
+  "tokens": [
+   "compares",
+   "duo",
+   "folding",
+   "iphone",
+   "phones"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+  "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+  "tokens": [
+   "artemis",
+   "astronaut",
+   "become",
+   "commander",
+   "emeriti",
+   "first",
+   "nasa's",
+   "pilot"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+  "title": "Why the current tech backlash feels different",
+  "tokens": [
+   "backlash",
+   "current",
+   "different",
+   "feels",
+   "tech"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+  "title": "ID verification giant IDScan confirms data breach with more than 150 million driver\u2019s licenses stolen",
+  "tokens": [
+   "150",
+   "breach",
+   "confirms",
+   "data",
+   "driver",
+   "giant",
+   "idscan",
+   "licenses",
+   "million",
+   "stolen",
+   "verification"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+  "title": "Four groups caught using the same Chrome and Windows exploit kit",
+  "tokens": [
+   "caught",
+   "chrome",
+   "exploit",
+   "four",
+   "groups",
+   "kit",
+   "using",
+   "windows"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.theverge.com/column/993135/optimizer-cialis-tadalafil-mens-health",
+  "title": "New standards for masculinity are stacked against men\u2019s health",
+  "tokens": [
+   "against",
+   "health",
+   "masculinity",
+   "men",
+   "stacked",
+   "standards"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/",
+  "title": "How To Measure An Innovation Economy: South Korea",
+  "tokens": [
+   "economy",
+   "innovation",
+   "korea",
+   "measure",
+   "south"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://betakit.com/manitoba-invests-4-million-to-develop-geothermal-neighbourhood/",
+  "title": "Manitoba invests $4 million to develop geothermal neighbourhood",
+  "tokens": [
+   "develop",
+   "geothermal",
+   "invests",
+   "manitoba",
+   "million",
+   "neighbourhood"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://sifted.eu/articles/how-cortea-is-making-ai-trustworthy-for-auditors-brnd/",
+  "title": "How Cortea is making AI trustworthy for auditors: \u2018It\u2019s not just about automation but quality control\u2019",
+  "tokens": [
+   "auditors",
+   "automation",
+   "control",
+   "cortea",
+   "making",
+   "quality",
+   "trustworthy"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/august-2026-new-unicorns-ai-robotics-semiconductors-xpeng-lumilens-river-source/",
+  "title": "29 Companies Joined The Unicorn Board In August, Led By AI Software And Semiconductors",
+  "tokens": [
+   "august",
+   "board",
+   "companies",
+   "joined",
+   "led",
+   "semiconductors",
+   "software",
+   "unicorn"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://betakit.com/waterloo-tech-week-returns-with-new-flagship-events/",
+  "title": "Waterloo Tech Week returns with new flagship events",
+  "tokens": [
+   "events",
+   "flagship",
+   "returns",
+   "tech",
+   "waterloo",
+   "week"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://sifted.eu/articles/the-entrepreneurial-advantage-in-a-100-year-life-brnd/",
+  "title": "The entrepreneurial advantage in a 100-year life",
+  "tokens": [
+   "100",
+   "advantage",
+   "entrepreneurial",
+   "life",
+   "year"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
+  "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
+  "tokens": [
+   "armor",
+   "eyes",
+   "german",
+   "industry",
+   "land",
+   "newly",
+   "partnership",
+   "ukrainian",
+   "unveiled",
+   "vehicles"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.defenseone.com/business/2026/09/defense-business-brief-ai-manufacturing-skilled-trades-arms-transfer-oversight/415898/",
+  "title": "Defense Business Brief: AI manufacturing; Skilled trades; Arms transfer oversight",
+  "tokens": [
+   "arms",
+   "brief",
+   "business",
+   "defense",
+   "manufacturing",
+   "oversight",
+   "skilled",
+   "trades",
+   "transfer"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
+  "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+  "tokens": [
+   "demand",
+   "drone",
+   "echodyne",
+   "european",
+   "fuels",
+   "maker",
+   "mulls",
+   "production",
+   "radar",
+   "warfare"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.defenseone.com/technology/2026/09/ai-powered-biowarfare-looms-army-lays-plans-fight-through-it/415886/",
+  "title": "AI-powered biowarfare is coming; the Army lays plans to \u2018fight through\u2019 it",
+  "tokens": [
+   "army",
+   "biowarfare",
+   "coming",
+   "fight",
+   "lays",
+   "plans",
+   "powered",
+   "through"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat/",
+  "title": "How Japan, South Korea are building up naval capabilities for China threat",
+  "tokens": [
+   "building",
+   "capabilities",
+   "china",
+   "japan",
+   "korea",
+   "naval",
+   "south",
+   "threat"
+  ],
+  "date": "2026-09-10"
+ },
+ {
+  "link": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
+  "title": "Elbit Systems\u2019 American subsidiary rebrands as\u00a0Twenty-Six Defense",
+  "tokens": [
+   "american",
+   "defense",
+   "elbit",
+   "rebrands",
+   "six",
+   "subsidiary",
+   "systems",
+   "twenty"
+  ],
+  "date": "2026-09-10"
  }
 ]
