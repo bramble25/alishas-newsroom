@@ -5213,5 +5213,932 @@
    "western"
   ],
   "date": "2026-09-11"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpkSEx5YmgyZGRKZl93X1FHMW8tS1hTNXNrR0RxdDZBbUtVY0F6RGFYekIxZ2VQTGZKRU85M0JFdUxvRjNjeEJSRV9uS0kyd1NxdldxY0EtV1Eyem9wMjRsT3NJUjlEb1ZuaWgtV0phUjlhTF9hVGQ5U05tS1RySmNnNkxDVXNoNkZTaGM0cDNlemFPMDE0?oc=5",
+  "title": "Trump says he would 'love' to see a united Ireland - Reuters",
+  "tokens": [
+   "'love'",
+   "ireland",
+   "reuters",
+   "see",
+   "trump",
+   "united"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGtZdldMOGgyY3hFdEVnWklzR3dhREVBZTdDeEhPQjlmaUw1QUlGVUZDdUZoaDZWZzBUTXhUb09ieU4zTVZvYkplLVJ1Z1RscUp6TXMtX2RpdFIxY1ctbVo5d1dtMTJpSFVleW8waDhfREEzNGZlUmpuYVlVSEtWeUctYVJpWEVxNjdUNVE5WUpTV2xQYk5ENGRpaXZQZEtrc0NySnNDdzViU1MyampB?oc=5",
+  "title": "Trump says Iran probably responsible for attack on Saudi pipeline - Reuters",
+  "tokens": [
+   "attack",
+   "iran",
+   "pipeline",
+   "probably",
+   "responsible",
+   "reuters",
+   "saudi",
+   "trump"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGNNcUNqS2lYaWJSM0pnc1RXQVZIQW1VbnBzQ1BXOW1mZml2cGdvRVBnUHA2LXRmbmEyS01Ga3dtWkZGel9KVEVUZ21GRkIwVzhITkI4QTRWc0ZCbmJtU1BMazMtSEtRZTNjZWRhcVI2OFRsX0UxbGZfZ1AyR2dfRmt6MTFBclczV18yT04xbjJuUHJvX0NZVktMMURhOW1zLTBfQVAzVTRINS1LbEhoTkgwUUc4dmZ0M1dsbDd3cG9vWXc?oc=5",
+  "title": "Philippines begins identifying victims from ferry fire as dozens still missing - Reuters",
+  "tokens": [
+   "begins",
+   "dozens",
+   "ferry",
+   "fire",
+   "identifying",
+   "missing",
+   "philippines",
+   "reuters",
+   "still",
+   "victims"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZERlSkNRYWwycnZ4Y1Nwc1RXSXU3WTFLbmFLVnJGOWhfWjdvTzZiTGJVWVpSWHFWWXB1TTh0STE5QkM2VUlabV9DaENCYXJ2djY1OUhfVjUzbTZWdVVHbjRLTlBNLURPYnNlQU1WSzdYZWxzSk51b0ZQS0Y2N0hndGJPMnF3bW9MUjJSWk80cFkxZVUyXzRFVTdwVGtIQVF0S2Z6RkdqQWFOSGdWZnVV?oc=5",
+  "title": "BRICS adopts joint declaration, urges 'maximum restraint' in Mideast - Reuters",
+  "tokens": [
+   "'maximum",
+   "adopts",
+   "brics",
+   "declaration",
+   "joint",
+   "mideast",
+   "restraint'",
+   "reuters",
+   "urges"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWtMYlBMQkZoRHN1bzl5cmZvZE1fd1ZIMzZiUFlVYU02SFFlSC05dlNCNDlJc29kOEpZU2gyT2lsWkdxb2R2eXdhWFNqRkg4MU1BZWpCYWlOSTMyTmtsRUdPWDJ6TEpuYUI0RmFRZzlwMGp4V0FYbFZRdGU2QUtaQ0JxcE5rZkVjNllYanEyZEsxZ2hsWFVHTHgyOEVOdWp0U2xuYlc5ZXhSdm80bExTZnByaHBER1JHNnhYS2dvMUtHSDVkYjNiUTVoMi05bUpqU21N?oc=5",
+  "title": "Canadian boycott of US products pushes grocers to adapt, explore new supply sources - Reuters",
+  "tokens": [
+   "adapt",
+   "boycott",
+   "canadian",
+   "explore",
+   "grocers",
+   "products",
+   "pushes",
+   "reuters",
+   "sources",
+   "supply"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2hwaW9IeTRsWlZUMXI0TnRSYUhSM0ZNZVRXUHpQM0NKMHJIMlhJaFZZUUJYRE5PbEpvSjg4bDFxT0FVQUp1X0hHSUhOcXJjOFZpaDY3RmRMeFpFT0VaZVlQWG12ZlZJQ3BjdF9MMVJXYUxHV0xwQjVJWGstZWpJYWxlM2pmMzBCdFc5d1NCeE5IWENOUC1Id1ZfZGJDMkMwckY5Y082T2NLOEk?oc=5",
+  "title": "China's Xi urges BRICS to take on peacemaking role in Middle East war - Reuters",
+  "tokens": [
+   "brics",
+   "china's",
+   "east",
+   "middle",
+   "peacemaking",
+   "reuters",
+   "role",
+   "take",
+   "urges",
+   "war"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/jean-chretien-says-we-bow-to-no-one-in-fiery-9-11-speech-in-gander-n-l-9.7340903?cmp=rss",
+  "title": "Jean Chr\u00e9tien says 'we bow to no one' in fiery 9/11 speech in Gander, N.L.",
+  "tokens": [
+   "'we",
+   "bow",
+   "chr",
+   "fiery",
+   "gander",
+   "jean",
+   "one'",
+   "speech",
+   "tien"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/911-firefighter-canada-soldier-afghan-war-trauma-9.7341171?cmp=rss",
+  "title": "Two uniforms, one deadly morning: How this firefighter and former soldier is reflecting on 9/11",
+  "tokens": [
+   "deadly",
+   "firefighter",
+   "former",
+   "morning",
+   "one",
+   "reflecting",
+   "soldier",
+   "two",
+   "uniforms"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-trump-trade-war-analysis-9.7341023?cmp=rss",
+  "title": "Trade 'war' or not, are Canada and the United States now dug in?",
+  "tokens": [
+   "'war'",
+   "canada",
+   "dug",
+   "states",
+   "trade",
+   "united"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/dean-allison-inquiry-covid-vaccine-injury-9.7340825?cmp=rss",
+  "title": "Conservative MP holds independent hearings into COVID-19 vaccine injuries",
+  "tokens": [
+   "conservative",
+   "covid",
+   "hearings",
+   "holds",
+   "independent",
+   "injuries",
+   "vaccine"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+  "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+  "tokens": [
+   "arabia",
+   "attack",
+   "drone",
+   "iraq",
+   "key",
+   "launched",
+   "oil",
+   "pipeline",
+   "saudi",
+   "shuts"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/radio/justasking/canada-digital-sovereignty-just-asking-9.7337778?cmp=rss",
+  "title": "Time for a digital divorce? Trade war puts spotlight on Canada's relationship with U.S. big tech",
+  "tokens": [
+   "big",
+   "canada's",
+   "digital",
+   "divorce",
+   "puts",
+   "relationship",
+   "spotlight",
+   "tech",
+   "time",
+   "trade",
+   "war"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVNWLTBQYXBwMHF6aXRSMkJIbWhyTjkwdXNhUVBRMnFyMWlXcURCR3ZINlVxeXN6SzZ6clJTMmoyWS1Udk9faGtjMW1kOGRZdUdsNTRwOWxsWERmOEQweGxnUVVBZXMtaE9uU08xcnQzX19UVy0xcm9xSkxqRDlobVA1b0lGV2c3NW1SRjlOVF9WcmU2c09zWncxYWtqOE1KSGhDYXBiZEtNQQ?oc=5",
+  "title": "Canada's former leader Justin Trudeau launches production company - Reuters",
+  "tokens": [
+   "canada's",
+   "company",
+   "former",
+   "justin",
+   "launches",
+   "leader",
+   "production",
+   "reuters",
+   "trudeau"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+  "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+  "tokens": [
+   "amazon",
+   "concerns",
+   "crash",
+   "flying",
+   "it's",
+   "jet's",
+   "miami",
+   "operator",
+   "raises"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss",
+  "title": "\u2018Divine triumph\u2019: Iran celebrates Houthis\u2019 capture of Yemen\u2019s Red Sea coast",
+  "tokens": [
+   "capture",
+   "celebrates",
+   "coast",
+   "divine",
+   "houthis",
+   "iran",
+   "red",
+   "sea",
+   "triumph",
+   "yemen"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmduYjZNYlh4TmVDd3dMTzZmU21ud1Q5WVVaYXBOM2hUQ201U2tjeDhoWHd6ZjhlQzdtUWxiNmFibkRpc2VlcmxjbWMzTWljZ0ZZSkF6VHFPWnJVUFQwc2g4RDNtb1FCWjN1R3BBcFRzUHkyTXJiRXZpa0NxV29IWFc1LV9lUXh0bXc3TWNrSHZhT0lPTVU2dEswYWhSVUw2SzFkRkVmSHU0S3c?oc=5",
+  "title": "EXCLUSIVE: Nvidia in talks to invest in Anthropic\u2019s mega IPO, sources say - Reuters",
+  "tokens": [
+   "anthropic",
+   "exclusive",
+   "invest",
+   "ipo",
+   "mega",
+   "nvidia",
+   "reuters",
+   "sources",
+   "talks"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.pbs.org/newshour/politics/prosecutor-brought-in-to-lead-investigation-of-trump-foes-tells-ap-that-he-has-resigned",
+  "title": "Prosecutor brought in to lead investigation of Trump foes tells AP that he has resigned",
+  "tokens": [
+   "brought",
+   "foes",
+   "investigation",
+   "lead",
+   "prosecutor",
+   "resigned",
+   "tells",
+   "trump"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
+  "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
+  "tokens": [
+   "both",
+   "breach",
+   "face",
+   "hugging",
+   "openai",
+   "parties",
+   "question",
+   "senators",
+   "startup"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+  "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+  "tokens": [
+   "adds",
+   "ahead",
+   "board",
+   "exec",
+   "fidji",
+   "former",
+   "ipo",
+   "nscale",
+   "openai",
+   "potential",
+   "simo"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+  "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+  "tokens": [
+   "appease",
+   "center",
+   "data",
+   "opponents",
+   "oracle",
+   "push",
+   "renewables",
+   "stargate",
+   "tries"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/2026/sep/12/democrats-republican-midterm-convention",
+  "title": "Calls for Democrats to be shot go unchallenged at Republican convention",
+  "tokens": [
+   "calls",
+   "convention",
+   "democrats",
+   "republican",
+   "shot",
+   "unchallenged"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+  "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+  "tokens": [
+   "'never",
+   "25th",
+   "america",
+   "anniversary",
+   "attacks",
+   "ever",
+   "forget'",
+   "marks"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.pbs.org/newshour/show/americans-remember-the-lives-lost-in-the-9-11-attacks-25-years-ago",
+  "title": "Americans remember the lives lost in the 9/11 attacks 25 years ago",
+  "tokens": [
+   "ago",
+   "americans",
+   "attacks",
+   "lives",
+   "lost",
+   "remember",
+   "years"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
+  "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
+  "tokens": [
+   "25th",
+   "anniversary",
+   "commemorates",
+   "pictures"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTZCOHZjRXhtY2sxV3p2ZlB1MU1USlh5TWNfSVA5NU9qaVNZNFdPZWtfbjNqa1hOS2NtT3RrVlY5dkt0dE1jTW1xTmcxaUkwOWQ0Mm1odjBKb2hOTVQzaVZiaFZMQmNxQ0x6ZWE1SmF5YzNmM2s4OW9GZWxfbDFxQkptOHphUDRQRWtZa2FzLTF4TDRSWF95Wk5iTEdIZldzWlplcXFJbw?oc=5",
+  "title": "Roblox expands tools to help creators build, distribute games - Reuters",
+  "tokens": [
+   "build",
+   "creators",
+   "distribute",
+   "expands",
+   "games",
+   "help",
+   "reuters",
+   "roblox",
+   "tools"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHFYZWVIWFpkR3dUWUVHU0JpLTdYVUNKbnhZNXJObi1kUE02ajd1cm5qOC1UQVhZQUc5M0lwVkxsQTJxTUN3WEtORlVjYTBZV3UxR21abHpGRHVKTEc3b3NCbHhYNEV3dFhCbkZhbU16SGNDTWhFVVNqSW5Hd1VVakN5X1g0bU93SGt2bC1oalBHaEN2c1NIV0VIVHpSQjh6dXIzUk5qdVJZYjFKVTNpS29sZ2hXaDRSRFN2UUNJRFA?oc=5",
+  "title": "Netherlands signs intent to buy Saab GlobalEye surveillance jet - Reuters",
+  "tokens": [
+   "buy",
+   "globaleye",
+   "intent",
+   "jet",
+   "netherlands",
+   "reuters",
+   "saab",
+   "signs",
+   "surveillance"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzRlSHNoSkdzQ0gtcllVY1RmRVRHWFRRSGo2R1hLaGRQR0htY2pTLVN6RVpfNWdMcnNTMVZDSEZ1MlV2UFRnWDNfSFJ0MGtLbVBOYWpkb3gtUEdUaEdvbGR2M05ja0h6dk1BQ3g0TUswVVkyWkIwVVBsZHFDM2FkanhZeUZKRG45TENvdXhxa1BfbmlId2VnV2w0MTNUNW5zeVB4aElkb3J3ZnhlTkVabGtDSnBocjNUeUpB?oc=5",
+  "title": "Crypto investor pardoned by Trump donates \u00a336 million to Farage's Reform UK - Reuters",
+  "tokens": [
+   "crypto",
+   "donates",
+   "farage's",
+   "investor",
+   "million",
+   "pardoned",
+   "reform",
+   "reuters",
+   "trump"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2tSZ0lQUTNyT1FOMk4wSm9kRmd0T3YzT1JSZzROTkZlS1dFUnA1RWRGSVBKN1lIZ1RaZk1kT1F5b2tUY0EzOUx0U3BPR1JrYVRqMl9mSmNocUdsRkt2akhSYnpRZlg0NnZHd0pxSlVjN3NfeGFJOXpURFFXeGxrdmV1MzFSSkk1eFhkY3I1elA1VDVtMGh2cExNU25oaDdpMWZLYVlhaWJLZEtuMzV3YkNUNmxBUQ?oc=5",
+  "title": "UK PM's office says position on Irish unity unchanged after Trump comments - Reuters",
+  "tokens": [
+   "comments",
+   "irish",
+   "office",
+   "pm's",
+   "position",
+   "reuters",
+   "trump",
+   "unchanged",
+   "unity"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1FmZGJEblBGQkx6eGwxV05zcWtpRXRVUlFTY2FHOGowNTdMLU5BazN1dVFIM0lhbzRtbTFyVmZndFExWmRUUFN1bE5Fdm5CZjZmZkxVVVRaNi1zVTdRcS1sNFU1NTd6OHhkZHBXNlFKdWVfMnN4R2JndDVXWXdiNzFNQmNic1c0SjNBNW10Y0RDWjM4Z0pNM2xlRnVsSkg3RDhmZkFpd0o5TjhOckRXcW16dkMyYTJoSEd0UzFvN21vQQ?oc=5",
+  "title": "Syrian private airport plans spark outcry over mass graves, land rights - Reuters",
+  "tokens": [
+   "airport",
+   "graves",
+   "land",
+   "mass",
+   "outcry",
+   "plans",
+   "private",
+   "reuters",
+   "rights",
+   "spark",
+   "syrian"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczRVMDVmcFFkMWs3TDRSemk1SnA1SW1NSTRmaGU3VXRmbDlvUnlGTll6VHRRYWxjOTl1N3QzcFhIYWs5RjJaRGRmclRQYmpLdW8tNHNXWExZTnpmSklXaFU4YWJvOC1EcEpvcDdQVnpfWnBYT3l6X1pCRW9Bc19YQzNmYnFrbHBNQXd4aE1nVkpKWktoTjFoM2dSa1BGMnlSb3dVMnJhOFVTRHRrXzlHSFVXTDFvZVNzQ19r?oc=5",
+  "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping - Reuters",
+  "tokens": [
+   "grip",
+   "houthis",
+   "oil",
+   "pipeline",
+   "red",
+   "reuters",
+   "saudis",
+   "sea",
+   "shipping",
+   "shut",
+   "tighten"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+  "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+  "tokens": [
+   "'fantastic'",
+   "during",
+   "ireland",
+   "irish",
+   "trump",
+   "united",
+   "visit"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+  "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+  "tokens": [
+   "'toughest",
+   "bbc",
+   "faces",
+   "full",
+   "invasion",
+   "official",
+   "russia's",
+   "scale",
+   "since",
+   "tells",
+   "ukraine",
+   "winter'"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+  "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+  "tokens": [
+   "'it's",
+   "crackdown",
+   "dog",
+   "fear",
+   "foreign",
+   "kenya's",
+   "like",
+   "loose",
+   "set",
+   "traders",
+   "us'"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+  "title": "Passenger train derails in France leaving at least 44 injured",
+  "tokens": [
+   "derails",
+   "france",
+   "injured",
+   "least",
+   "leaving",
+   "passenger",
+   "train"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+  "title": "Record heatwaves in France set to make champagne stronger",
+  "tokens": [
+   "champagne",
+   "france",
+   "heatwaves",
+   "make",
+   "record",
+   "set",
+   "stronger"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+  "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+  "tokens": [
+   "arrest",
+   "black",
+   "death",
+   "found",
+   "hanged",
+   "made",
+   "mississippi",
+   "tree",
+   "woman"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/ai-computer-worms-cybersecurity-9.7341021?cmp=rss",
+  "title": "AI-driven 'worms' that learn on the fly are the latest potential threat to your devices, researchers say",
+  "tokens": [
+   "'worms'",
+   "devices",
+   "driven",
+   "fly",
+   "latest",
+   "learn",
+   "potential",
+   "researchers",
+   "threat"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/edmonton/alberta-separatists-expect-to-win-poll-projects-loss-9.7337551?cmp=rss",
+  "title": "Alberta separatists expect a win, regardless of numbers that say otherwise, poll suggests",
+  "tokens": [
+   "alberta",
+   "expect",
+   "numbers",
+   "otherwise",
+   "poll",
+   "regardless",
+   "separatists",
+   "suggests",
+   "win"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/alberta-separation-referendum-independence-canada-carney-voter-turnout-9.7341197?cmp=rss",
+  "title": "As Alberta separation vote approaches, both campaigns are banking on voter turnout",
+  "tokens": [
+   "alberta",
+   "approaches",
+   "banking",
+   "both",
+   "campaigns",
+   "separation",
+   "turnout",
+   "vote",
+   "voter"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/ukraine-president-volodymyr-zelenskyy-canada-drones-defence-russia-9.7340909?cmp=rss",
+  "title": "Zelenskyy describes Canada-U.S. tensions as 'strange,' draws comparison to Ukraine and Russia",
+  "tokens": [
+   "'strange",
+   "canada",
+   "comparison",
+   "describes",
+   "draws",
+   "russia",
+   "tensions",
+   "ukraine",
+   "zelenskyy"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/toronto/unifor-stellantis-9.7340910?cmp=rss",
+  "title": "Stellantis signs MOU with Canadian armoured vehicle maker on potential sale of Brampton, Ont., plant",
+  "tokens": [
+   "armoured",
+   "brampton",
+   "canadian",
+   "maker",
+   "mou",
+   "ont",
+   "plant",
+   "potential",
+   "sale",
+   "signs",
+   "stellantis",
+   "vehicle"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/entertainment/celine-dion-paris-comeback-residency-fans-9.7340609?cmp=rss",
+  "title": "C\u00e9line Dion has electrified Paris \u2014 and beyond \u2014 for her big comeback",
+  "tokens": [
+   "beyond",
+   "big",
+   "comeback",
+   "dion",
+   "electrified",
+   "line",
+   "paris"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+  "title": "Laika\u2019s stop-motion fantasy Wildwood looks so smooth",
+  "tokens": [
+   "fantasy",
+   "laika",
+   "looks",
+   "motion",
+   "smooth",
+   "stop",
+   "wildwood"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+  "title": "I spent $4,000 on a robot dog from China",
+  "tokens": [
+   "000",
+   "china",
+   "dog",
+   "robot",
+   "spent"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+  "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+  "tokens": [
+   "500m",
+   "data",
+   "deal",
+   "led",
+   "mecka",
+   "nears",
+   "robot",
+   "rush",
+   "sequoia",
+   "training",
+   "valuation"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+  "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+  "tokens": [
+   "iphone",
+   "max",
+   "preorder",
+   "pro"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+  "title": "Some satellite companies still have an appetite for boutique launch services",
+  "tokens": [
+   "appetite",
+   "boutique",
+   "companies",
+   "launch",
+   "satellite",
+   "services",
+   "still"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+  "title": "Khosla Ventures is opening a New York office this fall \u2014 its first outpost outside Sand Hill Road",
+  "tokens": [
+   "fall",
+   "first",
+   "hill",
+   "khosla",
+   "office",
+   "opening",
+   "outpost",
+   "outside",
+   "road",
+   "sand",
+   "ventures",
+   "york"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://betakit.com/tracking-the-canadian-capital-commitments-surrounding-carneys-investment-summit/",
+  "title": "Tracking\u00a0the Canadian capital commitments surrounding Carney\u2019s investment summit",
+  "tokens": [
+   "canadian",
+   "capital",
+   "carney",
+   "commitments",
+   "investment",
+   "summit",
+   "surrounding",
+   "tracking"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/",
+  "title": "The Week\u2019s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
+  "tokens": [
+   "biggest",
+   "boring",
+   "cognition",
+   "funding",
+   "lead",
+   "massive",
+   "motive",
+   "rounds",
+   "week"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://sifted.eu/articles/mistral-fundraise-podcast/",
+  "title": "Is Mistral's monster fundraise a win for European sovereignty?",
+  "tokens": [
+   "european",
+   "fundraise",
+   "mistral's",
+   "monster",
+   "sovereignty",
+   "win"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://betakit.com/regulatory-ai-company-ultimarii-raises-13-million-series-a-round/",
+  "title": "Regulatory AI company Ultimarii raises $13-million Series A round",
+  "tokens": [
+   "company",
+   "million",
+   "raises",
+   "regulatory",
+   "round",
+   "series",
+   "ultimarii"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://betakit.com/micrologic-raises-45-million-for-sovereign-cloud-services/",
+  "title": "Micrologic raises $45 million for sovereign cloud services",
+  "tokens": [
+   "cloud",
+   "micrologic",
+   "million",
+   "raises",
+   "services",
+   "sovereign"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://betakit.com/qa-amii-ceo-explains-why-canadas-ai-literacy-initiative-is-about-agency/",
+  "title": "Q&A: Amii CEO explains why Canada\u2019s AI literacy initiative is about agency",
+  "tokens": [
+   "agency",
+   "amii",
+   "canada",
+   "ceo",
+   "explains",
+   "initiative",
+   "literacy"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.defenseone.com/technology/2026/09/russia-weaponizing-us-built-ai-make-killer-drones-cyberattack-bots-and-fake-news/415949/",
+  "title": "Russia is weaponizing US-built AI to make killer drones, cyberattack bots, and fake news",
+  "tokens": [
+   "bots",
+   "built",
+   "cyberattack",
+   "drones",
+   "fake",
+   "killer",
+   "make",
+   "russia",
+   "weaponizing"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/concurrent-attacks-across-multiple-domains-force-rethinking-of-air-and-missile-defense/",
+  "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
+  "tokens": [
+   "across",
+   "air",
+   "attacks",
+   "concurrent",
+   "defense",
+   "domains",
+   "force",
+   "missile",
+   "multiple",
+   "rethinking"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+  "title": "Pentagon looks to AI to identify space and missile threats",
+  "tokens": [
+   "identify",
+   "looks",
+   "missile",
+   "pentagon",
+   "space",
+   "threats"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.defenseone.com/technology/2026/09/digital-employees-are-coming-defense-logistics-agency/415947/",
+  "title": "\u2018Digital employees\u2019 are coming to the Defense Logistics Agency",
+  "tokens": [
+   "agency",
+   "coming",
+   "defense",
+   "digital",
+   "employees",
+   "logistics"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/",
+  "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
+  "tokens": [
+   "air",
+   "base",
+   "case",
+   "defense",
+   "industrial",
+   "missile",
+   "patriot",
+   "study",
+   "support"
+  ],
+  "date": "2026-09-12"
+ },
+ {
+  "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
+  "title": "Saudi crown prince sought US military help with Houthis, sources say",
+  "tokens": [
+   "crown",
+   "help",
+   "houthis",
+   "military",
+   "prince",
+   "saudi",
+   "sought",
+   "sources"
+  ],
+  "date": "2026-09-12"
  }
 ]
