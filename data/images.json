@@ -1,4 +1,8 @@
 {
+ "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/": {
+  "seen": "2026-09-15",
+  "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg"
+ },
  "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/": {
   "seen": "2026-09-06",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg"
@@ -10,6 +14,10 @@
  "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
   "seen": "2026-09-09",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg"
+ },
+ "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
+  "seen": "2026-09-15",
+  "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg"
  },
  "https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/": {
   "seen": "2026-09-10",
@@ -59,6 +67,10 @@
   "seen": "2026-09-13",
   "src": "https://globalnews.ca/wp-content/uploads/2026/09/a0543b130e30e03b9c8954a242cb4f8ed64a1888e1aa7cbda7178ad3f740b07b.jpg?quality=65&strip=all"
  },
+ "https://globalnews.ca/news/12059703/donald-trump-tariffs-50-per-cent/": {
+  "seen": "2026-09-15",
+  "src": "https://globalnews.ca/wp-content/uploads/2026/09/New-Tariffs-e1789475549580.jpg?quality=65&strip=all"
+ },
  "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/": {
   "seen": "2026-09-11",
   "src": "https://news.crunchbase.com/wp-content/uploads/AI_Generating_AI-1024x576.jpg"
@@ -86,6 +98,11 @@
   "src": null,
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeV9td1BqUmJJSFdwVDdma3pvNkZjOU00ZEUydXdzMjk3bWdEZjg1WHpqSUZCb0I1MzJYRGpNc3VvRXd1MTdtYUIwSlFEWDd4cjYtdk5RSTMzektucFYwV2hDY2tLQnJvZmw0YWRSOHZySlY4TC1ncjBZQnlhT3NvMXFOdU8wOFVSalNOcTlIZDJET2tJQ0ZTSzB5ZHFqMDZJTjVNQklsMWFnSlhUWlVKZzhCeWp3Mkt2R3JQZW9tR3lnQzlXelFRVWNEdHJEVlM0QWh0OA?oc=5": {
+  "seen": "2026-09-15",
+  "src": null,
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg?oc=5": {
   "seen": "2026-09-11",
   "src": null,
@@ -94,6 +111,11 @@
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSnVTdV9pVm41TmZxRXIxVWVNUVJXR2VicWJXQWk3UDExZVluVjh0cktxd1VqaWdxYzR6ZVktY19OeURvbnJIa1c5T3E0bmNBRHFUMi1FZVNNWDRNOXBvV1RmVDFoUWw5MHZEcGEtcDNpTGlaS2UycU1CbjVPV1hsX0lfV1U4X2ZpTG9N?oc=5": {
   "seen": "2026-09-14",
   "src": null,
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5": {
+  "seen": "2026-09-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Stocks_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpkSEx5YmgyZGRKZl93X1FHMW8tS1hTNXNrR0RxdDZBbUtVY0F6RGFYekIxZ2VQTGZKRU85M0JFdUxvRjNjeEJSRV9uS0kyd1NxdldxY0EtV1Eyem9wMjRsT3NJUjlEb1ZuaWgtV0phUjlhTF9hVGQ5U05tS1RySmNnNkxDVXNoNkZTaGM0cDNlemFPMDE0?oc=5": {
@@ -181,6 +203,11 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/18%C2%AA_BRICS_Summit_2026%2C_New_Delhi%2C_India.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5": {
+  "seen": "2026-09-15",
+  "src": null,
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFVkdTNYM3p4bmY3d01KaElQRFk5aWowZXFRdHUyTDJQZHdlWlYyRmgzNDB3dElPVTNtVUhDTXhoYjNPTHVmSF9PLTJFang2cG02UzlXa1lyNHZob3pCMWN2dEtqRDRNLWd3VHREX24ydmNuS3RhakV3Ty15SHdfX0xWQmRQaEptR3N1SWJqR0RPSnRRNjA4N3h1Z0xaaFVxOW5rZXMzcmxhMTlES09zUQ?oc=5": {
   "seen": "2026-09-07",
   "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Opening_of_the_mouth_ceremony_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -211,6 +238,11 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Baker_Hughes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRwaEhkLTBZb2x1QWVSRFdiTTdienp6UV9UeW1CMnlKQi1VQ1VDYTlCcl9nV29NRDY1TkVwOEV2SndfU3hreUZtdUpfZl9sNWlLZnZBZGVral8zeHp2WWhxRUZqNmxYcS0zbjFVYVRNLVR4Slh6S05Lb0R5dlRPeVRBOFRtMzJwQk1ya1MtdXhGV2s1dE5JcDZ4dzZVNzhRbUNGYWtKR0NrWThNWE9scHV3?oc=5": {
+  "seen": "2026-09-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mitch_McConnell_2016_official_photo_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5": {
   "seen": "2026-09-06",
   "src": null,
@@ -226,9 +258,19 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mistral_Atlas_launcher_of_the_Hungarian_Armed_Forces_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5": {
+  "seen": "2026-09-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaW5YdHFlZ2U0Sll2VTZQeGxweXUtTk8zSUt4UGdNQ2ljcTRzeG84SEdzcWlFOUpXNGFhekVfcXc3dEU0Y0UtQnBpRnZwWmVqVXl1TWpDQlhRRjZnbWRoT0JFaUdZcVkxdU9BU3NfSjNMeW5zR2I1M20wTHlvS3N0MXBIWWVLUTNIR0RFS2ctWWJJLS1nVXhyRnhIakpKd3ZUS1pmeld6MTVBNl9KVnVpaWFMTzI?oc=5": {
   "seen": "2026-09-10",
   "src": null,
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhaN0cwc2JYajRRTXhWQ1FQZW5pclRTd1hVLWhCekNtQmRZcHBaVENFTXJLaVpNNWxPTU45SUphdENXM1pKNzZVbmJmZnBUTm5DREtvTTVjV1hIb0w1eVdYT0Fra3dmbDJKQzBIbjFXOC1vUjV4WWszM29vMEE0WjZzcDJhdUtJeDNlR2dvRFZac2pZSUJXM1RUbi1aUXBsU1FUZFFqV1NySWZ5b0I2ZjJyNVNFUQ?oc=5": {
+  "seen": "2026-09-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Senato_della_Repubblica.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWt4TVBpSWtkcHIzODZmNjE5M2FkbUo2aXhHVEwzV3NQTEQtdEdNZEdXREEwVzVwU1AwZVBsUEtJWWZydnA5RXgzLXg4SVdhQldNMGtCaUpyWC1nandqdEFxTlBNMjhFb1cyNkZqWFZxbDlGMWhPNEVHVzZDRDRaaUJOSG9xWlp0ZHZFSzgzbjZubG9zVU5xNGI5OVFVRWYzRzNYaG1JZ1JzUDFTOWRhR0lfX0ZLdw?oc=5": {
@@ -361,6 +403,11 @@
   "src": null,
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5": {
+  "seen": "2026-09-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/TSMC_Global_R%EF%BC%86D_Center_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRkVISjNZRzJIQ2xhRks4c21WN0ZvNE1LSHBjMDhldFdwN0ExVjcxem9JLVJkSUk1ODdYQ0RhT1hrMDctX19HSXFXUW40c1hINDh0VDh6cjdMNHMyWFFsYmFIU0NrRzFSNzBPekRGX3lHYkNKMDRCRHE2MkEyalBoekw1cXU3aWxuZTY3Q2dudWFKc0trTnJVOTFSd2hKZVFOLVZwWnRSOUFXRHlfaHRObExwN3Z6dDNyME9RekRnZFhYMFAyOTVveA?oc=5": {
   "seen": "2026-09-07",
   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Pat_map.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -425,6 +472,18 @@
   "seen": "2026-09-13",
   "src": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800"
  },
+ "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
+  "seen": "2026-09-15",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?resize=1200,800"
+ },
+ "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/": {
+  "seen": "2026-09-15",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?resize=1200,675"
+ },
+ "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/": {
+  "seen": "2026-09-15",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810"
+ },
  "https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words/": {
   "seen": "2026-09-13",
   "src": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Ken-Paxton-James-Talarico-June-30.png?w=900"
@@ -460,6 +519,10 @@
  "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman": {
   "seen": "2026-09-13",
   "src": "https://images.axios.com/WwzIi0fTyajotEbPnbIqFYltuK8=/0x475:5558x3601/1366x768/2026/09/12/1789240424441.jpeg"
+ },
+ "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit": {
+  "seen": "2026-09-15",
+  "src": "https://images.axios.com/jOyQ8U61_U6tpao_h8X-9hp9Ysc=/0x203:4724x2860/1366x768/2026/09/14/1789413975002.jpeg"
  },
  "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-07",
@@ -500,6 +563,10 @@
  "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-07",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b166/live/63ecaa80-a884-11f1-824a-0fc4c5d895ae.jpg"
+ },
+ "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-09-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa0/live/029e2b90-b0dc-11f1-b1d1-571ed4d7ff2c.jpg"
  },
  "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-12",
@@ -573,6 +640,10 @@
   "seen": "2026-09-12",
   "src": "https://i.cbc.ca/ais/7439117b-f215-4d97-b2a8-00a7590808b7,1789155419078/full/max/0/default.jpg?im=Crop%2Crect%3D%28280%2C27%2C1462%2C822%29%3B"
  },
+ "https://www.cbc.ca/news/canada/saskatoon/bell-canada-ai-data-centre-size-expansion-investment-9.7343780?cmp=rss": {
+  "seen": "2026-09-15",
+  "src": "https://i.cbc.ca/ais/9bbf656a-d4ed-4ede-becb-7f31f97d64cd,1789422589754/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+ },
  "https://www.cbc.ca/news/canada/trump-bombardier-truth-social-post-9.7335014?cmp=rss": {
   "seen": "2026-09-08",
   "src": "https://i.cbc.ca/ais/2d4df79d-37bd-49cd-b00e-53e23dded7a8,1788871758821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C5000%2C2812%29%3B"
@@ -592,6 +663,10 @@
  "https://www.cbc.ca/news/politics/carney-trump-trade-war-analysis-9.7341023?cmp=rss": {
   "seen": "2026-09-12",
   "src": "https://i.cbc.ca/ais/0cc7abba-29fd-4e68-ad91-99fa28c6dfc2,1789160735887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C286%2C5489%2C3087%29%3B"
+ },
+ "https://www.cbc.ca/news/politics/cra-pandemic-benefit-clawbacks-cerb-cra-maytree-report-9.7330433?cmp=rss": {
+  "seen": "2026-09-15",
+  "src": "https://i.cbc.ca/ais/8ca3e5fc-bda9-4288-a316-84f28b6c90c9,1788390693479/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
  },
  "https://www.cbc.ca/news/politics/dean-allison-inquiry-covid-vaccine-injury-9.7340825?cmp=rss": {
   "seen": "2026-09-12",
@@ -653,6 +728,14 @@
   "seen": "2026-09-07",
   "src": "https://i.cbc.ca/ais/21446266-f645-4ef7-a346-3aec4d194067,1788766786015/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
  },
+ "https://www.cbc.ca/news/world/mail-in-voting-us-supreme-court-rejection-trump-9.7343984?cmp=rss": {
+  "seen": "2026-09-15",
+  "src": "https://i.cbc.ca/ais/d190afc6-8aed-4447-8896-69cc6cb09fa2,1789430938679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B"
+ },
+ "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227?cmp=rss": {
+  "seen": "2026-09-15",
+  "src": "https://i.cbc.ca/ais/caa14a24-e548-4198-8d7a-40e9ae226790,1789464382253/full/max/0/default.jpg?im=Crop%2Crect%3D%2823%2C0%2C3575%2C2010%29%3B"
+ },
  "https://www.cbc.ca/news/world/russia-hits-passenger-train-ukraine-9.7342726?cmp=rss": {
   "seen": "2026-09-14",
   "src": "https://i.cbc.ca/ais/6ce9f8b6-b224-413f-a148-b67ed99a9e13,1789365245284/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C44%2C2048%2C1152%29%3B"
@@ -668,6 +751,10 @@
  "https://www.cbc.ca/news/world/united-arab-emirates-hamas-october-7-netanyahu-9.7335494?cmp=rss": {
   "seen": "2026-09-08",
   "src": "https://i.cbc.ca/ais/18661ffe-4772-431b-9eef-7ed548859148,1788874815345/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C6000%2C3375%29%3B"
+ },
+ "https://www.cbc.ca/news/world/united-nations-bodies-recovered-gaza-9.7344274?cmp=rss": {
+  "seen": "2026-09-15",
+  "src": "https://i.cbc.ca/ais/09914e8e-6e89-4ce6-b819-11acd18a315c,1789472510522/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C449%2C6000%2C3375%29%3B"
  },
  "https://www.cbc.ca/news/world/us-911-25th-tributes-9.7339948?cmp=rss": {
   "seen": "2026-09-11",
@@ -797,6 +884,10 @@
   "seen": "2026-09-13",
   "src": "https://i.guim.co.uk/img/media/3d914e3d3f1073ed14d9b83e2cc44a98327a4317/0_0_2890_2311/master/2890.jpg?width=140&quality=85&auto=format&fit=max&s=1e5fdd694a222bc47a7e16f18a197b75"
  },
+ "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr": {
+  "seen": "2026-09-15",
+  "src": "https://i.guim.co.uk/img/media/444c0d99d8956790de78ed45e4bcb7e03273f00c/529_0_5316_4252/master/5316.jpg?width=140&quality=85&auto=format&fit=max&s=1a1db47614eb88a8c5459986c4e85f7f"
+ },
  "https://www.theguardian.com/money/2026/sep/11/chancellor-remove-hidden-taxes-energy-bills": {
   "seen": "2026-09-11",
   "src": "https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1418_500_6133_4907/master/6133.jpg?width=140&quality=85&auto=format&fit=max&s=c7a9bdcf579f2fd59586fd5282e27ad9"
@@ -808,6 +899,10 @@
  "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates": {
   "seen": "2026-09-10",
   "src": "https://i.guim.co.uk/img/media/45115f572138b196d42a0a1c618e0c98b21a3cc2/797_159_3160_2528/master/3160.jpg?width=140&quality=85&auto=format&fit=max&s=0c2c61b6165aa9e23e765709f08d5bb2"
+ },
+ "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space": {
+  "seen": "2026-09-15",
+  "src": "https://i.guim.co.uk/img/media/3875d16b209d713c2fd48a7fbccf12b5c38d1004/406_0_4079_3263/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=70eea4ad588fcf1b0209250caa769c0a"
  },
  "https://www.theguardian.com/us-news/2026/sep/07/first-thing-elon-musk-german-far-right-afd-election-win-russia": {
   "seen": "2026-09-07",
@@ -864,6 +959,10 @@
  "https://www.theguardian.com/world/live/2026/sep/14/sweden-election-magdalena-andersson-social-democrats-centre-left-latest-news-updates": {
   "seen": "2026-09-14",
   "src": "https://i.guim.co.uk/img/media/be6d7c98701a3d8706a710317e64055e99bd9fda/23_0_1066_853/master/1066.jpg?width=140&quality=85&auto=format&fit=max&s=9d4922a66f3f50ae5828b73cd62d6fa8"
+ },
+ "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates": {
+  "seen": "2026-09-15",
+  "src": "https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&quality=85&auto=format&fit=max&s=6c51247cdb74b2e7d314085df6b665fb"
  },
  "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft": {
   "seen": "2026-09-07",
