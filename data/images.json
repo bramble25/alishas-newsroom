@@ -83,6 +83,11 @@
   "seen": "2026-09-14",
   "src": "https://news.crunchbase.com/wp-content/uploads/Top_Investors_aug.jpg"
  },
+ "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5": {
+  "seen": "2026-09-16",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Intel_Headquarters_in_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOTdhUExtVm1RRmx2cGFhdGcyR0lzR3JRS3MwMTZrYzhKemEtcTQ5R3EyZU5hQlBDNlJEeHNIWkdLX0N6WUxxWTA3NGVsNTJqYWpwYkZORkFqYi12UnZMSW51N0ZRR1ZTUDVlT0dDblh5Vy1hR1k4R3ktcFI0V1FTTGwwemJKOC1rUGdpbFAzS3REVF9rSEUxNUJPN3pteHFCSE9nYUl3Vi1VUEY3LU9wY0JtOWZMcG9VQ3c2QmZVdF9NVi1iZG1ndmhhcjFTNHB3?oc=5": {
   "seen": "2026-09-13",
   "src": null,
@@ -105,6 +110,11 @@
  },
  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg?oc=5": {
   "seen": "2026-09-11",
+  "src": null,
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc3VCLTFXblRjVU5kSFR6RW1oN0ZpVGhJc1BQOVJDMWhGTEhkaTREZ3FBQUtoZU52WVp2R3FnaFByc0FwVjg3VGNxcldlT0lVTjljNjVRQ2wyVVdSS21OR1dMWW5TdWM0Q1ctdGJXNWdkblZ1QjBCU0YzcDd4RFNEV3NUb1RWV2VMOVNySUh3d2R0SzlDYjZLa2U1WEdnQnVCUmZMRldiVFBrM0lWamxnRERiNTZjZzFrSkcxNGt5VnJDa2NKN3l0em5uRGtxaGIybHk2eXRBTQ?oc=5": {
+  "seen": "2026-09-16",
   "src": null,
   "wiki": true
  },
@@ -338,6 +348,16 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdHIwa1RjMW9nNDFsV19FamJqLWRXa2VzTkdyRnpCY0RieUwtMEJNaDVvMnAwaURfUUxZYjJOWTBIUWZBT2ZTUnRyU24zZ0NoOEVJcmx6Nlhyb1ZmT0U2bmNIUGVwM29rUHduTDY3MkhrNGhKZktYcXNDRl8wY1hFZTYxbXZyYWFKcDBEZmQ1Y21qeVFfWmw4aVZDUzhybTdjR2RSWWR1ZDB1c3E5SjVQU0lranlmYVFFMWlmRmpR?oc=5": {
+  "seen": "2026-09-16",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDFWcUdmR2RJTzZXM3ZMQ2ZqVTI4Z2JBVmRfUnpuZEk4c2lfbU5iY3hCaHdwcTFZd0JEdDBaREdQSWlhUTVaTUFvaUxabjRpTFVjTjJEcl95Y1cwb01hOWZOUGpoWTE1NnJfU1RPZ2Z3SlRZSkg1eGwyaU9kMTd3UkpQNF9KT1lKRm81c0dHNC1YbjFUWjgwdXZpX2FkR0lXQTUxWFVCS1FSY01aZF9jVl9Md3FXUGxhM3NsYmRB?oc=5": {
+  "seen": "2026-09-16",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ursula_von_der_Leyen_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5": {
   "seen": "2026-09-06",
   "src": null,
@@ -423,6 +443,11 @@
   "src": null,
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5": {
+  "seen": "2026-09-16",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNkUwazJZZE4xSlNLRHJ5ZFMyOW9RM1NQUkdrOGxHZFNxN25DaGRMRjhlcmV6MmpQYmVBUURwME5vLVhGQUdRTjJDTk43YUEwcGRnSElubmR5RFZyakVpdjUyWE5DU2N5LVM2ckhRTy1mNFp2eHJiakZLSjY4Zk13b1ZtOUJoaUg5aTZlbU1BSnEzWWJVckJjamVNZENDWmdyQVBOMTR5bGsweVFkbWlHLWVvdXV1QTBGaXZFa2pQaU5UVnp2WExYSWoxSmJPaGs?oc=5": {
   "seen": "2026-09-07",
   "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/HIMARS_-_missile_launched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -484,6 +509,26 @@
   "seen": "2026-09-15",
   "src": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810"
  },
+ "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/": {
+  "seen": "2026-09-16",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2248802889.jpg?resize=1200,800"
+ },
+ "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/": {
+  "seen": "2026-09-16",
+  "src": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675"
+ },
+ "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/": {
+  "seen": "2026-09-16",
+  "src": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800"
+ },
+ "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/": {
+  "seen": "2026-09-16",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/08/vishal-sikka.jpg?resize=1200,800"
+ },
+ "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/": {
+  "seen": "2026-09-16",
+  "src": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+ },
  "https://thehill.com/homenews/campaign/6086429-state-of-texas-paxton-and-talarico-in-their-own-words/": {
   "seen": "2026-09-13",
   "src": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Ken-Paxton-James-Talarico-June-30.png?w=900"
@@ -523,6 +568,10 @@
  "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit": {
   "seen": "2026-09-15",
   "src": "https://images.axios.com/jOyQ8U61_U6tpao_h8X-9hp9Ysc=/0x203:4724x2860/1366x768/2026/09/14/1789413975002.jpeg"
+ },
+ "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers": {
+  "seen": "2026-09-16",
+  "src": "https://images.axios.com/oPtZKiFiVZGxGqp51WICeZXu8cQ=/0x0:1280x720/2026/09/15/1789499637601.gif"
  },
  "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-07",
@@ -608,6 +657,10 @@
   "seen": "2026-09-14",
   "src": "https://i.cbc.ca/ais/b5ac214e-7f27-4c7b-926f-35731e4d1806,1789389622438/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C561%2C5394%2C3034%29%3B"
  },
+ "https://www.cbc.ca/news/business/carney-tax-mega-deduction-9.7344017?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/f9dbedba-d865-4dc0-b71c-1c48a6a90e75,1789401151416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C562%2C5400%2C3037%29%3B"
+ },
  "https://www.cbc.ca/news/business/inflation-august-2026-9.7342791?cmp=rss": {
   "seen": "2026-09-14",
   "src": "https://i.cbc.ca/ais/7e6a0c71-9779-4d33-bdd6-49b9ab86a6ed,1778856499681/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C860%2C483%29%3B"
@@ -631,6 +684,10 @@
  "https://www.cbc.ca/news/canada/edmonton/canadian-army-readies-for-future-of-combat-9.7339337?cmp=rss": {
   "seen": "2026-09-11",
   "src": "https://i.cbc.ca/ais/1.6661888,1669233612000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4163%2C2341%29%3B"
+ },
+ "https://www.cbc.ca/news/canada/mark-carney-privatizing-airports-explained-toronto-montreal-calgary-vancouver-9.7345485?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/e7646589-68f9-4723-a635-78dbde1501fd,1789509857719/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B"
  },
  "https://www.cbc.ca/news/canada/montreal/sovereignty-pspp-pq-quebec-cost-9.7339986?cmp=rss": {
   "seen": "2026-09-11",
@@ -676,6 +733,10 @@
   "seen": "2026-09-09",
   "src": "https://i.cbc.ca/ais/eb32c7b3-3db4-4132-9a5e-326b866bc99b,1788899111888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C5741%2C3229%29%3B"
  },
+ "https://www.cbc.ca/news/politics/harper-canada-investment-summit-us-trade-carney-9.7345557?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/4ee4086e-03fe-4532-a9a6-8ec6d9f3aaf4,1789511804022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7136%2C4014%29%3B"
+ },
  "https://www.cbc.ca/news/politics/stephen-fuhr-canada-defence-procurement-rcaf-f35-9.7333073?cmp=rss": {
   "seen": "2026-09-07",
   "src": "https://i.cbc.ca/ais/0d3966bf-83f6-4915-bbc9-44d2c0f127df,1788553896421/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C45%2C540%2C303%29%3B"
@@ -699,6 +760,14 @@
  "https://www.cbc.ca/news/world/charles-harry-meghan-non-working-royals-u-k-9.7335005?cmp=rss": {
   "seen": "2026-09-08",
   "src": "https://i.cbc.ca/ais/c62820fa-6227-4337-8aad-33627d509272,1788808676267/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C79%2C3520%2C1980%29%3B"
+ },
+ "https://www.cbc.ca/news/world/gaza-building-collapse-9.7345835?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/0644fc39-a68e-45f7-b88d-f63e8ae3485f,1789553129445/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C299%2C3865%2C2174%29%3B"
+ },
+ "https://www.cbc.ca/news/world/hague-sentence-former-kosovo-president-thaci-9.7345862?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/c17b0f81-137c-440c-b59d-fd83b82afdca,1789557694197/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5000%2C2812%29%3B"
  },
  "https://www.cbc.ca/news/world/indonesia-ferry-overturned-search-underway-9.7342154?cmp=rss": {
   "seen": "2026-09-13",
@@ -743,6 +812,10 @@
  "https://www.cbc.ca/news/world/saudi-strikes-yemen-mokha-airport-houthis-island-9.7339979?cmp=rss": {
   "seen": "2026-09-11",
   "src": "https://i.cbc.ca/ais/2ae5090b-bc26-404b-b85b-5b25f4d6448e,1789126423994/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C95%2C6720%2C3780%29%3B"
+ },
+ "https://www.cbc.ca/news/world/saudi-yemen-houthis-strikes-9.7346040?cmp=rss": {
+  "seen": "2026-09-16",
+  "src": "https://i.cbc.ca/ais/44f1fbfe-e5c9-4b63-b7ac-14b585c98dbf,1789564633098/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
  },
  "https://www.cbc.ca/news/world/uk-migrant-crossing-protests-9.7334741?cmp=rss": {
   "seen": "2026-09-07",
@@ -844,6 +917,18 @@
   "seen": "2026-09-14",
   "src": "https://image.cnbcfm.com/api/v1/image/108359813-1788880394571-gettyimages-2294157344-1r5_3494_rzefc1hv.jpeg?v=1788880421&w=1920&h=1080"
  },
+ "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html": {
+  "seen": "2026-09-16",
+  "src": "https://image.cnbcfm.com/api/v1/image/108360361-1788956320498-gettyimages-2293730436-schneider-costcowh260908_npMAZ.jpeg?v=1788956343&w=1920&h=1080"
+ },
+ "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html": {
+  "seen": "2026-09-16",
+  "src": "https://image.cnbcfm.com/api/v1/image/108357919-1788370763748-gettyimages-2292627030-AFP_C77688T.jpeg?v=1788370796&w=1920&h=1080"
+ },
+ "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html": {
+  "seen": "2026-09-16",
+  "src": "https://image.cnbcfm.com/api/v1/image/105122010-GettyImages-825311594.jpg?v=1789566622&w=1920&h=1080"
+ },
  "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/": {
   "seen": "2026-09-09",
   "src": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NJNCPEFWIVC2ZMDH2PSTHJWDRQ.JPG"
@@ -859,6 +944,14 @@
  "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash": {
   "seen": "2026-09-12",
   "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg"
+ },
+ "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes": {
+  "seen": "2026-09-16",
+  "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3407+0+0/resize/5000x3407!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F1e%2Fa8a05440450690bdca01f44b5ddc%2Fap26258396368489.jpg"
+ },
+ "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general": {
+  "seen": "2026-09-16",
+  "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3376+0+0/resize/6000x3376!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F87%2F01d230714c32918afc453dd283d3%2Fgettyimages-2135814529.jpg"
  },
  "https://www.pbs.org/newshour/politics/prosecutor-brought-in-to-lead-investigation-of-trump-foes-tells-ap-that-he-has-resigned": {
   "seen": "2026-09-12",
@@ -899,6 +992,10 @@
  "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates": {
   "seen": "2026-09-10",
   "src": "https://i.guim.co.uk/img/media/45115f572138b196d42a0a1c618e0c98b21a3cc2/797_159_3160_2528/master/3160.jpg?width=140&quality=85&auto=format&fit=max&s=0c2c61b6165aa9e23e765709f08d5bb2"
+ },
+ "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates": {
+  "seen": "2026-09-16",
+  "src": "https://i.guim.co.uk/img/media/2ea035cb6bb39253a71bd78fcd279d1328c19192/305_0_3747_3000/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=975ad5b06e324b15cde38066a11dee5e"
  },
  "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space": {
   "seen": "2026-09-15",
@@ -951,6 +1048,10 @@
  "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train": {
   "seen": "2026-09-14",
   "src": "https://i.guim.co.uk/img/media/24b03b484262613937c9c801abeecddccc05854c/0_936_1212_969/master/1212.jpg?width=140&quality=85&auto=format&fit=max&s=d9fb37059a450320c843cdde35633c2d"
+ },
+ "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member": {
+  "seen": "2026-09-16",
+  "src": "https://i.guim.co.uk/img/media/179c4fd55266eda34a2bc6699269748145048c70/289_0_2861_2288/master/2861.jpg?width=140&quality=85&auto=format&fit=max&s=edd226f9a6a8d11a7f4324917d1a486d"
  },
  "https://www.theguardian.com/world/live/2026/sep/10/russian-drone-strike-ukraine-zelenskyy-macron-nato-rutte-latest-news-updates": {
   "seen": "2026-09-10",
