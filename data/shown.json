@@ -9645,5 +9645,931 @@
    "space"
   ],
   "date": "2026-09-16"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+  "title": "Swedish PM Kristersson resigns after election loss",
+  "tokens": [
+   "election",
+   "kristersson",
+   "loss",
+   "resigns",
+   "swedish"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE03WWgtcW00SlpMdnI5VEg4OHRTRVYxdHQ2YU9EN2dKR0VGLXIzZi1ZcFIyblJGSzdUaG81V0dlTlcwOTN4MDhzTE1Dd1Z0QnVDTDNsdWhaNER2VnpMUF82RXRBSFRYeGN0UjVrVExvNUUxTlFYLXJFclkzc3BCb0JkNHlKam1tYVdCNzRyUG9mc04tbVptSG9yYTB2anFKdTd4MW44cjJxcGNWVnc?oc=5",
+  "title": "Sweden's prime minister to resign after losing election - Reuters",
+  "tokens": [
+   "election",
+   "losing",
+   "minister",
+   "prime",
+   "resign",
+   "reuters",
+   "sweden's"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
+  "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - Reuters",
+  "tokens": [
+   "big",
+   "explainer",
+   "houthis",
+   "militia",
+   "mountain",
+   "regional",
+   "reuters",
+   "small",
+   "threat",
+   "went",
+   "yemen's"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHY3czh0UG45eEdXdzVFU2RidkZjWnNGT3hPRTJWWFlhQmhQbENaM1dERXY0dWlTTGRrWmRJaWRDVVczTDh4ekJvUW5YTFBNRlhTWXYwSDB3TU5yaU4yT0h4SlN6ZlF2T0NlM0pObDBIWW9zbmFBRjZaa1V6RFN3OU1KbU5wWGpnak1ieGNSQ0xieko4UVNYcHZ2QQ?oc=5",
+  "title": "Highlights from Canadian PM Mark Carney's speech in Strasbourg - Reuters",
+  "tokens": [
+   "canadian",
+   "carney's",
+   "highlights",
+   "mark",
+   "reuters",
+   "speech",
+   "strasbourg"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUNDUDhTVm9zSHU1TGloUjMzQV9KVW5NMU9QQzcyV01UcGM1dkRWTDBEd01YdEtqbHFWLU0yNUI0V3FSUWQtVjYxb005MEVTTTNNbmxMb29heDlwaVRWcTcyMnJlNG1PSVZHcGJhMGFHLWNOTVBzYzRXbkFmUWNJTGxJR0VnaTQ5OFR1d2d3dHppRU9nenJ6VUpJWXZnd19XN01iUy1WbVEyb1lZQVp3QkZFUlpPZUI2clBLaFhWR0IxOUJP?oc=5",
+  "title": "Canada and EU should ally to protect democracies, Carney says, after 'associate member' proposal angers Trump - Reuters",
+  "tokens": [
+   "'associate",
+   "ally",
+   "angers",
+   "canada",
+   "carney",
+   "democracies",
+   "member'",
+   "proposal",
+   "protect",
+   "reuters",
+   "trump"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5",
+  "title": "King Charles warns AI leaders of 'existential dangers' at Scottish meeting - Reuters",
+  "tokens": [
+   "'existential",
+   "charles",
+   "dangers'",
+   "king",
+   "leaders",
+   "meeting",
+   "reuters",
+   "scottish",
+   "warns"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/ireland-national-broadcaster-eurovision-boycott-9.7347639?cmp=rss",
+  "title": "Ireland will boycott 2027 Eurovision Song Contest for 2nd year over Israel's participation",
+  "tokens": [
+   "2027",
+   "2nd",
+   "boycott",
+   "contest",
+   "eurovision",
+   "ireland",
+   "israel's",
+   "participation",
+   "song",
+   "year"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/trump-memorandum-canadian-goods-removed-9.7346944?cmp=rss",
+  "title": "Trump signs memorandum to identify and remove Canadian products from U.S. federal procurement",
+  "tokens": [
+   "canadian",
+   "federal",
+   "identify",
+   "memorandum",
+   "procurement",
+   "products",
+   "remove",
+   "signs",
+   "trump"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/manitoba/daylight-saving-time-9.7347844?cmp=rss",
+  "title": "Manitoba adopts permanent daylight time",
+  "tokens": [
+   "adopts",
+   "daylight",
+   "manitoba",
+   "permanent",
+   "time"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/hyrox-diarrhea-apology-9.7347697?cmp=rss",
+  "title": "Australian athlete apologizes for racing with diarrhea, forfeits the Beijing competition she won",
+  "tokens": [
+   "apologizes",
+   "athlete",
+   "australian",
+   "beijing",
+   "competition",
+   "diarrhea",
+   "forfeits",
+   "racing",
+   "she",
+   "won"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+  "title": "US interest rates raised for first time in three years",
+  "tokens": [
+   "first",
+   "interest",
+   "raised",
+   "rates",
+   "three",
+   "time",
+   "years"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+  "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+  "tokens": [
+   "'associate",
+   "become",
+   "canada",
+   "fed",
+   "interest",
+   "member'",
+   "proposes",
+   "raises",
+   "rates"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+  "title": "Stocks rise, lifted by falling oil and yields as market attempts comeback after Fed sell-off: Live updates",
+  "tokens": [
+   "attempts",
+   "comeback",
+   "falling",
+   "fed",
+   "lifted",
+   "live",
+   "market",
+   "off",
+   "oil",
+   "rise",
+   "sell",
+   "stocks",
+   "updates",
+   "yields"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
+  "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+  "tokens": [
+   "chinese",
+   "company",
+   "connected",
+   "data",
+   "leading",
+   "model",
+   "providers",
+   "street's",
+   "wall"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://financialpost.com/globe-newswire/unlimited-filed-today-to-bring-lower-cost-liquid-venture-capital-to-public-markets",
+  "title": "Unlimited Filed Today to Bring Lower-Cost Liquid Venture Capital to Public Markets",
+  "tokens": [
+   "bring",
+   "capital",
+   "cost",
+   "filed",
+   "liquid",
+   "lower",
+   "markets",
+   "public",
+   "today",
+   "unlimited",
+   "venture"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/pillar-capital-management-selects-ultrassure-for-contract-intelligence",
+  "title": "Pillar Capital Management Selects Ultrassure for Contract Intelligence",
+  "tokens": [
+   "capital",
+   "contract",
+   "intelligence",
+   "management",
+   "pillar",
+   "selects",
+   "ultrassure"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://globalnews.ca/news/12062854/openai-ai-breaches-hugging-face/",
+  "title": "OpenAI reports 6 more AI \u201cmisalignment\u201d incidents after Hugging Face breach",
+  "tokens": [
+   "breach",
+   "face",
+   "hugging",
+   "incidents",
+   "misalignment",
+   "openai"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+  "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+  "tokens": [
+   "anthropic",
+   "centers",
+   "data",
+   "emerald",
+   "find",
+   "google",
+   "grid",
+   "nvidia",
+   "space",
+   "want"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
+  "title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
+  "tokens": [
+   "bajaria",
+   "bela",
+   "chief",
+   "content",
+   "defines",
+   "event",
+   "eyes",
+   "live",
+   "netflix",
+   "sports",
+   "strategy",
+   "streamer"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
+  "title": "The Apple Watch Series 12 is the start of a new wearable era",
+  "tokens": [
+   "apple",
+   "era",
+   "series",
+   "start",
+   "watch",
+   "wearable"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZnBsTk1ER0drbVhQU1Vyc0RiQnVKU0pvYWhQSk5BRVJWelZmbElmRmRmYzl3Q0QxU2FUV0hUVVpiSWM2UUtSWFhmdzNoc1dRMllBbzBlaWtQeUpoWVdmeHJaV2JsZ2dvalk5OG1KQWI4bVVnX3kySHlNRUNNYVZLVFJ4V0NWLUp3QzBRYnZPbmlqX2U0MlhiNnFRUmYtNWEtMG56ZW1yZFNTVm5oaUZOUWswZGlwTHBUekFyYjU4T3huZw?oc=5",
+  "title": "Trump\u2019s pressure on NATO is reshaping Europe\u2019s defenses. Will it break the alliance? - Reuters",
+  "tokens": [
+   "alliance",
+   "break",
+   "defenses",
+   "europe",
+   "nato",
+   "pressure",
+   "reshaping",
+   "reuters",
+   "trump"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTJ5OFk4WGtia1NNbkZCUV9MVklIOVNfUF9QcVpfTV9QS3VacG1GbHQ5QnlLbkhfbi0zNjZPZFhnVjF0Ry1UaWtTbC1ETmdyT29WeUY3R01HODhPQTFVNHhHN3REZS1aMVZpX2xhUXJUT2FGZ2VVMzMwWnFBRHY4UU0yQzdzRHdsbXZITXRydTQ4TmxDLUZRY3UzX0xiT3lCdTB0NEhSaUN0NFkwUmEwOGVoTjJHc0ZkQWt3dVY0ay15YWhreTJtcGhjVkdwZGZDUkE?oc=5",
+  "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts - Reuters",
+  "tokens": [
+   "among",
+   "analysts",
+   "doubts",
+   "fight",
+   "military",
+   "nato",
+   "raising",
+   "ready",
+   "reuters",
+   "ukraine",
+   "war"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0hnb21ucXhBbHptQTJrUndURG9pQVZuLXBGZnJkTmpOTEJxR2lBa1Vqc01Qa2QzQlJaMnM3YllrcGtpYkJTYnhZczc0VEZIc3hSRjFOLTFYTk9hMzNwWFAyYVB4VzNuYlZhekZ6aEttN0hpX18wODVfdlBvZWZKeXFMeUJPWWZWc1l2T1FYMjFyNEhDTEg5R2IzYlFQVENweG5XX0xBWXhYR2dmV2cxZy1nZGpsT1AwenlfaUcyTQ?oc=5",
+  "title": "France's Thales urges international framework on AI development - Reuters",
+  "tokens": [
+   "development",
+   "framework",
+   "france's",
+   "international",
+   "reuters",
+   "thales",
+   "urges"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/09/17/germany-sending-fighter-jets-to-latvia-to-protect-election-from-drone-incidents/",
+  "title": "Germany sending fighter jets to Latvia to protect election from drone incidents",
+  "tokens": [
+   "drone",
+   "election",
+   "fighter",
+   "germany",
+   "incidents",
+   "jets",
+   "latvia",
+   "protect",
+   "sending"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVhnekctZ2hvV3gzNllkMEl6ZG1kSWtScDJTNFl2azh0ZGI1dTR1ZzVrTW5ydERBWXBTUmhYaHBWdldiTG05Rnh6Tk1CUE8yUDZfMElHSHNfZElSdm84QTB3M2VMMGFiUWo4R0xjdy00VVdDV3RfOFNtZDN3TWh2LTF3T0dYVVQzY2U4MkJYZk4ydm1WSWZNQ21MTk5VZi1BQ2VpVTRySkZpM0ZQY1E?oc=5",
+  "title": "As Canadian tariffs bite, Republicans search for a winning message - Reuters",
+  "tokens": [
+   "bite",
+   "canadian",
+   "message",
+   "republicans",
+   "reuters",
+   "search",
+   "tariffs",
+   "winning"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHphX25vNHpSYXNOQVlwZDdwc1ZxbW81RkN1V0hTdzRoeGx5MGY2b3k0alhVRkVtYjN0ZHBLWEFZVDdZUGs0NWJ3dkVUUk9qc3hvbFpoY3F1WUdLc0tzd25ySWNCeHlWZFlYd0piek41a3ZBUGtnaFI3bVV4RTM2OEtJREZYN2FJclRvTXViQ0hXOUlwWDJtLVotWXRzSm1KeHB4cjZwbUw2bUwtQ0p4UHlOTTRjbWc?oc=5",
+  "title": "Crypto bill's defeat shows limits of industry's political machine - Reuters",
+  "tokens": [
+   "bill's",
+   "crypto",
+   "defeat",
+   "industry's",
+   "limits",
+   "machine",
+   "political",
+   "reuters",
+   "shows"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
+  "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge - Reuters",
+  "tokens": [
+   "challenge",
+   "china's",
+   "chip",
+   "demand",
+   "huawei",
+   "nvidia",
+   "outstrips",
+   "reuters",
+   "steps",
+   "supply"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXdCbWJuWjdGUGRCT3hYc0hEN2J3eUs0SGJ6QzY3OTJZSWVVUzJLN2ZKM2VKb2Ryd0VBbDMzSjF5MnBaalR2anA2dEVmeThOXzlQdTVkaEFaYnJKbF9LVUluYlhrMUJ0d2M4Uzd0ZWxNUXNXSVlKckJ4c3FPMVZZeDZER2FYalRtMXlVaWNsRGVkeUswd3NpTg?oc=5",
+  "title": "Canada will decide on its own partnerships, Carney says - Reuters",
+  "tokens": [
+   "canada",
+   "carney",
+   "decide",
+   "partnerships",
+   "reuters"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGpYX3BXNElwMklkTmJqY1lnbjBJX296cF9DdWQxVk43VGVjZmJlN1pRamdtcmM4NEpXUFJiWlI1eWU4QjVnbGI1bzE5aFh1cHVXczZkT3hsQ2RKUTYzZzhUbVM0blU5eUpFQl8tbUtrcG8zZXoxcDRzT2hIWlQ2ZVk1R19zVGpOZENSaE10N2JIUXh3Q2sw?oc=5",
+  "title": "The night Sweden's far-right stopped winning - Reuters",
+  "tokens": [
+   "far",
+   "night",
+   "reuters",
+   "right",
+   "stopped",
+   "sweden's",
+   "winning"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2U1TXIteHhLdFUyaUZTTHkxLUF6VDlIQ01LR0s1aUF4UmZhemVpZ2NCM214YjliQkRtcUxHSWtBX2dsVGVDM2MtN29TU0NMVWFJcWVtMHZ1bFpSeGl6Ny1UTmllSGhMNkNVOEg5QVphVFJDSzYyYkxJcmk0WlRqNzdIZ1pSaUVKbUIwbEJ4VkdfUDh6M3Z6Mzd0MVVfdnpCT21RMFFpZ3pnYmZENWlIc0ExeElxX2N0aThSVA?oc=5",
+  "title": "US drone maker Powerus signs Pakistan Army MOU, gets initial order - Reuters",
+  "tokens": [
+   "army",
+   "drone",
+   "gets",
+   "initial",
+   "maker",
+   "mou",
+   "order",
+   "pakistan",
+   "powerus",
+   "reuters",
+   "signs"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+  "title": "Ninth woman's body found as South African police investigate string of deaths",
+  "tokens": [
+   "african",
+   "body",
+   "deaths",
+   "found",
+   "investigate",
+   "ninth",
+   "police",
+   "south",
+   "string",
+   "woman's"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+  "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+  "tokens": [
+   "assad",
+   "bbc",
+   "finds",
+   "journalist's",
+   "kidnap",
+   "planned",
+   "regime",
+   "weeks"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+  "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+  "tokens": [
+   "'silicon",
+   "humans",
+   "lead",
+   "microsoft",
+   "rivalling",
+   "species'",
+   "uncontrolled",
+   "warns"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+  "title": "EU announces plan to restrict social media access for under-15s",
+  "tokens": [
+   "15s",
+   "access",
+   "announces",
+   "media",
+   "plan",
+   "restrict",
+   "social"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+  "title": "Aztec document goes on display in Mexico after 186 years abroad",
+  "tokens": [
+   "186",
+   "abroad",
+   "aztec",
+   "display",
+   "document",
+   "goes",
+   "mexico",
+   "years"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss",
+  "title": "Klopp wants to 'reclaim' flag amid German elections",
+  "tokens": [
+   "'reclaim'",
+   "elections",
+   "flag",
+   "german",
+   "klopp",
+   "wants"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/eu-trade-economies-compare-charts-9.7346706?cmp=rss",
+  "title": "Canada and the EU are getting cosy. These charts show how our economies stack up",
+  "tokens": [
+   "canada",
+   "charts",
+   "cosy",
+   "economies",
+   "getting",
+   "show",
+   "stack"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-addresses-eu-parliament-9.7346339?cmp=rss",
+  "title": "Carney says Europe, Canada aren't 'fair-weather allies' while rebuking Trump's tactics",
+  "tokens": [
+   "'fair",
+   "allies'",
+   "aren't",
+   "canada",
+   "carney",
+   "europe",
+   "rebuking",
+   "tactics",
+   "trump's",
+   "weather",
+   "while"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/lawzero-artificial-intelligence-safety-investment-9.7347286?cmp=rss",
+  "title": "Canada is investing $150M to make AI safer. Will it work?",
+  "tokens": [
+   "150m",
+   "canada",
+   "investing",
+   "make",
+   "safer",
+   "work"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/us-interest-rate-hike-sept-2026-9.7346557?cmp=rss",
+  "title": "U.S. Federal Reserve raises interest rates for 1st time in 3 years",
+  "tokens": [
+   "1st",
+   "federal",
+   "interest",
+   "raises",
+   "rates",
+   "reserve",
+   "time",
+   "years"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/toronto/911-service-down-ontario-canada-9.7347530?cmp=rss",
+  "title": "911 services mostly restored after outages affect Ontario, Quebec, other parts of Canada",
+  "tokens": [
+   "911",
+   "affect",
+   "canada",
+   "mostly",
+   "ontario",
+   "outages",
+   "parts",
+   "quebec",
+   "restored",
+   "services"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/canada-britain-military-expeditionary-force-nato-9.7347144?cmp=rss",
+  "title": "Canada wants into Britain's rapid-response defence club",
+  "tokens": [
+   "britain's",
+   "canada",
+   "club",
+   "defence",
+   "rapid",
+   "response",
+   "wants"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+  "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+  "tokens": [
+   "2027",
+   "chip",
+   "huawei",
+   "launch",
+   "nvidia",
+   "plans",
+   "takes"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+  "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+  "tokens": [
+   "anthropic",
+   "ceo",
+   "making",
+   "microsoft",
+   "real",
+   "threats",
+   "worse"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+  "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+  "tokens": [
+   "apple",
+   "building",
+   "chips",
+   "packed",
+   "reportedly",
+   "series",
+   "server",
+   "ultra"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+  "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+  "tokens": [
+   "2026",
+   "days",
+   "disrupt",
+   "exhibit",
+   "left",
+   "techcrunch"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+  "title": "AI is feared globally as the destroyer of jobs",
+  "tokens": [
+   "destroyer",
+   "feared",
+   "globally",
+   "jobs"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+  "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+  "tokens": [
+   "cache",
+   "child",
+   "epstein",
+   "find",
+   "huge",
+   "pics",
+   "sex",
+   "sue",
+   "them",
+   "victims",
+   "who's"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+  "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
+  "tokens": [
+   "acquisition",
+   "alternative",
+   "costs",
+   "customer",
+   "debt",
+   "exclusive",
+   "finance",
+   "fintech",
+   "model",
+   "offers",
+   "startups",
+   "venture"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://betakit.com/textnow-celebrates-1-billion-revenue-milestone-with-public-art-in-waterloo/",
+  "title": "TextNow celebrates $1-billion revenue milestone with public art in Waterloo",
+  "tokens": [
+   "art",
+   "billion",
+   "celebrates",
+   "milestone",
+   "public",
+   "revenue",
+   "textnow",
+   "waterloo"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://sifted.eu/articles/europes-ai-moment-is-moving-from-hype-to-execution-brnd/",
+  "title": "Europe's AI moment is moving from hype to execution",
+  "tokens": [
+   "europe's",
+   "execution",
+   "hype",
+   "moment",
+   "moving"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://betakit.com/cura-raises-10-million-usd-to-scale-low-carbon-cement-technology/",
+  "title": "Cura raises $10 million USD to scale low-carbon cement technology",
+  "tokens": [
+   "carbon",
+   "cement",
+   "cura",
+   "low",
+   "million",
+   "raises",
+   "scale",
+   "technology",
+   "usd"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
+  "title": "5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers",
+  "tokens": [
+   "cards",
+   "deals",
+   "farmers",
+   "floating",
+   "interesting",
+   "missed",
+   "nuclear",
+   "power",
+   "robot",
+   "startup",
+   "voice",
+   "you"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://sifted.eu/articles/deepmind-researchers-new-ai-lab-nears-4bn-valuation-reports-say/",
+  "title": "DeepMind researcher\u2019s new AI lab nears $4bn valuation, reports say",
+  "tokens": [
+   "4bn",
+   "deepmind",
+   "lab",
+   "nears",
+   "researcher",
+   "valuation"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/09/17/uk-must-focus-on-the-atlantic-foundation-of-britains-security-navy-chief/",
+  "title": "UK must focus on the Atlantic, \u2018foundation\u2019 of Britain\u2019s security: Navy chief",
+  "tokens": [
+   "atlantic",
+   "britain",
+   "chief",
+   "focus",
+   "foundation",
+   "must",
+   "navy",
+   "security"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/nammo-ceo-warns-european-rupture-with-us-risks-10-year-capability-gap/",
+  "title": "Nammo CEO warns European rupture with US risks 10-year capability gap",
+  "tokens": [
+   "capability",
+   "ceo",
+   "european",
+   "gap",
+   "nammo",
+   "risks",
+   "rupture",
+   "warns",
+   "year"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.defenseone.com/threats/2026/09/pentagon-battles-moon-joint-chiefs-chairman/416021/",
+  "title": "The Pentagon must prepare for battles around the moon: Joint Chiefs chair",
+  "tokens": [
+   "around",
+   "battles",
+   "chair",
+   "chiefs",
+   "joint",
+   "moon",
+   "must",
+   "pentagon",
+   "prepare"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/closing-the-navys-find-fix-and-finish-kill-chain-with-remote-mine-hunting/",
+  "title": "Closing the Navy\u2019s find, fix, and finish kill chain with remote mine hunting",
+  "tokens": [
+   "chain",
+   "closing",
+   "find",
+   "finish",
+   "fix",
+   "hunting",
+   "kill",
+   "mine",
+   "navy",
+   "remote"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://www.defensenews.com/global/asia-pacific/2026/09/17/india-says-china-has-scaled-back-troop-numbers-along-their-border/",
+  "title": "India says China has scaled back troop numbers along their border",
+  "tokens": [
+   "along",
+   "back",
+   "border",
+   "china",
+   "india",
+   "numbers",
+   "scaled",
+   "troop"
+  ],
+  "date": "2026-09-17"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/chairman-caine-talks-cislunar-ops-plus-a-window-into-next-gen-airlift/",
+  "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
+  "tokens": [
+   "airlift",
+   "caine",
+   "chairman",
+   "cislunar",
+   "gen",
+   "next",
+   "ops",
+   "plus",
+   "talks",
+   "window"
+  ],
+  "date": "2026-09-17"
  }
 ]
