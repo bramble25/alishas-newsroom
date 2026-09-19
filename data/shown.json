@@ -11411,5 +11411,900 @@
    "work"
   ],
   "date": "2026-09-18"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump says he is banning CNN and Politico from White House",
+  "tokens": [
+   "banning",
+   "cnn",
+   "house",
+   "politico",
+   "trump",
+   "white"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+  "title": "Google's Gemini AI hacked three companies in security test",
+  "tokens": [
+   "companies",
+   "gemini",
+   "google's",
+   "hacked",
+   "security",
+   "test",
+   "three"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
+  "title": "Greenland, Denmark say US deal will not cede sovereignty - Reuters",
+  "tokens": [
+   "cede",
+   "deal",
+   "denmark",
+   "greenland",
+   "reuters",
+   "sovereignty"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+  "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+  "tokens": [
+   "annexation",
+   "deal",
+   "denmark",
+   "greenland",
+   "reach",
+   "threats",
+   "trump"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
+  "title": "Trump signs Russia sanctions bill into law - Reuters",
+  "tokens": [
+   "bill",
+   "law",
+   "reuters",
+   "russia",
+   "sanctions",
+   "signs",
+   "trump"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0lyZGs1ZUF3b0k3YS1laTNXMWZuR2dLaXJaeThJbDItdjdad2RCMk9SRzF5ajAxcWJ3cTJ1ZU9XTE9KMzJuWEJETWFNTW5mV2lZZjh2MFhSZVU4VFJaeUdBRXY5VXdHNHlPMEhwQ2ZfUFYyR0ZqTEc3V3VsLW9oc0pjRENLQ0N0eS12eDB4dlRLczJmemVXQ3dyeXlnMUJ2d1IzSU1idkJOZW8xVlI1S1JBZnZCTG9jQW4yTlZn?oc=5",
+  "title": "Trump says US, Denmark, Greenland entered into agreement on US control over security - Reuters",
+  "tokens": [
+   "agreement",
+   "control",
+   "denmark",
+   "entered",
+   "greenland",
+   "reuters",
+   "security",
+   "trump"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/section-107-labour-code-hajdu-right-to-strike-9.7350619?cmp=rss",
+  "title": "Liberals looking to give minister explicit authority to end strikes: sources",
+  "tokens": [
+   "authority",
+   "end",
+   "explicit",
+   "give",
+   "liberals",
+   "looking",
+   "minister",
+   "sources",
+   "strikes"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/cbc-9-11-memo-fbi-rcmp-new-york-times-9.7350004?cmp=rss",
+  "title": "RCMP says relationships with allies 'strong' after report FBI stopped co-operation following CBC 9/11 memo",
+  "tokens": [
+   "'strong'",
+   "allies",
+   "cbc",
+   "fbi",
+   "following",
+   "memo",
+   "operation",
+   "rcmp",
+   "relationships",
+   "stopped"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/saskatchewan/bhishma-rajayguru-dalke-crash-sask-9.7346294?cmp=rss",
+  "title": "Family of Bhishma Rajyaguru, killed in crash with Sask. Roughrider, mourns his death",
+  "tokens": [
+   "bhishma",
+   "crash",
+   "death",
+   "family",
+   "killed",
+   "mourns",
+   "rajyaguru",
+   "roughrider",
+   "sask"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/nova-scotia/rcmp-no-longer-need-name-tags-9.7348589?cmp=rss",
+  "title": "Mounties can now choose not to wear a name tag. A Halifax defence lawyer says that's a problem",
+  "tokens": [
+   "choose",
+   "defence",
+   "halifax",
+   "lawyer",
+   "mounties",
+   "name",
+   "problem",
+   "tag",
+   "that's",
+   "wear"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+  "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+  "tokens": [
+   "actually",
+   "answers",
+   "ever",
+   "fed's",
+   "got",
+   "interest",
+   "rate",
+   "we've",
+   "wonder",
+   "works"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.france24.com/en/did-trump-really-obtain-permanent-control-over-greenland",
+  "title": "Did Trump really obtain 'permanent control' over Greenland?",
+  "tokens": [
+   "'permanent",
+   "control'",
+   "greenland",
+   "obtain",
+   "really",
+   "trump"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://financialpost.com/globe-newswire/mission-success-rocket-lab-launches-96th-electron-mission",
+  "title": "MISSION SUCCESS: Rocket Lab Launches 96th Electron Mission",
+  "tokens": [
+   "96th",
+   "electron",
+   "lab",
+   "launches",
+   "mission",
+   "rocket",
+   "success"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.france24.com/en/americas/20260919-trump-says-son-repaid-russian-oligarch-who-funded-wedding-festivities",
+  "title": "Trump claims son repaid Russian oligarch who funded wedding festivities",
+  "tokens": [
+   "claims",
+   "festivities",
+   "funded",
+   "oligarch",
+   "repaid",
+   "russian",
+   "son",
+   "trump",
+   "wedding"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+  "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+  "tokens": [
+   "100m",
+   "all",
+   "builds",
+   "physical",
+   "raised",
+   "startup",
+   "startups"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1FuODB2SVFrUlY3bzVTYnl0c2pyYjJWWURqTzU4UmZ4VjZBSHFiWjVOMjhwV0xXNEt0eFJmVHB1VGRBV2QyQUUzblZkYnJHWWswcE0xZ1B1TDFHZFFhanB4bXNRQ3A1NEE3ZVJTUEVjaHAxMGp2N2t1WW9HMVR5cUN5WjhxTjd3WlZWdXVfSC1UOHdvLXltU3Y3Q2NNWUZsTWo3LVpYWDYtV1pWTHhuQWE1LUE?oc=5",
+  "title": "Oracle's $18 billion data center debt under pressure, FT reports - Reuters",
+  "tokens": [
+   "billion",
+   "center",
+   "data",
+   "debt",
+   "oracle's",
+   "pressure",
+   "reuters"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5",
+  "title": "EXCLUSIVE: Anthropic considers releasing new AI model ahead of IPO, sources say - Reuters",
+  "tokens": [
+   "ahead",
+   "anthropic",
+   "considers",
+   "exclusive",
+   "ipo",
+   "model",
+   "releasing",
+   "reuters",
+   "sources"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
+  "title": "Lawsuit accuses Anthropic, OpenAI, SpaceXAI, Google of AI pacing 'collusion'",
+  "tokens": [
+   "'collusion'",
+   "accuses",
+   "anthropic",
+   "google",
+   "lawsuit",
+   "openai",
+   "pacing",
+   "spacexai"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://financialpost.com/globe-newswire/collective-metals-announces-management-changes",
+  "title": "Collective Metals Announces Management Changes",
+  "tokens": [
+   "announces",
+   "changes",
+   "collective",
+   "management",
+   "metals"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
+  "title": "Google is the latest AI lab with a security testing mishap",
+  "tokens": [
+   "google",
+   "lab",
+   "latest",
+   "mishap",
+   "security",
+   "testing"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTJWTFE3dlFIRDVOVDZiY01XQXNxNDI0Z1RiWlFybTFpaEFEQUtpcVRnaEVNUUxPSkl3eFpLc1JzakdRWHNFQWZSUHhQMmQ0T0MtOHBrUjFYTGIzM0dMUmFwNGZPdWhkZUdUSmR1Q29mTHZXNDJuY2d6MllvMXNTM3pGM1BHQmVvQkstdEd2SDE2ZjJ4dXpxdmVSa25KcWJxaUV5eUFrNGFLSUJoT21wNDRieGxuQjFzTXNxU1dFZFlCT3R3aEJESmRR?oc=5",
+  "title": "US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
+  "tokens": [
+   "count",
+   "deaths",
+   "during",
+   "exceed",
+   "four",
+   "iran",
+   "least",
+   "pentagon",
+   "post",
+   "reuters",
+   "troop",
+   "war",
+   "washington"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+  "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
+  "tokens": [
+   "build",
+   "deal",
+   "denmark",
+   "greenland",
+   "military",
+   "presence",
+   "reach"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/19/anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business.html",
+  "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
+  "tokens": [
+   "affecting",
+   "anduril",
+   "arms",
+   "business",
+   "defense",
+   "delay",
+   "firm",
+   "sales",
+   "taiwan"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.france24.com/en/putin-says-europe-is-preparing-for-war",
+  "title": "Putin says Europe is 'preparing for war'",
+  "tokens": [
+   "'preparing",
+   "europe",
+   "putin",
+   "war'"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3dVVjdKajM2eG9NSWR6aTBVR0RXU2RpdjNhR3dWMXBRcHd6OTNLMkc5UG9GUHVjRVhKRmMzeGdnZC1BVVRVTXJKU0NSSUZwcjJlRFlFNldST2MxUF9XTzZSX1NZN3k0elJsSldBTkRmS0VVbzl4TU5uTWFmQ0FlcS1uTUxaLUhjcEtvMTNUYWkzUlU4aTlFWDliZXkxNGh0WG44M2s4Sy01dXVlX0E?oc=5",
+  "title": "Disney names Character.AI's Karandeep Anand its first tech chief - Reuters",
+  "tokens": [
+   "ai's",
+   "anand",
+   "character",
+   "chief",
+   "disney",
+   "first",
+   "karandeep",
+   "names",
+   "reuters",
+   "tech"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
+  "title": "Ten days that changed the course of AI - Reuters",
+  "tokens": [
+   "changed",
+   "course",
+   "days",
+   "reuters",
+   "ten"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXgxcUNDSEx5a2VvaTV1MTNfVXZsOTBWaGZleGUtNE81bjhUVWhRUHZKOTFBZHNhYW5OWmlGV1llT0NFc3BpZUIwY0d6aHdVZUVFMU5kMUJTOEMwLVBKTWhkU3dQN1Fsdk1TaVR3WmVKWjFkLWZKOTlRLS1wVTZHUDJERUpyajZabGxrQ01iRDYzdzB1ME5SV1BUS1B1Um5Ea1VkTEVaV0NGUkFndTZsOGt1Um1oX1lWM3RmWEN4d1VEZw?oc=5",
+  "title": "US Treasury's Bessent to discuss AI, rare earths with China's He, source says - Reuters",
+  "tokens": [
+   "bessent",
+   "china's",
+   "discuss",
+   "earths",
+   "rare",
+   "reuters",
+   "source",
+   "treasury's"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUFnSGpyQWtoZEdZY3IzTTEzZ2Npd2JTc0MtVUxfMW1LeWgwX0xBWXdXVmNHQ1p0NjF6Y1pPdFl6RnNtZTZjZEZfcW5FX2tWSE1ETHZxTmQyNWFIYzJGWHNoLVJxSFZ5SFFZdklHYWZvd0RMWk4tc3FuelVyck9LWDRzMUFmY2tpNDFlVmhIbVBGV2thR2N5UjlUM2pnMFlYT0FEOWhIVzRTaDRlZnc?oc=5",
+  "title": "EXCLUSIVE: OpenAI's Sam Altman to brief UN Security Council next week - Reuters",
+  "tokens": [
+   "altman",
+   "brief",
+   "council",
+   "exclusive",
+   "next",
+   "openai's",
+   "reuters",
+   "sam",
+   "security",
+   "week"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGlSWk9aVU1zU0J2UXk5LTlSZGxVbm1qYmFUMVJLVk9WeVZpMm5oU1FYdWczZ1pGV0dJNlhyMVlLWEtNdGhyRnhLeXpqNElzQkNSc1h6V3VDY3ByNFoxZ01TTlY2SDE3YWZmaV9WSjg3Tjk3SDNZTWxNMEdkbVdrNm1kZ1FLZUtOZ3VRT3BHWnNnTnpLVmp6R1ZibmdEaGc4M3YzZjlXVQ?oc=5",
+  "title": "Trump declines to say whether he will tear down Kennedy Center - Reuters",
+  "tokens": [
+   "center",
+   "declines",
+   "kennedy",
+   "reuters",
+   "tear",
+   "trump",
+   "whether"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHE0eGdjejdPVC0wcEJESG1KY3hhNU1DMUZmOHZJUTFjZHRpM1BsLVcwbzVlOUJpVHFxZnBPNzJlTldZelp1WlcwVU5fQ2d2MXZCZS1NSm9uWkQ4MlpHRUQwY21BdU5BRUs2a3ZBODhETlZNd1pTMk94a1NWN3BMaGNHMVl0MWVIeTdWQk9KWVFvS0ZnVnZ1RWJQSlFMcjNVRm1TYkFfMTRvSUY2?oc=5",
+  "title": "Republican China committee chair urges tough Trump line with Xi - Reuters",
+  "tokens": [
+   "chair",
+   "china",
+   "committee",
+   "line",
+   "republican",
+   "reuters",
+   "tough",
+   "trump",
+   "urges"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+  "title": "Grim discoveries of murdered women spark fear in South Africa",
+  "tokens": [
+   "africa",
+   "discoveries",
+   "fear",
+   "grim",
+   "murdered",
+   "south",
+   "spark",
+   "women"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+  "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+  "tokens": [
+   "attack",
+   "australia",
+   "kill",
+   "named",
+   "order",
+   "prompts",
+   "rare",
+   "shark",
+   "victim",
+   "western"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+  "title": "Millions without power as Cuba hit by latest major blackout",
+  "tokens": [
+   "blackout",
+   "cuba",
+   "hit",
+   "latest",
+   "major",
+   "millions",
+   "power",
+   "without"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+  "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+  "tokens": [
+   "air",
+   "alerts",
+   "arabia",
+   "attacks",
+   "escalated",
+   "first",
+   "houthis",
+   "issues",
+   "raid",
+   "riyadh",
+   "saudi",
+   "since"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+  "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+  "tokens": [
+   "'it",
+   "center",
+   "demolished",
+   "kennedy",
+   "kerry",
+   "tragedy'"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+  "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+  "tokens": [
+   "'high",
+   "apologises",
+   "boss",
+   "fare",
+   "michael",
+   "o'leary",
+   "rapists'",
+   "remarks",
+   "ryanair"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/us-ban-canadian-molasses-sugar-refiner-sucro-9.7345748?cmp=rss",
+  "title": "U.S. import ban on Canadian molasses highlights sticky sugar industry feud",
+  "tokens": [
+   "ban",
+   "canadian",
+   "feud",
+   "highlights",
+   "import",
+   "industry",
+   "molasses",
+   "sticky",
+   "sugar"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/canada-eu-carney-jonathan-wilkinson-donald-trump-alliance-9.7349618?cmp=rss",
+  "title": "Canada won't pay directly into EU budget under Carney's plan: ambassador-designate",
+  "tokens": [
+   "ambassador",
+   "budget",
+   "canada",
+   "carney's",
+   "designate",
+   "directly",
+   "pay",
+   "plan",
+   "won't"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/openai-university-toronto-rogue-agents-link-shortener-ai-9.7349607?cmp=rss",
+  "title": "Rogue AI swarm used a University of Toronto link-shortening tool to communicate",
+  "tokens": [
+   "communicate",
+   "link",
+   "rogue",
+   "shortening",
+   "swarm",
+   "tool",
+   "toronto",
+   "university",
+   "used"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/ukraine-russia-trains-9.7349188?cmp=rss",
+  "title": "Russian drones are stalking Ukrainian trains and trying to hobble the country's rail system",
+  "tokens": [
+   "country's",
+   "drones",
+   "hobble",
+   "rail",
+   "russian",
+   "stalking",
+   "system",
+   "trains",
+   "trying",
+   "ukrainian"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/globaleye-military-saab-canada-surveillance-9.7350393?cmp=rss",
+  "title": "GlobalEye surveillance plane under the microscope as Conservatives call for twin probes",
+  "tokens": [
+   "call",
+   "conservatives",
+   "globaleye",
+   "microscope",
+   "plane",
+   "probes",
+   "surveillance",
+   "twin"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/gas-prices-dropping-winter-blend-9.7349480?cmp=rss",
+  "title": "Gas prices are dropping. You can thank the 'winter blend' for that",
+  "tokens": [
+   "'winter",
+   "blend'",
+   "dropping",
+   "gas",
+   "prices",
+   "thank",
+   "you"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+  "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+  "tokens": [
+   "andreessen",
+   "backed",
+   "become",
+   "benchmarking",
+   "gold",
+   "horowitz",
+   "looking",
+   "standard",
+   "vals"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+  "title": "It\u2019s not just LG. Every TV company is spying on you",
+  "tokens": [
+   "company",
+   "every",
+   "spying",
+   "you"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+  "title": "Learning another language may be one of the best ways to keep your brain healthy",
+  "tokens": [
+   "another",
+   "best",
+   "brain",
+   "healthy",
+   "keep",
+   "language",
+   "learning",
+   "one",
+   "ways"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+  "title": "The AI regulation smackdown isn\u2019t over",
+  "tokens": [
+   "isn",
+   "regulation",
+   "smackdown"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+  "title": "Rings around a tiny body have changed over the past decade",
+  "tokens": [
+   "around",
+   "body",
+   "changed",
+   "decade",
+   "past",
+   "rings",
+   "tiny"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+  "title": "India forces caller-ID apps to feed spam reports to telcos",
+  "tokens": [
+   "apps",
+   "caller",
+   "feed",
+   "forces",
+   "india",
+   "spam",
+   "telcos"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://betakit.com/elevate-2026-betakit-podcast/",
+  "title": "How the future of tech and Canada\u2019s sovereignty are changing Elevate",
+  "tokens": [
+   "canada",
+   "changing",
+   "elevate",
+   "future",
+   "sovereignty",
+   "tech"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
+  "title": "The Week\u2019s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead",
+  "tokens": [
+   "biggest",
+   "funding",
+   "infrastructure",
+   "investment",
+   "large",
+   "lead",
+   "management",
+   "rounds",
+   "space",
+   "tech",
+   "week"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/",
+  "title": "UK Sovereign AI Fund in talks to back \u00a3500m raise for drug discovery startup",
+  "tokens": [
+   "500m",
+   "back",
+   "discovery",
+   "drug",
+   "fund",
+   "raise",
+   "sovereign",
+   "startup",
+   "talks"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://betakit.com/robinhood-opens-new-canadian-hq-in-toronto-as-canada-becomes-a-priority-market/",
+  "title": "Robinhood opens new Canadian HQ in Toronto as Canada becomes a \u201cpriority\u201d market",
+  "tokens": [
+   "becomes",
+   "canada",
+   "canadian",
+   "market",
+   "opens",
+   "priority",
+   "robinhood",
+   "toronto"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://betakit.com/shopify-becomes-openais-first-e-commerce-partner-with-chatgpt-ads-integration/",
+  "title": "Shopify becomes OpenAI\u2019s first e-commerce partner with ChatGPT Ads integration",
+  "tokens": [
+   "ads",
+   "becomes",
+   "chatgpt",
+   "commerce",
+   "first",
+   "integration",
+   "openai",
+   "partner",
+   "shopify"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://betakit.com/cohere-and-opentext-partner-on-canadian-agentic-ai-stack-for-enterprises/",
+  "title": "Cohere and OpenText partner on Canadian agentic AI stack for enterprises",
+  "tokens": [
+   "agentic",
+   "canadian",
+   "cohere",
+   "enterprises",
+   "opentext",
+   "partner",
+   "stack"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.defenseone.com/defense-systems/2026/09/cape-canaveral-building-its-counter-drone-defenses-space-force-says/416096/",
+  "title": "Cape Canaveral is building up its counter-drone defenses, Space Force says",
+  "tokens": [
+   "building",
+   "canaveral",
+   "cape",
+   "counter",
+   "defenses",
+   "drone",
+   "force",
+   "space"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/space-force-to-prototype-new-software-to-fuse-commercial-military-space-tracking-data/",
+  "title": "Space Force to prototype new software to fuse commercial, military space tracking data",
+  "tokens": [
+   "commercial",
+   "data",
+   "force",
+   "fuse",
+   "military",
+   "prototype",
+   "software",
+   "space",
+   "tracking"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.defensenews.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/",
+  "title": "US clears way for $24.3 billion fighter jet sale to Saudi Arabia",
+  "tokens": [
+   "arabia",
+   "billion",
+   "clears",
+   "fighter",
+   "jet",
+   "sale",
+   "saudi",
+   "way"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/myriad-ways-that-drones-satellites-and-common-controls-reshape-isr/",
+  "title": "Myriad ways that drones, satellites, and common controls reshape ISR",
+  "tokens": [
+   "common",
+   "controls",
+   "drones",
+   "isr",
+   "myriad",
+   "reshape",
+   "satellites",
+   "ways"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.defenseone.com/ideas/2026/09/pete-hegseth-military-brass-ceiling/416082/",
+  "title": "Pete Hegseth is rebuilding the military's \u2018brass\u00a0ceiling\u2019",
+  "tokens": [
+   "brass",
+   "ceiling",
+   "hegseth",
+   "military's",
+   "pete",
+   "rebuilding"
+  ],
+  "date": "2026-09-19"
+ },
+ {
+  "link": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
+  "title": "US Air Force has a $14 billion supply hole, service officials say",
+  "tokens": [
+   "air",
+   "billion",
+   "force",
+   "hole",
+   "officials",
+   "service",
+   "supply"
+  ],
+  "date": "2026-09-19"
  }
 ]
