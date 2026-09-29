@@ -20285,5 +20285,947 @@
    "wanted"
   ],
   "date": "2026-09-28"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSi1tN1ZXNTdVQUMyT0d0blBucGY2TC1la3lyY1VUd1EtR0dCVWstellOQTJOTm9BLWg4a2RGTW9LaXpzbWJXeEQwaVJtb2pZdHFyU3ZISWxPMzh6amFXMVFjbDk5LWlvQ0VjbGRXQ21iSXZtVEozeFVEWDZCS0J0ZUxDMHphNTZXOWtGZWNnYmVVQkF5d1V0b3p5Z2VyMDRQeEVidg?oc=5",
+  "title": "Meta expands Muse AI agent for small businesses - Reuters",
+  "tokens": [
+   "agent",
+   "businesses",
+   "expands",
+   "meta",
+   "muse",
+   "reuters",
+   "small"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/openai-scraps-planned-release-gpt-6-1-astra-9.7361910?cmp=rss",
+  "title": "OpenAI scraps release of new AI model over safety concerns",
+  "tokens": [
+   "concerns",
+   "model",
+   "openai",
+   "release",
+   "safety",
+   "scraps"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5",
+  "title": "S&P 500 flat as higher bond yields counter tech optimism - Reuters",
+  "tokens": [
+   "500",
+   "bond",
+   "counter",
+   "flat",
+   "higher",
+   "optimism",
+   "reuters",
+   "tech",
+   "yields"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+  "title": "Trump says working with Xi on AI would hurt US companies - Reuters",
+  "tokens": [
+   "companies",
+   "hurt",
+   "reuters",
+   "trump",
+   "working"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+  "title": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
+  "tokens": [
+   "agents",
+   "china's",
+   "lie",
+   "like",
+   "reuters",
+   "rivals",
+   "scheme"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGhLcllsckhTZ1ZsYzVwdzc1V2p5UWhmZFpSa2xJbVhmNTJXckNxVTE2ckkzcGl0N25US0JaTjFId1hMZHFSelBoUWx0Y0VvNEZlVWstOWp1b2F0Wm5fOEZVNW1GRkIwbHYyaE1QSmRkSnpuNVo2UkJ5SHZpT094a0xkcmFKaE5GLU53U3hPTlVqWjFoNjRMUWY5cWRyN0pxa3BhUGU3My0tNEN4bTE1MTVVZXVKQTNTTG1FYl9oNE1MLVBUUkVCSHRIcS0?oc=5",
+  "title": "Using old election playbook, Netanyahu projects image as Israel's protector despite Hamas attack - Reuters",
+  "tokens": [
+   "attack",
+   "despite",
+   "election",
+   "hamas",
+   "image",
+   "israel's",
+   "netanyahu",
+   "old",
+   "playbook",
+   "projects",
+   "protector",
+   "reuters",
+   "using"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/toronto/ontario-canada-affordable-childcare-9.7362203?cmp=rss",
+  "title": "Province and feds extending affordable child-care program in Ontario, but fees stay the same",
+  "tokens": [
+   "affordable",
+   "care",
+   "child",
+   "extending",
+   "feds",
+   "fees",
+   "ontario",
+   "program",
+   "province",
+   "stay"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/trump-gdp-canada-9.7362091?cmp=rss",
+  "title": "Deloitte Canada cuts GDP growth forecast by 20% as tariffs grip economy amid Trump's trade war",
+  "tokens": [
+   "canada",
+   "cuts",
+   "deloitte",
+   "economy",
+   "forecast",
+   "gdp",
+   "grip",
+   "growth",
+   "tariffs",
+   "trade",
+   "trump's",
+   "war"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/british-columbia/carney-lng-canada-announcement-9.7361817?cmp=rss",
+  "title": "LNG Canada expansion gets go-ahead, as Carney set to highlight 'historic investment' in Canadian energy",
+  "tokens": [
+   "'historic",
+   "ahead",
+   "canada",
+   "canadian",
+   "carney",
+   "energy",
+   "expansion",
+   "gets",
+   "highlight",
+   "investment'",
+   "lng",
+   "set"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/us-canadian-booze-ban-whisky-wine-beer-9.7361385?cmp=rss",
+  "title": "U.S. bans on Canadian booze hit producers on one of trade war's thorniest fronts",
+  "tokens": [
+   "bans",
+   "booze",
+   "canadian",
+   "fronts",
+   "hit",
+   "one",
+   "producers",
+   "thorniest",
+   "trade",
+   "war's"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.pbs.org/newshour/politics/watch-trump-launches-ai-powered-government-website-america-gov",
+  "title": "WATCH: Trump launches AI-powered government website America.gov",
+  "tokens": [
+   "america",
+   "gov",
+   "government",
+   "launches",
+   "powered",
+   "trump",
+   "watch",
+   "website"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHg0MGZvUkU3a2FULXNNc1pDUkE5VTZaZFptZ0R0dHhoc29SbmotRkg5SndfWk1rcy1hbzAxY2VKbDhzUVIxUlpoaVZCU0MwYmRub0FGR1VOaHpjaXBxTmhPcnJ5MDJUOExCTE56X3h6aDVRR2FRN1V1VWRJMmNnYTNBOXhxVjlJd1hHbnZfVWo1Rk55d04xM1FGOTdfbU1BVmZHYVgyb0tYUQ?oc=5",
+  "title": "EXCLUSIVE: Russia raises 2027 military spending by 27%, budget documents show - Reuters",
+  "tokens": [
+   "2027",
+   "budget",
+   "documents",
+   "exclusive",
+   "military",
+   "raises",
+   "reuters",
+   "russia",
+   "show",
+   "spending"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://globalnews.ca/news/12077167/lindsay-clancy-trial-lack-of-evidence/",
+  "title": "Lindsay Clancy\u2019s lawyer raises questions over evidence in children\u2019s deaths",
+  "tokens": [
+   "children",
+   "clancy",
+   "deaths",
+   "evidence",
+   "lawyer",
+   "lindsay",
+   "questions",
+   "raises"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
+  "title": "Coinbase Ventures and CMCC Global close strategic funding round with trading firm Raven",
+  "tokens": [
+   "close",
+   "cmcc",
+   "coinbase",
+   "firm",
+   "funding",
+   "global",
+   "raven",
+   "round",
+   "strategic",
+   "trading",
+   "ventures"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+  "title": "Reco raises $55M as AI agent security startups crowd the market",
+  "tokens": [
+   "55m",
+   "agent",
+   "crowd",
+   "market",
+   "raises",
+   "reco",
+   "security",
+   "startups"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNazVCbjhpLXhaZU5LbGk2TENxV0NHbXdFSS03bVpudXJnOE84Y2ItOGxEdHRHRHYwNG80SlRsZEVLNDN4eDJNaDJJRmlxbWpyNDU4Uk9scjNCQXVzelhERzZzZUZOS1c0M3JEMFpMWjFuRGU2cHhqQk1ZSDlIMFRwZmtCYXJZajFpcEM4cFRIUF9tUWljSVRzRFN4akQyLWdaNVltTDY3anJJUkRHbWctVkNRbzNQV3FBejF4UldtcXA2QQ?oc=5",
+  "title": "Anthropic's $518 billion AI buildout hinges largely on deals that cannot be canceled, filing shows - Reuters",
+  "tokens": [
+   "518",
+   "anthropic's",
+   "billion",
+   "buildout",
+   "canceled",
+   "cannot",
+   "deals",
+   "filing",
+   "hinges",
+   "largely",
+   "reuters",
+   "shows"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw?oc=5",
+  "title": "Tech stocks gain on Anthropic IPO optimism, offsetting high oil, yields - Reuters",
+  "tokens": [
+   "anthropic",
+   "gain",
+   "high",
+   "ipo",
+   "offsetting",
+   "oil",
+   "optimism",
+   "reuters",
+   "stocks",
+   "tech",
+   "yields"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndoU28yRmZKcU1nd1MtOThsNXYtejlvampCQXFwRXIxcUJWdWZ5R0twWnM2czMyMmt3cERxQmhEYk5pWVh0UExTMVEzU3k0Tk5wa3Zkdkxkc0E3aTIzbEhOVmZrWmZPajJJaFRBb2JxUElza0puQW56MGpXM21lMDBSR1BDTkY3Ullja3pTQW1mQ20wWVhDTnMxRHB1MkFyUFQySkoxQldxNmFkNmp1dG95dndFUmZOb2c?oc=5",
+  "title": "EXCLUSIVE: Anthropic warns AI may pose 'existential risks to humanity' in IPO filing - Reuters",
+  "tokens": [
+   "'existential",
+   "anthropic",
+   "exclusive",
+   "filing",
+   "humanity'",
+   "ipo",
+   "pose",
+   "reuters",
+   "risks",
+   "warns"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.theguardian.com/business/2026/sep/29/soho-house-launches-investigation-out-of-date-food-shoreditch",
+  "title": "Soho House launches investigation after out-of-date food mislabelled in kitchen",
+  "tokens": [
+   "date",
+   "food",
+   "house",
+   "investigation",
+   "kitchen",
+   "launches",
+   "mislabelled",
+   "soho"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/house-intel-committee-could-investigate-defense-firm-contributions-to-white-house-ballroom/",
+  "title": "House intel committee could investigate defense firm contributions to White House ballroom",
+  "tokens": [
+   "ballroom",
+   "committee",
+   "contributions",
+   "defense",
+   "firm",
+   "house",
+   "intel",
+   "investigate",
+   "white"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+  "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+  "tokens": [
+   "arson",
+   "blames",
+   "company",
+   "defence",
+   "estonia",
+   "russia",
+   "supplying",
+   "ukraine"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/estonia-accuses-russia-of-ordering-august-arson-attack-on-milrem/",
+  "title": "Estonia accuses Russia of ordering August arson attack on Milrem",
+  "tokens": [
+   "accuses",
+   "arson",
+   "attack",
+   "august",
+   "estonia",
+   "milrem",
+   "ordering",
+   "russia"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.theguardian.com/culture/2026/sep/29/bill-trump-demolish-kennedy-center",
+  "title": "US senator blocks bill to ban Trump from demolishing Kennedy Center without Congress\u2019s approval",
+  "tokens": [
+   "approval",
+   "ban",
+   "bill",
+   "blocks",
+   "center",
+   "congress",
+   "demolishing",
+   "kennedy",
+   "senator",
+   "trump",
+   "without"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+  "title": "\u2018We will not be intimidated,\u2019 says Estonian PM after attributing recent arson attack to Russia \u2013 as it happened",
+  "tokens": [
+   "arson",
+   "attack",
+   "attributing",
+   "estonian",
+   "happened",
+   "intimidated",
+   "recent",
+   "russia"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk9DUGY3MTlQM2NqTTZCSFBSTnpXcXp0Y0ZFOW9rOWJrSGY3M2VteGVzUENDbE1ZMGdicllZYzhWdUNubEFVSGM0dHlpM0N6VE82eUpZS0xBaVB4UkVSeGZXX21JbkJqQVdiem9LOGQ3cGJLck5DcFpqckVkWEM5czlfX1F4YmFDa2NxUUR5ZU5fd1BwTXVJbVdTSE84cFd2TWlKalVtTElvUVZLRDBqRFZESWFNU1U?oc=5",
+  "title": "GM\u2019s pint-sized Bolt EV gets smaller production run - Reuters",
+  "tokens": [
+   "bolt",
+   "gets",
+   "pint",
+   "production",
+   "reuters",
+   "run",
+   "sized",
+   "smaller"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
+  "title": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' - Reuters",
+  "tokens": [
+   "'physical",
+   "ai'",
+   "amd",
+   "bet",
+   "billion",
+   "buy",
+   "fei",
+   "labs",
+   "li's",
+   "reuters",
+   "world"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVG5vYVlQYmlYam04bTNfSlhBTW1fLVBOVXkwXzBIS3BCYXRBUnZOM05NUVE5dk1aU2tQYmNnTkZWa2l1U0dNNVBINGF1NkpTQjBfQzVseDRCakFkeGs5XzYtMVFtMzFZZXFESmtZR0F3dDN3VTJZNEE0aHAwOWpUVUlqZEMzQ2packNhMkFMNTJEYnJNZ2pfNWszOWw3NFBhSDM1STZOQ1NuY2g5bGhxM3BwTW1BT0dGY1c2dkw5a1ZxVEdickVlU2ZfMmtRUQ?oc=5",
+  "title": "SpaceX's Starship engine failure could impact NASA's moon mission objectives - Reuters",
+  "tokens": [
+   "engine",
+   "failure",
+   "impact",
+   "mission",
+   "moon",
+   "nasa's",
+   "objectives",
+   "reuters",
+   "spacex's",
+   "starship"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5",
+  "title": "Anthropic's path from AI startup to industry-defining IPO - Reuters",
+  "tokens": [
+   "anthropic's",
+   "defining",
+   "industry",
+   "ipo",
+   "path",
+   "reuters",
+   "startup"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSzBia0RwbHByem5LX3RBelFnOFhDbjU1c1FHaEZ0WV9GQ2pwRERrS083MmV0Q1JKdUZOUmlYVmItejB3X21HMFdrcjIwd01DWWx0UDFJT09IeFBSaWRud3NSOXl4RDZpTlNqTFZQSzBRWktycVh3blB3NG9YeldmLU03cUpfQzJscm1qaWJnRkc3VVJFRnZtYVlVSWJQS1MtVDlmSy11aHFDUXNrLXZ3?oc=5",
+  "title": "Airbus flies A350F freighter in challenge to Boeing - Reuters",
+  "tokens": [
+   "a350f",
+   "airbus",
+   "boeing",
+   "challenge",
+   "flies",
+   "freighter",
+   "reuters"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXc5dDQ0V0FSdEZfMWN3YjNGcG1jZmdHaG1mTDRwMExSZ2pLcjFzRzN1aU0tZFNJa0ZBZXVDdzJJQWxqN01WTmxUbXcyOFEyU1hIUjVpLXlJMW5SVUpiTWRkOHFQd1lyYmVCRHM1UzRtc3lPQXdoRHVvQmQ2ZGp2dGFjLXA1YWNhRjhDc0Z0MmVfejhYdk1IOFEzdUVTYl9Rc0hOWWVKY0RzeENVaks0eFZR?oc=5",
+  "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
+  "tokens": [
+   "concerns",
+   "model",
+   "openai",
+   "release",
+   "reuters",
+   "safety",
+   "shelves"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+  "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+  "tokens": [
+   "announces",
+   "ban",
+   "evictions",
+   "flat",
+   "old",
+   "protests",
+   "removal",
+   "spain",
+   "woman's",
+   "year"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+  "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+  "tokens": [
+   "evan",
+   "gershkovich",
+   "jail",
+   "led",
+   "lured",
+   "moment",
+   "months",
+   "russian",
+   "trap'"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+  "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+  "tokens": [
+   "attack",
+   "bank",
+   "block",
+   "family's",
+   "home",
+   "israeli",
+   "palestinian",
+   "return",
+   "settlers",
+   "village",
+   "west"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump rules out joint US-China venture to develop AI",
+  "tokens": [
+   "china",
+   "develop",
+   "joint",
+   "rules",
+   "trump",
+   "venture"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+  "title": "Dutch police arrest suspected member of group that claimed FBI hack",
+  "tokens": [
+   "arrest",
+   "claimed",
+   "dutch",
+   "fbi",
+   "group",
+   "hack",
+   "member",
+   "police",
+   "suspected"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+  "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+  "tokens": [
+   "action",
+   "against",
+   "argentina",
+   "exploration",
+   "falkland",
+   "islands",
+   "legal",
+   "oil",
+   "threatens"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/science/canada-nature-protected-deal-progress-9.7358840?cmp=rss",
+  "title": "Canada led a 2022 deal to protect the world's nature. Has there been progress since then?",
+  "tokens": [
+   "2022",
+   "canada",
+   "deal",
+   "led",
+   "nature",
+   "progress",
+   "protect",
+   "since",
+   "world's"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/indigenous/sturgeon-lake-cree-nation-residential-school-search-9.7359102?cmp=rss",
+  "title": "Grave of boy who vanished at residential school found decades later, First Nation looks for others like him",
+  "tokens": [
+   "boy",
+   "decades",
+   "first",
+   "found",
+   "grave",
+   "him",
+   "later",
+   "like",
+   "looks",
+   "nation",
+   "others",
+   "residential",
+   "school",
+   "vanished"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/health/cancer-infections-9.7361622?cmp=rss",
+  "title": "1 in 8 cancer cases worldwide is caused by infections, study suggests",
+  "tokens": [
+   "cancer",
+   "cases",
+   "caused",
+   "infections",
+   "study",
+   "suggests",
+   "worldwide"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/hamilton/stelco-tariffs-trump-9.7361216?cmp=rss",
+  "title": "Hamilton steel plant to lay off hundreds of workers as U.S. tariffs prompt 'survival' move",
+  "tokens": [
+   "'survival'",
+   "hamilton",
+   "hundreds",
+   "lay",
+   "move",
+   "off",
+   "plant",
+   "prompt",
+   "steel",
+   "tariffs",
+   "workers"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/entertainment/digger-review-9.7362251?cmp=rss",
+  "title": "Digger review: Tom Cruise is fantastic, but you might hate the film",
+  "tokens": [
+   "cruise",
+   "digger",
+   "fantastic",
+   "film",
+   "hate",
+   "review",
+   "tom",
+   "you"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/calgary/premier-smith-ford-energy-9.7361041?cmp=rss",
+  "title": "Ontario Premier Doug Ford comes to Calgary, urges Albertans vote to remain in Canada",
+  "tokens": [
+   "albertans",
+   "calgary",
+   "canada",
+   "comes",
+   "doug",
+   "ford",
+   "ontario",
+   "premier",
+   "remain",
+   "urges",
+   "vote"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+  "title": "Xbox\u2019s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+  "tokens": [
+   "8217",
+   "achievements",
+   "like",
+   "mythic",
+   "platinum",
+   "playstation",
+   "they",
+   "trophies",
+   "xbox"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+  "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+  "tokens": [
+   "founder",
+   "instinct",
+   "platform",
+   "related",
+   "transactions",
+   "travel"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
+  "title": "Fruit flies remember their larval diet, which influences their longevity",
+  "tokens": [
+   "diet",
+   "flies",
+   "fruit",
+   "influences",
+   "larval",
+   "longevity",
+   "remember"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+  "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
+  "tokens": [
+   "8217",
+   "apple",
+   "ceo",
+   "change",
+   "laptops",
+   "launches",
+   "phones"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+  "title": "After losing his voice to cancer, this founder is building \u201cglasses for voice\u201d",
+  "tokens": [
+   "building",
+   "cancer",
+   "founder",
+   "glasses",
+   "losing",
+   "voice"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+  "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+  "tokens": [
+   "gpt",
+   "insecure",
+   "openai",
+   "planned",
+   "release"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://betakit.com/ex-general-fusion-employee-raises-4-million-usd-for-fusion-diagnostics-startup-daedal/",
+  "title": "Ex-General Fusion employee raises $4 million USD for fusion diagnostics startup Daedal",
+  "tokens": [
+   "daedal",
+   "diagnostics",
+   "employee",
+   "fusion",
+   "general",
+   "million",
+   "raises",
+   "startup",
+   "usd"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://sifted.eu/articles/how-employee-liquidity-is-becoming-fundamental-brnd/",
+  "title": "Inside the \u2018secondaries arms race\u2019: How employee liquidity is becoming fundamental to private businesses",
+  "tokens": [
+   "arms",
+   "becoming",
+   "businesses",
+   "employee",
+   "fundamental",
+   "inside",
+   "liquidity",
+   "private",
+   "race",
+   "secondaries"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
+  "title": "Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health",
+  "tokens": [
+   "33m",
+   "data",
+   "explore",
+   "future",
+   "gut",
+   "health",
+   "raises",
+   "reveal",
+   "tiny"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://betakit.com/sentinel-rd-ceo-says-drone-company-is-selling-directly-to-the-ukrainians/",
+  "title": "Sentinel R&D CEO says drone company is \u201cselling directly to the Ukrainians\u201d",
+  "tokens": [
+   "ceo",
+   "company",
+   "directly",
+   "drone",
+   "selling",
+   "sentinel",
+   "ukrainians"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://sifted.eu/articles/nordic-fintech-week-dispatch/",
+  "title": "As FlatPay soars, the rest of Nordic fintech searches for its next act",
+  "tokens": [
+   "act",
+   "fintech",
+   "flatpay",
+   "next",
+   "nordic",
+   "rest",
+   "searches",
+   "soars"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://betakit.com/french-vc-firm-adbio-expands-into-canada-with-montreal-office/",
+  "title": "French VC firm AdBio expands into Canada with Montr\u00e9al office",
+  "tokens": [
+   "adbio",
+   "canada",
+   "expands",
+   "firm",
+   "french",
+   "montr",
+   "office"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
+  "title": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
+  "tokens": [
+   "atlantic",
+   "bottom",
+   "joint",
+   "klakring",
+   "sent",
+   "sinkex",
+   "uss"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.defenseone.com/threats/2026/09/hegseth-orders-cyber-intelligence-agencies-prioritize-election-defense/416295/",
+  "title": "Hegseth orders cyber, intelligence agencies to prioritize election defense",
+  "tokens": [
+   "agencies",
+   "cyber",
+   "defense",
+   "election",
+   "hegseth",
+   "intelligence",
+   "orders",
+   "prioritize"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
+  "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+  "tokens": [
+   "arson",
+   "attack",
+   "blames",
+   "estonia",
+   "firm",
+   "military",
+   "milrem",
+   "robotics",
+   "russia"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.defenseone.com/business/2026/09/treat-operational-feedback-strategic-resource-new-paper-argues/416284/",
+  "title": "Treat operational feedback as a strategic resource, new paper argues",
+  "tokens": [
+   "argues",
+   "feedback",
+   "operational",
+   "paper",
+   "resource",
+   "strategic",
+   "treat"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
+  "title": "US forces exiting Iraq after 2 decades, leaving opening for Iran",
+  "tokens": [
+   "decades",
+   "exiting",
+   "forces",
+   "iran",
+   "iraq",
+   "leaving",
+   "opening"
+  ],
+  "date": "2026-09-29"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/09/drone-hunting-on-the-border-plus-turmoil-at-an-air-force-think-tank/",
+  "title": "Drone-hunting on the border, plus turmoil at an Air Force think tank",
+  "tokens": [
+   "air",
+   "border",
+   "drone",
+   "force",
+   "hunting",
+   "plus",
+   "tank",
+   "think",
+   "turmoil"
+  ],
+  "date": "2026-09-29"
  }
 ]
