@@ -1,0 +1,431 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin><link href='https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap' rel='stylesheet'>
+<title>Brief, 28 October 2026</title>
+<style>
+:root{
+  --paper:#F2F3F4; --ink:#101112; --ink-mid:#5B5F63; --ink-quiet:#8D9296;
+  --rule:#D6D8DA; --placeholder:#E2E4E6; --accent:#C8102E;
+  --col:3;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0; background:var(--paper); color:var(--ink);
+  font-family:Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased}
+img{max-width:100%}
+a{color:inherit; text-decoration:none}
+.wrap{max-width:1280px; margin:0 auto; padding:36px 28px 96px}
+
+/* masthead ---------------------------------------------------------------- */
+.mast{display:flex; align-items:flex-start; justify-content:space-between;
+  gap:24px; margin-bottom:44px}
+.mark{font-size:44px; font-weight:800; letter-spacing:-.03em; line-height:.95;
+  margin:0; color:var(--ink)}
+.mast-right{text-align:right; padding-top:6px}
+.mast-date{font-size:11px; font-weight:500; letter-spacing:.06em;
+  color:var(--ink-quiet); margin:0 0 2px}
+.mast-tally{font-size:11px; font-weight:400; color:var(--ink-quiet); margin:0 0 8px}
+nav{display:flex; justify-content:flex-end; align-items:baseline; gap:14px;
+  font-size:11px; font-weight:500; letter-spacing:.06em}
+nav a{color:var(--ink-mid); border-bottom:1px solid var(--rule); padding-bottom:1px}
+nav a:hover{color:var(--ink); border-bottom-color:var(--ink)}
+nav .sp{width:2px}
+
+/* section header ---------------------------------------------------------- */
+.sec{margin-bottom:52px}
+.sec-head{display:flex; align-items:center; gap:12px; margin:0 0 14px}
+.sec-badge{flex:0 0 auto; width:28px; height:28px; border-radius:50%;
+  background:var(--ink); color:var(--paper); display:flex; align-items:center;
+  justify-content:center; font-size:12px; font-weight:700; text-transform:uppercase}
+.sec-title{font-size:34px; font-weight:700; letter-spacing:-.02em; line-height:1;
+  margin:0; text-transform:uppercase}
+.sec-rule{height:1px; background:var(--rule); margin:0 0 0}
+.sec-gist{font-size:12px; color:var(--ink-mid); margin:12px 0 0; max-width:62ch}
+
+/* card grid --------------------------------------------------------------- */
+.grid{display:grid; grid-template-columns:repeat(var(--col),1fr); margin-top:0}
+.card{display:flex; flex-direction:column; padding:22px 20px 24px;
+  border-right:1px solid var(--rule); border-bottom:1px solid var(--rule);
+  min-width:0}
+.card:nth-child(3n){border-right:none}
+.card-hl{font-size:14px; font-weight:600; line-height:1.25; letter-spacing:-.005em;
+  margin:0 0 8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden; border-bottom:1px solid transparent}
+.card-hl:hover{border-bottom-color:var(--ink)}
+.card-sum{font-size:12px; font-weight:400; line-height:1.4; color:var(--ink-mid);
+  margin:0 0 18px; display:-webkit-box; -webkit-line-clamp:2;
+  -webkit-box-orient:vertical; overflow:hidden}
+.card-meta{display:flex; align-items:flex-end; justify-content:space-between;
+  gap:10px; margin-top:auto; margin-bottom:12px}
+.tags{display:flex; align-items:center; gap:6px; flex-wrap:wrap; min-width:0;
+  font-size:10px; font-weight:500; letter-spacing:.05em; color:var(--ink-quiet);
+  padding-bottom:5px}
+.dot{flex:0 0 auto; width:14px; height:14px; border-radius:50%; background:var(--ink);
+  color:var(--paper); display:flex; align-items:center; justify-content:center;
+  font-size:8px; font-weight:700; text-transform:uppercase}
+.tags .run{color:var(--ink-mid)}
+.tags .gate{color:var(--ink-mid)}
+.card-n{flex:0 0 auto; font-size:32px; font-weight:500; line-height:1;
+  letter-spacing:-.02em; font-variant-numeric:tabular-nums; color:var(--ink-quiet)}
+.card-n.mid{color:var(--ink)}
+.card-n.hot{color:var(--accent)}
+.card-media{position:relative; width:100%; aspect-ratio:4/3;
+  background:var(--placeholder); overflow:hidden}
+.card-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+
+/* by outlet --------------------------------------------------------------- */
+.cols{display:grid; grid-template-columns:repeat(var(--col),1fr)}
+.col{padding:22px 20px 24px; border-right:1px solid var(--rule);
+  border-bottom:1px solid var(--rule); min-width:0}
+.col:nth-child(3n){border-right:none}
+.col h3{font-size:12px; font-weight:700; letter-spacing:.06em; margin:0 0 4px;
+  text-transform:uppercase}
+.col .lede{font-size:11px; color:var(--ink-quiet); margin:0 0 12px; line-height:1.35}
+.col ul{list-style:none; margin:0; padding:0}
+.col li{margin-bottom:10px; font-size:13px; font-weight:500; line-height:1.3}
+.col li a{border-bottom:1px solid transparent}
+.col li a:hover{border-bottom-color:var(--ink)}
+
+/* occasional section ------------------------------------------------------ */
+/* Inverted on purpose. It appears only when a research publisher posts, so it
+   should be impossible to miss and impossible to confuse with a daily block. */
+.sec.occ{background:var(--ink); color:var(--paper); padding:26px 24px 10px;
+  margin-left:-24px; margin-right:-24px}
+.sec.occ .sec-badge{background:var(--paper); color:var(--ink)}
+.sec.occ .sec-title{color:var(--paper)}
+.sec.occ .sec-rule{background:#3A3D40}
+.sec.occ .sec-gist{color:#A8ACB0}
+.occ-list{margin-top:18px}
+.occ-item{display:flex; gap:18px; padding:18px 0; border-bottom:1px solid #3A3D40}
+.occ-item:last-child{border-bottom:none}
+.occ-media{flex:0 0 172px; aspect-ratio:3/2; background:#2A2D30;
+  position:relative; overflow:hidden}
+.occ-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+.occ-body{flex:1; min-width:0}
+.occ-hl{display:block; font-size:17px; font-weight:600; line-height:1.25;
+  letter-spacing:-.01em; margin:0 0 6px; color:var(--paper);
+  border-bottom:1px solid transparent}
+.occ-hl:hover{border-bottom-color:var(--paper)}
+.occ-sum{font-size:13px; line-height:1.45; color:#A8ACB0; margin:0 0 8px;
+  max-width:64ch}
+.occ-meta{font-size:10px; font-weight:500; letter-spacing:.05em; color:#8A8E92;
+  margin:0; display:flex; align-items:center; flex-wrap:wrap}
+.occ-meta .sep{display:inline-block; width:3px; height:3px; border-radius:50%;
+  background:#5A5E62; margin:0 8px}
+.sec.occ a:focus-visible{outline-color:var(--paper)}
+
+footer{margin-top:56px; padding-top:16px; border-top:1px solid var(--rule);
+  font-size:11px; color:var(--ink-quiet); max-width:72ch; line-height:1.5}
+
+a:focus-visible,.card-hl:focus-visible{outline:2px solid var(--accent);
+  outline-offset:2px; border-bottom-color:transparent}
+
+@media (max-width:1023px){
+  :root{--col:2}
+  .card:nth-child(3n),.col:nth-child(3n){border-right:1px solid var(--rule)}
+  .card:nth-child(2n),.col:nth-child(2n){border-right:none}
+  .mark{font-size:36px}
+  .sec-title{font-size:28px}
+}
+@media (max-width:767px){
+  :root{--col:1}
+  .wrap{padding:24px 16px 72px}
+  .mast{flex-direction:column; gap:14px}
+  .mast-right{text-align:left; padding-top:0}
+  nav{justify-content:flex-start}
+  .mark{font-size:34px}
+  .sec-title{font-size:24px}
+  .sec-badge{width:24px; height:24px; font-size:11px}
+  .sec.occ{margin-left:-16px; margin-right:-16px; padding:22px 16px 8px}
+  .occ-item{flex-direction:column; gap:12px}
+  .occ-media{flex:0 0 auto; width:100%; aspect-ratio:16/9}
+  .occ-hl{font-size:16px}
+  .card,.col{padding:20px 0 22px; border-right:none}
+  .card:nth-child(3n),.card:nth-child(2n),
+  .col:nth-child(3n),.col:nth-child(2n){border-right:none}
+  .card-n{font-size:28px}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{transition:none!important; animation:none!important;
+    scroll-behavior:auto!important}
+}
+</style></head><body><div class='wrap'>
+<header class='mast'>
+<h1 class='mark'>Alisha&#x27;s newsroom</h1>
+<div class='mast-right'>
+<p class='mast-date'>Wednesday, 28 October 2026</p>
+<p class='mast-tally'>461 stories in, 24 shown</p>
+<nav><a href='2026-10-27.html'>previous</a><span class='sp'></span><a href='archive.html'>archive</a></nav>
+</div></header>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>T</span><h2 class='sec-title'>Top stories</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5'>EXCLUSIVE: Hackers target US FEC system, disrupting campaign finance disclosures days before midterms - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='4 outlets covering this: Al Jazeera, CNBC, Reuters Technology, Reuters World'>4</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/4/47/DEF_CON_17_CTF_competition.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='EXCLUSIVE: Hackers target US FEC system, disrupting campaign finance disclosures days before midterms - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster'>Dozens are dead in a high-speed train crash in Spain</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>N</span><span>NPR</span></span>
+<span class='card-n ' title='4 outlets covering this: Al Jazeera, France 24, NPR, PBS NewsHour'>4</span>
+</div>
+<div class='card-media'><img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1241+0+0/resize/2000x1241!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2F8a%2F417aad664031913c1335e9797e08%2Fap26301360905635.jpg' alt='Dozens are dead in a high-speed train crash in Spain' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo'>Spain train crash: at least 64 dead after collision in Toledo province</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Guardian</span></span>
+<span class='card-n ' title='3 outlets covering this: CNBC, France 24, The Guardian'>3</span>
+</div>
+<div class='card-media'><img src='https://i.guim.co.uk/img/media/d28665ea56d701cb26a0e865a3faf8ea726c2a42/474_0_2370_1896/master/2370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf905c7a3c426b950e0e7a2a26ad33c5' alt='Spain train crash: at least 64 dead after collision in Toledo province' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss'>Luxury cruise passengers stranded in Cambodia due to soaring fuel costs</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>B</span><span>BBC News</span></span>
+<span class='card-n ' title='2 outlets covering this: BBC News, The Guardian'>2</span>
+</div>
+<div class='card-media'><img src='https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg' alt='Luxury cruise passengers stranded in Cambodia due to soaring fuel costs' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVF1SXJGdUFXOTE0REU0QU95Zm44ckxxMzRZSXVPakNTQkFFcjVKMHUtcWdSODFzeTRST2U3SHZWRWxSUjJGUUVRdUoxLUVNWHRKUFlxUktKOUhGdGo2SjM5VVJPUk5LbXNjcW5QbGcwM3diaDV0c05OV3BQS1hwSjJB?oc=5'>Nevada caught between AI job growth and job losses - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa1hhSE9qcjBnV05nbUJKNmwxbmFFUmM4MG5QdEVCaUoteHJQNVFwaXJUemg3RU5yWVMtWnh4U19tLW14Znl6dWZIUDRZdm5rcENwaUZVOEUyQlR6azA1bGRMX00ydXJ5UU1fRE14SE1nQTVxdUt5bkNDTV8tMmE0Z0JYdEtQdnBUbXhOSU9JMFpzdnltMjRjNVBFX1E3YmpIbXpPdU5OM3BvU0tkMmN2LWk3NHkzZFI4eE51eGE3Q29LekU?oc=5'>US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/3/35/Oil_Platform_in_mist%2C_Cromarty_Firth_near_Rosskeen_-_geograph.org.uk_-_851812.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='US crude and distillate inventories fall, gasoline stocks rise, EIA says - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>C</span><h2 class='sec-title'>Canada</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/business/ai-ceo-jobs-ey-survey-9.7398596?cmp=rss'>46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC Business, CBC News'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/c923f2e9-bd15-41aa-bf2f-6de48beb2d5e,1793139987000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6227%2C3502%29%3B' alt='46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/business/livestory/bank-of-canada-interest-rate-announcement-oct-28-9.7398140?cmp=rss'>Bank of Canada governor says rate hike to 2.5% was needed in face of persistent inflation</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC Politics</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC Business, CBC Politics'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/a8f6fedd-8561-465b-b2de-d1abc4dc88d3,1793117732289/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C724%2C8192%2C4608%29%3B' alt='Bank of Canada governor says rate hike to 2.5% was needed in face of persistent inflation' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/politics/air-travel-north-transport-canada-flight-duty-period-9.7398626?cmp=rss'>Smaller airlines ask Transport Canada for pilots&#x27; shifts to last up to 14 hours</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC Politics</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC Business, CBC Politics'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/9b37607a-1277-4f4a-9c45-9cf9ca8c9bbb,1793134650099/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4032%2C2268%29%3B' alt='Smaller airlines ask Transport Canada for pilots&#x27; shifts to last up to 14 hours' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/world/cruise-ship-fuel-odyssey-9.7399290?cmp=rss'>Cruise billed as floating home suspends global voyage over fuel costs, stranding passengers</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='1 outlets covering this: CBC News'>1</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/d960ce2e-965b-4bfc-9917-08c184c4ccc8,1793192460974/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C4999%2C2811%29%3B' alt='Cruise billed as floating home suspends global voyage over fuel costs, stranding passengers' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>S</span><h2 class='sec-title'>Startups and venture</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUNfMFh2VXFuRUpyWjNldzQ4dmZROU5kNjhfUlNoXzd1UXNWV0NiTXJiclpmYUlnS1dFUXJ0QkVPVno1VkJxaEpOUDc5Qk5PS2ZBR1NUbE5RSU5ja2FRQmVpd1VZZWhmdjl6dzRFTE9hNGJvWHNCc2VFN2NFQlNvYzNtdjYwWnVoNmdIZUdMRkZBbHY2OTJ1OEpvMFlRYkRHY2ZVZmZKM2RUdU9IckpCMzV2Wm4?oc=5'>Bank of Canada raises key interest rate, says another hike possible - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/a/a8/London.bankofengland.arp.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='Bank of Canada raises key interest rate, says another hike possible - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU4wT2xkT1NtTjVKbk1tU1hac3R0UVhCMGE5UlQ2cjBwMzFkbVFEaVQzcEluQ21RNUxNX3YzbkVwTGpzNHFkVUktdXBkaHN6ekFpeFZxTHdqVVpJTDFXLVloQVB0U18yanB2MzlETEtlMFpCLVRxeE0zc2FOZ0g5WnFjYWt1SmYtekJWRXo1eUVGQ3NpM253clFKcFdULVBveDc0SEJZVlNFcWJBdkRBd0tfQQ?oc=5'>Canada&#x27;s Wealthsimple raises funds at C$13.80 billion valuation - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.theguardian.com/world/2026/oct/28/analysis-fatal-collision-doubt-over-spain-high-speed-rail'>Second fatal train collision this year casts doubt over Spain’s high-speed rail network</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Guardian</span></span>
+<span class='card-n ' title='1 outlets covering this: The Guardian'>1</span>
+</div>
+<div class='card-media'><img src='https://i.guim.co.uk/img/media/4086823bd1ffd37965236f1bb131f590778e096f/494_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=632446972b9860f44929a58a86ddc66b' alt='Second fatal train collision this year casts doubt over Spain’s high-speed rail network' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://financialpost.com/globe-newswire/how-to-keep-mice-rats-bats-and-spiders-out-this-fall-abell-pest-control-shares-halloween-prevention-tips-and-launches-creepy-crawly-costume-contest'>How to Keep Mice, Rats, Bats and Spiders Out This Fall: Abell Pest Control Shares Halloween Prevention Tips and Launches Creepy-Crawly Costume Contest</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>F</span><span>Financial Post</span></span>
+<span class='card-n ' title='1 outlets covering this: Financial Post'>1</span>
+</div>
+<div class='card-media'><img src='https://secure.gravatar.com/avatar/dacbb4d6d68d06d07a0d4253aaa78393?s=96&amp;d=mm&amp;r=g' alt='How to Keep Mice, Rats, Bats and Spiders Out This Fall: Abell Pest Control Shares Halloween Prevention Tips and Launches Creepy-Crawly Costume Contest' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://financialpost.com/globe-newswire/ine-launches-rebuilt-ecdfp-certification-to-validate-end-to-end-digital-forensics-and-incident-response-skills'>INE Launches Rebuilt eCDFP Certification to Validate End-to-End Digital Forensics and Incident Response Skills</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>F</span><span>Financial Post</span></span>
+<span class='card-n ' title='1 outlets covering this: Financial Post'>1</span>
+</div>
+<div class='card-media'><img src='https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/ine-launches-rebuilt-ecdfp-certification-to-validate-end-to-.png' alt='INE Launches Rebuilt eCDFP Certification to Validate End-to-End Digital Forensics and Incident Response Skills' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>B</span><h2 class='sec-title'>Big tech</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5'>US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span><span class='run'>day 15</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/4/41/KA-03_cropped.png?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html'>Microsoft earnings will land after the close</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CNBC</span></span>
+<span class='card-n ' title='1 outlets covering this: CNBC'>1</span>
+</div>
+<div class='card-media'><img src='https://image.cnbcfm.com/api/v1/image/108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793138226&amp;w=1920&amp;h=1080' alt='Microsoft earnings will land after the close' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html'>Alphabet set to report third-quarter earnings after the bell</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CNBC</span></span>
+<span class='card-n ' title='1 outlets covering this: CNBC'>1</span>
+</div>
+<div class='card-media'><img src='https://image.cnbcfm.com/api/v1/image/108340158-1784939177232-gettyimages-2262037694-INDIA_AI_SUMMIT.jpeg?v=1784939331&amp;w=1920&amp;h=1080' alt='Alphabet set to report third-quarter earnings after the bell' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/'>Trump DOE loans $5B to nuclear plants that will power data centers</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>TechCrunch</span></span>
+<span class='card-n ' title='1 outlets covering this: TechCrunch'>1</span>
+</div>
+<div class='card-media'><img src='https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900' alt='Trump DOE loans $5B to nuclear plants that will power data centers' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html'>The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CNBC</span></span>
+<span class='card-n ' title='1 outlets covering this: CNBC'>1</span>
+</div>
+<div class='card-media'><img src='https://image.cnbcfm.com/api/v1/image/108320522-1781203657285-gettyimages-2278740251-ecp_ws_260602_dsc_2551.jpeg?v=1781203687&amp;w=1920&amp;h=1080' alt='The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>D</span><h2 class='sec-title'>Defense</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat'>Flávio Bolsonaro lands in Miami after Brazil election loss</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Guardian</span></span>
+<span class='card-n ' title='2 outlets covering this: Al Jazeera, The Guardian'>2</span>
+</div>
+<div class='card-media'><img src='https://i.guim.co.uk/img/media/e0352be62a3c7597d14ecf392ed38d1f8c7ba8ea/0_426_2101_1679/master/2101.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6e199c1bd4c09b7593c37809ccf48584' alt='Flávio Bolsonaro lands in Miami after Brazil election loss' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5'>US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest'>Trump and Vance rally for Republicans in final midterms push; Alaska’s Murkowski backs Democrat in governor’s race, live</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Guardian</span></span>
+<span class='card-n ' title='1 outlets covering this: The Guardian'>1</span>
+</div>
+<div class='card-media'><img src='https://i.guim.co.uk/img/media/08d36da980d5654a037eb2f1f619cf4e99d11f1a/0_0_3645_2916/master/3645.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7cd0739de9b1acbbbb63a269bc38ccf' alt='Trump and Vance rally for Republicans in final midterms push; Alaska’s Murkowski backs Democrat in governor’s race, live' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html'>UK brings forward defense spending target, pledging billions to Ukraine</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CNBC</span></span>
+<span class='card-n ' title='1 outlets covering this: CNBC'>1</span>
+</div>
+<div class='card-media'><img src='https://image.cnbcfm.com/api/v1/image/108475279-1793202715790-gettyimages-2301862890-ecp_ws_261028_dsc_0409.jpeg?v=1793202751&amp;w=1920&amp;h=1080' alt='UK brings forward defense spending target, pledging billions to Ukraine' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>B</span><h2 class='sec-title'>By outlet</h2></div><div class='sec-rule'></div><p class='sec-gist'>What each newsroom is running that did not make a block above.</p>
+<div class='cols'>
+<div class='col'><h3>Reuters</h3>
+<ul>
+<li><a href='https://news.google.com/rss/articles/CBMirwFBVV95cUxPalU1amdTWXlzWlhyYjl4VjduN2ViWFpKdHB4R2wtMDRXWWNkMlNkRktRcEJ3bFd2MkRiQURMd0N5Ull6dG9zaTRKMUF3VUdiNWk0bG1NTTJMbjJKOUlRSU1VWkhLTmozenlfYkloODZteVhPU1Y4UGRIcU81eno2djVPc3BXQmgzU1lKNnJudjdOYUgzbDJxN2ZqUkdEdWRNYTlBYW05UHJ2NUY0bXBZ?oc=5'>Dropbox plans 9% workforce cut, technology chief to exit - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMinAFBVV95cUxObkVGYXBiWnNCZDFyNVRMSjNnZG5xRENTUDkzbk04SVdRV3d5LVZFbkxRR2FVSGt5MnhUYkZSVWtBNzJBclcxZ3FacC1JTUpMTExLQU9USDhTTjY3aWwyTWNpSlRMUy1FLURMQkpYalZXdl9qS2RFdHQ0Tm9XaWdjU2pqSTNOQ2U5WDU1OXUyaVZYcG1LMkl6UmRJZ0M?oc=5'>Canada reports limited progress in trade talks with US - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUpOYjRPbVZuMzdSa0U4R3E2MUpiZDdzTzNxLWx4U3o4UnpnV0NaNjkwTzFlcmItSGVveHhoUktBUU94MDBXVWVfeG5vd2Y1Y2xxOTNPTWl4YXMxNURsV25ieDBfUHFZSUNydUVRMC1FdGZNZ0Q3WmtuQ3lfME9UTXh2Qll2aFgxajZzWEhteFd4OEpyRE9Ic2E4bmVRTXl6eHFBQk4yLXBRNWpmdUI3QzVpal9oSUk?oc=5'>Volkswagen, in strategy shift, plans to globalise China-developed technology - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMivgFBVV95cUxNaEpIM3FfOEVIU0g3dkIzdlhrWnVpRHNhd3BaQS1XZ0liaXgydVhrTDZ3Z3piOTUyYVlBNFZXdTVPenctR01Hb0RuZEtvNVZObkFHRE9Pb0dkTURvamlKanJVQm1hX2k5cERiSnpQbmRsaTJSS2VZY0NEaEpGanlxODFiR1IxbFozM0p4a3Y0Sl9NdFFMd1Zrd05lQlQyaS1ZYlJqQURvYXpxNVFzSEJUd3JKZ1lGbWtGSDNqaWhR?oc=5'>China&#x27;s new export curbs draw a line around its AI crown jewels - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkxiNlN6Z0ZGZHlEdXc2R09fa1ZTZGxBTTl4WUVUcFN1MTdYeEVfVE0xcFpOcUxaZ0U2VVdOVXRsdE0tSzdQcDFuOElWeE1IRjcyM1ZUd0VqcnJVdHIyaUdObEptUkQwT3NPTXBQWkx4VE5QbF9XRzBkWWhEVzFDM2lDQnpmVlhCcV9DQ3FxZVE0Qmd0bVlUS1A2azQ4Z0lUd0w2VnVWYjJzZw?oc=5'>Bank of Canada poised to hike key rate for first time in three years - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0tFU3FmZUI4RzVyc2hwUzJWbXRDRTNLQWxDSFhhbUlrb19qNVdkWHNmbXBBaGkwMmx4b1o1SEJDY2MtM2hNbWhGWk9yNnRYeXAyVTdyWFFLMUN1MUNNejJWZndqaTJ0aGVwdkVsTkhGYW9TVDdPclRQU0dZS3VQbkhISm90QTlmNGVvZnZKcVZpUFhUenhFZFpscXhtUlZRMVpqTklNRjJuUmthRHJGX3RTZzRBUldPTnFV?oc=5'>Norway&#x27;s premier says call with Putin was effort to present European views - Reuters</a></li>
+</ul></div>
+<div class='col'><h3>BBC</h3>
+<ul>
+<li><a href='https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss'>How could Israel break election deadlock? Here are four scenarios</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&amp;at_campaign=rss'>Serbian shot dead after attacking officer outside Israeli embassy, minister says</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&amp;at_campaign=rss'>Tanzania celebrates first natural gas discovery in more than 10 years</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&amp;at_campaign=rss'>Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss'>Ceasefire extended across Ukraine&#x27;s Kherson region, officials say</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&amp;at_campaign=rss'>King acknowledges &#x27;suffering of the past&#x27; as Caribbean tour begins</a></li>
+</ul></div>
+<div class='col'><h3>CBC</h3>
+<ul>
+<li><a href='https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595?cmp=rss'>U.S. steel CEO&#x27;s &#x27;confessions&#x27; for buying Stelco prompted government to call its lawyers: industry minister</a></li>
+<li><a href='https://www.cbc.ca/news/world/us-midterm-elections-latino-hispanic-voters-trump-9.7398181?cmp=rss'>Why the Hispanic vote could sway the outcome of the U.S. midterm elections</a></li>
+<li><a href='https://www.cbc.ca/news/world/train-crash-spain-toledo-9.7399154?cmp=rss'>At least 64 dead in crash between 2 trains in central Spain, authorities say</a></li>
+<li><a href='https://www.cbc.ca/news/politics/cbam-carbon-tariff-canada-european-union-9.7398807?cmp=rss'>Canada facing carbon tariff threat from European Union: internal documents</a></li>
+<li><a href='https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895?cmp=rss'>Stelco owner says he could sell plant next year after becoming &#x27;persona non grata in Canada&#x27;</a></li>
+<li><a href='https://www.cbc.ca/news/canada/calgary/palestinian-refugee-calgary-school-9.7398107?cmp=rss'>Safe but excluded: Bureaucratic hurdles keep refugee kids from Gaza out of Alberta schools</a></li>
+</ul></div>
+<div class='col'><h3>TechCrunch</h3>
+<ul>
+<li><a href='https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements'>All the news from Apple’s ‘Pro and tell’ event</a></li>
+<li><a href='https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/'>Reddit is the latest platform to embrace the ‘For You’ feed</a></li>
+<li><a href='https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/'>A hidden ocean change near Antarctica could have global consequences</a></li>
+<li><a href='https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely'>Meta says it&amp;#8217;ll probably delay its controversial new business terms again</a></li>
+<li><a href='https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/'>AI execs may be too out of touch to build for the general public</a></li>
+<li><a href='https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/'>China’s snooping around Pacific undersea cables raises risks for Big Tech</a></li>
+</ul></div>
+<div class='col'><h3>Venture</h3>
+<ul>
+<li><a href='https://betakit.com/three-trends-to-watch-from-the-2026-quebec-fintech-report/'>Three trends to watch from the 2026 Québec FinTech Report</a></li>
+<li><a href='https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/'>The executive talent market is divided in two</a></li>
+<li><a href='https://betakit.com/wealthsimple-announces-425-million-financing-at-13-8-billion-valuation/'>Wealthsimple announces $425-million financing at $13.8-billion valuation</a></li>
+<li><a href='https://sifted.eu/articles/uk-autumn-budget-2026-startups/'>UK Budget: Capital gains, work visas and young entrepreneur allowances</a></li>
+<li><a href='https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/'>Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label</a></li>
+<li><a href='https://sifted.eu/articles/why-the-smartest-ai-models-still-need-human-context-brnd/'>Why the smartest AI models still need human context</a></li>
+</ul></div>
+<div class='col'><h3>Defense</h3>
+<ul>
+<li><a href='https://www.defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say/'>Trump’s Russian diesel deal benefits Moscow more than US consumers, experts say</a></li>
+<li><a href='https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future/'>How General Atomics views Europe’s unmanned future</a></li>
+<li><a href='https://www.defenseone.com/threats/2026/10/port-call-situation-wearing-out-navy-warships/416859/'>The port-call situation is wearing out Navy warships</a></li>
+<li><a href='https://www.defensenews.com/news/2026/10/28/increasing-cyber-capability-for-national-defense/'>Increasing cyber capability for national defense</a></li>
+<li><a href='https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/'>Navy faces ‘years-long’ maintenance crunch amid record-breaking, extended deployments</a></li>
+<li><a href='https://www.defenseone.com/policy/2026/10/financial-ukraine/416851/'>Financial aid for Ukraine is getting harder to find</a></li>
+</ul></div>
+</div></section>
+<footer>The number on each card is how many independent outlets are covering that story. Nothing is ranked by clicks, because no one publishes those.</footer></div></body></html>
