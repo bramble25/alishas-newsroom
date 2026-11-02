@@ -1,954 +1,5 @@
 [
  {
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5",
-  "title": "Mexico to prohibit presidents from holding dual citizenship - Reuters",
-  "tokens": [
-   "citizenship",
-   "dual",
-   "holding",
-   "mexico",
-   "presidents",
-   "prohibit",
-   "reuters"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5",
-  "title": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say - Reuters",
-  "tokens": [
-   "anglo",
-   "approval",
-   "china",
-   "commitments",
-   "copper",
-   "demands",
-   "exclusive",
-   "merger",
-   "reuters",
-   "sources",
-   "supply",
-   "teck"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTk2ZFJ4YklNcjZMNEJ3aWlPSG9HZlZ5RzF1Q3o1RW16emhJWUQ3VVFkV3luT3FjSG9EaFVpR1VpYjRnMElVWFR0SFJ2Y1FRT0lNVHV6bHExMmJlbGI2U2FKMkRDakE5clVydmdkUkRXY3plNE16ZHVMZEhGNWtwQ25Nd2lQRndnM1lPTnJOSkx2ODNjeUloUGhaemlLMTR5NGY4ZmZnWnBpVG45RGwzcGVjcTU4SjNaRjdVd0ZSdlI?oc=5",
-  "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds - Reuters",
-  "tokens": [
-   "attacked",
-   "diplomacy",
-   "faces",
-   "harder",
-   "iran",
-   "long",
-   "odds",
-   "readies",
-   "retaliation",
-   "reuters"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
-  "title": "Fed seen skipping October rate hike as job market cools - Reuters",
-  "tokens": [
-   "cools",
-   "fed",
-   "hike",
-   "job",
-   "market",
-   "october",
-   "rate",
-   "reuters",
-   "seen",
-   "skipping"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZE83bzNwWEpKSHFON2U3NTdNNzNCSTRpV3lSR1VvU2Q4c0owSmgxclF2X2U1M1ZtbVpDRTRYX1dHNkg2cm9JZWtxc3puRllFSVRLSWNYQ3NGMjdJTkRMSnJiaTgxWl82LUhiR2dhUkUyczcxNUs3cGFLSU5FTFlsUWlJNVZHWU9uRW5KU2VnQUFib2ZtQ1l0ZVpSTWEwVUE1XzhDbTNn?oc=5",
-  "title": "Europe agrees to release stocked diesel oil, Trump says - Reuters",
-  "tokens": [
-   "agrees",
-   "diesel",
-   "europe",
-   "oil",
-   "release",
-   "reuters",
-   "stocked",
-   "trump"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWNULWI2SUVDbFZySUtlTkh0QUJMV09UbXN4REJTdUhnWlNVUVBlTGNhUmxvQS1WQlRtRk9yWDV3TDlVOXNPeGpjTlJjcEJPdDlmMzNfY21pU0doZlBEaFFmNk5WUURwOXVCMVZ1eDdZanRzZ1Ezc1Q3bENHa2FSZEVDdnBYY0tkOFdjMXR1S3A4QlI5Y2dLOEEtZXJaU0JJMDg1ajFyV1N6WDViWFVROGhkMG1GNDV4bEVwc0dHaXdJZy0wNkRudHZR?oc=5",
-  "title": "Dutch royal house was 'wholeheartedly' involved in colonial exploitation, study shows - Reuters",
-  "tokens": [
-   "'wholeheartedly'",
-   "colonial",
-   "dutch",
-   "exploitation",
-   "house",
-   "involved",
-   "reuters",
-   "royal",
-   "shows",
-   "study"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/politics/lng-expansion-chinese-steel-9.7366745?cmp=rss",
-  "title": "LNG Canada to use Chinese steel on $33-billion expansion project in Kitimat, B.C.",
-  "tokens": [
-   "billion",
-   "canada",
-   "chinese",
-   "expansion",
-   "kitimat",
-   "lng",
-   "project",
-   "steel",
-   "use"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/world/flydubai-pilot-interview-hospital-9.7366522?cmp=rss",
-  "title": "'I was fighting for my life': Indian pilot hailed as hero recalls FlyDubai cockpit attack",
-  "tokens": [
-   "attack",
-   "cockpit",
-   "fighting",
-   "flydubai",
-   "hailed",
-   "hero",
-   "indian",
-   "life'",
-   "pilot",
-   "recalls"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss",
-  "title": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
-  "tokens": [
-   "100",
-   "agree",
-   "barrels",
-   "crunch",
-   "diesel",
-   "energy",
-   "including",
-   "million",
-   "nations",
-   "oil",
-   "release"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theguardian.com/us-news/2026/oct/02/new-york-cornell-alleged-gang-rape-kathy-hochul",
-  "title": "Woman in alleged Cornell gang-rape case was \u2018failed\u2019 by system, New York governor says",
-  "tokens": [
-   "alleged",
-   "case",
-   "cornell",
-   "failed",
-   "gang",
-   "governor",
-   "rape",
-   "system",
-   "woman",
-   "york"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-  "title": "Aviation security back in spotlight after nightmare on flydubai flight to Israel",
-  "tokens": [
-   "aviation",
-   "back",
-   "flight",
-   "flydubai",
-   "israel",
-   "nightmare",
-   "security",
-   "spotlight"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
-  "title": "India\u2019s Cockroach movement launches new protests over changes to voter roll",
-  "tokens": [
-   "changes",
-   "cockroach",
-   "india",
-   "launches",
-   "movement",
-   "protests",
-   "roll",
-   "voter"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-  "title": "OpenAI fires workers for 'mishandling sensitive information'",
-  "tokens": [
-   "'mishandling",
-   "fires",
-   "information'",
-   "openai",
-   "sensitive",
-   "workers"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-  "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-  "tokens": [
-   "000",
-   "2026",
-   "disrupt",
-   "exhibit",
-   "hours",
-   "last",
-   "leaders",
-   "reach",
-   "tech",
-   "techcrunch"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-  "title": "Less than 24 hours to apply\u00a0for a  Side Event at Founder Summit\u00a02026",
-  "tokens": [
-   "2026",
-   "apply",
-   "event",
-   "founder",
-   "hours",
-   "less",
-   "side",
-   "summit"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5",
-  "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows - Reuters",
-  "tokens": [
-   "anthropic",
-   "attitudes",
-   "customer",
-   "exclusive",
-   "government",
-   "hurt",
-   "ipo",
-   "prospectus",
-   "reuters",
-   "shows",
-   "ties",
-   "warns"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers",
-  "title": "OpenAI\u2019s Medicare attack has exposed Australia\u2019s \u2018tech debt\u2019. Fixing it could bring a big bill for taxpayers",
-  "tokens": [
-   "attack",
-   "australia",
-   "big",
-   "bill",
-   "bring",
-   "debt",
-   "exposed",
-   "fixing",
-   "medicare",
-   "openai",
-   "taxpayers",
-   "tech"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://globalnews.ca/news/12085258/construction-of-bell-canadas-ai-data-centre-in-saskatchewan-scaling-up/",
-  "title": "Construction of Bell Canada\u2019s AI data centre in Saskatchewan scaling up",
-  "tokens": [
-   "bell",
-   "canada",
-   "centre",
-   "construction",
-   "data",
-   "saskatchewan",
-   "scaling"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-  "title": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-  "tokens": [
-   "big",
-   "completes",
-   "contract",
-   "header",
-   "lab",
-   "launch",
-   "nets",
-   "rocket",
-   "spacex",
-   "triple"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-  "title": "Amazon writes scary blog warning communities not to block data centers",
-  "tokens": [
-   "amazon",
-   "block",
-   "blog",
-   "centers",
-   "communities",
-   "data",
-   "scary",
-   "warning",
-   "writes"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5",
-  "title": "Taiwan's first new F-16V fighter jets arrive to bolster defences against China - Reuters",
-  "tokens": [
-   "16v",
-   "against",
-   "arrive",
-   "bolster",
-   "china",
-   "defences",
-   "fighter",
-   "first",
-   "jets",
-   "reuters",
-   "taiwan's"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-  "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-  "tokens": [
-   "defense",
-   "downgrade",
-   "fatigue",
-   "fuels",
-   "italy",
-   "plan",
-   "spending",
-   "ukraine",
-   "war"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/the-nih-pentagon-deal-isnt-a-cash-grab-its-a-rescue/",
-  "title": "The NIH-Pentagon deal isn\u2019t a cash grab. It\u2019s a rescue.",
-  "tokens": [
-   "cash",
-   "deal",
-   "grab",
-   "isn",
-   "nih",
-   "pentagon",
-   "rescue"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
-  "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
-  "tokens": [
-   "2028",
-   "air",
-   "flight",
-   "force",
-   "french",
-   "loyal",
-   "plans",
-   "push",
-   "sovereign",
-   "wingman"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1YSlo5dUJYU0ExbVRnbnR6U0JJaHc5MXdacGFBTUtSVFZUMFFrLWZYNmc3SENiYmdKY0I1bEM1azNwUWJ0RDY2YVUyNzF4a0ZFNENEMF9yaXFLTHVxeUxOMWVyTE1ubWFVTVFEYUZic3NvVkVEa3JjS3llaHpxNHoxMmZiNXZfX192cUhlM2hoYUxiTy1MTFRiMGJSRkt4SlhxZy1UYXpwLXYtdEh0N1c5UXBfMC1j?oc=5",
-  "title": "OpenAI alerts more than 100 groups about rogue AI agent activity - Reuters",
-  "tokens": [
-   "100",
-   "activity",
-   "agent",
-   "alerts",
-   "groups",
-   "openai",
-   "reuters",
-   "rogue"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGUxLThyRlZjaWJVNzkwX2c2RHhERDdQR29jVFo4RVNFVEs1QUcxTXRsZVhrUEk4NnltWGVIbC1ENDh5ODRybGNaXzFVdEQtS1kxakFqNEYxbnFIakU3dm1hbHdpUlNZSUl5dlZqOXplTk9xdHdWTF91Ni1WQWF5SGFoVUwwb01kbnVjMFdUZC1uc2t6UXp1TUpOem5odE81YWFEalVDejNZeDZUNXc?oc=5",
-  "title": "Nuclear technology group Steady Energy falls in market debut - Reuters",
-  "tokens": [
-   "debut",
-   "energy",
-   "falls",
-   "group",
-   "market",
-   "nuclear",
-   "reuters",
-   "steady",
-   "technology"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHpSdDRDc2MzeVQ0R28ycC03cXdDVTBvUGN0WTh3eGJSQ0I4UEN1Sk1PSzQ4NjF2QjVRTVhXbnMtN2JFSWxrUGtlTDhoNTRMVUZpTS1KT2xVcGh3czdZN0loQnNDb1d4UXVJMllkTk00cXhrUHNRbHpnakhJSGJ3OVRCRjA2QloydDZILUQyTl9UaFc5aHlmVjVYZWRBbUE4dXp4Q0ZfWEdGdEp1cTRLeXkxNVdvNFBObDVWd3hmWUtfZw?oc=5",
-  "title": "Trump says US deal with South Korea includes $8.4 billion for oil recovery - Reuters",
-  "tokens": [
-   "billion",
-   "deal",
-   "includes",
-   "korea",
-   "oil",
-   "recovery",
-   "reuters",
-   "south",
-   "trump"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2J4Zm9OdTE5aTNUN1dqemFJaWxyamJKSXQ2WGpLeWhLMkgxbkVPU01vS2hVbXd5WEFhMDh5a21lcVNacXUyV0M5cEljbkJfRUdkcHJ0YTNBQVpHRENNRVVfZzQ3S3lwT3F0eUJNUmF5OGpXN1BKbG9Jc28tRGdZM0xVZFhMcFhTTktYbnVWQThvSXRjZ250enQ0Y1N2RHBSTTFZRkY5U2RJQ3Q0Zmk1X19yRDlrQ0phaUlkSDg2V3dTSXg2VzBqc2tacw?oc=5",
-  "title": "EXCLUSIVE: OPEC+ delays oil capacity review after Iran war disrupts expansion plans, sources say - Reuters",
-  "tokens": [
-   "capacity",
-   "delays",
-   "disrupts",
-   "exclusive",
-   "expansion",
-   "iran",
-   "oil",
-   "opec",
-   "plans",
-   "reuters",
-   "review",
-   "sources",
-   "war"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3BFcWo2X0s4ZHBLdV9wcGNPM2VwM0xjdlJERmhCdHQ0MWFIMjg2UWNSUngyTm1oOFVsTWlXWDhpRWd5aGNuSTJ1RkhQSjVMbmUwdjFpNlFsUEo2UGlkeEN6QW1nVVR5STd1U3JtRHJESWIwSEtoQW1jV2JEelNkaHRWVWxpblI5amlFeWs0cjgyYVVUQWhvWmVIOHhCYmRIMzBZTVhCMA?oc=5",
-  "title": "US looks to expand use of canoe-sized drones to deter migrant crossings - Reuters",
-  "tokens": [
-   "canoe",
-   "crossings",
-   "deter",
-   "drones",
-   "expand",
-   "looks",
-   "migrant",
-   "reuters",
-   "sized",
-   "use"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjRIMU5PMXJxMGJsd1dZbHgtWUYxQWtGS0h2ZHBteW1wOTNoVWZoUDlEOURpQmIwTUh1TEZsMi0tM1V1OGxUQXN3RmpIN1pqYUJnNnNlT3paU0J4MlBkcUdNRkR0Q1lhWFVUcUFJSFZSR2F6bmJIaWdJYjkwQ05ZdHhR?oc=5",
-  "title": "Global equity funds draw inflows for second week as AI optimism holds - Reuters",
-  "tokens": [
-   "draw",
-   "equity",
-   "funds",
-   "global",
-   "holds",
-   "inflows",
-   "optimism",
-   "reuters",
-   "second",
-   "week"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-  "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-  "tokens": [
-   "attack",
-   "cockpit",
-   "describes",
-   "die'",
-   "flight",
-   "flydubai",
-   "going",
-   "let",
-   "others",
-   "pilot"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-  "title": "Cornell students gather to voice anger over alleged gang rape",
-  "tokens": [
-   "alleged",
-   "anger",
-   "cornell",
-   "gang",
-   "gather",
-   "rape",
-   "students",
-   "voice"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-  "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-  "tokens": [
-   "apart",
-   "intensified",
-   "kyiv",
-   "mayor",
-   "russian",
-   "strikes",
-   "tearing",
-   "warns"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-  "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-  "tokens": [
-   "500",
-   "christa",
-   "executions",
-   "i've",
-   "like",
-   "nearly",
-   "never",
-   "one",
-   "pike's",
-   "seen"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-  "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-  "tokens": [
-   "'further",
-   "action'",
-   "apologise",
-   "prisoner",
-   "row",
-   "seoul",
-   "ukraine",
-   "war",
-   "warns"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
-  "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
-  "tokens": [
-   "first",
-   "japan's",
-   "lands",
-   "leave",
-   "list",
-   "maternity",
-   "mayor",
-   "next",
-   "take",
-   "time100"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/calgary/rise-of-alberta-separatism-anonymous-social-media-keith-wilson-9.7340578?cmp=rss",
-  "title": "It's the biggest Alberta separatist account on the internet. It has links to a movement leader",
-  "tokens": [
-   "account",
-   "alberta",
-   "biggest",
-   "internet",
-   "it's",
-   "leader",
-   "links",
-   "movement",
-   "separatist"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/world/cornell-investigation-special-prosecutor-9.7366592?cmp=rss",
-  "title": "Cornell probe: Governor vows to change N.Y. rape law that makes reporting hard when intoxication present",
-  "tokens": [
-   "change",
-   "cornell",
-   "governor",
-   "hard",
-   "intoxication",
-   "law",
-   "makes",
-   "present",
-   "probe",
-   "rape",
-   "reporting",
-   "vows"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/world/trump-trade-rep-pessimistic-about-canada-deal-9.7366028?cmp=rss",
-  "title": "Trump's trade rep sounds pessimistic about deal with Canada, saying issues are 'quite difficult to resolve'",
-  "tokens": [
-   "'quite",
-   "canada",
-   "deal",
-   "difficult",
-   "issues",
-   "pessimistic",
-   "rep",
-   "resolve'",
-   "saying",
-   "sounds",
-   "trade",
-   "trump's"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/marketplace/e-bikes-e-scooters-9.7363992?cmp=rss",
-  "title": "Hidden cameras show some stores unlocking speed limits on e-bikes, selling e-scooters that go up to 120 km/h",
-  "tokens": [
-   "120",
-   "bikes",
-   "cameras",
-   "hidden",
-   "limits",
-   "scooters",
-   "selling",
-   "show",
-   "speed",
-   "stores",
-   "unlocking"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/north/black-vulture-mayo-yukon-9.7365869?cmp=rss",
-  "title": "Black vulture, rarely seen in Canada, 'all the buzz' in Mayo, Yukon",
-  "tokens": [
-   "'all",
-   "black",
-   "buzz'",
-   "canada",
-   "mayo",
-   "rarely",
-   "seen",
-   "vulture",
-   "yukon"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.cbc.ca/news/entertainment/gypsy-rose-blanchard-ken-urker-death-9.7366816?cmp=rss",
-  "title": "Gypsy Rose Blanchard speaks out about death of her ex-fianc\u00e9, Ken Urker",
-  "tokens": [
-   "blanchard",
-   "death",
-   "fianc",
-   "gypsy",
-   "ken",
-   "rose",
-   "speaks",
-   "urker"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-  "title": "Paramount and Warner Bros Discovery to become Skydance",
-  "tokens": [
-   "become",
-   "bros",
-   "discovery",
-   "paramount",
-   "skydance",
-   "warner"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-  "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-  "tokens": [
-   "100",
-   "expensive",
-   "nvidia",
-   "old",
-   "shield",
-   "thanks",
-   "year"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-  "title": "Tesla will now let you drive off mid-charge if there\u2019s an emergency",
-  "tokens": [
-   "charge",
-   "drive",
-   "emergency",
-   "let",
-   "mid",
-   "off",
-   "tesla",
-   "you"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-  "title": "Pope Leo XIV is not a fan of AI-generated art",
-  "tokens": [
-   "art",
-   "fan",
-   "generated",
-   "leo",
-   "pope",
-   "xiv"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-  "title": "Keurig\u2019s new machine uses plastic-free compressed coffee pucks",
-  "tokens": [
-   "coffee",
-   "compressed",
-   "free",
-   "keurig",
-   "machine",
-   "plastic",
-   "pucks",
-   "uses"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-  "title": "Laytr\u2019s new app lets you save anything you find online, not just articles to read",
-  "tokens": [
-   "anything",
-   "app",
-   "articles",
-   "find",
-   "laytr",
-   "lets",
-   "online",
-   "read",
-   "save",
-   "you"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://sifted.eu/articles/sifted-250-2026-podcast/",
-  "title": "Who are Europe\u2019s fastest-growing companies?",
-  "tokens": [
-   "companies",
-   "europe",
-   "fastest",
-   "growing"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.crunchbase.com/venture/startups-choosing-right-investors-dean-black-operator/",
-  "title": "Your Investors Can Make Or Break Your Startup. Here\u2019s Who Founders Actually Need On Their Cap Table",
-  "tokens": [
-   "actually",
-   "break",
-   "cap",
-   "founders",
-   "investors",
-   "make",
-   "need",
-   "startup",
-   "table"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://betakit.com/alberta-municipalities-juggle-data-centre-development-gold-rush-with-public-pushback/",
-  "title": "Alberta municipalities juggle data centre development gold rush with public pushback",
-  "tokens": [
-   "alberta",
-   "centre",
-   "data",
-   "development",
-   "gold",
-   "juggle",
-   "municipalities",
-   "public",
-   "pushback",
-   "rush"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://sifted.eu/articles/age-of-scaleup-funds-europe-uk-eqt/",
-  "title": "The age of the scaleup fund",
-  "tokens": [
-   "age",
-   "fund",
-   "scaleup"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://news.crunchbase.com/venture/nautical-marine-startups-funding-grows-defense-robots-clean-energy-saronic/",
-  "title": "Nautical And Marine Startups See Stepped-Up Funding",
-  "tokens": [
-   "funding",
-   "marine",
-   "nautical",
-   "see",
-   "startups",
-   "stepped"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://betakit.com/h2-analytics-secures-800000-in-feddev-funding-to-improve-defence-training-platform/",
-  "title": "H2 Analytics secures $800,000 in FedDev funding to improve defence training platform",
-  "tokens": [
-   "000",
-   "800",
-   "analytics",
-   "defence",
-   "feddev",
-   "funding",
-   "improve",
-   "platform",
-   "secures",
-   "training"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/berkowitz-out-at-dod-space-policy-office/",
-  "title": "Berkowitz out at DoD Space Policy office",
-  "tokens": [
-   "berkowitz",
-   "dod",
-   "office",
-   "policy",
-   "space"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration/",
-  "title": "Navy, Raytheon ink $24.4B deal for SM-6 \u2018acceleration\u2019",
-  "tokens": [
-   "acceleration",
-   "deal",
-   "ink",
-   "navy",
-   "raytheon"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations/",
-  "title": "US leaders send mixed messages to Indo-Pacific nations",
-  "tokens": [
-   "indo",
-   "leaders",
-   "messages",
-   "mixed",
-   "nations",
-   "pacific",
-   "send"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/in-ukraine-data-centers-facing-increased-attacks-in-recent-weeks-ex-official/",
-  "title": "In Ukraine, data centers \u2018facing increased attacks\u2019 in recent weeks: Ex-official",
-  "tokens": [
-   "attacks",
-   "centers",
-   "data",
-   "facing",
-   "increased",
-   "official",
-   "recent",
-   "ukraine",
-   "weeks"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
-  "title": "US Navy awards RTX\u2019s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
-  "tokens": [
-   "awards",
-   "concerns",
-   "missiles",
-   "navy",
-   "raytheon",
-   "rtx",
-   "stockpile"
-  ],
-  "date": "2026-10-02"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts/",
-  "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
-  "tokens": [
-   "142b",
-   "bill",
-   "billions",
-   "cuts",
-   "deadline",
-   "dod",
-   "leaving",
-   "obligates",
-   "reconciliation",
-   "subject"
-  ],
-  "date": "2026-10-02"
- },
- {
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeThwY0hWTUxnSXhjMF9ycHZFLVJ2aXlJRWNFODdMRzMxUkxqVmxFRm5sWVFYeU9UbVdHbWg5VnZfSjJTS1FpUHRmanZ6Q2JrNFFWV2FmU0VUYXVMWjEyVG85M2lKVktjbFhETW1HUkN1SEZCZW9VbGZuLUFMXzBhMDZZcUM0SkU2ZnN3cnIwaU15UFlHdzJDSjdtY1JfWmNjVjBJZ0JzSzk4NnNlSElsOTNB?oc=5",
   "title": "South Korean golfer Kim wins Asian Games gold and military exemption - Reuters",
   "tokens": [
@@ -27660,5 +26711,929 @@
    "zelda"
   ],
   "date": "2026-11-01"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+  "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+  "tokens": [
+   "asks",
+   "ballots",
+   "block",
+   "california",
+   "counting",
+   "court",
+   "disputed",
+   "doj",
+   "mail",
+   "supreme"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnVVTkNTbVVjOUJBUVFXWU5CeUM5SnRxNWgwVkptbkJZUE4wMWh2UUo2WXVkaE5odEJ0emFqYndOVHhlZXdaVUxsZnhHbVdOOVAyS2FhNC12ZnlldHpIMlM2MDhzSWdxWTlDRDFtS3F4aDMxcUx1ejE5TURQRG5CeVhSMkhNWUp5Y3h6Q3gzS3M5eTd4Vk9janVYaDZLZ3kwMlJlNnc3YTVjQQ?oc=5",
+  "title": "UK adventurer returns home after 28-year trek around the world - Reuters",
+  "tokens": [
+   "adventurer",
+   "around",
+   "home",
+   "returns",
+   "reuters",
+   "trek",
+   "world",
+   "year"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbk5BRlc4Ri0xSmdFRDdIQ1U2cHRJMUQ5cmQwUUQyelFOZDFHWFJzQURZVFZrb1ZZeXZhVElWMUJEQUxvUHlPLVk0OWFEemNyTWpVNHAxZVhNREJBOWhFUzQ5Wjd3aFpvenFGM016QkZQRHl2a1U2TFk0NFZkYlFjZEZIcXBRLUlvWmI1XzY5NFFPcEM0OTdBU3MwbGlrejR1UGd1MHdscW8zNldickJRS1hhcGdQSlE2MnZF?oc=5",
+  "title": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait - Reuters",
+  "tokens": [
+   "century",
+   "end",
+   "half",
+   "leave",
+   "peacekeepers",
+   "refugees",
+   "reuters",
+   "sahara",
+   "wait",
+   "western",
+   "yearn"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzh0QS1oNUVFdXRfYlhlazdaNl9JTzFxOHN3Q1hmSHh3WWZjSUxZdGQyMnFyN0U3dzhENEJEVEx2bEdhb2ZUVW43Z1pwYlRpWk0zX2FpTndwSUpzTXlvWHFORThSalFsY0xIbTR4YXg1T2RTb01rUEVJZGFBYUF5Z2pGVkl5bGRsU0tWMzZsV2h2TEd4czdhTFE5QjdhdERYN3RNa0swR01EUQ?oc=5",
+  "title": "Trump administration takes California ballot fight to Supreme Court - Reuters",
+  "tokens": [
+   "administration",
+   "ballot",
+   "california",
+   "court",
+   "fight",
+   "reuters",
+   "supreme",
+   "takes",
+   "trump"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTlN0OWhaY1IxaFFhRG03RnAtQ1V1dm5GTWZERTlySFRnTEVhdlYwOVcyc1dwcEVSTUpyTUF5aWJiV1FsdzhGNmo3ajE0ckY3X2xaUXF0VERFNW1TTUdHZGpHWWZXREQzYk94S1VzcG9QWGxnZXRxc3pNRng5NU85ajg5NFNHb2V4Tk9tazlvRDdVS20xLTJ6X2l0MGZnd3hkd1JsOVRUck9jU1RFNTdIT3NMWjRnTW5UMUM0Sg?oc=5",
+  "title": "Judge dismisses case against ex-FBI officials, says DOJ rushed charges before midterms - Reuters",
+  "tokens": [
+   "against",
+   "case",
+   "charges",
+   "dismisses",
+   "doj",
+   "fbi",
+   "judge",
+   "midterms",
+   "officials",
+   "reuters",
+   "rushed"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5",
+  "title": "Marvell doubles down on AI boom with costly $115 billion Lumentum deal - Reuters",
+  "tokens": [
+   "115",
+   "billion",
+   "boom",
+   "costly",
+   "deal",
+   "doubles",
+   "lumentum",
+   "marvell",
+   "reuters"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/europe-fridge-cyber-incident-9.7405834?cmp=rss",
+  "title": "Another cyberattack on supermarket fridges sweeps Europe, leaving food spoiled",
+  "tokens": [
+   "another",
+   "cyberattack",
+   "europe",
+   "food",
+   "fridges",
+   "leaving",
+   "spoiled",
+   "supermarket",
+   "sweeps"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/south-florida-jet-crash-9.7405773?cmp=rss",
+  "title": "20-year-old co-pilot among 9 victims in Florida plane crash, mother says",
+  "tokens": [
+   "among",
+   "crash",
+   "florida",
+   "mother",
+   "old",
+   "pilot",
+   "plane",
+   "victims",
+   "year"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/midterm-trump-tariffs-9.7403268?cmp=rss",
+  "title": "Economic frustration set to boil over in midterm elections",
+  "tokens": [
+   "boil",
+   "economic",
+   "elections",
+   "frustration",
+   "midterm",
+   "set"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/budget-carney-affordability-investments-9.7404193?cmp=rss",
+  "title": "Canada's next budget to be unveiled this week amid U.S. trade war, economic uncertainty",
+  "tokens": [
+   "budget",
+   "canada's",
+   "economic",
+   "next",
+   "trade",
+   "uncertainty",
+   "unveiled",
+   "war",
+   "week"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+  "title": "Abdul El-Sayed\u2019s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent \u2013 live",
+  "tokens": [
+   "abdul",
+   "backlash",
+   "campaign",
+   "day",
+   "endorsing",
+   "faces",
+   "fundraising",
+   "haley",
+   "live",
+   "opponent",
+   "record",
+   "sayed",
+   "stevens"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDTnVFWHFJZ3lVMFZvRGt2cU9wLWNMc1g3RHl4VnQ4TV9VV2ppQXVZY0ltRnUybFc4MEREbmRGTEIwbU8yMWRnVS1WaVNJOF9wSVhGaGdiN1pOanJLTzU2VTNLNGxzbGs?oc=5",
+  "title": "Inside the robot startup training AI 'brains' - Reuters",
+  "tokens": [
+   "'brains'",
+   "inside",
+   "reuters",
+   "robot",
+   "startup",
+   "training"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+  "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+  "tokens": [
+   "42ai",
+   "behavior",
+   "comes",
+   "human",
+   "model",
+   "predict",
+   "stealth",
+   "world"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+  "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+  "tokens": [
+   "acquisition",
+   "adds",
+   "aquatic",
+   "know",
+   "labs",
+   "liquid",
+   "million",
+   "omen"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.defensenews.com/video/2026/11/02/high-energy-lasers-drones-and-power-innovations-in-defense-tech-business-of-defense-part-1/",
+  "title": "High-energy lasers, drones and power: Innovations in defense tech | Business of Defense \u2013 Part 1",
+  "tokens": [
+   "business",
+   "defense",
+   "drones",
+   "energy",
+   "high",
+   "innovations",
+   "lasers",
+   "part",
+   "power",
+   "tech"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalN1b2NwcllWRkRjRUNmOVBjSDMxWDNzdjZIclhDNTdMMFlaVUx2eWN1U19acllfTk0xX0JIbkJma21jVDFhZUR1czFjbVdLbThjMHVQZ0F4MkFvNmc0cURPN05FMkE3VFNyMTktbmNzWVIxN3c1YVFhSXpBTmZSQk1DZ013aDVRcXE5OEplekFkZWFJbmQxUEhDSVJ3RVVrZWJUd2ZRYWRfWUJhMVMycEZRRk8?oc=5",
+  "title": "Anthropic's loss shrinks, revenue jumps ahead of blockbuster IPO - Reuters",
+  "tokens": [
+   "ahead",
+   "anthropic's",
+   "blockbuster",
+   "ipo",
+   "jumps",
+   "loss",
+   "reuters",
+   "revenue",
+   "shrinks"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+  "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test",
+  "tokens": [
+   "apple",
+   "ceo",
+   "earnings",
+   "faces",
+   "first",
+   "john",
+   "live",
+   "street",
+   "ternus",
+   "test",
+   "updates",
+   "wall"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+  "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+  "tokens": [
+   "115b",
+   "buys",
+   "deals",
+   "history",
+   "largest",
+   "lumentum",
+   "marvell",
+   "one",
+   "tech"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+  "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+  "tokens": [
+   "895",
+   "anthropic",
+   "billion",
+   "commitments",
+   "purchase",
+   "revenue",
+   "revised"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
+  "title": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+  "tokens": [
+   "advice",
+   "ahead",
+   "apple",
+   "cramer's",
+   "crowdstrike",
+   "earnings",
+   "jim",
+   "lands",
+   "upgrade"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnVDQzd0LTF3Vi1BMnJDLWpGaHNIMlJVTDNnVmplMzZnVjRxRTZUUTRsQkVvZ21EN3lXMzA4ZDJnOTQwc01ld2tqT1pGZVN6VmpuVWpzLVVMUU1qcDdnRFdEQUZoM0l6Ym9NYnhfWDctWkZnSC1fLUk0RGxtUmd3WU9zLXdhcTdGTkJvcUxaazZKZEliVjl3bVBfZldDajJMOXZtVkx0NVI4YWlwMkVFbXpMR0ZGQW9wOWxEcTM3QThSdk1fb2c?oc=5",
+  "title": "S&P 500 rises; Apple and Palantir set to report results - Reuters",
+  "tokens": [
+   "500",
+   "apple",
+   "palantir",
+   "results",
+   "reuters",
+   "rises",
+   "set"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
+  "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+  "tokens": [
+   "air",
+   "bomb",
+   "emergency",
+   "flight",
+   "landing",
+   "luton",
+   "threat",
+   "wizz"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+  "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+  "tokens": [
+   "ahead",
+   "anxious",
+   "apple",
+   "earnings",
+   "getting",
+   "options",
+   "palantir",
+   "traders"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.axios.com/2026/11/02/europe-supermarket-fridges-attacks-food",
+  "title": "Europe's fridges are getting hacked. Could America be next?",
+  "tokens": [
+   "america",
+   "europe's",
+   "fridges",
+   "getting",
+   "hacked",
+   "next"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHhsWlZpSkJudmhFd1lEZU1Jdll1Z0VoX2RCYVlLcE10RTlYTkIxRm5PNTJ3YTA1STNja1hQeXIzN3lBb1FuSW9GZE90dnE1N1ptX1VSR01VRkNTUXY5c2JsYTlWNGp2MGJFb0ZqZDZhN1pTcmF3Y0JUV1RBbWhtdm9VV1pUSlRYd2pFazkzbUlTRGdrYUV3Zzg2QU5SQVk1YXFKb3V3MnotaGc1aFNHRGRR?oc=5",
+  "title": "Canadian factory PMI shows sector contracting for first time in 2026 - Reuters",
+  "tokens": [
+   "2026",
+   "canadian",
+   "contracting",
+   "factory",
+   "first",
+   "pmi",
+   "reuters",
+   "sector",
+   "shows",
+   "time"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
+  "title": "China's robot makers have mastered the moves. Now comes the race for brains - Reuters",
+  "tokens": [
+   "brains",
+   "china's",
+   "comes",
+   "makers",
+   "mastered",
+   "moves",
+   "race",
+   "reuters",
+   "robot"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVM3bDhEOHNLQ3VJRDRGcEtyeXBhNUdsblBVUGQ3bDBWLXUxQXZMXzF6SmxxdWczMUpJcFRSR21RU2hRaHFTLUxGQ0xkcmFkWFVoQm1WaVVQeGROMXFCaTJTQ0xCRHhkMU9pc3k1MUVQTkFvMER3SEszZG5kNGswQkdRQVo2Z1ZONGxZb1FSWDNhWmlzTHA2R2VVQVdvNnpHSlE?oc=5",
+  "title": "Sectors bracing for a pivot as US midterm elections loom - Reuters",
+  "tokens": [
+   "bracing",
+   "elections",
+   "loom",
+   "midterm",
+   "pivot",
+   "reuters",
+   "sectors"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+  "title": "What the US midterms could mean for markets, AI and the debt ceiling - Reuters",
+  "tokens": [
+   "ceiling",
+   "debt",
+   "markets",
+   "mean",
+   "midterms",
+   "reuters"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVlEWkkyN3lYZG41WXJvcl9pNWlKYW5VNjdmb1lHYkNGVHpmT1BHLWVDUFQydFNra3JIeVlfVFh5ZzhoTzRfMVdwZ2didmtGZ0hGZDN6ZmtTbUk5b2lIb3JfZ2poRld3R1BCM28zLUlHUnlZcHJQMXp3S01PTGNBSmxRN1pYMThUZXQtbHBHaU5CWnhTMFF6VTFidG05QzdQTnVJYmJiZl9YQTFxX3ZhWExjN0NZOUpTWjFTaUh5WUFSem9MdW1Z?oc=5",
+  "title": "October dive for AI-related shares tests broader US stock market's resilience - Reuters",
+  "tokens": [
+   "broader",
+   "dive",
+   "market's",
+   "october",
+   "related",
+   "resilience",
+   "reuters",
+   "shares",
+   "stock",
+   "tests"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFcxajFVdE1sQTZZS0FEem9WMmU0RU1IWkVhQkJjSHBLOTExX05zTEhYWXphYmlJdWQzOUI1NzdRaHYwMEFLdkZGb3pyZWNsR2ZaYktGSTdUczVGcTVVWHJkbEE2NW9lVGppbVNoeXpDbldURmx4eWpSZzBXaS1saHJCOHY5cDVab1BKVUpSQnU2WkhYeU9zSERXT1lVcERKQVFXQktVSFRfS1k?oc=5",
+  "title": "Charles left without umbrella in rainstorm fit for a king - Reuters",
+  "tokens": [
+   "charles",
+   "fit",
+   "king",
+   "left",
+   "rainstorm",
+   "reuters",
+   "umbrella",
+   "without"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+  "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+  "tokens": [
+   "aid",
+   "bombing",
+   "centre",
+   "kills",
+   "kyiv",
+   "people",
+   "russian",
+   "ukraine"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+  "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+  "tokens": [
+   "app",
+   "fake",
+   "hacked",
+   "nuclear",
+   "panic",
+   "sparks",
+   "ukraine",
+   "unease",
+   "warning"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+  "title": "Shop freezers in seven European countries hit by cyber-attack",
+  "tokens": [
+   "attack",
+   "countries",
+   "cyber",
+   "european",
+   "freezers",
+   "hit",
+   "seven",
+   "shop"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+  "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+  "tokens": [
+   "ceasefire",
+   "fighting",
+   "kherson",
+   "longest",
+   "region",
+   "returns",
+   "ukraine",
+   "war"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+  "title": "Dutch police offer record \u20ac2m reward in hunt for drug lord",
+  "tokens": [
+   "drug",
+   "dutch",
+   "hunt",
+   "lord",
+   "offer",
+   "police",
+   "record",
+   "reward"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
+  "title": "Five arrested after South African farmer shot and tortured",
+  "tokens": [
+   "african",
+   "arrested",
+   "farmer",
+   "five",
+   "shot",
+   "south",
+   "tortured"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-climate-change-budget-analysis-9.7405656?cmp=rss",
+  "title": "Can the Carney government's second budget help put Canada on a path to net zero?",
+  "tokens": [
+   "budget",
+   "canada",
+   "carney",
+   "government's",
+   "help",
+   "net",
+   "path",
+   "put",
+   "second",
+   "zero"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838?cmp=rss",
+  "title": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
+  "tokens": [
+   "administration",
+   "asks",
+   "battles",
+   "california",
+   "case",
+   "court",
+   "intervene",
+   "midterm",
+   "ramps",
+   "supreme",
+   "trump"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-commonwealth-heads-of-government-meeting-antigua-and-barbuda-9.7404765?cmp=rss",
+  "title": "Commonwealth secretary-general pitches group as 'alternative' to U.S. trade",
+  "tokens": [
+   "'alternative'",
+   "commonwealth",
+   "general",
+   "group",
+   "pitches",
+   "secretary",
+   "trade"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/montreal/quebec-man-accused-of-threatening-carney-found-not-criminally-responsible-9.7406039?cmp=rss",
+  "title": "Quebec man accused of threatening PM Mark Carney found not criminally responsible",
+  "tokens": [
+   "accused",
+   "carney",
+   "criminally",
+   "found",
+   "man",
+   "mark",
+   "quebec",
+   "responsible",
+   "threatening"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/british-columbia/kai-pavlovic-homicide-charges-burnaby-bc-9.7405999?cmp=rss",
+  "title": "Charges laid in homicide of missing 11-year-old Burnaby, B.C., boy",
+  "tokens": [
+   "boy",
+   "burnaby",
+   "charges",
+   "homicide",
+   "laid",
+   "missing",
+   "old",
+   "year"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/toronto/osap-ip-address-9.7405730?cmp=rss",
+  "title": "Ministry alleges thousands of OSAP applications came from single IP address",
+  "tokens": [
+   "address",
+   "alleges",
+   "applications",
+   "came",
+   "ministry",
+   "osap",
+   "single",
+   "thousands"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+  "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
+  "tokens": [
+   "2027",
+   "assist",
+   "bmw",
+   "driver",
+   "fsd",
+   "starting",
+   "taking",
+   "tesla",
+   "urban"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+  "title": "Germany says lawmakers\u2019 iPhones may have been hacked with spyware",
+  "tokens": [
+   "germany",
+   "hacked",
+   "iphones",
+   "lawmakers",
+   "spyware"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+  "title": "Coming in 2027: Apple\u2019s $1,000 home robot for FaceTime and switching on lights",
+  "tokens": [
+   "000",
+   "2027",
+   "apple",
+   "coming",
+   "facetime",
+   "home",
+   "lights",
+   "robot",
+   "switching"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+  "title": "Web host Squarespace lays off 19% of its employees",
+  "tokens": [
+   "employees",
+   "host",
+   "lays",
+   "off",
+   "squarespace",
+   "web"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+  "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+  "tokens": [
+   "100",
+   "apple",
+   "best",
+   "date",
+   "matching",
+   "off",
+   "price",
+   "ultra",
+   "watch"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+  "title": "Claude\u2019s new rules against game cloning won\u2019t stop the AI copying boom",
+  "tokens": [
+   "against",
+   "boom",
+   "claude",
+   "cloning",
+   "copying",
+   "game",
+   "rules",
+   "stop",
+   "won"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://betakit.com/how-canada-can-build-tech-careers-worth-staying-for/",
+  "title": "How Canada can build tech careers worth staying for",
+  "tokens": [
+   "build",
+   "canada",
+   "careers",
+   "staying",
+   "tech",
+   "worth"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+  "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+  "tokens": [
+   "750m",
+   "back",
+   "backer",
+   "boom",
+   "creandum",
+   "ever",
+   "fund",
+   "largest",
+   "lovable",
+   "raises"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/q3-2026-charts-funding-amounts-vs-round-counts/",
+  "title": "More Money, Fewer Checks: These 3 Charts Show The Divide Behind VC\u2019s Record Funding Year",
+  "tokens": [
+   "behind",
+   "charts",
+   "checks",
+   "divide",
+   "fewer",
+   "funding",
+   "money",
+   "record",
+   "show",
+   "year"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://betakit.com/bdc-launches-two-entrepreneur-led-ai-programs-to-make-small-businesses-and-itself-more-productive/",
+  "title": "BDC launches two entrepreneur-led AI programs to make small businesses, and itself, more productive",
+  "tokens": [
+   "bdc",
+   "businesses",
+   "entrepreneur",
+   "itself",
+   "launches",
+   "led",
+   "make",
+   "productive",
+   "programs",
+   "small",
+   "two"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://sifted.eu/articles/what-i-told-a-room-full-of-europes-fastest-growing-companies-brnd/",
+  "title": "What I told a room full of Europe's fastest-growing companies",
+  "tokens": [
+   "companies",
+   "europe's",
+   "fastest",
+   "full",
+   "growing",
+   "room",
+   "told"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://betakit.com/albertas-plan-to-scrap-dei-in-hiring-will-cost-innovation/",
+  "title": "Alberta\u2019s plan to scrap DEI in hiring will cost innovation",
+  "tokens": [
+   "alberta",
+   "cost",
+   "dei",
+   "hiring",
+   "innovation",
+   "plan",
+   "scrap"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec/",
+  "title": "Industry needs more consistent demand signal to scale UGV production: Autonomy consortium exec",
+  "tokens": [
+   "autonomy",
+   "consistent",
+   "consortium",
+   "demand",
+   "exec",
+   "industry",
+   "needs",
+   "production",
+   "scale",
+   "signal",
+   "ugv"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
+  "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
+  "tokens": [
+   "antennas",
+   "beat",
+   "bigger",
+   "drones",
+   "giving",
+   "jamming",
+   "russia",
+   "ukrainian"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.defenseone.com/technology/2026/11/pentagons-it-agency-wants-bridge-network-gaps-pacific/416963/",
+  "title": "The Pentagon\u2019s IT agency wants to bridge network gaps in the Pacific",
+  "tokens": [
+   "agency",
+   "bridge",
+   "gaps",
+   "network",
+   "pacific",
+   "pentagon",
+   "wants"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe/",
+  "title": "The fiscal risks of bringing US troops out of Europe",
+  "tokens": [
+   "bringing",
+   "europe",
+   "fiscal",
+   "risks",
+   "troops"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
+  "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+  "tokens": [
+   "approves",
+   "billion",
+   "missile",
+   "patriot",
+   "sale",
+   "ukraine"
+  ],
+  "date": "2026-11-02"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/11/saab-unveils-new-speed-assault-boat-for-swedish-navy/",
+  "title": "Saab unveils new speed assault boat for Swedish Navy",
+  "tokens": [
+   "assault",
+   "boat",
+   "navy",
+   "saab",
+   "speed",
+   "swedish",
+   "unveils"
+  ],
+  "date": "2026-11-02"
  }
 ]
