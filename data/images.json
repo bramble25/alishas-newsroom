@@ -15,10 +15,6 @@
   "seen": "2026-09-23",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg"
  },
- "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
-  "seen": "2026-09-09",
-  "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-jesus2-1-1152x648.jpg"
- },
  "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
   "seen": "2026-09-15",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg"
@@ -127,6 +123,10 @@
   "seen": "2026-11-06",
   "src": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/02/7698031-scaled-e1707759155579-1024x577.jpg"
  },
+ "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/": {
+  "seen": "2026-11-09",
+  "src": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261022_DVIDS_f35_formation_7525323-e1792701184823-1024x577.jpg"
+ },
  "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/": {
   "seen": "2026-11-05",
   "src": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/19691231-SAS-Navy-League-2026-DSC04174-e1776794076958-1024x576.jpg"
@@ -149,10 +149,6 @@
  },
  "https://financialpost.com/globe-newswire/bc-parks-foundation-launches-first-ever-lottery-with-beautiful-bc-adventures-for-you-to-win": {
   "seen": "2026-09-14",
-  "src": "https://secure.gravatar.com/avatar/dacbb4d6d68d06d07a0d4253aaa78393?s=96&d=mm&r=g"
- },
- "https://financialpost.com/globe-newswire/big-ideas-start-here-nfte-launches-2026-2027-world-series-of-innovation-for-young-changemakers-ages-5-24": {
-  "seen": "2026-09-09",
   "src": "https://secure.gravatar.com/avatar/dacbb4d6d68d06d07a0d4253aaa78393?s=96&d=mm&r=g"
  },
  "https://financialpost.com/globe-newswire/calgary-innovation-week-is-back-monday-november-2-to-thursday-november-5": {
@@ -303,14 +299,6 @@
   "seen": "2026-09-22",
   "src": "https://mms.businesswire.com/media/20260922157099/en/2903997/5/voxela.jpg"
  },
- "https://globalnews.ca/news/12052322/costco-canada-chicken-product-recall/": {
-  "seen": "2026-09-09",
-  "src": "https://globalnews.ca/wp-content/uploads/2026/09/costco-chicken-recall-september.jpg?quality=65&strip=all"
- },
- "https://globalnews.ca/news/12052326/oil-prices-iran-middle-east-war/": {
-  "seen": "2026-09-09",
-  "src": "https://globalnews.ca/wp-content/uploads/2026/09/oil-saudi-arabia.jpg-e1788959141933.jpg?quality=65&strip=all"
- },
  "https://globalnews.ca/news/12056852/carney-burnham-first-meeting/": {
   "seen": "2026-09-13",
   "src": "https://globalnews.ca/wp-content/uploads/2026/09/c7d72213d532e1d1188b6e54a5e0705c7ff0d532dd4567a43d282143bec86f91_b3a1ef.jpg?quality=65&strip=all"
@@ -418,6 +406,10 @@
  "https://globalnews.ca/news/12141506/cousins-scores-late-to-lift-senators-past-mammoth/": {
   "seen": "2026-11-08",
   "src": "https://globalnews.ca/wp-content/uploads/2026/11/c34676990687caf3a0c8795b9f5352f4e997ebb4ba82164843f37155933d8ce9.jpg?quality=65&strip=all"
+ },
+ "https://globalnews.ca/news/12143270/pete-hegseth-impeachment-articles-republican-thomas-massie/": {
+  "seen": "2026-11-09",
+  "src": "https://globalnews.ca/wp-content/uploads/2026/11/0245913630afaabe6ae0874edc4290ea67a428cc17810dbc7a86cd951463f369_3e6b45.jpg?quality=65&strip=all"
  },
  "https://nationalpost.com/entertainment/movies-brad-pitt": {
   "seen": "2026-09-25",
@@ -565,6 +557,11 @@
  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFFhcl9qcUZ1SGk4eFlwa0ZMZ1ZsbC1scnpKT0hVMDdZOWpsX0JudFE0REhVUU4ySGhBZ0VaSWxMOXA0N2lyN0FYVmJFMjBfMks4OERreGNOYWtzZnNCemx6blNJcmhRNEF0aFdmWHVSTDQ4NE1YNTN1ZTJKdlVGWld4b20xTzczWDRyZW1DMGhIcEs0NHE5clRNOEtMcXJCSDNRMDhLYnMxd2JfYWJ6amxldE9IUDF4Zl9rZjY5eHhiNklGZ3IxS1I2ZmlCZnYzNVVnMjdR?oc=5": {
   "seen": "2026-10-21",
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlhDYjQwdWxuamRZVTJZbVpvcUVjTzlmRXpMRkRxelg0ZExGOFpicTJua0ltLUh4VXM4OXhCb1AzMVZtYXZRUnRCbTdaWTFPXzRVMkFrZXNnTy10azhZMTBoQ2FJTVNhUTdHWnpyWHpVdWJQNlg5a0VObTNvTFJyQzFJYklPMU52a2dEVGpORV9iMFJ3RXNGbDJSSlFnV20yVnhUZ1QwcHoyWmljbjJxQjkzMWJyMWVYbkRaTC1lQUVWUUFfQnpjQWhLVmh5clpvcEZUcExB?oc=5": {
@@ -815,11 +812,6 @@
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGthQXk1OHFPRzlYcjNKVnk4R1pDQXIyTExXMk02TUU3Qy1WbkFxTFhjRXc2MlpmM0s0bDdwQ1Y5V0JDWHpCdGpfRGxzWFlrU3F0d3FBSjY0X25udzkwVkxBamdoS2xLUE0wWHdVTy1RY0N6dnRmd0dnMnJtU2FQNGpaazRqSU1zcWhPV201ajliQmJPcmZ3ZWZUaXNEWTVx?oc=5": {
   "seen": "2026-10-11",
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5": {
-  "seen": "2026-09-09",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Qualcomm_Headquarters_La_Jolla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnZGZEV2WklwWFV4b0FvOTI4eFpxVFgxMTNvNDUxSVh3ZVBRalVuWjJaS1JRaUpwTXp0em0yUVAxQjZqQ1dUYlo1MGNEaFlzNUxhOUgxWF9CY3dUem1ILUdqd0FxQzNGNW9CT19qc3hueWlrNlJHQm9vYzJfV2UwWkFsRWpYbzI4THFPSVVCczVVeUpDTzJKVWJaeU45OHZw?oc=5": {
@@ -1152,11 +1144,6 @@
   "src": null,
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0VkUnd5VzlEZVhBUy1ja1Q0dFZ6RE0yZHp2dGdobTZHajY0ZTZ6MXdkVWtKV2hYal9nY2dRRUlxU0RlZmxyQ3dmMXpKMFVVNlh2Q25LRVp3LXZHWmtrbzZGM3djQlVtVWdQb0U5RFNTOVA2U1BUMlFWcDZqblV2MGZLdEZPQllselJKcm44eld0STZhTDdsd2R1RG1HT1RrNm53VTZXNXVWWDla?oc=5": {
-  "seen": "2026-09-09",
-  "src": null,
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEYwN214QVdKVU9iMHZiY2YxWTBnSndMc0tycE5xSDItUXJJQ0Nja01Ld2trdjdtaldWVXh5QnhKT3JjWkdzNDNIRWN1a0hHZ2h3SUdjNDVGRXlkc243dE5vRUo0QTBmRzZtUG9Hc2Nnc2NFaW5RalJEbjRPaE1MMTQtRHVXVVNmWUJYZTYzX0ZIdkJTSGJEQms4NWc5YWlNQVZjYmhfVlVCeHQ2?oc=5": {
   "seen": "2026-10-17",
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_north_and_south_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -1180,6 +1167,11 @@
  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWDBEcXY1UUtrRGxIaE9neHYxeDlTWDNYaVlWdlp2UUhxSGtUV2RVZlR4Q25UUTlDTTR0QXlLYlVNZ1lMNEJfQkVmZnVtcFNaVW5mZE42d21uV1BZZzRESkxvVkxoM19FNkhoVThRWXYtUGR1eGZ6VmYtUHNrTWs5eXZfV1kxZ3ZnSHR2UWtmQWd5YVltQlNseWs0RGhXeVItVGVwQXNKbXpZVG9G?oc=5": {
   "seen": "2026-10-04",
   "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/London_Revolut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wall_Street_%2855314253740%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE03WWgtcW00SlpMdnI5VEg4OHRTRVYxdHQ2YU9EN2dKR0VGLXIzZi1ZcFIyblJGSzdUaG81V0dlTlcwOTN4MDhzTE1Dd1Z0QnVDTDNsdWhaNER2VnpMUF82RXRBSFRYeGN0UjVrVExvNUUxTlFYLXJFclkzc3BCb0JkNHlKam1tYVdCNzRyUG9mc04tbVptSG9yYTB2anFKdTd4MW44cjJxcGNWVnc?oc=5": {
@@ -1220,6 +1212,11 @@
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0lSVkhkNW9MdjZfdW5FaTNyS3FDSENqYTJ4enhYWDlNWWJwTFhfQlYwNFVHNHRsQ0lXUV9LYWV2emhucTJpMHFMakJKcXJjNU1DOHM3YnpmNDFiR0xDelc0cVk1ODRpUnZXSjBVOVRnNGxmNklIMXFHR0JLTm1oX2dlVXlrTDl2WUFMUTVDSEhNY1BHY29sYlVQUmlINjkweVFvaUk0QThhNlJuQUE?oc=5": {
   "seen": "2026-10-06",
   "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Official_portrait_of_Secretary_Marco_Rubio_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzg0SWNIOFJSV3ZySXd6Ml9OWmdJS3ZlbDRMVWFOUVhRa1g5bE91N0VRTkJTQlVpbjhiWXJnSEt0ZlVmM3NVUVFyNk9nV2FVNG9jdXNWUFB5bnpESTd6M1Z4eGJPWGJHZUNYcEdPUDRqaVdXQlRaSjk4NEpHZVRxbkgtYnNTSERpUjJvczFDU0x3WE1CZFB6RG0zRm00SEc3RkRzMGlGend0WjdSenc?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS25WaGR6RHltaldweFlqblRLWTQwanRGbVY4Vm5YZXBVdUVacG5DSTU3SXd1N00zTDROTTlYaGlnQzZPQUlmeUNPRlExc01kSUUwTFkwQUpWTWlXZEtkdTZmQktpWXUwcGt6dVBHbjkyb25ISjB1N0tOaWNJRHBoNk9iSzBJMURrM2dlemVvVnU5aHplVko3aGlQc296enRpdDlLNWJDWGtLWDZZVWc?oc=5": {
@@ -1297,6 +1294,11 @@
   "src": null,
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalpKTFBkTFpFT3BsZlR2VXBhSmdDcVpsbEJ1U2I1eHIzZTFkREEyUzUwbzVfZmJzakdkTTE4cFpHYThMOG5NbDNXcjZUY2ZYZ25mbXUydHFFNm1HckJIazVaZFhCSmUtX0N3djVPVGlVTFV2d2JtV0FBZU5vT1kzei1oM1NFNEFIWnBwRUNTaEl5eVYwdFA3WThzN2xoQTAxRzZRdkljT3lqaWZuVGtTdw?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHhVRndKQndRWEM0aUtFR1FmbU9HRDRmNFlwWkZtVE9ZdWR6UWp2Z2ZsOGw3b3JDXzZXOVJoelRQa1NIRUFPVmlySWRDTTJfT0theUFWOXFiZGdfLWtRelM3OHNSLVB3SUtvLWZSNVZIaUZkNFN3d3JkbHQxMDRXX19ZT0xkNVd6MmxKQ3kyWV95TWVhcy1qdnVMMWdoblUyaFg5NC14WjB5d1NOZUV1UQ?oc=5": {
   "seen": "2026-10-19",
   "src": null,
@@ -1347,11 +1349,6 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Senator_Susan_Collins_2014_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOU8zYTNZMU51cURyYjZCTENMOXRMMWFFMFZubVdVZWxmSUJpY2E2bTdBRmtjOExFYnpKRzM0UWtNcmwzZTgzcGtpMld6aVhkSlRGbGpGWGlWZzZxWENKNmhibWFTeFRMZ3pBNkY3dlpLYWgzQkNpdlZhbEpPTmY0cmhvZjN4bzc2bjFMYTZ4Mnk4MFlzay1mb2x3QXJxQnRTV2NTNEptQW9jVUpfelFYb2FR?oc=5": {
-  "seen": "2026-09-09",
-  "src": null,
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R?oc=5": {
   "seen": "2026-09-20",
   "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -1392,11 +1389,6 @@
   "src": null,
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkpuWnlRMnlqRTNBSnRETVlvSWF6WXpTMV9YVEVzUU4zOVhOODBWLWltMFlSTFFYdWN2SjBzMllXOUdGVno3TXUxSURKQWpGOTZPQWdWR3VScGhpWUhjTURCYmxhZWNCcUhxYTJxY0NnVHA4SzlQd29wSWpEejdERndFc1JzcDZFUW82eGJQaHpHdXM0bkhwZEx3Uy1SMnJwVno2RFNWaVMzTE9YQlU5V0dB?oc=5": {
-  "seen": "2026-09-09",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Baker_Hughes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRwaEhkLTBZb2x1QWVSRFdiTTdienp6UV9UeW1CMnlKQi1VQ1VDYTlCcl9nV29NRDY1TkVwOEV2SndfU3hreUZtdUpfZl9sNWlLZnZBZGVral8zeHp2WWhxRUZqNmxYcS0zbjFVYVRNLVR4Slh6S05Lb0R5dlRPeVRBOFRtMzJwQk1ya1MtdXhGV2s1dE5JcDZ4dzZVNzhRbUNGYWtKR0NrWThNWE9scHV3?oc=5": {
   "seen": "2026-09-15",
   "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mitch_McConnell_2016_official_photo_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -1430,6 +1422,11 @@
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUdzOFQyYUtJakVpMkdrdkU0NHE1RElBN3Ytc3d4NFJsYlN3WXVFZDR4YVRaME5qSll4aEdmWXhya19Wd21aX2Z3NjFGWmxqWGZiLXQ1YTdlVk5jQmdzclpFOGEtS2plWl9LVm1ZRFJKcnAwRmwxTXRfNXh5cmt6bUg3cW1PZ3Vvb1U2bGR2WEZ1dWdlbzdZUU9fbXZfS3V0Y3hkUGsyeU0td3ZxRU0waG53?oc=5": {
   "seen": "2026-10-13",
   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzc4bWlvM0cxYzV3cC0za3dLNWZPeWZkOE9vdmstYTg5Vjl1TVFFRVVGR2J1SWQ4YW9Wd2V3RTVCOFlSeDlEYkptcW1naFZmdFJnOXNfa1BIQzhPQktkMUZCV2xmZ0pfWlAtMTJpU0hIdTdmaVNwbFV6S3l5VWpPRHpZZEl2WmR6cTF1bnBGVy1vRjVOcWY1YUxOd3c3d0JCNndrUUwwWDl5M3V3VTFvX0RB?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/A_very_Canadian_Canada%27s_Wonderland_%2841514872810%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5": {
@@ -1697,11 +1694,6 @@
   "src": "https://upload.wikimedia.org/wikipedia/en/e/e3/Tekever_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5": {
-  "seen": "2026-09-09",
-  "src": null,
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWdsd2ZWR24waE95b3NaLUtKbTQzOTJOSm91NjdBY3hnOUExLXpvZVBTWGw1eXFxTFVYOTdjd3Q2UXkycEZEMTI5elFuSDZOSmotdWJoX254Um9JckVrbWFNQm05VHhUcVU4bWlONlExMzNBeTgtLWwzWldmNjdmRGRNeUpJbllyczJSX1dmaE1CeUhxUWRhOVBNNEUyRWJKNDJXLUE3RUdEaDBQOUY5M2RhY19WalAx?oc=5": {
   "seen": "2026-09-13",
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -1745,6 +1737,11 @@
  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDV3WWJ5Ulh3Q05tT203WGNGVE1UNmFvZ2ZoclFXemtrWXFhNlRhUmtabmlPZXRaYU1sQ251VWhSSWJMODNJQkRrMk9MNFdfb1RVT2VJQTR4akpfM0JQNk9wMkpMV2tFY2tHc2ZpTGMwcHlLNFU3UDBrZk5MbGFrb2ZqX25XRVZCQmI5Z29LbDI5cjF2S0JodjVNcVVmV3RyUFR1SW5RZUwwY2JlSWJrRUMyNEgta3dl?oc=5": {
   "seen": "2026-10-28",
   "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/DEF_CON_17_CTF_competition.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5": {
+  "seen": "2026-11-09",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0x3U0pTZEhoZWZsQjJTQTVoTl9VdTdkeHdtMnNmMVVzU003NVc0YjhJX3g4MTU5dkRoWHVCSm00MUI2bWRhczZyNE1QVE4wSGFfanVwckZkVV9kRFFQeUpkQ1Z2TkhURWUwZ2ZZb1FsQndnZnhPMlNPZlZJVDZZZTRXQnVnODQ2UHFBd2NLOXVJOXFMdU1MamVHRkhBOVdGdXRydjVqWVRUczV3MmxVdUI2VmQ1eG0y?oc=5": {
@@ -1900,11 +1897,6 @@
  "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5": {
   "seen": "2026-09-17",
   "src": null,
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnNsS1ljbDZEeWkwUWw1QmVMTVFtRHpBd3daZGxlcHRJelBmOENLVGwtNU1FQUt2NDE2U3lXbFQ0MjVSWFZCdGljREgwdTZDeUJJVENKcDJsbEVuNGxZT0FXS0J3ckJEdlRzRHN6UWtHOFMyakZrX0RZa1RyMTNDNkM4cXc4dENHbm16eFQtY1JVdUtKVW5Rdk90VHVDNXRRbTNlX2FmRTZHdFh4enB4YVBxSW9PWG5RTEFmSA?oc=5": {
-  "seen": "2026-09-09",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5": {
@@ -2267,11 +2259,6 @@
   "src": null,
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3laN1JZa3U4T21tUnkxYVg4bExnMzlsdnRzUXkzOU82N1pHWTBrZTlqUGt0amU0SzFZd0hSaDMwYlk0OHlLTjBGLUp2T1VTaWhnSlpJalNUSnBvdkUyanNqOUk0RnRjMjZJNWhENXo2dzZvRUUtdk9aMEdnMWhsR2NOVWRRVEw4WFgzTVJBX09SeXBMMFhEbUZiNEVIeFhZMXNqdzV6MFc0dWZOZTlMSzNkUllMdEc2RHVZUHB4dE1ScEE?oc=5": {
-  "seen": "2026-09-09",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Saab_900_GLE_%282%29_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaURKYl91cGFJWDU2bGhiQ09OVTlPN0ZaSmhiZG9VZVlCMWlnVG1ncGh1SDRwazhzY3FydWlEY0JnTm1Ea1M4Sm1iQW9hMnd4WkFOcWhUc2hOUXJWWTlJVEpnVGtBNmVBbXlWY1owMU1hZ3p5Rno3cC1pc01OV25ZZFlLemI0NDM4bXpuT0VWUXZsbDNBLW1YQ3pfMzZRb1pqQVhSSURENXIzTXcwTlJIenJsekdQZXcwU21rTEhITzZqUUE?oc=5": {
   "seen": "2026-09-21",
   "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28ombros%29_denoise_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -2409,11 +2396,6 @@
  },
  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5": {
   "seen": "2026-10-17",
-  "src": null,
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVBIZHl1MUMxTUtJRldJbUNCTnBMejE5akQ1aVNzYVFYczZaZEZ1bnluRF9jeVBvZDQ5Y21tV0VaQ2ZiN1FLYlQxcGMtTy1rZC1PLUw3X0x6bnk2QmVMZl9QanVJWXVoTGtNbE80REJzSWE5UkVEdllzSjJXVi1naG04Zk9kanJmTXVMTlpsQ29EWkxPdm5pZ0Y1NWg1S3F6dFZoSW9FanBDN3BkZ2RCSUhFdk41THkzVF9hejNGSWJYVkV6clE?oc=5": {
-  "seen": "2026-09-09",
   "src": null,
   "wiki": true
  },
@@ -2739,14 +2721,6 @@
  "https://ottawacitizen.com/ottawa-senators/ottawa-senators-television-costs": {
   "seen": "2026-09-28",
   "src": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2026/09/2296821204_305376049.jpg"
- },
- "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/": {
-  "seen": "2026-09-09",
-  "src": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800"
- },
- "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/": {
-  "seen": "2026-09-09",
-  "src": "https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600"
  },
  "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/": {
   "seen": "2026-09-10",
@@ -3112,6 +3086,22 @@
   "seen": "2026-11-06",
   "src": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
  },
+ "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/": {
+  "seen": "2026-11-09",
+  "src": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200"
+ },
+ "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/": {
+  "seen": "2026-11-09",
+  "src": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024"
+ },
+ "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/": {
+  "seen": "2026-11-09",
+  "src": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
+ },
+ "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/": {
+  "seen": "2026-11-09",
+  "src": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-83314262.jpg?resize=1200,640"
+ },
  "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/": {
   "seen": "2026-09-26",
   "src": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26265146932740-e1790083263140.jpg?w=900"
@@ -3156,6 +3146,10 @@
   "seen": "2026-10-09",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac90702-1791559426.jpg?resize=1920%2C1440"
  },
+ "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss": {
+  "seen": "2026-11-09",
+  "src": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af1dfe5-1794236389.jpg?resize=1920%2C1440"
+ },
  "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss": {
   "seen": "2026-10-01",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6abe517ae6-1790857594.jpg?resize=1920%2C1440"
@@ -3188,6 +3182,10 @@
   "seen": "2026-11-06",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T212847Z_1214409262_RC2QFOATU4MH_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION-1793667591.jpg?resize=1920%2C1440"
  },
+ "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss": {
+  "seen": "2026-11-09",
+  "src": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440"
+ },
  "https://www.aljazeera.com/news/2026/9/12/divine-triumph-iran-celebrates-houthis-capture-of-yemens-red-sea-coast?traffic_source=rss": {
   "seen": "2026-09-12",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aa547eedc57-1789216750.jpg?resize=1920%2C1440"
@@ -3211,10 +3209,6 @@
  "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss": {
   "seen": "2026-10-31",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/02/AFP__20260213__97CU4VM__v1__MidRes__BobsleighOly2026MilanoCortinaTraining-1771332146.jpg?resize=1200%2C630"
- },
- "https://www.aljazeera.com/sports/2026/9/9/troubled-league-liv-golf-files-for-bankruptcy-protection-in-us?traffic_source=rss": {
-  "seen": "2026-09-09",
-  "src": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-08-25T102051Z_1388412446_MT1USATODAY29654450_RTRMADP_3_GOLF-LIV-GOLF-INDIANAPOLIS-FIRST-ROUND-1788952979.jpg?resize=1920%2C1440"
  },
  "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss": {
   "seen": "2026-10-17",
@@ -3416,6 +3410,10 @@
   "seen": "2026-10-02",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg"
  },
+ "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-09",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
+ },
  "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-10",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bfd/live/d80b0030-ac65-11f1-a540-61c3f7fc4e6c.png"
@@ -3435,10 +3433,6 @@
  "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-18",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
- },
- "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss": {
-  "seen": "2026-09-09",
-  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg"
  },
  "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-09",
@@ -3524,6 +3518,10 @@
   "seen": "2026-10-30",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg"
  },
+ "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-09",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
+ },
  "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-30",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg"
@@ -3591,10 +3589,6 @@
  "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-21",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/040a/live/55e91860-cc9c-11f1-94e6-edd4c60b2e1d.jpg"
- },
- "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss": {
-  "seen": "2026-09-09",
-  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg"
  },
  "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-22",
@@ -3824,6 +3818,10 @@
   "seen": "2026-11-02",
   "src": "https://i.cbc.ca/ais/95b9a84a-3690-460e-887f-93917848a460,1793392370806/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C200%2C3849%2C2165%29%3B"
  },
+ "https://www.cbc.ca/news/business/nvidia-shares-ceo-jensen-huang-probe-9.7414655?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/95cf65da-03cc-470f-bf9e-9aaadb75081d,1794232007492/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C385%2C3331%2C1873%29%3B"
+ },
  "https://www.cbc.ca/news/business/openai-pause-training-after-probes-9.7360166?cmp=rss": {
   "seen": "2026-09-27",
   "src": "https://i.cbc.ca/ais/c117d8df-6441-463b-b295-34b6e4d3711e,1790517059579/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C417%2C8015%2C4508%29%3B"
@@ -3831,6 +3829,10 @@
  "https://www.cbc.ca/news/business/real-estate-bank-of-canada-9.7389322?cmp=rss": {
   "seen": "2026-10-21",
   "src": "https://i.cbc.ca/ais/50af46e7-454a-4399-b11e-b82a177ca2e2,1792591061714/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C235%2C3018%2C1697%29%3B"
+ },
+ "https://www.cbc.ca/news/business/real-time-rail-canada-9.7415380?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/1.7327110,1726684549000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C79%2C2000%2C1125%29%3B"
  },
  "https://www.cbc.ca/news/business/rrsp-for-life-9.7412568?cmp=rss": {
   "seen": "2026-11-07",
@@ -4104,6 +4106,10 @@
   "seen": "2026-10-26",
   "src": "https://i.cbc.ca/ais/1.5834180,1607530489000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
  },
+ "https://www.cbc.ca/news/canada/toronto/honda-alliston-plant-hybrid-production-9.7415303?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/1.7510523,1744742306000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C606%2C4800%2C2700%29%3B"
+ },
  "https://www.cbc.ca/news/canada/toronto/livestory/pearson-airport-gold-heist-air-canada-employee-trial-sidhu-9.7380018?cmp=rss": {
   "seen": "2026-10-14",
   "src": "https://i.cbc.ca/ais/020b7820-d8ce-48e8-b0f6-257978072e97,1791922350458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
@@ -4151,6 +4157,10 @@
  "https://www.cbc.ca/news/entertainment/russell-brand-convicted-rape-sexual-assault-9.7410334?cmp=rss": {
   "seen": "2026-11-05",
   "src": "https://i.cbc.ca/ais/f8c00f17-be29-41c6-a6d7-9de7661f3bf3,1793888535047/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C2752%2C1548%29%3B"
+ },
+ "https://www.cbc.ca/news/entertainment/skims-advent-calendar-backlash-9.7414783?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/70b8c2e8-e0eb-49f3-949d-9ae7568196e8,1794234358743/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C683%2C5535%2C3113%29%3B"
  },
  "https://www.cbc.ca/news/entertainment/vivienne-jolie-brad-pitt-name-change-9.7407340?cmp=rss": {
   "seen": "2026-11-03",
@@ -4300,10 +4310,6 @@
   "seen": "2026-10-18",
   "src": "https://i.cbc.ca/ais/a0eacea4-7611-4e3c-b942-b697af059d52,1792191423377/full/max/0/default.jpg?im=Crop%2Crect%3D%281354%2C620%2C7194%2C4046%29%3B"
  },
- "https://www.cbc.ca/news/politics/global-eye-saab-rcaf-surveillance-9.7336138?cmp=rss": {
-  "seen": "2026-09-09",
-  "src": "https://i.cbc.ca/ais/eb32c7b3-3db4-4132-9a5e-326b866bc99b,1788899111888/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C114%2C5741%2C3229%29%3B"
- },
  "https://www.cbc.ca/news/politics/government-signs-preliminary-deal-saab-globaleye-9.7358021?cmp=rss": {
   "seen": "2026-09-25",
   "src": "https://i.cbc.ca/ais/4bfe5c64-0c0c-4093-ab36-73bb9ccc7eb4,1790339465463/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C290%2C6994%2C3934%29%3B"
@@ -4323,6 +4329,10 @@
  "https://www.cbc.ca/news/politics/icc-arrest-warrants-canada-9.7380532?cmp=rss": {
   "seen": "2026-10-16",
   "src": "https://i.cbc.ca/ais/dc28033b-6bb2-4b67-b7b2-242a22c06eee,1792024230487/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
+ },
+ "https://www.cbc.ca/news/politics/karen-karniol-tambour-sovereign-wealth-fund-9.7415155?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/1a6ac331-6702-45ae-bc1e-78f902ef4b7a,1794246140623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C178%2C3744%2C2106%29%3B"
  },
  "https://www.cbc.ca/news/politics/liberals-table-major-projects-bill-9.7352890?cmp=rss": {
   "seen": "2026-09-22",
@@ -4520,6 +4530,10 @@
   "seen": "2026-10-12",
   "src": "https://i.cbc.ca/ais/5bc3bd3a-57a4-40a7-9dcb-5feb85ac05a5,1791801141017/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C753%2C7680%2C4320%29%3B"
  },
+ "https://www.cbc.ca/news/world/hegaseth-impeachment-motion-thomas-massie-9.7415356?cmp=rss": {
+  "seen": "2026-11-09",
+  "src": "https://i.cbc.ca/ais/60f21cb8-b3be-4289-bc17-b344630de153,1794253292232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C152%2C3075%2C1729%29%3B"
+ },
  "https://www.cbc.ca/news/world/houthi-attack-yemen-forces-rises-9.7388015?cmp=rss": {
   "seen": "2026-10-20",
   "src": "https://i.cbc.ca/ais/c1d9f186-567b-4033-9cc7-8fda0a241d02,1792496140290/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C191%2C4267%2C2400%29%3B"
@@ -4531,10 +4545,6 @@
  "https://www.cbc.ca/news/world/indonesia-ferry-overturned-search-underway-9.7342154?cmp=rss": {
   "seen": "2026-09-13",
   "src": "https://i.cbc.ca/ais/36648f83-9a6e-493c-a1b6-9f835eb81c4f,1789298763048/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4000%2C2250%29%3B"
- },
- "https://www.cbc.ca/news/world/iran-war-day-194-oil-price-9.7336774?cmp=rss": {
-  "seen": "2026-09-09",
-  "src": "https://i.cbc.ca/ais/930dbd11-3093-4eaf-b565-22af2cbdce26,1788952693384/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C6717%2C3778%29%3B"
  },
  "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898?cmp=rss": {
   "seen": "2026-09-14",
@@ -4763,10 +4773,6 @@
  "https://www.cbc.ca/sports/national-sport-funding-federal-announcement-9.7391349?cmp=rss": {
   "seen": "2026-10-22",
   "src": "https://i.cbc.ca/ais/d6f5ef9b-63a5-41e3-879f-26df3ddb44ff,1792673118669/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C768%2C5150%2C2896%29%3B"
- },
- "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html": {
-  "seen": "2026-09-09",
-  "src": "https://image.cnbcfm.com/api/v1/image/108360395-1788958326899-docs_a555b6d1-e963-4ac1-afeb-eb82babbab7b_riviera_images_1.jpg?v=1788958414&w=1920&h=1080"
  },
  "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html": {
   "seen": "2026-09-10",
@@ -5212,17 +5218,9 @@
   "seen": "2026-10-14",
   "src": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XP2637F7WNGLTFAKZ2OBR3DGMA.jpg"
  },
- "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/": {
-  "seen": "2026-09-09",
-  "src": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NJNCPEFWIVC2ZMDH2PSTHJWDRQ.JPG"
- },
  "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/": {
   "seen": "2026-10-23",
   "src": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QE6I4YTIARDQFNXBSE4HX5LCF4.jpg"
- },
- "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/": {
-  "seen": "2026-09-09",
-  "src": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V6I2UDVZG5GU5OE7Y47WN3WP5Q.jpg"
  },
  "https://www.defensenews.com/global/europe/2026/09/14/polish-minister-proposes-drills-near-kaliningrad-to-draw-russian-troops-from-ukraine/": {
   "seen": "2026-09-14",
@@ -5344,6 +5342,10 @@
   "seen": "2026-10-24",
   "src": "https://s.france24.com/media/display/daf057b4-cf9c-11f1-9be0-4d317af013fd/w:1024/p:16x9/AP26294747292303.jpg"
  },
+ "https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth": {
+  "seen": "2026-11-09",
+  "src": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg"
+ },
  "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand": {
   "seen": "2026-10-03",
   "src": "https://s.france24.com/media/display/d3d5e108-bed3-11f1-8d0c-13420ab900a2/w:1024/p:16x9/33573f643956faa9ed06abffc2ea828d225eaae2.jpg"
@@ -5371,6 +5373,10 @@
  "https://www.france24.com/en/france-le-pen-launches-presidential-campaign-in-orleans": {
   "seen": "2026-10-25",
   "src": "https://s.france24.com/media/display/53eb1ff0-d079-11f1-9876-4b25c96ec90e/w:1024/p:16x9/EN-20261025-130201-130355-CS.jpg"
+ },
+ "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks": {
+  "seen": "2026-11-09",
+  "src": "https://s.france24.com/media/display/2c262730-dc72-11f1-912e-a575454bc579/w:1024/p:16x9/EN-20261109-200113-200918-CS.jpg"
  },
  "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age": {
   "seen": "2026-11-07",
@@ -5832,10 +5838,6 @@
   "seen": "2026-10-29",
   "src": "https://i.guim.co.uk/img/media/e7b3a4bb52fdb457cf0a4473a3a079302a059172/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=a1089abd8fbc3a33248ebfe24615350a"
  },
- "https://www.theguardian.com/us-news/2026/sep/09/hawaii-hurricane-lowell-damage": {
-  "seen": "2026-09-09",
-  "src": "https://i.guim.co.uk/img/media/6401adbfcc6492aa6c11fdb86ad98b6113498a70/3_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=f1302f0e83a5f583c3b07bb45da0d45c"
- },
  "https://www.theguardian.com/us-news/2026/sep/10/first-thing-trump-5000-dollars-promise-republicans-win-midterms": {
   "seen": "2026-09-10",
   "src": "https://i.guim.co.uk/img/media/1b4a969940eaf7d49c91ec04248aa379ebb22f88/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d1e23a355ea3e6f2eb0e757bcf7990d9"
@@ -5895,10 +5897,6 @@
  "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest": {
   "seen": "2026-10-28",
   "src": "https://i.guim.co.uk/img/media/08d36da980d5654a037eb2f1f619cf4e99d11f1a/0_0_3645_2916/master/3645.jpg?width=140&quality=85&auto=format&fit=max&s=f7cd0739de9b1acbbbb63a269bc38ccf"
- },
- "https://www.theguardian.com/us-news/live/2026/sep/09/donald-trump-rnc-republican-national-convention-jd-vance-midterms-latest-news-updates": {
-  "seen": "2026-09-09",
-  "src": "https://i.guim.co.uk/img/media/b56b86894b0a21d70ca572bbdc615bfcf1a2b4fb/725_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=ccf48e32f20f9ed5f66fc39947f3ad74"
  },
  "https://www.theguardian.com/us-news/live/2026/sep/11/september-11-anniversary-memorials-world-trade-center-pentagon-vance-trump-us-politics-live": {
   "seen": "2026-09-11",
