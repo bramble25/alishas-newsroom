@@ -1,927 +1,5 @@
 [
  {
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVURYbEJsVDMteXRVRGdGQWo2RnduSDB3ZklKSERDM3pvY0Q4U0FrdDZxWmJNUTNqLVpQNzVFZWRWcGVfd2ZDYXRDcFRTb0Ftd2NlQUR5dm1QVDl3dXBlcG10TUtWc18ycXFMY0U0UUZoaGQ3SkRKUkRIMWRsSXEwUGZaZ2R5bHRkZDNyR3lkSWVPa29zZGF5VDVja3laUlMyblIw?oc=5",
-  "title": "US judge orders halt to taxpayer-funded ads featuring Trump - Reuters",
-  "tokens": [
-   "ads",
-   "featuring",
-   "funded",
-   "halt",
-   "judge",
-   "orders",
-   "reuters",
-   "taxpayer",
-   "trump"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnZGZEV2WklwWFV4b0FvOTI4eFpxVFgxMTNvNDUxSVh3ZVBRalVuWjJaS1JRaUpwTXp0em0yUVAxQjZqQ1dUYlo1MGNEaFlzNUxhOUgxWF9CY3dUem1ILUdqd0FxQzNGNW9CT19qc3hueWlrNlJHQm9vYzJfV2UwWkFsRWpYbzI4THFPSVVCczVVeUpDTzJKVWJaeU45OHZw?oc=5",
-  "title": "Starbucks says not buying Chipotle, ends takeover speculation - Reuters",
-  "tokens": [
-   "buying",
-   "chipotle",
-   "ends",
-   "reuters",
-   "speculation",
-   "starbucks",
-   "takeover"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDJQVmVIaFZGdTRES18xTGZOQTgtMzMyWGVOb2VxOUxpWUpQNDlhXzZIdXU0bE81bHVqZ2dRcnVqeE1NWkhtNXNQMTZHb0RtWUhibjBiVkF5MWdSTHJZLW0yNjJrWFYxRVpHQjBnZHJDWGhwVTBIanpDak5iLWc0Y1NIVjN1VmRhTVV2WXE1X0VHQ2gwZXNwb2FIQlEwaGtDWFVnMGpDTlQzLVd2SlNXcVB6dmpDYzJmMURtbUdQYmVra3dtc0ViRWl6NU4?oc=5",
-  "title": "US immigration authorities raid Democratic congresswoman Ilhan Omar's home - Reuters",
-  "tokens": [
-   "authorities",
-   "congresswoman",
-   "democratic",
-   "home",
-   "ilhan",
-   "immigration",
-   "omar's",
-   "raid",
-   "reuters"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaElqa3NPZERzOHYyU3NVZmRTSkpYY1U4SzM5ZTZzQzlGbFBhTlhhWHNUN014M3JVWV80c19kRVFWaFRXRWRUVnFOLUV4eVlVWVdlbUVReWFRY1RsUVhvQjhET0dtN2I4ZmRuT1hmU01GY1JmS2hQUG0ycXN6ZWRRUjZpR3VvRTBLYXJxVEx1QUluN001Wjd5Yi1LMFpHQ1RQb0pMbGgtekJvaEpBVzJEOWxMZEtUUVVTQUUxamk3SzNlQlJvb1pXeHJkT1dCSUZG?oc=5",
-  "title": "Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations - Reuters",
-  "tokens": [
-   "along",
-   "bringing",
-   "coast",
-   "crawls",
-   "evacuations",
-   "floods",
-   "hurricane",
-   "mexico's",
-   "pacific",
-   "reuters",
-   "simon"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWWJ0NVNWU296YXNLZ1BDNC11S1V3MW5uY1ViQ2M3VmZ4eVZVLWtTT2x4MG4zOGJncUVrOFFyZkcwekpYZXpWRWhvc0lxWkhveHU3MmV0VW03dEo1RmN4dzVhSVFWajBzMXlZVDFQWXRkQ3V3eFdVTDdadFpJNjFCVzVlQ05WMkYxZEpmelV6RDdBaWhSN19YVDJROXcySFo0anBOWTNQYk81TENDaUY4?oc=5",
-  "title": "UK PM Burnham says Iran's IRGC likely behind RAF Fairford incident - Reuters",
-  "tokens": [
-   "behind",
-   "burnham",
-   "fairford",
-   "incident",
-   "iran's",
-   "irgc",
-   "likely",
-   "raf",
-   "reuters"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMjMzZGxhekQteGU5WUt0TlZvUmFEb0laTDAtRGVrN1Z0cmJvZ0h5YnVxcVc1Mlp4QW1EMmppSVAzNzdTU1VVakpyaU1GOVhSWXQyLUlNNlB0REVOWFNWNUZJVFFOa3VxM0UyU005alNHY1NqVGNtNkFNZ1FSaWtuNWNJQzc5S1B4NXphbllnWHp4eG1XQ2NOeVE3M3VKRTI5NEMzYzVIc3ZIVDVlZ2NacnlpdnFvR05rOGh6SjVBdDhSUQ?oc=5",
-  "title": "Jury selected for actor Russell Brand's UK trial over sex crimes allegations - Reuters",
-  "tokens": [
-   "actor",
-   "allegations",
-   "brand's",
-   "crimes",
-   "jury",
-   "reuters",
-   "russell",
-   "selected",
-   "sex",
-   "trial"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/world/hall-woodford-nobel-economics-9.7377888?cmp=rss",
-  "title": "Nobel memorial prize in economics awarded to Robert E. Hall and Michael Woodford",
-  "tokens": [
-   "awarded",
-   "economics",
-   "hall",
-   "memorial",
-   "michael",
-   "nobel",
-   "prize",
-   "robert",
-   "woodford"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/manitoba/turkey-gravy-recall-2026-9.7377712?cmp=rss",
-  "title": "Turkey gravy brand sold in Canada recalled due to undeclared mustard",
-  "tokens": [
-   "brand",
-   "canada",
-   "due",
-   "gravy",
-   "mustard",
-   "recalled",
-   "sold",
-   "turkey",
-   "undeclared"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://globalnews.ca/news/12099673/quebec-pawpaw-festival/",
-  "title": "Thousands attend a Quebec festival centred on a little-known tropical-tasting fruit",
-  "tokens": [
-   "attend",
-   "centred",
-   "festival",
-   "fruit",
-   "known",
-   "little",
-   "quebec",
-   "tasting",
-   "thousands",
-   "tropical"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/calgary/economic-frustration-alberta-separation-9.7374925?cmp=rss",
-  "title": "Economic frustration helps fuel Alberta separatism \u2014 and these 4 charts suggest why",
-  "tokens": [
-   "alberta",
-   "charts",
-   "economic",
-   "frustration",
-   "fuel",
-   "helps",
-   "separatism",
-   "suggest"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-  "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-  "tokens": [
-   "air",
-   "balloon",
-   "contract",
-   "data",
-   "force",
-   "hefty",
-   "windborne",
-   "wins"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.pbs.org/newshour/politics/omar-says-she-wont-be-silenced-after-federal-agents-search-her-home-blasting-trump-for-intimidation-campaign",
-  "title": "Omar says she won't 'be silenced' after federal agents search her home, blasting Trump for 'intimidation' campaign",
-  "tokens": [
-   "'be",
-   "'intimidation'",
-   "agents",
-   "blasting",
-   "campaign",
-   "federal",
-   "home",
-   "omar",
-   "search",
-   "she",
-   "silenced'",
-   "trump",
-   "won't"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-  "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-  "tokens": [
-   "antitrust",
-   "doj",
-   "launches",
-   "leader",
-   "needs",
-   "networks",
-   "probe",
-   "trump",
-   "ukraine"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-  "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-  "tokens": [
-   "blueprints",
-   "generate",
-   "minutes",
-   "permit",
-   "ready",
-   "startup"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://financialpost.com/globe-newswire/gwi-launches-new-agentic-portfolio",
-  "title": "GWI Launches New Agentic Portfolio",
-  "tokens": [
-   "agentic",
-   "gwi",
-   "launches",
-   "portfolio"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnBCaFpKR1lWaVh4a241MWNjNkxmaGlXc0VLQUtPNFZTN3lKM0puQ3QxUnhodFRQLUJfU3dnZll3VkNqNTJMM3QtZFNqTGJGTF9ndUZ1bWFPaUViYXV3RFFlclM2SzBkdHc2T1FBY3VMdmM1el9nWVZxYkFlbnJHNm9vUjZmV1gxbmptT3RHLXpQUEdKUXNqUmRydDF0NzF5cTdVRXR3RndHTGxzdFdxbjJZTGdiZG5LajdNekw1cF9TS1d5?oc=5",
-  "title": "MIT files patent lawsuit against Amazon over cloud security technology - Reuters",
-  "tokens": [
-   "against",
-   "amazon",
-   "cloud",
-   "files",
-   "lawsuit",
-   "mit",
-   "patent",
-   "reuters",
-   "security",
-   "technology"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
-  "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
-  "tokens": [
-   "here's",
-   "make",
-   "mean",
-   "meta",
-   "micron",
-   "microsoft",
-   "stakes",
-   "updates"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHdmTEZnTEN2Uk0xcXN1LWM1STRqOFM4VkRXcEFJZ0ttX2swdVd5Vkhyb2xvam1zQVNiZGlLVlVHeVJDNlNzSVpfUllhQzJtNkVEMDZrelhxRmZySnhOVlBWblR3VGVIX3QwZ0FLSV9CRnBORExKWWdjSGljLXZnY1RTMXNIVWdLbm44RVVSci0zWm1ETnJpUWxiaEJPRWluTXZaT1FBTEYxcVlic1VFTnJkaENVMzB4Y1E?oc=5",
-  "title": "Norway fines Microsoft's Xandr $9.6 million over Grindr data sharing - Reuters",
-  "tokens": [
-   "data",
-   "fines",
-   "grindr",
-   "microsoft's",
-   "million",
-   "norway",
-   "reuters",
-   "sharing",
-   "xandr"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://thehill.com/policy/international/6143601-zelensky-trump-russia-diesel-deal/",
-  "title": "Zelensky unleashes on Trump as Russia diesel deal rallies Ukraine\u2019s supporters",
-  "tokens": [
-   "deal",
-   "diesel",
-   "rallies",
-   "russia",
-   "supporters",
-   "trump",
-   "ukraine",
-   "unleashes",
-   "zelensky"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTJaSDd1eGFCbTBiUDJRNmpVVUtJck1fR05QX0NEV0VEV0tnNS1YMnc5d00tTDktSzFHcU1IcXUxakR1NkJyTzZCUDVoM054NEFhMUhtUFlXenZseWF3M2dQSG95X19jYlJxSkRfb0hpTHJkcVd2TTZuX2RwSnF0LVNkR3NKLXV5cFdXUjRNLTY1ZTg1ZU9qWTZmNkdCZ3dtODIwOVNHNndXaUgwT1p5SkFaZHk?oc=5",
-  "title": "NATO general sets out tough military response to any 'foolish' Russian attack - Reuters",
-  "tokens": [
-   "'foolish'",
-   "any",
-   "attack",
-   "general",
-   "military",
-   "nato",
-   "response",
-   "reuters",
-   "russian",
-   "sets",
-   "tough"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXQyeFBaci1YTDB5ekFuaFRwTGtDcVZPTms2RmJwZDU5Q0ZFcmFJazF2d0t3U1I3cGp3ZlloMTEtMF9SbFBvYm9jcWlzc1RpNTRvcU5WXzFtVmhTTnlkX05NaThKcHczcDNRM2hqMDcwYXkzQ29CcUl0QjBsS0plZ2JiYjNTTDlNNHNZekRvN0ZRU1I2MFNHcGlTRWVWbG5yd0VGMmF0eWJzc2V6VmlEbQ?oc=5",
-  "title": "NATO commander Grynkewich warns Russia attack would be 'utterly futile' - Reuters",
-  "tokens": [
-   "'utterly",
-   "attack",
-   "commander",
-   "futile'",
-   "grynkewich",
-   "nato",
-   "reuters",
-   "russia",
-   "warns"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.pbs.org/newshour/politics/chuck-schumer-has-broad-support-from-his-caucus-but-the-midterms-could-decide-his-future-as-leader",
-  "title": "Chuck Schumer has broad support from his caucus. But the midterms could decide his future as leader",
-  "tokens": [
-   "broad",
-   "caucus",
-   "chuck",
-   "decide",
-   "future",
-   "leader",
-   "midterms",
-   "schumer",
-   "support"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-  "title": "US Army creates robotics technician job to focus on drone warfare",
-  "tokens": [
-   "army",
-   "creates",
-   "drone",
-   "focus",
-   "job",
-   "robotics",
-   "technician",
-   "warfare"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1hmZzQxZmpITVlBeVpjanJJRWhDN0JGWWtSb291VDJIaTR2ZXJuVDRtanlSUDdiQllFM1RqSjBHeXp6N2JaT1FnMXB5Yk45RWhOeFoxT3RGMEdJT3N1UG1SS0E3RWFvRG1Tci0waTNYWVBKeFcwOVJ6T1dVOV84cTZHY3B1ekdOR3ZqZ1NLWFZTN1Zoc3k2dWZLU0dOTnprX0ZBcnZLRmFsdUUxQkhNUkRpN1dpUE0wSTBHRVhIY2NrcEk?oc=5",
-  "title": "EXCLUSIVE: Moonshot execs in talks to settle dispute with shareholder ahead of planned IPO, people say - Reuters",
-  "tokens": [
-   "ahead",
-   "dispute",
-   "exclusive",
-   "execs",
-   "ipo",
-   "moonshot",
-   "people",
-   "planned",
-   "reuters",
-   "settle",
-   "shareholder",
-   "talks"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVRES3F4R1VDQjJnbW15cmxVelRaMExJSXNrTm84aFQ2VHFTOHFWY1RPU3RhMGh5c1ZPVWhuTTEwYUJsWjRoMHk5SFVma0pVWG5lY2JvVE55OWctbDRyaW1GQkxsel83T1RKUG16Tmp4RWJ3enJtSV9qclpOZC13aHV5OEdfVmlaOElSYWpLZnlseUMxUDViQUpOeUxBR2l0TUJ0bENHMGh2emJEV091eXo4b0FOTWpFSmZsRERBbUxqT1hxOFZTNA?oc=5",
-  "title": "Kremlin rejects Ukrainian leader's idea of a 60-day ceasefire, says it wants an overall peace deal - Reuters",
-  "tokens": [
-   "ceasefire",
-   "day",
-   "deal",
-   "idea",
-   "kremlin",
-   "leader's",
-   "overall",
-   "peace",
-   "rejects",
-   "reuters",
-   "ukrainian",
-   "wants"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVYyWUE3V0taZldlY0hsb2o0Rko0Y0QxTGJrbk80SHhyT3VKcWR1LTNfMFFEcEowbklSemZfRHp0Vk51cTBIQWFxNTBMSGZWTGZJejR4TUtoN1V6NGpWcnJtZWhScXY2MGotd1E4eW05UHd1cVZWb3NJLVI2NXl0QnJlRWlMeW1sVVFKSm1mQnBUd29yZVE?oc=5",
-  "title": "What's in the diesel deal between Putin and Trump? - Reuters",
-  "tokens": [
-   "between",
-   "deal",
-   "diesel",
-   "putin",
-   "reuters",
-   "trump",
-   "what's"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUhraTJpN1hiM1QxNXN1OWFiMEFJVjRPQnhZdXV0TW0ya0FvdEdVLWRPQUFVVXFiX2hvTUJYcFBwYlBxR1N2OXhCTW13UjdteTNmTTJkbVNGTVFzaTlwbFM1bkdTTGtuN2dqbEE3WUVmQldzZzZSdlRkOUFJTldWRzRyRTJuNVhCRXpBZExnN0lFY0E?oc=5",
-  "title": "In the US, a wealth boom and a price shock collide - Reuters",
-  "tokens": [
-   "boom",
-   "collide",
-   "price",
-   "reuters",
-   "shock",
-   "wealth"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
-  "title": "Oil rally pressures S&P, Nasdaq; Microsoft, Salesforce buoy Dow - Reuters",
-  "tokens": [
-   "buoy",
-   "dow",
-   "microsoft",
-   "nasdaq",
-   "oil",
-   "pressures",
-   "rally",
-   "reuters",
-   "salesforce"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
-  "title": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
-  "tokens": [
-   "both",
-   "complain",
-   "deal",
-   "defends",
-   "diesel",
-   "lawmakers",
-   "parties",
-   "reuters",
-   "russia",
-   "trump"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-  "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-  "tokens": [
-   "announced",
-   "ceasefire",
-   "energy",
-   "hit",
-   "russia",
-   "since",
-   "sites",
-   "six",
-   "trump",
-   "ukrainian",
-   "zelensky"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-  "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-  "tokens": [
-   "abramovich's",
-   "bbc",
-   "documents",
-   "evade",
-   "falsified",
-   "finds",
-   "tax",
-   "wealth"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-  "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-  "tokens": [
-   "'serious",
-   "airports",
-   "attacks",
-   "houthi",
-   "minister",
-   "response'",
-   "saudi",
-   "vows"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-  "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-  "tokens": [
-   "africa's",
-   "charged",
-   "chief",
-   "deputy",
-   "offences",
-   "police",
-   "resigns",
-   "sexual",
-   "south"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-  "title": "Fridges in French supermarkets hit by cyber attack",
-  "tokens": [
-   "attack",
-   "cyber",
-   "french",
-   "fridges",
-   "hit",
-   "supermarkets"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
-  "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-  "tokens": [
-   "become",
-   "biggest",
-   "cruise",
-   "digger",
-   "film",
-   "flops",
-   "forecast",
-   "hollywood's",
-   "one",
-   "tom"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/cleveland-cliffs-ceo-stelco-layoffs-hamilton-9.7377708?cmp=rss",
-  "title": "Cleveland-Cliffs CEO says he's prepared to fight Canada in court over Stelco layoffs",
-  "tokens": [
-   "canada",
-   "ceo",
-   "cleveland",
-   "cliffs",
-   "court",
-   "fight",
-   "he's",
-   "layoffs",
-   "prepared",
-   "stelco"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/entertainment/dan-levy-shane-gillis-clothing-joke-snl-9.7377975?cmp=rss",
-  "title": "'More men need to be standing up': Dan Levy calls out Shane Gillis SNL joke about women's clothing",
-  "tokens": [
-   "'more",
-   "calls",
-   "clothing",
-   "dan",
-   "gillis",
-   "joke",
-   "levy",
-   "men",
-   "need",
-   "shane",
-   "snl",
-   "standing",
-   "up'",
-   "women's"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/world/uk-and-us-allies-joint-statement-condemning-iran-raf-fairford-9.7378033?cmp=rss",
-  "title": "Canada, U.K. allies vow action after RAF Fairford terror plot",
-  "tokens": [
-   "action",
-   "allies",
-   "canada",
-   "fairford",
-   "plot",
-   "raf",
-   "terror",
-   "vow"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/world/democrats-ilhan-omar-raid-midterms-9.7377954?cmp=rss",
-  "title": "Democrats condemn 'deeply disturbing' raid on Rep. Ilhan Omar's home ahead of U.S. midterms",
-  "tokens": [
-   "'deeply",
-   "ahead",
-   "condemn",
-   "democrats",
-   "disturbing'",
-   "home",
-   "ilhan",
-   "midterms",
-   "omar's",
-   "raid",
-   "rep"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/news/world/spain-housing-protests-election-9.7376220?cmp=rss",
-  "title": "How did Spain's housing crisis get so bad it forced the PM to call a snap election?",
-  "tokens": [
-   "bad",
-   "call",
-   "crisis",
-   "election",
-   "forced",
-   "get",
-   "housing",
-   "snap",
-   "spain's"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.cbc.ca/sports/basketball/nba/michael-jordan-jersey-14-million-record-sale-9.7378042?cmp=rss",
-  "title": "Michael Jordan jersey sets $14M US record for basketball memorabilia, auction house says",
-  "tokens": [
-   "14m",
-   "auction",
-   "basketball",
-   "house",
-   "jersey",
-   "jordan",
-   "memorabilia",
-   "michael",
-   "record",
-   "sets"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-  "title": "Meta releases its first frontier model, Muse Wonder",
-  "tokens": [
-   "first",
-   "frontier",
-   "meta",
-   "model",
-   "muse",
-   "releases",
-   "wonder"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-  "title": "Russia was not ready for the data center war it started with Ukraine",
-  "tokens": [
-   "center",
-   "data",
-   "ready",
-   "russia",
-   "started",
-   "ukraine",
-   "war"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-  "title": "Meta has some Wonder Full new AI models",
-  "tokens": [
-   "full",
-   "meta",
-   "models",
-   "wonder"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-  "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-  "tokens": [
-   "276",
-   "donated",
-   "efforts",
-   "elon",
-   "midterm",
-   "million",
-   "musk",
-   "republican"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-  "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
-  "tokens": [
-   "classic",
-   "cult",
-   "gaming",
-   "gets",
-   "horror",
-   "long",
-   "lost",
-   "much",
-   "needed",
-   "port"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-  "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-  "tokens": [
-   "comms",
-   "company",
-   "every",
-   "honeyjar",
-   "improve",
-   "offers",
-   "tools"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://betakit.com/why-koho-wont-bet-on-prediction-markets/",
-  "title": "Why Koho won\u2019t bet on prediction markets",
-  "tokens": [
-   "bet",
-   "koho",
-   "markets",
-   "prediction",
-   "won"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://sifted.eu/articles/stryker-to-invest-400m-in-cmr-surgical-with-option-to-buy-it-outright/",
-  "title": "Stryker to invest $400m in CMR Surgical, with option to buy it outright",
-  "tokens": [
-   "400m",
-   "buy",
-   "cmr",
-   "invest",
-   "option",
-   "outright",
-   "stryker",
-   "surgical"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://sifted.eu/articles/energy-unicorn-1komma5-raises-e70m-as-ipo-plans-remain-on-ice/",
-  "title": "Energy unicorn 1Komma5 raises \u20ac70m as IPO plans remain on ice",
-  "tokens": [
-   "1komma5",
-   "70m",
-   "energy",
-   "ice",
-   "ipo",
-   "plans",
-   "raises",
-   "remain",
-   "unicorn"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://sifted.eu/articles/uk-government-ai-safety-reporting-kanishka-narayan/",
-  "title": "UK government mulls compulsory AI safety reporting",
-  "tokens": [
-   "compulsory",
-   "government",
-   "mulls",
-   "reporting",
-   "safety"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://sifted.eu/articles/european-consumers-better-customer-support-brnd/",
-  "title": "European consumers are begging for better customer support",
-  "tokens": [
-   "begging",
-   "better",
-   "consumers",
-   "customer",
-   "european",
-   "support"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://sifted.eu/articles/europes-fastest-growing-fintechs-are-queueing-up-for-growth-stage-funding-rounds/",
-  "title": "Europe\u2019s fastest-growing fintechs are queueing up for growth-stage funding rounds",
-  "tokens": [
-   "europe",
-   "fastest",
-   "fintechs",
-   "funding",
-   "growing",
-   "growth",
-   "queueing",
-   "rounds",
-   "stage"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/army-sent-balloon-swarms-to-middle-east-to-support-centcom-operations/",
-  "title": "Army sent balloon swarms to Middle East to support CENTCOM operations",
-  "tokens": [
-   "army",
-   "balloon",
-   "centcom",
-   "east",
-   "middle",
-   "operations",
-   "sent",
-   "support",
-   "swarms"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-  "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
-  "tokens": [
-   "armaments",
-   "drone",
-   "eyes",
-   "italo",
-   "italy",
-   "mbda",
-   "turkish"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.defenseone.com/policy/2026/10/army-brings-back-night-court-audit-programs-shifting-more-100m/416547/",
-  "title": "Army brings back \u2018night court\u2019 audit of programs, shifting more than $100M",
-  "tokens": [
-   "100m",
-   "army",
-   "audit",
-   "back",
-   "brings",
-   "court",
-   "night",
-   "programs",
-   "shifting"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/mojave-stol-and-gray-eagle-25m-complementary-capabilities-for-the-modern-battlefield/",
-  "title": "Mojave STOL and Gray Eagle\u00ae 25M: Complementary capabilities for the modern battlefield",
-  "tokens": [
-   "25m",
-   "battlefield",
-   "capabilities",
-   "complementary",
-   "eagle",
-   "gray",
-   "modern",
-   "mojave",
-   "stol"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/amid-unease-in-europe-nato-saceur-bullish-on-block-blunt-break-theory-of-victory/",
-  "title": "Amid unease in Europe, NATO SACEUR bullish on \u2018block, blunt, break\u2019 theory of victory",
-  "tokens": [
-   "block",
-   "blunt",
-   "break",
-   "bullish",
-   "europe",
-   "nato",
-   "saceur",
-   "theory",
-   "unease",
-   "victory"
-  ],
-  "date": "2026-10-12"
- },
- {
-  "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
-  "title": "Lockheed\u2019s New PAC-3 Edge interceptor aims for agility",
-  "tokens": [
-   "agility",
-   "aims",
-   "edge",
-   "interceptor",
-   "lockheed",
-   "pac"
-  ],
-  "date": "2026-10-12"
- },
- {
   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece \u2013 live",
   "tokens": [
@@ -27854,5 +26932,934 @@
    "trust"
   ],
   "date": "2026-11-11"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JRcXNDUmNTX3hYTkxSOC12bE1PajdrdjByNkRpa3dpY0hsc2FqR3NEeTROdVFDVFRMWTYxSHduZGxoQVl0QkJIckk5MTdJaWxBZTVQLVFwWTY5TXZKS0NlTy0wYmNNa0NpUGJIWlFkQ3VsNGxEMVB3eFhSaExUVllwdVBkWE1SMl9kR2pXbw?oc=5",
+  "title": "Who is Nvidia interim CEO Colette Kress? - Reuters",
+  "tokens": [
+   "ceo",
+   "colette",
+   "interim",
+   "kress",
+   "nvidia",
+   "reuters"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss",
+  "title": "Missing teen found alive after 6 days in the Australian woodlands",
+  "tokens": [
+   "alive",
+   "australian",
+   "days",
+   "found",
+   "missing",
+   "teen",
+   "woodlands"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
+  "title": "Zelenskiy says Starshield speed limited again, hampering Ukraine's defences - Reuters",
+  "tokens": [
+   "defences",
+   "hampering",
+   "limited",
+   "reuters",
+   "speed",
+   "starshield",
+   "ukraine's",
+   "zelenskiy"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
+  "title": "Four tankers struck by explosions in Strait of Hormuz, Iran says - Reuters",
+  "tokens": [
+   "explosions",
+   "four",
+   "hormuz",
+   "iran",
+   "reuters",
+   "strait",
+   "struck",
+   "tankers"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+  "title": "S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks - Reuters",
+  "tokens": [
+   "500",
+   "ceo's",
+   "exit",
+   "fall",
+   "nasdaq",
+   "nvidia",
+   "rattles",
+   "reuters",
+   "stocks"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWQ5dEZGT0kySFhydmRuLU9NSDY2MUtMMjVVSkhiUDlFeUp5cjBKREpPZGNuWnB5ZUc1UGlQWlZRVk80TmNaWjNvVmdWTmZEWi05S0EtYVRzQU9GeHlWVmh3NzRvRTZXalA1VnBRWFp2NkhUMmpCMXIyaHlkQzFSMHVtTko0dEdocUFORTdOT2FjdEp5eG1pSWpmYnhUQQ?oc=5",
+  "title": "Who is Harvey Jones, Nvidia's first-ever board chair? - Reuters",
+  "tokens": [
+   "board",
+   "chair",
+   "ever",
+   "first",
+   "harvey",
+   "jones",
+   "nvidia's",
+   "reuters"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+  "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+  "tokens": [
+   "gaza",
+   "health",
+   "hospital",
+   "israeli",
+   "kills",
+   "ministry",
+   "palestinians",
+   "six",
+   "strike"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
+  "title": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
+  "tokens": [
+   "end",
+   "envoys",
+   "kremlin",
+   "kushner",
+   "meet",
+   "putin",
+   "russia",
+   "talks",
+   "ukraine",
+   "war",
+   "witkoff"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
+  "title": "Death toll climbs to 8 in Brooklyn building collapse",
+  "tokens": [
+   "brooklyn",
+   "building",
+   "climbs",
+   "collapse",
+   "death",
+   "toll"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss",
+  "title": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
+  "tokens": [
+   "'pure",
+   "anthropic",
+   "choppy",
+   "first",
+   "ipo",
+   "market",
+   "play'",
+   "stock",
+   "test"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+  "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+  "tokens": [
+   "'we've",
+   "deal",
+   "got",
+   "iran",
+   "needed",
+   "oil",
+   "prices",
+   "rise",
+   "strait'",
+   "trump"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+  "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+  "tokens": [
+   "critical",
+   "exit",
+   "future",
+   "huang's",
+   "jensen",
+   "nvidia",
+   "questions",
+   "raises"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/12/buy-nvidia-with-both-hands-because-the-valuation-is-at-stupid-levels-says-analyst-meeks.html",
+  "title": "Buy Nvidia with 'both hands' because the valuation is at 'stupid' levels, says analyst Meeks",
+  "tokens": [
+   "'both",
+   "'stupid'",
+   "analyst",
+   "because",
+   "buy",
+   "hands'",
+   "levels",
+   "meeks",
+   "nvidia",
+   "valuation"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+  "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+  "tokens": [
+   "2027",
+   "401",
+   "announces",
+   "cap",
+   "contribution",
+   "irs",
+   "limits",
+   "means",
+   "money",
+   "raises",
+   "savings"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://globalnews.ca/news/12146781/csis-foreign-intelligence-canada-trumps-world/",
+  "title": "CSIS foreign powers could help Canada navigate an unreliable U.S.: experts",
+  "tokens": [
+   "canada",
+   "csis",
+   "experts",
+   "foreign",
+   "help",
+   "navigate",
+   "powers",
+   "unreliable"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+  "title": "Nvidia CEO Jensen Huang resigns in big blow to AI boom - Reuters",
+  "tokens": [
+   "big",
+   "blow",
+   "boom",
+   "ceo",
+   "huang",
+   "jensen",
+   "nvidia",
+   "resigns",
+   "reuters"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+  "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+  "tokens": [
+   "affairs",
+   "ceo",
+   "concerns",
+   "huang",
+   "jensen",
+   "live",
+   "nvidia",
+   "raise",
+   "resigns",
+   "security"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+  "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+  "tokens": [
+   "affair",
+   "ceo",
+   "details",
+   "huang",
+   "jensen",
+   "nvidia",
+   "revealed",
+   "steps"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1RYYVlNcjVQeGNHTUREclhvOXJQaEtpd2N5UmU2em9ZSTRQdTFJTjZlTGVBQTlSUGJuanhhXzV1cXNoVFBYbDk1aHNWeGpPcl9Hd2ZCM0w2YW95T1c3dFJUX0Z2WVF5cEZRNVBWaXNTRF9nOElKbnFuN3g1R0lXdTViRXpQclFxR2dyR0hpVlIxSk81?oc=5",
+  "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight - Reuters",
+  "tokens": [
+   "ceo",
+   "huang",
+   "jensen",
+   "nvidia",
+   "reuters",
+   "spotlight",
+   "ties",
+   "trump's"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+  "title": "Nvidia\u2019s Jensen Huang to testify to Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO \u2013 follow live",
+  "tokens": [
+   "ceo",
+   "cfo",
+   "colette",
+   "congress",
+   "follow",
+   "him",
+   "huang",
+   "interim",
+   "jensen",
+   "kress",
+   "live",
+   "nvidia",
+   "replaces",
+   "scandal",
+   "testify"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+  "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+  "tokens": [
+   "colom",
+   "election",
+   "hyde",
+   "incumbent",
+   "mississippi",
+   "republican",
+   "scott",
+   "senate",
+   "smith",
+   "wins"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+  "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+  "tokens": [
+   "backs",
+   "group",
+   "guard",
+   "hegseth's",
+   "memorial",
+   "pentagon",
+   "reprimanded",
+   "war"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+  "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+  "tokens": [
+   "black",
+   "colom",
+   "last",
+   "men",
+   "mississippi",
+   "scott",
+   "senators",
+   "two"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+  "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+  "tokens": [
+   "19th",
+   "black",
+   "century",
+   "colom",
+   "democrat",
+   "first",
+   "history",
+   "makes",
+   "mississippi's",
+   "scott",
+   "senator",
+   "since"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+  "title": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit - Reuters",
+  "tokens": [
+   "assess",
+   "ceo's",
+   "exit",
+   "fallout",
+   "investors",
+   "losses",
+   "nvidia",
+   "pare",
+   "reuters",
+   "stocks"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+  "title": "Nvidia board weighs CEO Huang's future as leadership crisis deepens - Reuters",
+  "tokens": [
+   "board",
+   "ceo",
+   "crisis",
+   "deepens",
+   "future",
+   "huang's",
+   "leadership",
+   "nvidia",
+   "reuters",
+   "weighs"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
+  "title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
+  "tokens": [
+   "apple",
+   "ceo",
+   "cook",
+   "huang",
+   "legend'",
+   "nvidia",
+   "replace",
+   "reuters",
+   "trump"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDQ3c0otcnRoeXI2Y1dUOWhpLV9HNFVRMkVBWmRGdF95b1NCek5yRy10aDRSS3VlNkNMcURnQ3RaWlA0Y1hiRmhpckZpX3NzdWlNLXJPZGtCRnFzQ2xFX0o1a0d2SDN6SmNHM3RJSEdST1IzdE9VcVhKUDc3NjFPbTlYa3o0UkhkeHYzLTFNX05QZDdMb0g4bWQ5aV83NGZvYVFDaDhEVG1aN1d0UC1GclBXQlRWT1VRdzJGMEl2QmJ4eEREWUNv?oc=5",
+  "title": "Stock tips with a beat: Samsung Securities' AI K-pop group racks up views - Reuters",
+  "tokens": [
+   "beat",
+   "group",
+   "pop",
+   "racks",
+   "reuters",
+   "samsung",
+   "securities'",
+   "stock",
+   "tips",
+   "views"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFBGZG9jUFFjX0tFY2tXSEVILWxGWU1rMzBvT1pTcUpqa2tEdEV0QWRybENzel9tU3hIQVhmTngyY3VGRGZZeGtCWDhEWm1oRXBzVWlGRnhwRzJrd0Z5bGZhUi1STHFLdFdLVnhoRUxMOW42MkNSSjNZX3JQR0o3OVpBSE10bE1kekw3OVVXYXVub0NzekN5NE4zb1JpRzB6Zjl2V1pTWFEteUQ1Q0hxd2lhLV9JLXloLVJqbWhUQ1pmN21H?oc=5",
+  "title": "Speaker Johnson says Congress developing consensus on limiting chip exports to China - Reuters",
+  "tokens": [
+   "china",
+   "chip",
+   "congress",
+   "consensus",
+   "developing",
+   "exports",
+   "johnson",
+   "limiting",
+   "reuters",
+   "speaker"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjBfMHFEMWtxaW56eGgzUTV3TUtJajZJUmdaS2NzY2tkY1I0aFhlYTRlZ3pNVVViQ01HQU5kTHNzWWxaUlJnZGRVekU2VUlIdlRtQnVZMGV1QjdzbGliNkgzWVFiemVWdkFleTMtTEdpU0NPQnl3bERNR3Z6dHh0NVBIWkh0ci01VmJXcVhUYTVXYUREejJUVUFLeXQ1WmMwSEszb0xnTFFEM3JpZTE0RHdXUjgwYU5neXViclZhYkUwdw?oc=5",
+  "title": "Public funds ploughing cash into AI will 'own' megatrends shaping economy - Reuters",
+  "tokens": [
+   "'own'",
+   "cash",
+   "economy",
+   "funds",
+   "megatrends",
+   "ploughing",
+   "public",
+   "reuters",
+   "shaping"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+  "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+  "tokens": [
+   "disrupted",
+   "envoys",
+   "meet",
+   "military",
+   "moscow",
+   "putin",
+   "starlink",
+   "ukraine"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+  "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+  "tokens": [
+   "'we've",
+   "constant",
+   "drone",
+   "got",
+   "inside",
+   "plant",
+   "power",
+   "ruined",
+   "run'",
+   "threat",
+   "ukraine"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+  "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+  "tokens": [
+   "bomb",
+   "evacuations",
+   "force",
+   "fresh",
+   "hoax",
+   "italian",
+   "schools",
+   "suspected",
+   "threats"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+  "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+  "tokens": [
+   "charity",
+   "dollars",
+   "ebola",
+   "millions",
+   "missing",
+   "spreads",
+   "staff",
+   "unpaid",
+   "virus",
+   "while"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+  "title": "Five new miniature frog species found in eastern Himalayas",
+  "tokens": [
+   "eastern",
+   "five",
+   "found",
+   "frog",
+   "himalayas",
+   "miniature",
+   "species"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+  "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+  "tokens": [
+   "die",
+   "four",
+   "girls",
+   "investigated",
+   "oranges",
+   "poisoning",
+   "school",
+   "suspected",
+   "uganda"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/stellantis-carney-deal-plant-9.7418797?cmp=rss",
+  "title": "Carney aware of 'some aspects' of Stellantis auto plant sale, but says company still broke deal",
+  "tokens": [
+   "'some",
+   "aspects'",
+   "auto",
+   "aware",
+   "broke",
+   "carney",
+   "company",
+   "deal",
+   "plant",
+   "sale",
+   "stellantis",
+   "still"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/health/prostate-cancer-screening-update-50s-9.7419249?cmp=rss",
+  "title": "The U.S. is now urging middle-aged men to routinely screen for prostate cancer. What about Canada?",
+  "tokens": [
+   "aged",
+   "canada",
+   "cancer",
+   "men",
+   "middle",
+   "prostate",
+   "routinely",
+   "screen",
+   "urging"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/ottawa/rideau-canal-skateway-ottawa-artificial-freezing-refrigeration-9.7419107?cmp=rss",
+  "title": "NCC mulling refrigerating downtown end of Rideau Canal",
+  "tokens": [
+   "canal",
+   "downtown",
+   "end",
+   "mulling",
+   "ncc",
+   "refrigerating",
+   "rideau"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/nvidia-chips-china-ban-9.7416670?cmp=rss",
+  "title": "How China gets around the U.S. ban on Nvidia chips",
+  "tokens": [
+   "around",
+   "ban",
+   "china",
+   "chips",
+   "gets",
+   "nvidia"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss",
+  "title": "Canada has the opportunity to become a global LNG leader, new report says",
+  "tokens": [
+   "become",
+   "canada",
+   "global",
+   "leader",
+   "lng",
+   "opportunity"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379?cmp=rss",
+  "title": "LinkedIn, Monster take down over 1,000 fake job postings after CBC investigation",
+  "tokens": [
+   "000",
+   "cbc",
+   "fake",
+   "investigation",
+   "job",
+   "linkedin",
+   "monster",
+   "postings",
+   "take"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+  "title": "The Jensen Huang scandal is hardly over",
+  "tokens": [
+   "hardly",
+   "huang",
+   "jensen",
+   "scandal"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+  "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang\u2019s exit",
+  "tokens": [
+   "ceo",
+   "exit",
+   "face",
+   "fighting",
+   "huang",
+   "hugging",
+   "jensen",
+   "keep",
+   "open",
+   "source",
+   "vows"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+  "title": "The amazing disappearing exoplanet",
+  "tokens": [
+   "amazing",
+   "disappearing",
+   "exoplanet"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+  "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+  "tokens": [
+   "agents",
+   "airlines",
+   "blocks",
+   "booking",
+   "citing",
+   "cybersecurity",
+   "flights",
+   "risks",
+   "united"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+  "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+  "tokens": [
+   "cybertruck",
+   "diehards",
+   "elon",
+   "end",
+   "musk",
+   "plug",
+   "pulls",
+   "tesla",
+   "turn"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+  "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+  "tokens": [
+   "395",
+   "angle",
+   "debut",
+   "gemini",
+   "google",
+   "powered",
+   "privacy",
+   "pushes",
+   "smartglasses",
+   "starting"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://betakit.com/conexus-venture-capital-raises-additional-5-million-for-fund-ii/",
+  "title": "Conexus Venture Capital raises additional $5 million for Fund II",
+  "tokens": [
+   "additional",
+   "capital",
+   "conexus",
+   "fund",
+   "million",
+   "raises",
+   "venture"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/",
+  "title": "Jensen Huang\u2019s Nvidia exit shakes European tech",
+  "tokens": [
+   "european",
+   "exit",
+   "huang",
+   "jensen",
+   "nvidia",
+   "shakes",
+   "tech"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
+  "title": "How Founders Can Reduce Platform Risk Before It Threatens Growth",
+  "tokens": [
+   "founders",
+   "growth",
+   "platform",
+   "reduce",
+   "risk",
+   "threatens"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://betakit.com/coraltalk-wants-universities-to-stop-chasing-ai-cheaters-and-start-measuring-learning/",
+  "title": "Coraltalk wants universities to stop chasing AI cheaters and start measuring learning",
+  "tokens": [
+   "chasing",
+   "cheaters",
+   "coraltalk",
+   "learning",
+   "measuring",
+   "start",
+   "stop",
+   "universities",
+   "wants"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://sifted.eu/articles/sifted-podcast-northzone-northstars/",
+  "title": "Why is Northzone betting on scouts as Sequoia walks away?",
+  "tokens": [
+   "away",
+   "betting",
+   "northzone",
+   "scouts",
+   "sequoia",
+   "walks"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
+  "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
+  "tokens": [
+   "chasing",
+   "even",
+   "fake",
+   "falls",
+   "favor",
+   "meat",
+   "protein",
+   "still",
+   "vcs"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones/",
+  "title": "Instead of stockpiling small attack drones, Army looking to simply buy new ones",
+  "tokens": [
+   "army",
+   "attack",
+   "buy",
+   "drones",
+   "instead",
+   "looking",
+   "ones",
+   "simply",
+   "small",
+   "stockpiling"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars-ep-1/417183/",
+  "title": "Defense One Futures: Robot Wars Ep. 1",
+  "tokens": [
+   "defense",
+   "futures",
+   "one",
+   "robot",
+   "wars"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
+  "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
+  "tokens": [
+   "analyze",
+   "germany",
+   "imagery",
+   "military",
+   "poland",
+   "satellite",
+   "satim",
+   "tap"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.defensenews.com/global/europe/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford/",
+  "title": "3 Iranian-backed men indicted in attempted plot on RAF Fairford",
+  "tokens": [
+   "attempted",
+   "backed",
+   "fairford",
+   "indicted",
+   "iranian",
+   "men",
+   "plot",
+   "raf"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war/",
+  "title": "Cry \u2018drone,\u2019 and let slip the fruit flies of war",
+  "tokens": [
+   "cry",
+   "drone",
+   "flies",
+   "fruit",
+   "let",
+   "slip",
+   "war"
+  ],
+  "date": "2026-11-12"
+ },
+ {
+  "link": "https://www.defenseone.com/ideas/2026/11/keep-us-troops-natos-kfor/417171/",
+  "title": "Keep US troops in NATO\u2019s KFOR",
+  "tokens": [
+   "keep",
+   "kfor",
+   "nato",
+   "troops"
+  ],
+  "date": "2026-11-12"
  }
 ]
