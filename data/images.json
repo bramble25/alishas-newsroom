@@ -1,8 +1,4 @@
 {
- "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/": {
-  "seen": "2026-09-15",
-  "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg"
- },
  "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/": {
   "seen": "2026-10-02",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg"
@@ -10,10 +6,6 @@
  "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
   "seen": "2026-09-23",
   "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg"
- },
- "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
-  "seen": "2026-09-15",
-  "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg"
  },
  "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/": {
   "seen": "2026-10-03",
@@ -287,10 +279,6 @@
   "seen": "2026-09-22",
   "src": "https://mms.businesswire.com/media/20260922157099/en/2903997/5/voxela.jpg"
  },
- "https://globalnews.ca/news/12059703/donald-trump-tariffs-50-per-cent/": {
-  "seen": "2026-09-15",
-  "src": "https://globalnews.ca/wp-content/uploads/2026/09/New-Tariffs-e1789475549580.jpg?quality=65&strip=all"
- },
  "https://globalnews.ca/news/12062854/openai-ai-breaches-hugging-face/": {
   "seen": "2026-09-17",
   "src": "https://globalnews.ca/wp-content/uploads/2026/09/OpenAI-Breaches.jpg-e1789653638346.jpg?quality=65&strip=all"
@@ -391,6 +379,10 @@
   "seen": "2026-11-09",
   "src": "https://globalnews.ca/wp-content/uploads/2026/11/0245913630afaabe6ae0874edc4290ea67a428cc17810dbc7a86cd951463f369_3e6b45.jpg?quality=65&strip=all"
  },
+ "https://globalnews.ca/news/12146469/edmonton-clinic-launches-albertas-first-self-referral-insulin-pump-program/": {
+  "seen": "2026-11-15",
+  "src": "https://globalnews.ca/wp-content/uploads/2026/11/Screenshot-2026-11-11-115732.png"
+ },
  "https://globalnews.ca/news/12146781/csis-foreign-intelligence-canada-trumps-world/": {
   "seen": "2026-11-12",
   "src": "https://globalnews.ca/wp-content/uploads/2026/06/7e28655d059137bb17dc92ef65abd40c12b30d152a466733f0099c6309bb28eb.jpg?quality=65&strip=all"
@@ -480,11 +472,6 @@
   "src": null,
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeV9td1BqUmJJSFdwVDdma3pvNkZjOU00ZEUydXdzMjk3bWdEZjg1WHpqSUZCb0I1MzJYRGpNc3VvRXd1MTdtYUIwSlFEWDd4cjYtdk5RSTMzektucFYwV2hDY2tLQnJvZmw0YWRSOHZySlY4TC1ncjBZQnlhT3NvMXFOdU8wOFVSalNOcTlIZDJET2tJQ0ZTSzB5ZHFqMDZJTjVNQklsMWFnSlhUWlVKZzhCeWp3Mkt2R3JQZW9tR3lnQzlXelFRVWNEdHJEVlM0QWh0OA?oc=5": {
-  "seen": "2026-09-15",
-  "src": null,
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUS1wa08taHpWMlFhbXNObGh3a2hDRUs2a2wwd0F0Yk5MdTNHVVd4VWFsaTZJS1BzeThya3ZZTjRWTUdLcjFMT3BxbjhNSE9ROEZsQUJVdlFMTmxVZnVpZmdrM2tRSkk2X0E0NG1FMWdkTVZteXpzTzgtUFJaU2tXZ294S2xMS01neFVnSkRMYjV5UndYa3hJa2JwZVJkOHNJMzNiYmd2c1hqdGNyUWxZUDlvVmxHWWs4MFh5WS1PTF9YTExsaV92N01yZ1pwNDlqSDZsYw?oc=5": {
   "seen": "2026-10-09",
   "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Wladimir_and_Vitali_Klitschko_with_a_Starlink_user_terminal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -550,6 +537,11 @@
   "src": null,
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5": {
+  "seen": "2026-11-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/7042_lores-Ebola-Zaire-CDC_Photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTTludTZlWHBjdVd6VjI1LTlPQkhNWW90cDhvYjJHVnZqVElOalpNbTVBcHNoUGtIRTdhbGsxWE15WUFSRXA4b1p0bXl0cjV6R3h0RGxfMFpYM2N3cWJuZzJNenZaeVFsbFl2YzZpdzZVbEdENHRoUXdjRk1GSmRVRE50U0p1QVJaV3hFVk5zcFllOWVKSERBT0R0NmdzMW1SNFZicTZHajZ1WFRRUDE4S3d0QlZ3cjBoYzdwaGNqTWZWN1RJTHItZ0F0MlNUXzNjN2gxVTloWXkxR192c1E?oc=5": {
   "seen": "2026-10-07",
   "src": null,
@@ -608,11 +600,6 @@
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEJkSmdWRWVjeUJpX25jWTBVampHOVNfMGRvbmUwbkZwMDh1eEhOSVFFb3FyZkh0R1ZweldRb3ZhTGR0THZWb3Z5TGVGM09RREs0QWc3MnZfWExhaGhxSzR4VUFaeXN6RGpzQ3VENU01V1hvcW5GRjJRZkZEWlBWVjk1b18xb3RY?oc=5": {
   "seen": "2026-10-15",
   "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Re-publica_23_-_Tag_2_%2852955995685%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2swZ0ZXMUlmM25iamJCQWM5NWV1OG1yUHA0MWZwVkVyempxRGlyWGdXeDRuN25IYXdGb1J0a05HazdLSEtsZUNBNzlBWVA3cmtJVElCREdQeWx2amlXZnAxNHBFN1pZdnFVQ3NhYTBrbF9sMVhZM1Z2djlBUWdCcnkxNHJMMFJTOHJRSQ?oc=5": {
-  "seen": "2026-09-15",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Stocks_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa3VDS21LdGxMb2J2NWg5eU9sYVRrbURMMVo3M0txSV9iQnhWY2luTlZuY28xdGJyenhJQ3BrbGs3Y1kxRVpFanhiVWl4enM5ZEIzeFNPcURGTmdyN1NPaGd4QWlwaG14VlgzaXU0UDN5OERRMFJVVENLOVhYQUJ5U25Ebnc2SGY1OThaLQ?oc=5": {
@@ -980,6 +967,11 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2VWdEIwV05MTkNOZXNOVkdtMzhGclJKSXpOZ1MybGlKZ0JPc1oxbnFJNC11RFptUTBZT0wtX3oxWUc5cS1sclNRVVc4aXBqSlhfcFhZMlB2RWVwQ1ZQTVNLdGJMamZYM01Ya3lkNGhmb3VSMTZ4RWxvM19MMjA5X2pxUTRIT0VkWGFrZlUyd2ppY1ZsZ3l2U01GaFMtaTdWdy0zbi1IRFA?oc=5": {
+  "seen": "2026-11-15",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU92dlh4cVhyZkhtcW9aOEZyZXAwWERYNFdFQXBZZnREZVQ5TFplZnZjMHc0TzFSUWQ1WDN6aEg4a2ROb0g2SmZEWjhENHMybG9OTGJ6cTFCNWlqczROREpCV0tQU2VKbUFXMnZYeDBNTTh0MWNYS3lPZjBhWk5rR0dYYmpDcUhNc0stakhtWkR5OXA1M09nUVFIUUJaVGQ2NnlhT0JBMXo?oc=5": {
   "seen": "2026-09-29",
   "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/OliverBondFlats1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -1205,6 +1197,11 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVVVS3JFRUNCUXZuYVo1Slp2cUZ3U2t5aEFsY3JJbHpYWlVBdm1LOVBCOWJ5ajlnX1oyRjBKdG93NFNDSThmbVBIR0wtSXRzOGNvTzFMOThZOGpSeFpQSFBVa1FRWGl0MFZFanpjR05sWE1BTUQ0Y2kxUWd2Snk4UkdkRGZMYm9GUEJWMG9BZllFLUU5OXgwT2pXMnZzWVItMkJGVm5BVGRpRFB2S0E?oc=5": {
+  "seen": "2026-11-15",
+  "src": null,
+  "wiki": true
+ },
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5": {
   "seen": "2026-10-26",
   "src": null,
@@ -1288,11 +1285,6 @@
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5": {
   "seen": "2026-11-10",
   "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/2025_AI_Bubble_Speculation_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5": {
-  "seen": "2026-09-15",
-  "src": null,
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5": {
@@ -1393,11 +1385,6 @@
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelFpUlRuWUdrd3oyYkZTNkxFMW9mQlBTY01YTl9ERVRsYTc1VGNWQjR1VF90aEcwY01sTDNXN3NiWVBZNTY4aGVFSlR3WlBlb0laSkptRS1EMF9fMGlna1BXSVExN2dFVGlTNWMyQzYyM1RsYm5pMGxXOWxhbmp1UGRYVjk3RVA0b25WWVZPcFZMS05IOE1CTUgzY1BsQWY3MW5DbDF1bGs1M185UlM4cjlB?oc=5": {
   "seen": "2026-11-02",
   "src": null,
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWRwaEhkLTBZb2x1QWVSRFdiTTdienp6UV9UeW1CMnlKQi1VQ1VDYTlCcl9nV29NRDY1TkVwOEV2SndfU3hreUZtdUpfZl9sNWlLZnZBZGVral8zeHp2WWhxRUZqNmxYcS0zbjFVYVRNLVR4Slh6S05Lb0R5dlRPeVRBOFRtMzJwQk1ya1MtdXhGV2s1dE5JcDZ4dzZVNzhRbUNGYWtKR0NrWThNWE9scHV3?oc=5": {
-  "seen": "2026-09-15",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mitch_McConnell_2016_official_photo_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGhCNTc0bjdqTkxuZDdtOFpCZVd1TEdDQnpURXNYeGY1ZG9saHUyZGFBbTMzWF8zbzBmOHQyeERTMTlWaUo1eUVXdjAyUENTaEkwbGNsb2xteDdxWXFybS1GcjlKWWl4VU4xUGdVdk9wSE1PM3NSTktvYWRINUpESnp4bDJqMkhzR21ySDZKWVVBbzJ5NHpDeDJFNFh5MDdGcEpWbEkzU2dFWFZBVWhxR0pR?oc=5": {
@@ -1575,11 +1562,6 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/2788-2888_San_Tomas_Expwy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWQtY0pmajVTQ1p5SkFGaDZ4dFVRaUZPVkNRSWdrSVJaZWlzZjRPN25QWW51QUtqMTFSZ1V0Q28wbnFVWjFxVlZXTVgxTXV0VjNxanRHMGoxeXFEcGxPSG03OVQ2YkNTa0tsMVpoVnA1NElNcmJyLTludGQzYUdlU3h6UHJ2R2RzR1dnOE5aLXB5ZVhULUVmQkk4U1BJSHhsMk5Cd1hiWGtINHo3bkN1WndEcG0?oc=5": {
-  "seen": "2026-09-15",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUdNcjdZbmllaVAyMXh0ejFIWWl0NEE4WTlUVWxPT1l6ckw2T01aT0VZLUZfMHJHV0E1cF9jandEV1p4djJWa0t6cHJaVnhqUGNHRTNvZE1kQk9vZ2xWaG4tZDZOaVMxOXlkLWxxU3dhZDViTmltNXp2UldwdF9sX3U0NFNDR3pIMDd5M3RUc05OVk1VRnY0MlJ0bXVBNUZQMDZkWGR5bURMOTZkaDNocHZTdHk?oc=5": {
   "seen": "2026-10-16",
   "src": null,
@@ -1593,11 +1575,6 @@
  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlBTNlBkSzVNYUdnYUdqdDdXSUxPbGFmQkhtZXpFdmIxY0ZCN1dBUEhXT05Jd3lvelZOalJkQkJRTkppamVnSndpRzE5SzZZTHZNbE9sdkYwQ1FZakRMQnVXcnlQNTVGQUZCenlic1ZkYkxUMjY2aWo4MDF5X2Rma0w5TjVjcF9ycDl6YTdlUDJfZzE3dEpvMFdnWTZOb3RMaGRyMERRQTFKdklIOXB5TnlYMmwwUQ?oc=5": {
   "seen": "2026-11-03",
   "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
- "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhaN0cwc2JYajRRTXhWQ1FQZW5pclRTd1hVLWhCekNtQmRZcHBaVENFTXJLaVpNNWxPTU45SUphdENXM1pKNzZVbmJmZnBUTm5DREtvTTVjV1hIb0w1eVdYT0Fra3dmbDJKQzBIbjFXOC1vUjV4WWszM29vMEE0WjZzcDJhdUtJeDNlR2dvRFZac2pZSUJXM1RUbi1aUXBsU1FUZFFqV1NySWZ5b0I2ZjJyNVNFUQ?oc=5": {
-  "seen": "2026-09-15",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Logo_Senato_della_Repubblica.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGNZcXF1MzIzdnVYLWpLT2dwWmYwYVF2dDJDME1Cdl9HSVpfcVF0RE1XVnNEMVZuUmxBdnZFQlRqZlpraG5oaFdfbVhMSXc2OE5ZQ01ZR2JINm5FUTJCRmdOVF8zVHVUU3lRd25WWVRrRmxveGVOeUNnaG1XVDM4ZW51V0lONEtUV1NrLTFIMTZVSjFzMVpDZFVlLTh1UG9WWlhsdnJpRWVVOU1ZR0s3RVlUNlctZw?oc=5": {
@@ -2530,11 +2507,6 @@
   "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Katsura_Imperial_Villa_in_Spring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "wiki": true
  },
- "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5": {
-  "seen": "2026-09-15",
-  "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/TSMC_Global_R%EF%BC%86D_Center_at_night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-  "wiki": true
- },
  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVVsWWFIRkFSSHp4a1JRaW5lQjlwRXdmblNlZnhXQ0RJaVA3S3NjX2VmZjNDdDN3UERWVFRPVFN1UE9CMUEtMmtKbGZNNEdSM05OYVAySF9RNFlVdXVTQlp0N0NqX1hLc1BMR19qNXNmTmIzakthU0NBdlRmclhaMmhzcFRtNWFQMkI1RkkyaGJzV1FZOEptSlBkNnRGcThGa3BrTndZTE00VXd3cnE3My10X0MxWlFyNDZlZ3B1Tnc5emdJV1R2Zg?oc=5": {
   "seen": "2026-11-05",
   "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
@@ -2762,18 +2734,6 @@
  "https://ottawacitizen.com/ottawa-senators/ottawa-senators-television-costs": {
   "seen": "2026-09-28",
   "src": "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2026/09/2296821204_305376049.jpg"
- },
- "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
-  "seen": "2026-09-15",
-  "src": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?resize=1200,800"
- },
- "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/": {
-  "seen": "2026-09-15",
-  "src": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?resize=1200,675"
- },
- "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/": {
-  "seen": "2026-09-15",
-  "src": "https://techcrunch.com/wp-content/uploads/2026/09/Evvy-founders.jpg?resize=1200,810"
  },
  "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/": {
   "seen": "2026-09-16",
@@ -3175,6 +3135,10 @@
   "seen": "2026-09-19",
   "src": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AI_Nazzaro_AdobeStock.jpg?w=900"
  },
+ "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/": {
+  "seen": "2026-11-15",
+  "src": "https://thehill.com/wp-content/uploads/sites/2/2026/11/bessentscott_lutnickhoward_080625ap01_w.jpg?w=900"
+ },
  "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss": {
   "seen": "2026-10-09",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac90702-1791559426.jpg?resize=1920%2C1440"
@@ -3278,10 +3242,6 @@
  "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss": {
   "seen": "2026-09-25",
   "src": "https://www.aljazeera.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-11.04.54-1790330803.png?resize=1200%2C675"
- },
- "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit": {
-  "seen": "2026-09-15",
-  "src": "https://images.axios.com/jOyQ8U61_U6tpao_h8X-9hp9Ysc=/0x203:4724x2860/1366x768/2026/09/14/1789413975002.jpeg"
  },
  "https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers": {
   "seen": "2026-09-16",
@@ -3479,10 +3439,6 @@
   "seen": "2026-10-08",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab69/live/59fe1be0-c30e-11f1-a64c-550be9e3c66b.jpg"
  },
- "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss": {
-  "seen": "2026-09-15",
-  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa0/live/029e2b90-b0dc-11f1-b1d1-571ed4d7ff2c.jpg"
- },
  "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-21",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6abe/live/928bf9e0-b5ae-11f1-8d1d-a985658d9d3a.jpg"
@@ -3519,6 +3475,10 @@
   "seen": "2026-09-30",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg"
  },
+ "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+ },
  "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-30",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg"
@@ -3535,6 +3495,10 @@
   "seen": "2026-10-24",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg"
  },
+ "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
+ },
  "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-30",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
@@ -3546,6 +3510,10 @@
  "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-11-12",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/8aa36db0-de8c-11f1-9afe-1f03bfe02283.png"
+ },
+ "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
  },
  "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-04",
@@ -3623,6 +3591,10 @@
   "seen": "2026-10-10",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg"
  },
+ "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
+ },
  "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-09-18",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a3/live/c414c590-b32a-11f1-b1d1-571ed4d7ff2c.jpg"
@@ -3630,6 +3602,10 @@
  "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-11-06",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6243/live/f34ef550-d982-11f1-9367-d509fddfe31c.jpg"
+ },
+ "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
  },
  "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-26",
@@ -3698,6 +3674,10 @@
  "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-01",
   "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4257/live/b16f52c0-bdb1-11f1-a64c-550be9e3c66b.jpg"
+ },
+ "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss": {
+  "seen": "2026-11-15",
+  "src": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
  },
  "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss": {
   "seen": "2026-10-14",
@@ -4055,6 +4035,10 @@
   "seen": "2026-10-07",
   "src": "https://i.cbc.ca/ais/c4ca38b0-a2ed-446d-9727-258cf09556ce,1791385310446/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C248%2C4750%2C2671%29%3B"
  },
+ "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688?cmp=rss": {
+  "seen": "2026-11-15",
+  "src": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B"
+ },
  "https://www.cbc.ca/news/canada/montreal/quebec-maple-syrup-reserves-nearly-depleted-9.7386889?cmp=rss": {
   "seen": "2026-10-20",
   "src": "https://i.cbc.ca/ais/efbe15e0-7198-4e03-bff1-f40bbd51efa8,1792429630274/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C204%2C7445%2C4187%29%3B"
@@ -4078,6 +4062,10 @@
  "https://www.cbc.ca/news/canada/nova-scotia/high-liner-foods-bought-umios-9.7396091?cmp=rss": {
   "seen": "2026-10-26",
   "src": "https://i.cbc.ca/ais/1.5542546,1587658963000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+ },
+ "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636?cmp=rss": {
+  "seen": "2026-11-15",
+  "src": "https://i.cbc.ca/ais/3a9c8b1d-6765-4b5d-a83f-9ed330b32d1b,1794745798365/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C69%2C1206%2C678%29%3B"
  },
  "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-artificial-intelligence-9.7383129?cmp=rss": {
   "seen": "2026-10-16",
@@ -4126,10 +4114,6 @@
  "https://www.cbc.ca/news/canada/saskatchewan/sask-alberta-elon-musk-provincial-separation-9.7374079?cmp=rss": {
   "seen": "2026-10-08",
   "src": "https://i.cbc.ca/ais/9cd9a3cd-715b-4131-9f98-da09fc2bb93f,1791475399738/full/max/0/default.jpg?im=Crop%2Crect%3D%282036%2C813%2C4683%2C2634%29%3B"
- },
- "https://www.cbc.ca/news/canada/saskatoon/bell-canada-ai-data-centre-size-expansion-investment-9.7343780?cmp=rss": {
-  "seen": "2026-09-15",
-  "src": "https://i.cbc.ca/ais/9bbf656a-d4ed-4ede-becb-7f31f97d64cd,1789422589754/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
  },
  "https://www.cbc.ca/news/canada/the-alberta-question-9.7371294?cmp=rss": {
   "seen": "2026-10-09",
@@ -4198,6 +4182,10 @@
  "https://www.cbc.ca/news/entertainment/presley-gerber-obit-cindy-crawford-son-9.7351765?cmp=rss": {
   "seen": "2026-09-21",
   "src": "https://i.cbc.ca/ais/aed15b43-c672-47b1-abc4-afbf2533812a,1790002202228/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C3728%2C2097%29%3B"
+ },
+ "https://www.cbc.ca/news/entertainment/rock-roll-hall-of-fame-ceremony-9.7422731?cmp=rss": {
+  "seen": "2026-11-15",
+  "src": "https://i.cbc.ca/ais/88f3fd2c-cd7e-42eb-a03f-e074e8743f3a,1794753076181/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
  },
  "https://www.cbc.ca/news/entertainment/russell-brand-convicted-rape-sexual-assault-9.7410334?cmp=rss": {
   "seen": "2026-11-05",
@@ -4326,10 +4314,6 @@
  "https://www.cbc.ca/news/politics/counter-drone-sandbox-competition-alberta-9.7382438?cmp=rss": {
   "seen": "2026-10-17",
   "src": "https://i.cbc.ca/ais/6ca87128-e1ed-43d7-8ca2-5e5760113fae,1792170293190/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
- },
- "https://www.cbc.ca/news/politics/cra-pandemic-benefit-clawbacks-cerb-cra-maytree-report-9.7330433?cmp=rss": {
-  "seen": "2026-09-15",
-  "src": "https://i.cbc.ca/ais/8ca3e5fc-bda9-4288-a316-84f28b6c90c9,1788390693479/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
  },
  "https://www.cbc.ca/news/politics/csis-hiring-bottlenecks-9.7367013?cmp=rss": {
   "seen": "2026-10-04",
@@ -4627,10 +4611,6 @@
   "seen": "2026-11-07",
   "src": "https://i.cbc.ca/ais/7eebbc15-abf4-4a9a-ad48-1dc493cfa485,1794065929828/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
  },
- "https://www.cbc.ca/news/world/mail-in-voting-us-supreme-court-rejection-trump-9.7343984?cmp=rss": {
-  "seen": "2026-09-15",
-  "src": "https://i.cbc.ca/ais/d190afc6-8aed-4447-8896-69cc6cb09fa2,1789430938679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C187%2C3600%2C2025%29%3B"
- },
  "https://www.cbc.ca/news/world/mexico-tourism-canada-9.7354784?cmp=rss": {
   "seen": "2026-09-23",
   "src": "https://i.cbc.ca/ais/4cb0e2e3-4622-45d4-adc2-4eefe1225ad6,1790135743216/full/max/0/default.jpg?im=Crop%2Crect%3D%28324%2C67%2C3710%2C2086%29%3B"
@@ -4639,9 +4619,9 @@
   "seen": "2026-11-12",
   "src": "https://i.cbc.ca/ais/2d673017-a046-48e2-969d-e243f260bfbb,1794471217169/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C2057%2C1157%29%3B"
  },
- "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227?cmp=rss": {
-  "seen": "2026-09-15",
-  "src": "https://i.cbc.ca/ais/caa14a24-e548-4198-8d7a-40e9ae226790,1789464382253/full/max/0/default.jpg?im=Crop%2Crect%3D%2823%2C0%2C3575%2C2010%29%3B"
+ "https://www.cbc.ca/news/world/new-orleans-tanker-cruise-ship-chinese-ownership-sue-9.7422329?cmp=rss": {
+  "seen": "2026-11-15",
+  "src": "https://i.cbc.ca/ais/f0a178cd-f339-4145-8788-b4743c6ce0d1,1794685498691/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C62%2C2882%2C1621%29%3B"
  },
  "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss": {
   "seen": "2026-11-12",
@@ -4766,10 +4746,6 @@
  "https://www.cbc.ca/news/world/unga-zelenskyy-rubio-lavrov-russia-ukraine-war-9.7354849?cmp=rss": {
   "seen": "2026-09-23",
   "src": "https://i.cbc.ca/ais/230f70ba-520d-4125-a81b-fd67cf5e8bf7,1790165445123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6048%2C3402%29%3B"
- },
- "https://www.cbc.ca/news/world/united-nations-bodies-recovered-gaza-9.7344274?cmp=rss": {
-  "seen": "2026-09-15",
-  "src": "https://i.cbc.ca/ais/09914e8e-6e89-4ce6-b819-11acd18a315c,1789472510522/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C449%2C6000%2C3375%29%3B"
  },
  "https://www.cbc.ca/news/world/us-execution-firing-squad-fort-hood-9.7375621?cmp=rss": {
   "seen": "2026-10-09",
@@ -5259,6 +5235,10 @@
   "seen": "2026-11-14",
   "src": "https://image.cnbcfm.com/api/v1/image/108464324-1793023646338-gettyimages-2279058111-BLOOMBERG_TECH.jpeg?v=1793023666&w=1920&h=1080"
  },
+ "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html": {
+  "seen": "2026-11-15",
+  "src": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&w=1920&h=1080"
+ },
  "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html": {
   "seen": "2026-10-12",
   "src": "https://image.cnbcfm.com/api/v1/image/108374361-1791402786453-gettyimages-2298479306-MICROSOFT_NVIDIA.jpeg?v=1791402821&w=1920&h=1080"
@@ -5407,6 +5387,10 @@
   "seen": "2026-11-09",
   "src": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg"
  },
+ "https://www.france24.com/en/are-we-too-reliant-on-technology-questions-arise-after-microsoft-s-widespread-outages": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/ce0cd38e-e0e9-11f1-9f1d-5f54d898a954/w:1024/p:16x9/2026-11-13T173221Z-378621988-RC25NOA5EH6J-RTRMADP-3-MICROSOFT-OUTAGES.jpg"
+ },
  "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand": {
   "seen": "2026-10-03",
   "src": "https://s.france24.com/media/display/d3d5e108-bed3-11f1-8d0c-13420ab900a2/w:1024/p:16x9/33573f643956faa9ed06abffc2ea828d225eaae2.jpg"
@@ -5422,6 +5406,10 @@
  "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls": {
   "seen": "2026-10-04",
   "src": "https://s.france24.com/media/display/148e8480-bff5-11f1-baa5-13e372f41e70/w:1024/p:16x9/EN-20261004-140634-141113-CS.jpg"
+ },
+ "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/b4a8bc10-e0fc-11f1-92b7-29048b396e03/w:1024/p:16x9/2026-11-15T112739Z-857398562-RC2138AW8TLP-RTRMADP-3-NVIDIA-CEO.jpg"
  },
  "https://www.france24.com/en/did-trump-really-obtain-permanent-control-over-greenland": {
   "seen": "2026-09-19",
@@ -5459,6 +5447,10 @@
   "seen": "2026-09-19",
   "src": "https://s.france24.com/media/display/38d1d742-b42a-11f1-aa92-9ff5c3f464d4/w:1024/p:16x9/EN-20260919-131011-131847-CS.jpg"
  },
+ "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/c9d5d0c4-e100-11f1-b165-29048b396e03/w:1024/p:16x9/EN-20261115-082508-082646-CS-01.jpg"
+ },
  "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality": {
   "seen": "2026-09-27",
   "src": "https://s.france24.com/media/display/d9ff2430-ba4c-11f1-a586-555a0aff87a4/w:1024/p:16x9/EN-20260927-091003-091208-CS.jpg"
@@ -5475,6 +5467,14 @@
   "seen": "2026-10-04",
   "src": "https://s.france24.com/media/display/c3f74796-bffe-11f1-9791-578a4b968fd6/w:1024/p:16x9/EN-WB-TECH24-effective-altruism-confessional-1.png"
  },
+ "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/b4a8bc10-e0fc-11f1-92b7-29048b396e03/w:1024/p:16x9/2026-11-15T112739Z-857398562-RC2138AW8TLP-RTRMADP-3-NVIDIA-CEO.jpg"
+ },
+ "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/f68e5f6c-e0fd-11f1-91ae-f71d22e7fea9/w:1024/p:16x9/2026-11-14T154335Z-516903887-RC2ONOAT735S-RTRMADP-3-USA-FAA-GROUND-STOP.jpg"
+ },
  "https://www.france24.com/en/video/20261011-trump-zelensky-clash-over-diesel-deal-as-russian-strikes-kill-21": {
   "seen": "2026-10-11",
   "src": "https://s.france24.com/media/display/14ffaa84-c559-11f1-b8e4-e362370cce2e/w:1024/p:16x9/EN-20261011-110713-110852-CS.jpg"
@@ -5482,6 +5482,10 @@
  "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial": {
   "seen": "2026-10-17",
   "src": "https://s.france24.com/media/display/b6f6a546-ca12-11f1-b899-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261016-214549-214734-CS.jpg"
+ },
+ "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership": {
+  "seen": "2026-11-15",
+  "src": "https://s.france24.com/media/display/a2d6cf0e-e0ed-11f1-b351-29048b396e03/w:1024/p:16x9/EN-20261115-100632-100811-CS.jpg"
  },
  "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes": {
   "seen": "2026-09-16",
@@ -5574,6 +5578,10 @@
  "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary": {
   "seen": "2026-11-08",
   "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3208+0+0/resize/4492x3208!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg"
+ },
+ "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks": {
+  "seen": "2026-11-15",
+  "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg"
  },
  "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups": {
   "seen": "2026-10-09",
@@ -5691,10 +5699,6 @@
   "seen": "2026-10-20",
   "src": "https://i.guim.co.uk/img/media/3ae335b7e0e881c618a8eb3edcc27734c745f17e/510_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=6008d42a0880c33dbf6a7d28fb6573cb"
  },
- "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr": {
-  "seen": "2026-09-15",
-  "src": "https://i.guim.co.uk/img/media/444c0d99d8956790de78ed45e4bcb7e03273f00c/529_0_5316_4252/master/5316.jpg?width=140&quality=85&auto=format&fit=max&s=1a1db47614eb88a8c5459986c4e85f7f"
- },
  "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians": {
   "seen": "2026-09-20",
   "src": "https://i.guim.co.uk/img/media/af3ebb42e889135dd0ab4cd76f606d4bd8f86d33/232_0_1176_941/master/1176.jpg?width=140&quality=85&auto=format&fit=max&s=7e486bcca1346c093ef761d23d02ce30"
@@ -5758,10 +5762,6 @@
  "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates": {
   "seen": "2026-09-16",
   "src": "https://i.guim.co.uk/img/media/2ea035cb6bb39253a71bd78fcd279d1328c19192/305_0_3747_3000/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=975ad5b06e324b15cde38066a11dee5e"
- },
- "https://www.theguardian.com/science/2026/sep/15/us-confirms-first-time-it-has-deployed-weapons-space": {
-  "seen": "2026-09-15",
-  "src": "https://i.guim.co.uk/img/media/3875d16b209d713c2fd48a7fbccf12b5c38d1004/406_0_4079_3263/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=70eea4ad588fcf1b0209250caa769c0a"
  },
  "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise": {
   "seen": "2026-11-05",
@@ -5850,6 +5850,10 @@
  "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter": {
   "seen": "2026-11-14",
   "src": "https://i.guim.co.uk/img/media/b9e4afb12244d42b1757e3c9bf0b96ab8b538155/319_1051_2076_1661/master/2076.jpg?width=140&quality=85&auto=format&fit=max&s=d465c646db4d745092bd47fdb7fc9e7e"
+ },
+ "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag": {
+  "seen": "2026-11-15",
+  "src": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d"
  },
  "https://www.theguardian.com/us-news/2026/oct/01/spacex-nasa-watkins-launch": {
   "seen": "2026-10-01",
@@ -6042,10 +6046,6 @@
  "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates": {
   "seen": "2026-10-27",
   "src": "https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=140&quality=85&auto=format&fit=max&s=22a729b7734ff0f22c727a1e71a15f01"
- },
- "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates": {
-  "seen": "2026-09-15",
-  "src": "https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&quality=85&auto=format&fit=max&s=6c51247cdb74b2e7d314085df6b665fb"
  },
  "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates": {
   "seen": "2026-09-23",

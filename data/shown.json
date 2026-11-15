@@ -1,916 +1,5 @@
 [
  {
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWRpS29iTXprM2w3Z19wY0xITWVabHJwYi1qclpkU085VHQ3eGhlM0xscWRTVVNLLUJuN1pxazRiS05HM25oTThUXzE5eEV1RkZVcllpRHVpcVg2QjY3MWI1QXYySnI4ZjdzQWJoWlFxQk9SSTFTRFJmN21YWHFtc0UwV0ZmYUtxbFB4OW5QbGNoTTRoOXNmMzRZeHBlWUJ0MHhyeW1kUXE2RW5PM216THJOaw?oc=5",
-  "title": "Prince Harry and wife Meghan make first joint appearance since UK return - Reuters",
-  "tokens": [
-   "appearance",
-   "first",
-   "harry",
-   "joint",
-   "make",
-   "meghan",
-   "prince",
-   "return",
-   "reuters",
-   "since",
-   "wife"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-  "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-  "tokens": [
-   "attacks",
-   "brief",
-   "officials",
-   "oil",
-   "refineries",
-   "resumes",
-   "russian",
-   "truce",
-   "ukraine"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-  "title": "North Korea and China open new bridge after 12-year delay",
-  "tokens": [
-   "bridge",
-   "china",
-   "delay",
-   "korea",
-   "north",
-   "open",
-   "year"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.pbs.org/newshour/politics/trump-says-fort-hood-shooter-execution-wont-be-livestreamed-after-bipartisan-backlash",
-  "title": "Trump says Fort Hood shooter execution won't be livestreamed after bipartisan backlash",
-  "tokens": [
-   "backlash",
-   "bipartisan",
-   "execution",
-   "fort",
-   "hood",
-   "livestreamed",
-   "shooter",
-   "trump",
-   "won't"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
-  "title": "CoreWeave's slump puts spotlight on debt behind AI boom - Reuters",
-  "tokens": [
-   "behind",
-   "boom",
-   "coreweave's",
-   "debt",
-   "puts",
-   "reuters",
-   "slump",
-   "spotlight"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEJkSmdWRWVjeUJpX25jWTBVampHOVNfMGRvbmUwbkZwMDh1eEhOSVFFb3FyZkh0R1ZweldRb3ZhTGR0THZWb3Z5TGVGM09RREs0QWc3MnZfWExhaGhxSzR4VUFaeXN6RGpzQ3VENU01V1hvcW5GRjJRZkZEWlBWVjk1b18xb3RY?oc=5",
-  "title": "PODCAST: Tech stocks sink - Reuters",
-  "tokens": [
-   "podcast",
-   "reuters",
-   "sink",
-   "stocks",
-   "tech"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-  "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-  "tokens": [
-   "collapses",
-   "killed",
-   "least",
-   "pakistan",
-   "pupils",
-   "roof",
-   "school",
-   "teacher"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/politics/dfo-minister-to-china-9.7380262?cmp=rss",
-  "title": "Fisheries minister travelling to China ahead of lobster, crab tariff deadline",
-  "tokens": [
-   "ahead",
-   "china",
-   "crab",
-   "deadline",
-   "fisheries",
-   "lobster",
-   "minister",
-   "tariff",
-   "travelling"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
-  "title": "Two ships ablaze off Romanian Black Sea coast, 7 sailors missing - Reuters",
-  "tokens": [
-   "ablaze",
-   "black",
-   "coast",
-   "missing",
-   "off",
-   "reuters",
-   "romanian",
-   "sailors",
-   "sea",
-   "ships",
-   "two"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/edmonton/northern-alberta-metis-pipeline-consultation-9.7381360?cmp=rss",
-  "title": "M\u00e9tis leaders in oilsands region say they haven\u2019t been consulted on proposed Pacific Link pipeline",
-  "tokens": [
-   "consulted",
-   "haven",
-   "leaders",
-   "link",
-   "oilsands",
-   "pacific",
-   "pipeline",
-   "proposed",
-   "region",
-   "they",
-   "tis"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
-  "title": "Cohere moves to buy AI cybersecurity startup AISLE - Reuters",
-  "tokens": [
-   "aisle",
-   "buy",
-   "cohere",
-   "cybersecurity",
-   "moves",
-   "reuters",
-   "startup"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
-  "title": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters",
-  "tokens": [
-   "chinese",
-   "costs",
-   "data",
-   "dexforce",
-   "humanoid",
-   "reuters",
-   "robots",
-   "slash",
-   "startup",
-   "trains",
-   "using",
-   "virtual"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/samsung-canada-launches-ask-us-anything-to-answer-canadians-questions-about-foldable-phones",
-  "title": "Samsung Canada Launches Ask Us Anything to Answer Canadians\u2019 Questions About Foldable Phones",
-  "tokens": [
-   "answer",
-   "anything",
-   "ask",
-   "canada",
-   "canadians",
-   "foldable",
-   "launches",
-   "phones",
-   "questions",
-   "samsung"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-  "title": "Google\u2019s Universal Cart shopping tool launches in the US",
-  "tokens": [
-   "cart",
-   "google",
-   "launches",
-   "shopping",
-   "tool",
-   "universal"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://financialpost.com/pmn/business-wire-news-releases-pmn/true-launches-private-credit-practice-to-help-credit-based-asset-managers-navigate-complex-leadership-situations",
-  "title": "True Launches Private Credit Practice to Help Credit-Based Asset Managers Navigate Complex Leadership Situations",
-  "tokens": [
-   "asset",
-   "based",
-   "complex",
-   "credit",
-   "help",
-   "launches",
-   "leadership",
-   "managers",
-   "navigate",
-   "practice",
-   "private",
-   "situations",
-   "true"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/world/russia-ukraine-war-day-1695-9.7381475?cmp=rss",
-  "title": "Ukraine resumes attacks on Russian refineries, as Zelenskyy expresses frustration with U.S.",
-  "tokens": [
-   "attacks",
-   "expresses",
-   "frustration",
-   "refineries",
-   "resumes",
-   "russian",
-   "ukraine",
-   "zelenskyy"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-  "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
-  "tokens": [
-   "amazon",
-   "bee",
-   "devices",
-   "launches",
-   "personal",
-   "starting",
-   "two"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
-  "title": "Anthropic brings Wall Street an AI bull case",
-  "tokens": [
-   "anthropic",
-   "brings",
-   "bull",
-   "case",
-   "street",
-   "wall"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
-  "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
-  "tokens": [
-   "demanded",
-   "documents",
-   "ftc",
-   "giants",
-   "incidents",
-   "recent",
-   "safety",
-   "scoop"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-  "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-  "tokens": [
-   "beating",
-   "boom",
-   "estimates",
-   "posts",
-   "profit",
-   "quarter",
-   "record",
-   "sixth",
-   "straight",
-   "tsmc"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-  "title": "Trump says execution of Fort Hood shooter will not be streamed after bipartisan backlash \u2013 live",
-  "tokens": [
-   "backlash",
-   "bipartisan",
-   "execution",
-   "fort",
-   "hood",
-   "live",
-   "shooter",
-   "streamed",
-   "trump"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-  "title": "US lawmakers unveil bill to hold Wall Street\u2019s \u2018Epstein-connected\u2019 bosses to account",
-  "tokens": [
-   "account",
-   "bill",
-   "bosses",
-   "connected",
-   "epstein",
-   "hold",
-   "lawmakers",
-   "street",
-   "unveil",
-   "wall"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.defensenews.com/news/your-military/2026/10/15/pentagon-seeks-expertise-to-develop-brain-injury-assessment-standards/",
-  "title": "Pentagon seeks expertise to develop brain injury assessment standards",
-  "tokens": [
-   "assessment",
-   "brain",
-   "develop",
-   "expertise",
-   "injury",
-   "pentagon",
-   "seeks",
-   "standards"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.defensenews.com/land/2026/10/15/thales-australia-tackles-heavy-battlefield-logistics-with-new-big-rig-robot/",
-  "title": "Thales Australia tackles heavy battlefield logistics with new big-rig robot",
-  "tokens": [
-   "australia",
-   "battlefield",
-   "big",
-   "heavy",
-   "logistics",
-   "rig",
-   "robot",
-   "tackles",
-   "thales"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXhKVzZHdm5sb0NGM21DaUxfc3pIcTdWWjJwSWZxcjJXQnZkY3R1QVZBX3BTRm5XcUZnWXl1ekFXU2tWOTFIR0RmR01QSUFTREs3THR3V2xnT0w3VERUaXk2elVBd1hFMFoxb0d2TkNKZjJvU2J6eGtzdGY2dGtYbDhPQks1Q2VybjJna0xKaHdPcE1kMHl3Q0hIOURNV0JSMm94dk1xemNnaHU1TUNucGdtMndwOGND?oc=5",
-  "title": "Swedish parliament votes against Social Democrats leader as PM, as expected - Reuters",
-  "tokens": [
-   "against",
-   "democrats",
-   "expected",
-   "leader",
-   "parliament",
-   "reuters",
-   "social",
-   "swedish",
-   "votes"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
-  "title": "AI credit jitters drive US tech default insurance to record highs - Reuters",
-  "tokens": [
-   "credit",
-   "default",
-   "drive",
-   "highs",
-   "insurance",
-   "jitters",
-   "record",
-   "reuters",
-   "tech"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c?oc=5",
-  "title": "Albania's leader defies calls to resign as student protesters rampage in capital - Reuters",
-  "tokens": [
-   "albania's",
-   "calls",
-   "capital",
-   "defies",
-   "leader",
-   "protesters",
-   "rampage",
-   "resign",
-   "reuters",
-   "student"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnJoVHVWYWF3Z0hWc0FnbjBaN1FhT3VDZGEwbXdWcUNBS05sWDJRWmtoSU9JbW1ybmlPT1FqdGFWLTRtYXdFOWExMXVTVngxZ2dwYzhVY0tkMEtRZ2tYeHl0a1lQSGVET0pBWVBiQW1qbHpFcHJSdTlpUXRXWlBaeWd2Wnp3NXpCc0FxZnNxTG9rNzZFdVVNTDRQdHRJQXZ5aUJUUWR0Zi1XRmxiUndaeTFGQTNNU2JLYXM2eg?oc=5",
-  "title": "Trump says advanced defense test range to be located in Montana - Reuters",
-  "tokens": [
-   "advanced",
-   "defense",
-   "located",
-   "montana",
-   "range",
-   "reuters",
-   "test",
-   "trump"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHR0bzBmX1E0Y3RlbjBYNTQwY2dUSENTVFJ5ajc5aXo1bjFqWGpyRmVROERicENVczd6RWJSMHRYR3dEVWJKNDdaS25NNXVEQ29xTThlMXVjQk1NRjdyZkkwR3NVaktQYXd0YzZFcEdYbHhDZE1kXzZnY3JQeGpnLWNXRzRxTnV1emlYdS1mOEdTd2JBVTJfSkpHWlZva3g0UUFMNm9ORQ?oc=5",
-  "title": "Oil shipping costs spike, lifting prices from pump to grocery - Reuters",
-  "tokens": [
-   "costs",
-   "grocery",
-   "lifting",
-   "oil",
-   "prices",
-   "pump",
-   "reuters",
-   "shipping",
-   "spike"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUi1WX1drTTBKbnJ4b3dlMlJyRWQyem1jNGRKNk5CaXJYVDRDU0dFYWV0cnFsUlRaNkFHTDFsbHpsNUxjOHMwWlFNRDFXNmxPZUhtYTlVQW9RS2NxZWFQV0lobXlFel9DQ0NDaFYwVlQtNDJ1aHlrLVdYNzg2cTdrWW9wWjEwRnY5bVdTc3JudjRzQXc2Q3dGb3V2b3h3NmVlbFBNRUtTYTNFaTdOeWthekRhOVV1Vy1GTTZFSzJpSQ?oc=5",
-  "title": "Tim Cook says Apple Intelligence approved in China, The Paper reports - Reuters",
-  "tokens": [
-   "apple",
-   "approved",
-   "china",
-   "cook",
-   "intelligence",
-   "paper",
-   "reuters",
-   "tim"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-  "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-  "tokens": [
-   "accuses",
-   "attacking",
-   "oil",
-   "refinery",
-   "resume",
-   "russia",
-   "strikes",
-   "ukraine",
-   "zelensky"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-  "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-  "tokens": [
-   "calls",
-   "execution",
-   "firing",
-   "fort",
-   "hood",
-   "livestream",
-   "off",
-   "shooter's",
-   "squad",
-   "trump"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-  "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-  "tokens": [
-   "dead",
-   "governor",
-   "heaviest",
-   "istanbul",
-   "rainfall",
-   "two",
-   "years"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-  "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
-  "tokens": [
-   "ablaze",
-   "attack",
-   "coast",
-   "crew",
-   "drone",
-   "eight",
-   "leaves",
-   "missing",
-   "off",
-   "romania's",
-   "tanker"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-  "title": "White House defends new press secretary over her legal credentials",
-  "tokens": [
-   "credentials",
-   "defends",
-   "house",
-   "legal",
-   "press",
-   "secretary",
-   "white"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-  "title": "Obama says drift towards extremism 'not inevitable'",
-  "tokens": [
-   "'not",
-   "drift",
-   "extremism",
-   "inevitable'",
-   "obama",
-   "towards"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/world/trump-midterms-inflation-cost-of-living-gas-prices-9.7380647?cmp=rss",
-  "title": "How high inflation is hurting Trump's Republicans in U.S. midterm campaign",
-  "tokens": [
-   "campaign",
-   "high",
-   "hurting",
-   "inflation",
-   "midterm",
-   "republicans",
-   "trump's"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/first-person-albertans-don-t-realize-how-good-they-have-it-9.7370874?cmp=rss",
-  "title": "Living in Calgary showed me Albertans don't realize how good they have it, but their grievances are real",
-  "tokens": [
-   "albertans",
-   "calgary",
-   "don't",
-   "good",
-   "grievances",
-   "living",
-   "real",
-   "realize",
-   "showed",
-   "they"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/politics/chrystia-freeland-unreliable-boyfriend-memoir-9.7380824?cmp=rss",
-  "title": "In Unreliable Boyfriend, Chrystia Freeland details the rift between her and Trudeau",
-  "tokens": [
-   "between",
-   "boyfriend",
-   "chrystia",
-   "details",
-   "freeland",
-   "rift",
-   "trudeau",
-   "unreliable"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/canada/hamilton/stelco-layoffs-ottawa-weighs-legal-action-9.7380840?cmp=rss",
-  "title": "'Everything is on the table,' Joly says, as Ottawa weighs legal action over Stelco layoffs",
-  "tokens": [
-   "'everything",
-   "action",
-   "joly",
-   "layoffs",
-   "legal",
-   "ottawa",
-   "stelco",
-   "table",
-   "weighs"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/politics/hoekstra-watching-canada-election-interference-9.7380834?cmp=rss",
-  "title": "U.S. 'monitoring' Canada for signs of midterm election interference, ambassador says",
-  "tokens": [
-   "'monitoring'",
-   "ambassador",
-   "canada",
-   "election",
-   "interference",
-   "midterm",
-   "signs"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.cbc.ca/news/world/leap-second-decision-9.7381049?cmp=rss",
-  "title": "The 'leap second' could disappear. How a minor time adjustment became a major problem",
-  "tokens": [
-   "'leap",
-   "adjustment",
-   "became",
-   "disappear",
-   "major",
-   "minor",
-   "problem",
-   "second'",
-   "time"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming",
-  "title": "Trump calls off livestream of execution",
-  "tokens": [
-   "calls",
-   "execution",
-   "livestream",
-   "off",
-   "trump"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-  "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-  "tokens": [
-   "costing",
-   "fires",
-   "fridge",
-   "hack",
-   "millions",
-   "poor",
-   "security",
-   "sparking",
-   "stemmed"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-  "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
-  "tokens": [
-   "laptops",
-   "nvidia",
-   "optimized",
-   "rtx",
-   "spark",
-   "windows"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-  "title": "TechCrunch Disrupt 2026: Last day",
-  "tokens": [
-   "2026",
-   "day",
-   "disrupt",
-   "last",
-   "techcrunch"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-  "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-  "tokens": [
-   "coded",
-   "epic",
-   "faster",
-   "games",
-   "launcher",
-   "steam",
-   "vibe"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
-  "title": "An Israeli firm is sending spyware through online ads, researchers say",
-  "tokens": [
-   "ads",
-   "firm",
-   "israeli",
-   "online",
-   "researchers",
-   "sending",
-   "spyware",
-   "through"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://betakit.com/cohere-to-acquire-czech-ai-cybersecurity-firm-aisle-set-up-new-cyber-division/",
-  "title": "Cohere to acquire Czech AI cybersecurity firm Aisle, set up new cyber division",
-  "tokens": [
-   "acquire",
-   "aisle",
-   "cohere",
-   "cyber",
-   "cybersecurity",
-   "czech",
-   "division",
-   "firm",
-   "set"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/",
-  "title": "Nvidia unveils investments in five more UK startups",
-  "tokens": [
-   "five",
-   "investments",
-   "nvidia",
-   "startups",
-   "unveils"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/",
-  "title": "How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems",
-  "tokens": [
-   "autonomous",
-   "build",
-   "humans",
-   "systems",
-   "team"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/",
-  "title": "Nick Clegg on Europe, AI and big tech",
-  "tokens": [
-   "big",
-   "clegg",
-   "europe",
-   "nick",
-   "tech"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/",
-  "title": "Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds",
-  "tokens": [
-   "cybersecurity",
-   "investors",
-   "larger",
-   "mostly",
-   "put",
-   "quarter",
-   "rounds",
-   "third",
-   "work"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://betakit.com/canadian-entrepreneurs-are-doubling-down-on-growth-despite-tough-market-conditions-bdc/",
-  "title": "Canadian entrepreneurs are doubling down on growth despite tough market conditions: BDC",
-  "tokens": [
-   "bdc",
-   "canadian",
-   "conditions",
-   "despite",
-   "doubling",
-   "entrepreneurs",
-   "growth",
-   "market",
-   "tough"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact/",
-  "title": "As critical mineral deadline looms, Army expects to feel \u2018some impact\u2019",
-  "tokens": [
-   "army",
-   "critical",
-   "deadline",
-   "expects",
-   "feel",
-   "impact",
-   "looms",
-   "mineral"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.defenseone.com/policy/2026/10/hegseth-service-secretaries-discuss-generational-change-autonomous-warfare-command/416586/",
-  "title": "Hegseth, service secretaries discuss \u2018generational change\u2019 of Autonomous Warfare Command",
-  "tokens": [
-   "autonomous",
-   "change",
-   "command",
-   "discuss",
-   "generational",
-   "hegseth",
-   "secretaries",
-   "service",
-   "warfare"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/why-the-midterms-could-matter-for-ukraine-aid/",
-  "title": "Why the midterms could matter for Ukraine aid",
-  "tokens": [
-   "aid",
-   "matter",
-   "midterms",
-   "ukraine"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/",
-  "title": "US \u2018economic supremacy\u2019 key in the Western Hemisphere, top US Army general says",
-  "tokens": [
-   "army",
-   "economic",
-   "general",
-   "hemisphere",
-   "key",
-   "supremacy",
-   "top",
-   "western"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://www.defenseone.com/threats/2026/10/trump-foreign-influence-retreat/416587/",
-  "title": "Trump admin's retreat from foreign-influence fight is weakening US defenses, sources say",
-  "tokens": [
-   "admin's",
-   "defenses",
-   "fight",
-   "foreign",
-   "influence",
-   "retreat",
-   "sources",
-   "trump",
-   "weakening"
-  ],
-  "date": "2026-10-15"
- },
- {
-  "link": "https://breakingdefense.com/2026/10/hegseth-talks-autonomy-at-ausa-a-key-show-focus/",
-  "title": "Hegseth talks autonomy at AUSA, a key show focus",
-  "tokens": [
-   "ausa",
-   "autonomy",
-   "focus",
-   "hegseth",
-   "key",
-   "show",
-   "talks"
-  ],
-  "date": "2026-10-15"
- },
- {
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1c0QndtVk4wNndxTVotb1NmcVRRTGR4ODRWVVc0cm4zRlhvNnIyMDZKMUhNVVc3NXlGQndLQnFmNlp0RTE0cXFGYUlsMXEwVkRHNFpSVDFnVE9pS3J4anU0ckYzLTdhLUxnTEpTaENHOG9jTzMzOVkyS2hhTVoyNkkwRzZQc2owUnhBRGVJX2xZU2tiYzBkeDNnS2liNGZnd0tRUGVNTjJWUTQ?oc=5",
   "title": "Spain punished by FIFA for Islamophobic chants in Egypt friendly - Reuters",
   "tokens": [
@@ -27868,5 +26957,783 @@
    "submarine"
   ],
   "date": "2026-11-14"
+ },
+ {
+  "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+  "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+  "tokens": [
+   "ahead",
+   "blocks",
+   "course",
+   "golf",
+   "judge",
+   "moving",
+   "public",
+   "redevelopment",
+   "temporarily",
+   "trump",
+   "washington"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+  "title": "Iran targets US military base in Bahrain with drone attack",
+  "tokens": [
+   "attack",
+   "bahrain",
+   "base",
+   "drone",
+   "iran",
+   "military",
+   "targets"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+  "title": "Philippines wins first Eurovision Song Contest Asia",
+  "tokens": [
+   "asia",
+   "contest",
+   "eurovision",
+   "first",
+   "philippines",
+   "song",
+   "wins"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+  "title": "Czechs rally against plan to switch funding of public media",
+  "tokens": [
+   "against",
+   "czechs",
+   "funding",
+   "media",
+   "plan",
+   "public",
+   "rally",
+   "switch"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5",
+  "title": "Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters",
+  "tokens": [
+   "africa",
+   "cdc",
+   "control",
+   "declared",
+   "ebola",
+   "months",
+   "outbreak",
+   "reuters",
+   "since",
+   "six",
+   "still"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+  "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+  "tokens": [
+   "accountancy",
+   "admits",
+   "cheating",
+   "exam",
+   "korea's",
+   "scorer",
+   "south",
+   "tax",
+   "top"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688?cmp=rss",
+  "title": "Quebec Premier and PM Carney discuss U.S. trade, homelessness at first meeting in Cambodia",
+  "tokens": [
+   "cambodia",
+   "carney",
+   "discuss",
+   "first",
+   "homelessness",
+   "meeting",
+   "premier",
+   "quebec",
+   "trade"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/new-orleans-tanker-cruise-ship-chinese-ownership-sue-9.7422329?cmp=rss",
+  "title": "New Orleans port sues for control of China-linked tanker that crashed into cruise ship",
+  "tokens": [
+   "china",
+   "control",
+   "crashed",
+   "cruise",
+   "linked",
+   "orleans",
+   "port",
+   "ship",
+   "sues",
+   "tanker"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/entertainment/rock-roll-hall-of-fame-ceremony-9.7422731?cmp=rss",
+  "title": "Rock & Roll Hall of Fame ceremony full of emotions as Phil Collins, Queen Latifah, more inducted",
+  "tokens": [
+   "ceremony",
+   "collins",
+   "emotions",
+   "fame",
+   "full",
+   "hall",
+   "inducted",
+   "latifah",
+   "phil",
+   "queen",
+   "rock",
+   "roll"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636?cmp=rss",
+  "title": "'He lived and breathed it': NCAA football prospect from N.S. has died",
+  "tokens": [
+   "'he",
+   "breathed",
+   "died",
+   "football",
+   "it'",
+   "lived",
+   "ncaa",
+   "prospect"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+  "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+  "tokens": [
+   "2025",
+   "boss",
+   "china",
+   "left",
+   "linked",
+   "megaspeed",
+   "nvidia's",
+   "spy",
+   "suspected"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcVVVS3JFRUNCUXZuYVo1Slp2cUZ3U2t5aEFsY3JJbHpYWlVBdm1LOVBCOWJ5ajlnX1oyRjBKdG93NFNDSThmbVBIR0wtSXRzOGNvTzFMOThZOGpSeFpQSFBVa1FRWGl0MFZFanpjR05sWE1BTUQ0Y2kxUWd2Snk4UkdkRGZMYm9GUEJWMG9BZllFLUU5OXgwT2pXMnZzWVItMkJGVm5BVGRpRFB2S0E?oc=5",
+  "title": "VIDEO: Run faster, jump higher: World Athletics raises the bar for LA 2028 - Reuters",
+  "tokens": [
+   "2028",
+   "athletics",
+   "bar",
+   "faster",
+   "higher",
+   "jump",
+   "raises",
+   "reuters",
+   "run",
+   "video",
+   "world"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://globalnews.ca/news/12146469/edmonton-clinic-launches-albertas-first-self-referral-insulin-pump-program/",
+  "title": "Edmonton clinic launches Alberta\u2019s first self-referral insulin pump program",
+  "tokens": [
+   "alberta",
+   "clinic",
+   "edmonton",
+   "first",
+   "insulin",
+   "launches",
+   "program",
+   "pump",
+   "referral",
+   "self"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
+  "title": "US probes nationwide flights stoppage as travel disruptions persist",
+  "tokens": [
+   "disruptions",
+   "flights",
+   "nationwide",
+   "persist",
+   "probes",
+   "stoppage",
+   "travel"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/chinese-spy-chip-sales-trump-ties-the-nvidia-scandal-deepens",
+  "title": "Chinese spy, chip sales, Trump ties... The Nvidia scandal deepens",
+  "tokens": [
+   "chinese",
+   "chip",
+   "deepens",
+   "nvidia",
+   "sales",
+   "scandal",
+   "spy",
+   "ties",
+   "trump"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+  "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+  "tokens": [
+   "anthropic",
+   "bright",
+   "embattled",
+   "ipo",
+   "lands",
+   "looks",
+   "much",
+   "needed",
+   "spot",
+   "trade"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
+  "title": "Why the Nvidia scandal is bad news for Europe\u2019s AI ambitions",
+  "tokens": [
+   "ambitions",
+   "bad",
+   "europe",
+   "nvidia",
+   "scandal"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/are-we-too-reliant-on-technology-questions-arise-after-microsoft-s-widespread-outages",
+  "title": "Are we too reliant on technology? Questions arise after Microsoft's widespread outages",
+  "tokens": [
+   "arise",
+   "microsoft's",
+   "outages",
+   "questions",
+   "reliant",
+   "technology",
+   "widespread"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
+  "title": "Bessent, Congress zero in on Lutnick\u2019s role in Nvidia-Megaspeed scandal",
+  "tokens": [
+   "bessent",
+   "congress",
+   "lutnick",
+   "megaspeed",
+   "nvidia",
+   "role",
+   "scandal",
+   "zero"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+  "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+  "tokens": [
+   "805m",
+   "accessing",
+   "fines",
+   "italy",
+   "meta",
+   "photos",
+   "users'"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2VWdEIwV05MTkNOZXNOVkdtMzhGclJKSXpOZ1MybGlKZ0JPc1oxbnFJNC11RFptUTBZT0wtX3oxWUc5cS1sclNRVVc4aXBqSlhfcFhZMlB2RWVwQ1ZQTVNLdGJMamZYM01Ya3lkNGhmb3VSMTZ4RWxvM19MMjA5X2pxUTRIT0VkWGFrZlUyd2ppY1ZsZ3l2U01GaFMtaTdWdy0zbi1IRFA?oc=5",
+  "title": "Senators extend point streak to 5 with win over Penguins - Reuters",
+  "tokens": [
+   "extend",
+   "penguins",
+   "point",
+   "reuters",
+   "senators",
+   "streak",
+   "win"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+  "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+  "tokens": [
+   "blames",
+   "congress",
+   "duffy",
+   "flight",
+   "presidents",
+   "prior",
+   "sean",
+   "secretary",
+   "stoppage",
+   "transportation"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations",
+  "title": "Santa school in full swing in London ahead of Christmas celebrations",
+  "tokens": [
+   "ahead",
+   "celebrations",
+   "christmas",
+   "full",
+   "london",
+   "santa",
+   "school",
+   "swing"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
+  "title": "Will Ukraine make territorial concessions for NATO membership?",
+  "tokens": [
+   "concessions",
+   "make",
+   "membership",
+   "nato",
+   "territorial",
+   "ukraine"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGhZTlZ0MDBVVUhqYkJMZmtuTk5OazlET0NjTVN5WDZsWTZPSUJjemowSWtRN09mSUdhUmUtdHRnamVjeHp4U0g2ak1VUW51NEZfaW5hM2c0X25DVkVHeG93Q1hHcW5oUlhUMDN1RFVrSDdFZG01RjdyT1pkQmc4MjJxdzhCUnNHZFhPRE9hQ21oczRBVVl2aVpFQWo?oc=5",
+  "title": "Megaspeed says Alice Huang left the company in August 2025 - Reuters",
+  "tokens": [
+   "2025",
+   "alice",
+   "august",
+   "company",
+   "huang",
+   "left",
+   "megaspeed",
+   "reuters"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5",
+  "title": "SpaceX's Starship nears end of 15th test flight and return-landing attempt - Reuters",
+  "tokens": [
+   "15th",
+   "attempt",
+   "end",
+   "flight",
+   "landing",
+   "nears",
+   "return",
+   "reuters",
+   "spacex's",
+   "starship",
+   "test"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
+  "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
+  "tokens": [
+   "approve",
+   "cancer",
+   "declines",
+   "drug",
+   "fda",
+   "goal",
+   "key",
+   "lung",
+   "misses",
+   "reuters",
+   "summit",
+   "survival",
+   "trial"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYTg5d09JVTFvR2R5VTRRVWZPV3NRcGx4UlBRRHEybkdwV0FvMUViaTJDejNTSkFuSkxZSE9UMnBPRWJLQngzdklQMUZUQndnc2xXemdSTmpqdTdSQjZZRlJLMEQ1akp1eHdqVmczSFI4MFE4SHFSSUNlVmtaVk5mT1dsMkI1YVl4WjdUWXZVak5xY05ISW14eGpOUGd2UDUzY1JvZ1JtSXFlclU4MFhfWg?oc=5",
+  "title": "Trump's judge appointment blitz faces Republican resistance - Reuters",
+  "tokens": [
+   "appointment",
+   "blitz",
+   "faces",
+   "judge",
+   "republican",
+   "resistance",
+   "reuters",
+   "trump's"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMmdReTZrRDhpYjJTc3A1b2lnTG1iOF9mMlhvRHJBalp2WUJvdDE1QmRvX0lvWERla0cxeFdha1dVM283OTB6OEdvZS1XTHlxR2tsUWdTOHZrZTN3alNsaU5jbEF6NWViM0pjSm1veTJmSG1OMGFHVk9wSjYydlhLdlE1S054UWxNUDJLbE1xSDV6ZU94bHBLenRhNnB2OXBwcUlXNDAyUGNXcEFjWngySFlBVzB3NU1KRnlSYk5xV2VXWm1xTk9rdWZ3bm9QQQ?oc=5",
+  "title": "\u2018I don\u2019t know what to do\u2019: student pilot on first solo flight caught in US shutdown - Reuters",
+  "tokens": [
+   "caught",
+   "don",
+   "first",
+   "flight",
+   "know",
+   "pilot",
+   "reuters",
+   "shutdown",
+   "solo",
+   "student"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5",
+  "title": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters",
+  "tokens": [
+   "500",
+   "arrive",
+   "canary",
+   "day",
+   "islands",
+   "migrants",
+   "nearly",
+   "one",
+   "reuters"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+  "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+  "tokens": [
+   "church",
+   "death",
+   "fatal",
+   "jordan",
+   "mass",
+   "men",
+   "sentenced",
+   "shooting",
+   "three"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+  "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+  "tokens": [
+   "camp",
+   "commander",
+   "gaza",
+   "hamas",
+   "israel",
+   "kills",
+   "officials",
+   "strike"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+  "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+  "tokens": [
+   "base",
+   "canadian",
+   "caused",
+   "dies",
+   "fifth",
+   "fire",
+   "injuries",
+   "large",
+   "military",
+   "soldier"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+  "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+  "tokens": [
+   "'trash",
+   "blocks",
+   "closure",
+   "course",
+   "golf",
+   "island'",
+   "judge",
+   "sunday",
+   "trump",
+   "washington"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+  "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+  "tokens": [
+   "'suffering'",
+   "andes",
+   "community",
+   "leo",
+   "pope",
+   "remote",
+   "speaks",
+   "town",
+   "visit"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+  "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+  "tokens": [
+   "'miracle",
+   "collision",
+   "files",
+   "lawsuit",
+   "mississippi'",
+   "orleans",
+   "port",
+   "tanker"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/health/canada-health-care-spending-9.7419956?cmp=rss",
+  "title": "Canada's health-care spending tops $10,000 per person this year. Where is the money going?",
+  "tokens": [
+   "000",
+   "canada's",
+   "care",
+   "going",
+   "health",
+   "money",
+   "per",
+   "person",
+   "spending",
+   "tops",
+   "year"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/world/king-charles-caribbean-visit-soft-power-royals-remembrance-9.7421094?cmp=rss",
+  "title": "Facing 'uncomfortable' questions, King Charles shows the 'soft power' of the Crown",
+  "tokens": [
+   "'soft",
+   "'uncomfortable'",
+   "charles",
+   "crown",
+   "facing",
+   "king",
+   "power'",
+   "questions",
+   "shows"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/carney-apec-boycott-photo-putin-9.7422267?cmp=rss",
+  "title": "Carney says he will not boycott APEC 'family photo' with Putin",
+  "tokens": [
+   "'family",
+   "apec",
+   "boycott",
+   "carney",
+   "photo'",
+   "putin"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/saskatchewan/english-second-language-canada-9.7405885?cmp=rss",
+  "title": "English was the language I built my career in. In Canada, it became something to prove",
+  "tokens": [
+   "became",
+   "built",
+   "canada",
+   "career",
+   "english",
+   "language",
+   "prove",
+   "something"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/canada/newfoundland-labrador/newfoundland-pronunciation-murder-9.7419506?cmp=rss",
+  "title": "A man was once murdered over the pronunciation of 'Newfoundland'",
+  "tokens": [
+   "'newfoundland'",
+   "man",
+   "murdered",
+   "once",
+   "pronunciation"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419?cmp=rss",
+  "title": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
+  "tokens": [
+   "award",
+   "book",
+   "carney",
+   "cites",
+   "encampments",
+   "end",
+   "eyeing",
+   "homelessness",
+   "plan",
+   "she's",
+   "winning"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+  "title": "The tech products we enthusiastically recommend this holiday season",
+  "tokens": [
+   "enthusiastically",
+   "holiday",
+   "products",
+   "recommend",
+   "season",
+   "tech"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+  "title": "Rachelle Hampton won\u2019t admit how long she spent charting the use of \u2018murmur\u2019 in Twilight",
+  "tokens": [
+   "admit",
+   "charting",
+   "hampton",
+   "long",
+   "murmur",
+   "rachelle",
+   "she",
+   "spent",
+   "twilight",
+   "use",
+   "won"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+  "title": "How the world\u2019s fires changed while humanity hit pause",
+  "tokens": [
+   "changed",
+   "fires",
+   "hit",
+   "humanity",
+   "pause",
+   "while",
+   "world"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+  "title": "LG\u2019s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+  "tokens": [
+   "b6e",
+   "budget",
+   "friendly",
+   "off",
+   "oled",
+   "percent",
+   "weekend"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+  "title": "SpaceX returned its Starship rocket on Saturday\u2014but there's a catch",
+  "tokens": [
+   "catch",
+   "returned",
+   "rocket",
+   "saturday",
+   "spacex",
+   "starship",
+   "there's"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "title": "Where was Nvidia\u2019s security team?",
+  "tokens": [
+   "nvidia",
+   "security",
+   "team"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+  "title": "Starling founder Anne Boden plots new AI-powered bank",
+  "tokens": [
+   "anne",
+   "bank",
+   "boden",
+   "founder",
+   "plots",
+   "powered",
+   "starling"
+  ],
+  "date": "2026-11-15"
+ },
+ {
+  "link": "https://www.defenseone.com/policy/2026/11/civilian-office-overseeing-special-operations-forces-could-get-45-million-budget-100-staffers/417234/",
+  "title": "The civilian office overseeing special operations forces could get $45 million budget, 100 staffers",
+  "tokens": [
+   "100",
+   "budget",
+   "civilian",
+   "forces",
+   "get",
+   "million",
+   "office",
+   "operations",
+   "overseeing",
+   "special",
+   "staffers"
+  ],
+  "date": "2026-11-15"
  }
 ]
