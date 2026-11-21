@@ -1,0 +1,429 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin><link href='https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap' rel='stylesheet'>
+<title>Brief, 21 November 2026</title>
+<style>
+:root{
+  --paper:#F2F3F4; --ink:#101112; --ink-mid:#5B5F63; --ink-quiet:#8D9296;
+  --rule:#D6D8DA; --placeholder:#E2E4E6; --accent:#C8102E;
+  --col:3;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0; background:var(--paper); color:var(--ink);
+  font-family:Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size:14px; line-height:1.45; -webkit-font-smoothing:antialiased}
+img{max-width:100%}
+a{color:inherit; text-decoration:none}
+.wrap{max-width:1280px; margin:0 auto; padding:36px 28px 96px}
+
+/* masthead ---------------------------------------------------------------- */
+.mast{display:flex; align-items:flex-start; justify-content:space-between;
+  gap:24px; margin-bottom:44px}
+.mark{font-size:44px; font-weight:800; letter-spacing:-.03em; line-height:.95;
+  margin:0; color:var(--ink)}
+.mast-right{text-align:right; padding-top:6px}
+.mast-date{font-size:11px; font-weight:500; letter-spacing:.06em;
+  color:var(--ink-quiet); margin:0 0 2px}
+.mast-tally{font-size:11px; font-weight:400; color:var(--ink-quiet); margin:0 0 8px}
+nav{display:flex; justify-content:flex-end; align-items:baseline; gap:14px;
+  font-size:11px; font-weight:500; letter-spacing:.06em}
+nav a{color:var(--ink-mid); border-bottom:1px solid var(--rule); padding-bottom:1px}
+nav a:hover{color:var(--ink); border-bottom-color:var(--ink)}
+nav .sp{width:2px}
+
+/* section header ---------------------------------------------------------- */
+.sec{margin-bottom:52px}
+.sec-head{display:flex; align-items:center; gap:12px; margin:0 0 14px}
+.sec-badge{flex:0 0 auto; width:28px; height:28px; border-radius:50%;
+  background:var(--ink); color:var(--paper); display:flex; align-items:center;
+  justify-content:center; font-size:12px; font-weight:700; text-transform:uppercase}
+.sec-title{font-size:34px; font-weight:700; letter-spacing:-.02em; line-height:1;
+  margin:0; text-transform:uppercase}
+.sec-rule{height:1px; background:var(--rule); margin:0 0 0}
+.sec-gist{font-size:12px; color:var(--ink-mid); margin:12px 0 0; max-width:62ch}
+
+/* card grid --------------------------------------------------------------- */
+.grid{display:grid; grid-template-columns:repeat(var(--col),1fr); margin-top:0}
+.card{display:flex; flex-direction:column; padding:22px 20px 24px;
+  border-right:1px solid var(--rule); border-bottom:1px solid var(--rule);
+  min-width:0}
+.card:nth-child(3n){border-right:none}
+.card-hl{font-size:14px; font-weight:600; line-height:1.25; letter-spacing:-.005em;
+  margin:0 0 8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical;
+  overflow:hidden; border-bottom:1px solid transparent}
+.card-hl:hover{border-bottom-color:var(--ink)}
+.card-sum{font-size:12px; font-weight:400; line-height:1.4; color:var(--ink-mid);
+  margin:0 0 18px; display:-webkit-box; -webkit-line-clamp:2;
+  -webkit-box-orient:vertical; overflow:hidden}
+.card-meta{display:flex; align-items:flex-end; justify-content:space-between;
+  gap:10px; margin-top:auto; margin-bottom:12px}
+.tags{display:flex; align-items:center; gap:6px; flex-wrap:wrap; min-width:0;
+  font-size:10px; font-weight:500; letter-spacing:.05em; color:var(--ink-quiet);
+  padding-bottom:5px}
+.dot{flex:0 0 auto; width:14px; height:14px; border-radius:50%; background:var(--ink);
+  color:var(--paper); display:flex; align-items:center; justify-content:center;
+  font-size:8px; font-weight:700; text-transform:uppercase}
+.tags .run{color:var(--ink-mid)}
+.tags .gate{color:var(--ink-mid)}
+.card-n{flex:0 0 auto; font-size:32px; font-weight:500; line-height:1;
+  letter-spacing:-.02em; font-variant-numeric:tabular-nums; color:var(--ink-quiet)}
+.card-n.mid{color:var(--ink)}
+.card-n.hot{color:var(--accent)}
+.card-media{position:relative; width:100%; aspect-ratio:4/3;
+  background:var(--placeholder); overflow:hidden}
+.card-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+
+/* by outlet --------------------------------------------------------------- */
+.cols{display:grid; grid-template-columns:repeat(var(--col),1fr)}
+.col{padding:22px 20px 24px; border-right:1px solid var(--rule);
+  border-bottom:1px solid var(--rule); min-width:0}
+.col:nth-child(3n){border-right:none}
+.col h3{font-size:12px; font-weight:700; letter-spacing:.06em; margin:0 0 4px;
+  text-transform:uppercase}
+.col .lede{font-size:11px; color:var(--ink-quiet); margin:0 0 12px; line-height:1.35}
+.col ul{list-style:none; margin:0; padding:0}
+.col li{margin-bottom:10px; font-size:13px; font-weight:500; line-height:1.3}
+.col li a{border-bottom:1px solid transparent}
+.col li a:hover{border-bottom-color:var(--ink)}
+
+/* occasional section ------------------------------------------------------ */
+/* Inverted on purpose. It appears only when a research publisher posts, so it
+   should be impossible to miss and impossible to confuse with a daily block. */
+.sec.occ{background:var(--ink); color:var(--paper); padding:26px 24px 10px;
+  margin-left:-24px; margin-right:-24px}
+.sec.occ .sec-badge{background:var(--paper); color:var(--ink)}
+.sec.occ .sec-title{color:var(--paper)}
+.sec.occ .sec-rule{background:#3A3D40}
+.sec.occ .sec-gist{color:#A8ACB0}
+.occ-list{margin-top:18px}
+.occ-item{display:flex; gap:18px; padding:18px 0; border-bottom:1px solid #3A3D40}
+.occ-item:last-child{border-bottom:none}
+.occ-media{flex:0 0 172px; aspect-ratio:3/2; background:#2A2D30;
+  position:relative; overflow:hidden}
+.occ-media img{position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; display:block}
+.occ-body{flex:1; min-width:0}
+.occ-hl{display:block; font-size:17px; font-weight:600; line-height:1.25;
+  letter-spacing:-.01em; margin:0 0 6px; color:var(--paper);
+  border-bottom:1px solid transparent}
+.occ-hl:hover{border-bottom-color:var(--paper)}
+.occ-sum{font-size:13px; line-height:1.45; color:#A8ACB0; margin:0 0 8px;
+  max-width:64ch}
+.occ-meta{font-size:10px; font-weight:500; letter-spacing:.05em; color:#8A8E92;
+  margin:0; display:flex; align-items:center; flex-wrap:wrap}
+.occ-meta .sep{display:inline-block; width:3px; height:3px; border-radius:50%;
+  background:#5A5E62; margin:0 8px}
+.sec.occ a:focus-visible{outline-color:var(--paper)}
+
+footer{margin-top:56px; padding-top:16px; border-top:1px solid var(--rule);
+  font-size:11px; color:var(--ink-quiet); max-width:72ch; line-height:1.5}
+
+a:focus-visible,.card-hl:focus-visible{outline:2px solid var(--accent);
+  outline-offset:2px; border-bottom-color:transparent}
+
+@media (max-width:1023px){
+  :root{--col:2}
+  .card:nth-child(3n),.col:nth-child(3n){border-right:1px solid var(--rule)}
+  .card:nth-child(2n),.col:nth-child(2n){border-right:none}
+  .mark{font-size:36px}
+  .sec-title{font-size:28px}
+}
+@media (max-width:767px){
+  :root{--col:1}
+  .wrap{padding:24px 16px 72px}
+  .mast{flex-direction:column; gap:14px}
+  .mast-right{text-align:left; padding-top:0}
+  nav{justify-content:flex-start}
+  .mark{font-size:34px}
+  .sec-title{font-size:24px}
+  .sec-badge{width:24px; height:24px; font-size:11px}
+  .sec.occ{margin-left:-16px; margin-right:-16px; padding:22px 16px 8px}
+  .occ-item{flex-direction:column; gap:12px}
+  .occ-media{flex:0 0 auto; width:100%; aspect-ratio:16/9}
+  .occ-hl{font-size:16px}
+  .card,.col{padding:20px 0 22px; border-right:none}
+  .card:nth-child(3n),.card:nth-child(2n),
+  .col:nth-child(3n),.col:nth-child(2n){border-right:none}
+  .card-n{font-size:28px}
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{transition:none!important; animation:none!important;
+    scroll-behavior:auto!important}
+}
+</style></head><body><div class='wrap'>
+<header class='mast'>
+<h1 class='mark'>Alisha&#x27;s newsroom</h1>
+<div class='mast-right'>
+<p class='mast-date'>Saturday, 21 November 2026</p>
+<p class='mast-tally'>392 stories in, 24 shown</p>
+<nav><a href='2026-11-20.html'>previous</a><span class='sp'></span><a href='archive.html'>archive</a></nav>
+</div></header>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>T</span><h2 class='sec-title'>Top stories</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss'>Man convicted of starting Palisades fire in Los Angeles</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>B</span><span>BBC News</span></span>
+<span class='card-n ' title='4 outlets covering this: BBC News, Deutsche Welle, NPR, PBS NewsHour'>4</span>
+</div>
+<div class='card-media'><img src='https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg' alt='Man convicted of starting Palisades fire in Los Angeles' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEdyaGtabnZRdHhGLWIzeGx0MkhleGZEYlVpTmFySVFYdlUtd3JfamE1YjlXQmwzWW1xTE83UzJRZ2lra1pEWmFsTXZMbDRlUm9CNTllRHdXR0VWRExIaTlQanhkTDFaU2RjU2dCYkI3WDd2WElmSlFfY1pwVkdxVEw0cDBYNGEwTGFLUGFqUTZPMFIxU0Y4Z25pREJEai16RGNfX3JlWXZOZ05hT3liNUJnU2stVlQ5RV9NZmVBUmhlQQ?oc=5'>US denies Iranian account that missile damaged F-16 over Gulf - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWVg0WXpZcmhwN081dnZKanFKZHhJM1c4a3BObXFaUW9mUF9Vc1ZYdU1YWi1udmx4RGhLcnhqYTI2ZHNYWWJNUTZLMGI1WEJTa2YzZmZPV3M5NUlpVTVmbW5wM0ZDUk96MFh6QW5tU2pVMHo5dXFQalo5b3NWZmNSaWUzS3FQR3N1WnF0S0NiX2Q3NHZyRTYwNGY4bFJ3dlp4akp3dTdNcHZsWnc?oc=5'>Canada defense minister says no shift in US military ties - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5'>How Grand Theft Auto VI&#x27;s launch surpassed expectations - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span><span class='run'>day 5</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lrUklOU0NNN255SjN3SXdkR01FdDRYM0FiUzVkYVZtZW1ZR1dRVTBsUkx1MnoxeEhOTURCaEF2OHpLdU1fcVgzcXVZUGFaa2ZCMUNJbWo2UHk0ODNwYW4waUM1R3RvaDY2RFo0OXRiVUx6M29US3M1eHdUMDA0R3FfOVlUUlV5NzlNRVhFQ1JJZTNWN1J5S2pYTl9mMnZmNjBQNVFYam9RU1NRSng5SEpDMGhZNzZvdk5rdzl2aw?oc=5'>Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/d/d3/Volodymyr_Zelensky_2022_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMitgFBVV95cUxOakRLWUQ3Y19HSVBpZWUxSjdCVklSaUllcFh2M013UGJ4ZnhKaE52X25xX0ZaV1RnUlNSbkI3U3p3NmdneUY1ME9XaGNnQ29ZSmNmcTNHMVl5OHlTQng3ODVTM1J6bkFEeDNNSE5GX3VXTWkxTnNDbE5GQzlMRW5xUzhfZWN6emNfTXhOZHpIZjBoeDRBRW9LbF9JckozMV81ZU0ya1F4dUFMREFUVk1CWXVPNWRnUQ?oc=5'>Perez announces record revenue for Real, UEFA to trial free viewing in India - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>C</span><h2 class='sec-title'>Canada</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss'>Allies are buying Canadian underwater surveillance drones. Canada is &#x27;not there yet&#x27;</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC News, CBC Politics'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B' alt='Allies are buying Canadian underwater surveillance drones. Canada is &#x27;not there yet&#x27;' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss'>Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC News, CBC Politics'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/13456d71-5dd1-46ed-9028-7f32aa838115,1794510200404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C6720%2C3780%29%3B' alt='Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss'>Trump says he&#x27;s working on a &#x27;fair&#x27; trade deal with Canada</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='2 outlets covering this: CBC News, CBC Politics'>2</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B' alt='Trump says he&#x27;s working on a &#x27;fair&#x27; trade deal with Canada' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss'>Mexico detains top cartel boss El Chapo Isidro, one of FBI&#x27;s 10 most wanted fugitives</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CBC News</span></span>
+<span class='card-n ' title='1 outlets covering this: CBC News'>1</span>
+</div>
+<div class='card-media'><img src='https://i.cbc.ca/ais/5d29936d-e1ea-4620-8ed7-74d828f55939,1795278090742/full/max/0/default.jpg?im=Crop%2Crect%3D%2823%2C0%2C3665%2C2061%29%3B' alt='Mexico detains top cartel boss El Chapo Isidro, one of FBI&#x27;s 10 most wanted fugitives' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>S</span><h2 class='sec-title'>Startups and venture</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRS1RakZnNDMzSzNQMW5Yb3BfckxrRE5DQnlYWFRpVkRKUGc2SmtEU241dGtTYjIzY3ZvUktrOWVHbkFxanJ2M21sc2dxaFFTdDljaTZtaV9yWUN4LThySTQtdmpBUEZfQjF3a29WVjJGRnRjdXdGa1R0Y2kyclZRNkhLMEtnVnppczRZOGRfdi04emFPWTNtVXdpYmRvUXFkdzVYUUhIYjZrWXNzVllsNE1JNzdxd0U2ZEhGSnVwMzBfQQ?oc=5'>Databricks in early talks to raise funds at $225 billion valuation, WSJ reports - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/f/fd/DatabricksBooth.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='Databricks in early talks to raise funds at $225 billion valuation, WSJ reports - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkJkSzhOU0N6b2RzbFVVSXBxWUF1SElaZDVUSk52cFFkV1k1RXNKeGhmNTd2OFgwYnR0RFd5YXpHT25oRjNKVmFRYXRpWlNfdndhZjVjYnd2YjMyMkl5SGxlMHZMajlDbkFhdF9RMmpuSGxEQk9VT2JzdGx0Nmo5TnJ1ODU1T2dfN3ZXQnFIdmFYbThKOU5YbjVFN0h6eWJsdzJpNkQ5VWpDQUhBeGN5VTVpSkRfdk80ZDBQTmE0YkVIbjZK?oc=5'>EXCLUSIVE: Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/8/8a/Purified_lithium_in_an_ampoule_under_argon%2C_dark_background.png?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='EXCLUSIVE: Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/'>Is selling an AI version of your face to this microdrama startup the future of Hollywood?</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>TechCrunch</span></span>
+<span class='card-n ' title='1 outlets covering this: TechCrunch'>1</span>
+</div>
+<div class='card-media'><img src='https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200' alt='Is selling an AI version of your face to this microdrama startup the future of Hollywood?' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure'>Can Anthropic afford to put safety first?</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Verge</span><span class='run'>day 3</span></span>
+<span class='card-n ' title='1 outlets covering this: The Verge'>1</span>
+</div>
+<div class='card-media'><img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100' alt='Can Anthropic afford to put safety first?' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks'>Harbinger is building the unsexy EVs that keep the economy moving</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>T</span><span>The Verge</span></span>
+<span class='card-n ' title='1 outlets covering this: The Verge'>1</span>
+</div>
+<div class='card-media'><img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100' alt='Harbinger is building the unsexy EVs that keep the economy moving' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>B</span><h2 class='sec-title'>Big tech</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5'>Oracle says OpenAI infrastructure deal is fully funded after final capital raise - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'><img src='https://upload.wikimedia.org/wikipedia/commons/f/fa/John_William_Waterhouse_-_Consulting_the_Oracle_-_Christie%27s.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=api&amp;utm_content=original' alt='Oracle says OpenAI infrastructure deal is fully funded after final capital raise - Reuters' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2wwei1qUGxxX2FHNkxpM3FKeGtqQmtMUW81alJUTmppd1ZVSUtaa0pHamc5ZUZkUDFCYWt6bnpuZG1iZW12bkpLR3VKemFVNVMtcUJEX0FrR1FGSGx3dFJ1Qi1LaG1zS2x5NkRlei1XbEtldlhIcnFpQ04waWl1SkdBdWM3ek4wNEdDbzFMdUEteWNhd0ZmSjZJblBJdGN3Z08xcUJYU0RsSks1VDBwWGtFQ0p4STA4czktbmVzbW41N29ZUGVWUnlsSzM?oc=5'>Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees - Reuters</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>R</span><span>Reuters World</span></span>
+<span class='card-n ' title='2 outlets covering this: Reuters Technology, Reuters World'>2</span>
+</div>
+<div class='card-media'></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html'>Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>C</span><span>CNBC</span></span>
+<span class='card-n ' title='1 outlets covering this: CNBC'>1</span>
+</div>
+<div class='card-media'><img src='https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&amp;w=1920&amp;h=1080' alt='Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china'>Bessent says no further restrictions are needed for Nvidia chip exports to China</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>P</span><span>PBS NewsHour</span><span class='run'>day 6</span></span>
+<span class='card-n ' title='1 outlets covering this: PBS NewsHour'>1</span>
+</div>
+<div class='card-media'><img src='https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-20T200556Z_1145765515_RC2UROAU648C_RTRMADP_3_USA-TRUMP-1024x683.jpg' alt='Bessent says no further restrictions are needed for Nvidia chip exports to China' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety'>Anthropic says it will put humanity first. Will its IPO change that?</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>N</span><span>NPR</span><span class='run'>day 3</span></span>
+<span class='card-n ' title='1 outlets covering this: NPR'>1</span>
+</div>
+<div class='card-media'><img src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F31%2F72%2F1359b5e7441995e3b5ba9e5c6d90%2Fgettyimages-2305894185.jpg' alt='Anthropic says it will put humanity first. Will its IPO change that?' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>D</span><h2 class='sec-title'>Defense</h2></div><div class='sec-rule'></div>
+<div class='grid'>
+<article class='card'>
+<a class='card-hl' href='https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss'>Russian missiles hit Poland: What happened, and could NATO respond?</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>A</span><span>Al Jazeera</span><span class='run'>day 2</span></span>
+<span class='card-n ' title='1 outlets covering this: Al Jazeera'>1</span>
+</div>
+<div class='card-media'><img src='https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01618380-1795252611.jpg?resize=1920%2C1440' alt='Russian missiles hit Poland: What happened, and could NATO respond?' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.france24.com/en/russia-tests-nato-s-eastern-defences'>Russia tests NATO’s eastern defences</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>F</span><span>France 24</span><span class='run'>day 5</span></span>
+<span class='card-n ' title='1 outlets covering this: France 24'>1</span>
+</div>
+<div class='card-media'><img src='https://s.france24.com/media/display/3cf13c10-e5a7-11f1-ab89-ebb478925cf0/w:1024/p:16x9/EN-20261121-130402-131505-CS.jpg' alt='Russia tests NATO’s eastern defences' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland'>Drone attack sets Russian cargo ship ablaze in Gulf of Finland</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>F</span><span>France 24</span></span>
+<span class='card-n ' title='1 outlets covering this: France 24'>1</span>
+</div>
+<div class='card-media'><img src='https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg' alt='Drone attack sets Russian cargo ship ablaze in Gulf of Finland' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+<article class='card'>
+<a class='card-hl' href='https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&amp;at_campaign=rss'>US declassifies more UFO footage filmed in the Middle East</a>
+<div class='card-meta'>
+<span class='tags'><span class='dot' aria-hidden='true'>B</span><span>BBC News</span></span>
+<span class='card-n ' title='1 outlets covering this: BBC News'>1</span>
+</div>
+<div class='card-media'><img src='https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/9fdeb250-e537-11f1-99b6-a35a62fa4264.jpg' alt='US declassifies more UFO footage filmed in the Middle East' loading='lazy' referrerpolicy='no-referrer' onerror="this.style.display='none'"></div>
+</article>
+</div></section>
+<section class='sec'>
+<div class='sec-head'><span class='sec-badge' aria-hidden='true'>B</span><h2 class='sec-title'>By outlet</h2></div><div class='sec-rule'></div><p class='sec-gist'>What each newsroom is running that did not make a block above.</p>
+<div class='cols'>
+<div class='col'><h3>Reuters</h3>
+<ul>
+<li><a href='https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5'>Anthropic&#x27;s Tom Brown plans to donate to Trump&#x27;s investment accounts for kids, source says - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3RQSllqVmJZWmJDT1FsYzFoM0tsWmx3YUF2eGlLSXZDWmYzdXRuYXV2VmhWLXpsS01fTVVub25oVS1FMmJVTEhzSzd2XzZKMmkxU2o5dk9aVVN4WE9mdDNGbmhyc1pQYVljUHdudXJuckxKQ3ZpNThadERoSkoyMG5iaGRTblFBeUcxcVo3S1IzNE9vU0Z2Ukk0a1dIaGVpd1ZFcy1sSl9qa2NZRmhxeXR0RmN0ZDBmSjFqeXpOdmtWM2JjbG90MkVR?oc=5'>GTCR explores potential takeover of payments firm Global Payments - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hEcEp0SWhZNmU0eXhJUEU3ekVWWkQ3SVp1ZWlQeUZPRVBKUkx6R08yMkVGSWo5S3JWelR4STNQN2pCanZjaTE2ZWl0anlHQjJjWExCVFBVaVF4Uy1HNEZrRWZoNnVhVmx0WFBQNUg5cTA2UEpxZHpHcTRZSXctTU9jMHhPclFTdUQ3NktmbkJNS203N0dVeHA4R1pTRFRieHY3NnZWNA?oc=5'>Trump says US to penalize firms building data centers abroad - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ19DTDNqa18wN2l3QWdvckc3UXYwZWhlRlpFaUVpRFBtdlBWRjY2WC1mTEdSbHIwbmxTcnNTQ2tkci04ZFoyRjlxTjQtdHh1a3lETGN2TGtWYmY3Ty1ibFZOQk1zUXJNcHE4ZWVXNkRSdDFwY21WNC1BSE1GeWdQMkxpRHQ0Yjd1cFVXNmNuRmFveUIwOW9iTDA4Z3BLc3lVMnVXMkpoSEllVEswZncxZEJVZ3N2ODhYOUs1YlkwZmVnNnhDUWVUSmdNVQ?oc=5'>US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEhScEk2NU5wVFRpcDFmSXdjTko1Szc1YXM2Z0d0S3lvX2NTa0RVVTBGRkxROHA3UjdDOHR0Q3BmX0c4YzZka0Z2NTJrMWFVTU9NODNic1IxUjFxSkFLcGk1d29VZUI5TmJwVV82UV9xSFZEQm1KZTN4QlR6aldKaWZvZG5ITlRDVkM2RDNLVV8tSi1yTnBaT3hOXzFtRF9BdjNDZUVlbXdrMkVkUUk5cDZzaThIZw?oc=5'>Apollo, Goldman lead $44 billion SpaceX GPU debt financing - Reuters</a></li>
+<li><a href='https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS0J3SExfSVZDcXRXb2wtcElESFhiam1fWTR4MUh0VGIzQU9iQjRkamVnWXZMaFI2cVRyNmFxYU40dmJBdWFOZTRuZVlPcFAzXzVhanZPckVpVXdQRlE0YkE3bkhfZk1ld2o5SDhYcmg0bUMwTklpdV9Qc3Q2Sjloajd0NzdzX0JhYjZvY0NmM2hMRnhLUmd4VzZxLUlsTWZoMmRFNVVwTU5uZ1lSVlp6MlpleTVJd2FqT1Q2d1NyaHYxU0lNSG1aWg?oc=5'>EXCLUSIVE: Denmark pushes EU to tighten travel curbs on Russians after foiled plot - Reuters</a></li>
+</ul></div>
+<div class='col'><h3>BBC</h3>
+<ul>
+<li><a href='https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss'>Zelensky says Crimean Bridge strikes &#x27;fair response&#x27; as he meets UK&#x27;s Streeting</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss'>Fight over fossil fuels leaves COP31 climate talks in deadlock</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss'>FBI reportedly investigating apparent hack of its criminal database</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&amp;at_campaign=rss'>Mexican drug lord on FBI&#x27;s 10 most wanted list arrested in shoot-out</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss'>French police officers sentenced for beating of music producer Michel Zecler</a></li>
+<li><a href='https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss'>Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper</a></li>
+</ul></div>
+<div class='col'><h3>CBC</h3>
+<ul>
+<li><a href='https://www.cbc.ca/news/health/lancet-retraction-motherisk-gideon-koren-study-codeine-breast-milk-9.7430487?cmp=rss'>A Canadian study pinned a baby&#x27;s death on codeine passed through breast milk. 20 years on, it&#x27;s been retracted</a></li>
+<li><a href='https://www.cbc.ca/news/science/climate-lawsuit-emissions-constitution-federal-court-9.7430780?cmp=rss'>Canada&#x27;s first climate lawsuit to go to trial has wrapped up hearings. Many more are underway</a></li>
+<li><a href='https://www.cbc.ca/news/politics/us-canada-interim-deal-tariffs-senator-long-term-9.7430913?cmp=rss'>U.S. senator says Canada should make interim tariff agreement, let Congress &#x27;legislate&#x27; long-term deal</a></li>
+<li><a href='https://www.cbc.ca/news/business/bell-agentic-cyber-attack-9.7430468?cmp=rss'>Bell says it&#x27;s investigating cyberattack that led to potential theft of business customer data</a></li>
+<li><a href='https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722?cmp=rss'>NDP makes plea for stronger Indigenous rights protections in major projects bill</a></li>
+<li><a href='https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss'>The pros, cons and risks of using AI as your personal assistant</a></li>
+</ul></div>
+<div class='col'><h3>TechCrunch</h3>
+<ul>
+<li><a href='https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/'>Here are the top AI agents that can live in your text messages</a></li>
+<li><a href='https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview'>John Roberts, the voice of Linda Belcher, is just happy to finish a thing</a></li>
+<li><a href='https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/'>“Race realism” isn’t realistic, and it isn’t good science</a></li>
+<li><a href='https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale'>Amazon’s first digital photo frame is up to 50 percent off for Black Friday</a></li>
+<li><a href='https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/'>Trump FCC declares California isn&#x27;t allowed to enforce phone service rules</a></li>
+<li><a href='https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/'>Alaska, your next governor is a Wikipedia nerd</a></li>
+</ul></div>
+<div class='col'><h3>Venture</h3>
+<ul>
+<li><a href='https://betakit.com/dominion-dynamics-taps-canadian-and-nato-partners-for-autonomous-wingman-project/'>Dominion Dynamics taps Canadian and NATO partners for autonomous wingman project</a></li>
+<li><a href='https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/'>The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More</a></li>
+<li><a href='https://betakit.com/canada-to-appoint-us-based-financial-data-exchange-to-set-technical-standards-for-open-banking/'>Canada appoints US-based Financial Data Exchange to set technical standards for open banking</a></li>
+<li><a href='https://sifted.eu/articles/hoplite-raise-stripe-founders/'>Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m</a></li>
+</ul></div>
+<div class='col'><h3>Defense</h3>
+<ul>
+<li><a href='https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/'>Senate gearing up to investigate Ukraine’s access to Starshield</a></li>
+<li><a href='https://www.defenseone.com/threats/2026/11/military-lacks-munitions-plan/417390/'>The military lacks an ‘overarching plan’ to improve munition stockpiles, partly because it’s no one’s job</a></li>
+<li><a href='https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/'>Europeans, with Ukraine’s help, brace for more Russian attacks</a></li>
+<li><a href='https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/'>Air Force issues massive $16B contract for engine work to dozens of companies</a></li>
+<li><a href='https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/'>This counter-UAS system senses deep inside neighboring borders to detect and defeat drones</a></li>
+<li><a href='https://www.defenseone.com/threats/2026/11/new-guide-lays-out-how-army-installations-can-coordinate-local-agencies-disaster-strikes/417377/'>New guide lays out how Army installations can coordinate with local agencies before disaster strikes</a></li>
+</ul></div>
+</div></section>
+<footer>The number on each card is how many independent outlets are covering that story. Nothing is ranked by clicks, because no one publishes those.</footer></div></body></html>
